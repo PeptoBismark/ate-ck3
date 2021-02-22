@@ -50,28 +50,118 @@ e_borealia = {
 
 k_denendeh = {
 	pattern = "pattern_diagonal_split_02.dds"
-	color1 = "white"
-	color2 = "white"
+	color1 = "red"
+	color2 = "green"
 	
 	colored_emblem = {
-		texture = "ce_per_bend_nebuly.dds"
-		color1 = "red"
-		color2 = "green"
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+		texture = "ce_billet.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		mask = { 2 }
+		instance = { position = { 0.10 0.00 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.30 0.00 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.50 0.00 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.70 0.00 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.90 0.00 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.00 0.20 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.20 0.20 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.40 0.20 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.60 0.20 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.80 0.20 } scale = { 0.15 0.15 }  }
+		instance = { position = { 1.00 0.20 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.10 0.40 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.30 0.40 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.50 0.40 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.70 0.40 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.90 0.40 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.00 0.60 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.20 0.60 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.40 0.60 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.60 0.60 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.80 0.60 } scale = { 0.15 0.15 }  }
+		instance = { position = { 1.00 0.60 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.10 0.80 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.30 0.80 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.50 0.80 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.70 0.80 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.90 0.80 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.00 1.00 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.20 1.00 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.40 1.00 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.60 1.00 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.80 1.00 } scale = { 0.15 0.15 }  }
+		instance = { position = { 1.00 1.00 } scale = { 0.15 0.15 }  }
 	}
 	colored_emblem = {
-		texture = "ce_ermine_pattern.dds"
-		color1 = "white"
-		color2 = "white"
-		mask = { 2 }
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+		texture = "ce_waves_03.dds"
+		color1 = "red"
+		color2 = "red"
+		instance = { position = { 0.55 0.45 } scale = { 1.0 1.0 }  }
 	}
 	colored_emblem = {
 		texture = "ce_wolf_head.dds"
 		color1 = "white"
 		color2 = "white"
-		mask = { 1 }
-		instance = { position = { 0.66 0.33 } scale = { 0.55 0.55 }  }
+		instance = { position = { 0.68 0.5 } scale = { 0.5 0.5 }  }
+	}
+	colored_emblem = {
+		texture = "ce_chief_indented_alpha.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.5 0.40 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_ordinary_fess_5.dds"
+		color1 = "blue"
+		color2 = "blue"
+		instance = { position = { 0.5 0.1 } scale = { 1.0 0.55 }  }
+	}
+	colored_emblem = {
+		texture = "ce_waves_04.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.5 0.1 } scale = { 1.0 1.0 }  }
+	}
+}
+
+d_dogrib = {
+	pattern = "pattern_solid.dds"
+	color1 = "blue"
+	color2 = "blue"
+	
+	colored_emblem = {
+		texture = "ce_circle_mask.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.4 } scale = { 0.4 0.4 } }
+	}
+	colored_emblem = {
+		texture = "ce_waves_03.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } rotation = -45 }
+	}
+	colored_emblem = {
+		texture = "ce_triangle_eq_random.dds"
+		color1 = "red"
+		color2 = "red"
+		instance = { position = { 0.5 0.8 } scale = { 0.25 0.2 } }
+		instance = { position = { 0.25 0.8 } scale = { 0.25 0.2 } }
+		instance = { position = { 0.75 0.8 } scale = { 0.25 0.2 } }
+	}
+	colored_emblem = {
+		texture = "ce_tamgha_oghuz_yazir.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.5 0.75 } scale = { 0.35 -0.35 } }
+		instance = { position = { 0.25 0.75 } scale = { 0.35 -0.35 } }
+		instance = { position = { 0.75 0.75 } scale = { 0.35 -0.35 } }
+	}
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.8 0.2 } scale = { 0.25 0.25 } }
 	}
 }
 
