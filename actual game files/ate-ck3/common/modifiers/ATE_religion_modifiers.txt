@@ -255,3 +255,21 @@ rucio_moro_not_blessing = {
 	icon = magic_negative
 	domain_tax_mult = -0.05
 }
+
+used_machete_sayona_modifier = {
+	icon = magic_positive
+}
+
+blessing_of_light = {
+	icon = magic_positive
+	health = 3
+}
+
+curse_of_fire = {
+	icon = magic_negative
+	health = -3
+}
+
+used_machete_bolefuego_modifier = {
+	icon = magic_positive
+}

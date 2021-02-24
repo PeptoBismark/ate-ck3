@@ -23,19 +23,24 @@ decision_has_court_chaplain_same_gender_female = {
 }
 
 deliverance_ministry_timing = {
-	first = deliverance_ministry_timing
-	first_not = not_deliverance_ministry_timing
+	first = deliverance_ministry_timing_up
+	first_not = NOT_deliverance_ministry_timing_up
 }
 
 deliver_from_evil_interaction_has_been_delivered = {
-	first_not = deliver_from_evil_interaction_has_been_delivered
+	first_not = deliver_from_evil_has_been_delivered
 }
 
 machete_sayona_timing = {
-	first = machete_sayona_timing
-	first_not = not_machete_sayona_timing
+	first = MACHETE_SAYONA_TIMING_UP
+	first_not = NOT_MACHETE_SAYONA_TIMING_UP
 }
 
 machete_sayona_interaction_has_been_bewitched = {
 	first_not = machete_sayona_interaction_has_been_bewitched 
+}
+
+machete_bolefuego_timing = {
+	first = MACHETE_BOLEFUEGO_TIMING_UP
+	first_not = NOT_MACHETE_BOLEFUEGO_TIMING_UP	
 }

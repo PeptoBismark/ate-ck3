@@ -430,8 +430,8 @@ ate_religious_interaction.104 = { #You Lay Hands
 		name = ate_religious_interaction.104.a
 		scope:actor = {
 			add_character_modifier = {
-					modifier = used_lay_on_hands_modifier
-					years = 2
+				modifier = used_lay_on_hands_modifier
+				years = 2
 			}
 		}
 		scope:recipient = {
@@ -1262,6 +1262,10 @@ ate_religious_interaction.123 = { #Sayona Love Spell Success
 		character = scope:actor
 		animation = happiness
 	}
+	right_portrait =  { 
+		character = scope:recipient
+		animation = love
+	}
 	option = {
 		name = ate_religious_interaction.123.a
 		scope:recipient = {
@@ -1312,12 +1316,110 @@ ate_religious_interaction.124 = { #Sayona Love Spell Fail
 		character = scope:actor
 		animation = sadness
 	}
+	right_portrait =  { 
+		character = scope:recipient
+		animation = dismissal
+	}
 	option = {
 		name = ate_religious_interaction.124.a
 		scope:recipient = {
 			add_opinion = {
 				target = scope:actor
 				modifier = sayona_disdain
+			}
+		}
+	}
+}
+
+ate_religious_interaction.125 = { #Bolefuego Health Spell
+	type = character_event
+	title = ate_religious_interaction.125.t
+	desc = ate_religious_interaction.125.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = personality_zealous
+	}
+	option = {
+		name = ate_religious_interaction.125.a
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_interaction.126
+				days = 7
+			}		
+		}
+	}
+	option = {
+		name = ate_religious_interaction.125.b
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_interaction.127
+				days = 7
+			}		
+		}
+	}
+}
+
+ate_religious_interaction.126 = { #Bolefuego Health Spell Blessing
+	type = character_event
+	title = ate_religious_interaction.126.t
+	desc = ate_religious_interaction.126.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = personality_zealous
+	}
+	option = {
+		name = ate_religious_interaction.126.a
+		scope:recipient = {
+			add_character_modifier = {
+				modifier = blessing_of_light
+				years = 1
+			}
+		}
+		hidden_effect = {
+			scope:recipient = {
+				send_interface_toast = {
+					title = ate_religious_interaction.126.a_blessing
+					left_icon = scope:actor
+				}
+			}
+		}
+	}
+}
+
+ate_religious_interaction.127 = { #Bolefuego Health Spell Curse
+	type = character_event
+	title = ate_religious_interaction.127.t
+	desc = ate_religious_interaction.127.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = personality_zealous
+	}
+	option = {
+		name = ate_religious_interaction.127.a
+		scope:recipient = {
+			add_character_modifier = {
+				modifier = curse_of_fire
+				years = 1
+			}
+		}
+		hidden_effect = {
+			scope:recipient = {
+				send_interface_toast = {
+					title = ate_religious_interaction.127.a_curse
+					left_icon = scope:actor
+				}
 			}
 		}
 	}
