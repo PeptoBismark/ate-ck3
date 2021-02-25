@@ -76,6 +76,6 @@
  machete_florentino_interaction_has_been_bewitched_up:0 "This character has been affected by a power spell recently"
  used_machete_florentino_modifier:0 "Conjured Power Spell Recently"
  used_machete_florentino_modifier_desc:0 "This character has recently used up their favor with Florentino Cazadiablos, casting a power spell."
- machete_florentino_interaction.tt_modifiers:0 "#X You can only cast a power spell once every 20 years#!\n\n#N The spell's effect is greatly reduced against heretics and heathens#!"
+ machete_florentino_interaction.tt_modifiers:0 "Being #P Zealous#! or being #N Cynical#! affects the effectivity of the spell, modifying the chances to get a #P Positive Modifier#! at all.\n\n#X You can only cast a power spell once every 20 years#!\n\n#N The spell's effectivity is greatly reduced on heretics and heathens#!"
  cazadiablos:0 "Cazadiablos"
  cazadiablos_desc:0 "This character feels the blessing of Florentino Cazadiablos in their life, as if the power of a devil hunter accompanied them."

@@ -101,7 +101,7 @@
 
  I_HAVE_MALE_COURT_CHAPLAIN:0 "My [Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E] is a male, just as I am, and is available to perform the ritual"
  NOT_I_HAVE_MALE_COURT_CHAPLAIN:0 "My [Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E] is #bold not#! a male or available to perform the ritual"
- I_HAVE_FEMALE_COURT_CHAPLAIN:0 "My [Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E] is a male, just as I am, and is available to perform the ritual"
+ I_HAVE_FEMALE_COURT_CHAPLAIN:0 "My [Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E] is a female, just as I am, and is available to perform the ritual"
  NOT_I_HAVE_FEMALE_COURT_CHAPLAIN:0 "My [Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E] is #bold not#! a male or available to perform the ritual"
 
  ate_religious_decision.120.t:0 "The Initiation"

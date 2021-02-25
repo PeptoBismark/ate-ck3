@@ -1455,6 +1455,12 @@ ate_religious_interaction.128 = { #Florentino Power Spell
 						add = 20
 						has_trait = cynical
 					}
+					modifier = {
+						add = 40
+						scope:recipient = {
+							NOT = { has_faith = scope:actor.faith }
+						}
+					}
 					trigger_event = {
 						id = ate_religious_interaction.130
 						days = 7
