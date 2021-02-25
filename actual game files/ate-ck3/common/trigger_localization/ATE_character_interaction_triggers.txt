@@ -57,3 +57,12 @@ machete_florentino_timing = {
 machete_florentino_interaction_has_been_bewitched = {
 	first_not = machete_florentino_interaction_has_been_bewitched_up
 }
+
+machete_juan_timing = {
+	first = MACHETE_JUAN_TIMING_UP
+	first_not = NOT_MACHETE_JUAN_TIMING_UP	
+}
+
+machete_juan_interaction_has_been_bewitched = {
+	first_not = machete_juan_interaction_has_been_bewitched_up
+}

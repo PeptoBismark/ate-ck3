@@ -283,3 +283,22 @@ cazadiablos = {
 	learning = 1
 	prowess = 10
 }
+
+used_machete_florentino_modifier = {
+	icon = magic_positive
+}
+
+
+high_libido = {
+	icon = fertility_positive
+	fertility = 0.4
+}
+
+low_libido = {
+	icon = fertility_negative
+	fertility = -0.3
+}
+
+used_machete_juan_modifier = {
+	icon = magic_positive
+}

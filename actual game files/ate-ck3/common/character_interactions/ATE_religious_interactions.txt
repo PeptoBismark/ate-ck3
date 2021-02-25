@@ -844,3 +844,83 @@ machete_bolefuego_interaction = {
 		}
 	}
 }
+
+machete_juan_interaction = {
+	category = interaction_category_religion
+	desc = machete_juan_interaction_desc
+
+	is_shown = {
+		scope:actor.faith = {
+			has_doctrine_parameter = select_machete_spells_active
+		}
+		scope:actor = {
+			has_character_modifier = hell_stallion
+		}
+		OR = {
+			scope:recipient = {
+				is_adult = yes
+				OR = {
+					AND = {
+						is_landed = yes
+						OR = {
+							liege = scope:actor	#You may use spell on direct vassals.
+							liege = scope:actor.liege	#You may use spell on vassals with whom you share a liege.
+							scope:actor.liege = scope:recipient	#You may use spell on your direct liege.
+						}
+					}
+					is_courtier_of = scope:actor #You may use spell on your courtiers
+					is_knight_of = scope:actor #You may use spell on your knights
+				}
+			}
+			scope:actor = scope:recipient
+		}
+	}
+
+	is_valid = {
+		custom_description = {
+			text = machete_juan_timing
+			scope:actor = {
+				NOT = { has_character_modifier = used_machete_juan_modifier }
+			}
+		}
+	}
+
+	is_valid_showing_failures_only = {
+		scope:recipient = {
+			is_adult = yes
+		}
+		scope:recipient = { 
+			is_diplomatically_available = yes 
+		}
+		custom_description = {
+			text = machete_juan_interaction_has_been_bewitched
+			object = scope:recipient
+			scope:recipient = {
+				NOR = { 
+					has_character_modifier = high_libido
+					has_character_modifier = low_libido
+				}
+			}
+		}
+	}
+	cooldown = { years = 10 }
+	auto_accept = yes
+
+	on_accept = {
+		hidden_effect = {
+			scope:actor = {
+				add_character_modifier = {
+					modifier = used_machete_juan_modifier
+					years = 10
+				}
+				trigger_event = { id = ate_religious_interaction.131 }
+			}
+		}
+		scope:actor = {
+			stress_impact = {
+				cynical = minor_stress_impact_gain
+			}
+		}
+		custom_tooltip = machete_juan_interaction.tt_modifiers
+	}
+}

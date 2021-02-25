@@ -1546,3 +1546,129 @@ ate_religious_interaction.130 = { #Florentino Power Spell Failure
 		}
 	}
 }
+
+ate_religious_interaction.131 = { #Juan Machete Fertility Spell
+	type = character_event
+	title = ate_religious_interaction.131.t
+	desc = ate_religious_interaction.131.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = personality_zealous
+	}
+	option = {
+		name = ate_religious_interaction.131.a
+		hidden_effect = {
+			random_list = {
+				40 = {
+					modifier = {
+						add = 20
+						has_trait = zealous
+					}
+					trigger_event = {
+						id = ate_religious_interaction.132
+						days = 7
+					}
+				}
+				60 = {
+					modifier = {
+						add = 20
+						has_trait = cynical
+					}
+					modifier = {
+						add = 40
+						scope:recipient = {
+							NOT = { has_faith = scope:actor.faith }
+						}
+					}
+					trigger_event = {
+						id = ate_religious_interaction.133
+						days = 7
+					}					
+				}
+			}	
+		}
+	}
+}
+
+ate_religious_interaction.132 = { #Juan Machete Fertility Spell Success
+	type = character_event
+	title = ate_religious_interaction.132.t
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = { 
+					scope:actor = scope:recipient
+				}
+				desc = ate_religious_interaction.129.desc.you
+			}
+			desc = ate_religious_interaction.129.desc.others
+		}
+	}
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:recipient
+		animation = personality_bold
+	}
+	option = {
+		name = ate_religious_interaction.132.a
+		scope:recipient = {
+			add_character_modifier = {
+				modifier = high_libido
+				years = 10
+			}
+		}
+	}
+}
+
+ate_religious_interaction.133 = { #Juan Machete Fertility Spell Failure
+	type = character_event
+	title = ate_religious_interaction.133.t
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = { 
+					scope:actor = scope:recipient
+				}
+				desc = ate_religious_interaction.133.desc.you
+			}
+			desc = ate_religious_interaction.133.desc.others
+		}
+	}
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:recipient
+		animation = sadness
+	}
+	option = {
+		name = ate_religious_interaction.133.a
+		scope:recipient = {
+			add_character_modifier = {
+				modifier = low_libido
+				years = 10
+			}
+		}
+		hidden_effect = {
+			if = {
+				limit = {
+					NOT = { scope:actor = scope:recipient }
+				}
+				scope:recipient = {
+					send_interface_toast = {
+						title = ate_religious_interaction.133.a.failure
+						left_icon = scope:actor
+					}
+				}
+			}
+		}
+	}
+}
