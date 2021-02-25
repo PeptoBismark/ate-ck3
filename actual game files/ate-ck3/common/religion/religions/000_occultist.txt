@@ -136,16 +136,11 @@ occultist_religion = {
 
 
 		GoodGodNames = { 
-			occultist_high_god_name 
-			occultist_high_god_name_alternate 
-			occultist_health_god_name 
-			occultist_fertility_god_name 
-			occultist_wealth_god_name 
-			occultist_household_god_name 
-			occultist_knowledge_god_name 
-			occultist_war_god_name 
-			occultist_night_god_name 
-			occultist_water_god_name 
+			occultist_solomon
+			occultist_lovecraft
+			occultist_the_mad_arab
+			occultist_randolph_carter
+			occultist_mother_goose
 		}
 		PantheonTerm = occultist_the_outer_gods
 		PantheonTermHasHave = pantheon_term_have
@@ -153,8 +148,15 @@ occultist_religion = {
 		DevilNamePossessive = occultist_devil_name_possessive
 		DevilSheHe = CHARACTER_SHEHE_THEY
 		DevilHerHis = CHARACTER_HERHIS_THEIR
-		DevilHerselfHimself = occultist_devil_herselfhimself
-		EvilGodNames = { occultist_devil_name }
+		DevilHerselfHimself = CHARACTER_HIMSELF
+		EvilGodNames = {
+			occultist_high_god_name
+			occultist_devil_name
+			occultist_fertility_god_name
+			occultist_wealth_god_name
+			occultist_household_god_name
+			occultist_knowledge_god_name
+		}
 		HouseOfWorship = occultist_house_of_worship
 		HouseOfWorshipPlural = occultist_house_of_worship_plural
 		ReligiousSymbol = occultist_religious_symbol

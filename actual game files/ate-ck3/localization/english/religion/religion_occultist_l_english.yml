@@ -53,12 +53,22 @@ l_english:
  occultist_water_god_name:0 "Dagon"
  occultist_water_god_name_possessive:0 "Dagon's"
 
+ occultist_solomon:0 "Solomon"
+ occultist_solomon_possessive:0 "Solomon's"
+ occultist_lovecraft:0 "Lovecraft"
+ occultist_lovecraft_possessive:0 "Lovecraft's"
+ occultist_the_mad_arab:0 "the Mad Arab"
+ occultist_the_mad_arab_possessive:0 "the Mad Arab's"
+ occultist_randolph_carter:0 "Randolph Carter"
+ occultist_randolph_carter_possessive:0 "Randolph Carter's"
+ occultist_mother_goose:0 "Mother Goose"
+ occultist_mother_goose_possessive:0 "Mother Goose's"
 
  masonic:0 "Masonic Society for Abeyance of the Occult"
  masonic_adj:0 "occultist"
  masonic_adherent:0 "occultist"
  masonic_adherent_plural:0 "occultists"
- masonic_desc:0 "Revelationism's origins are ultimately Christian in nature. The trauma of the apocalypse and centuries of isolation and turmoil have lead to great distortions in the faith, emphasizing the supernatural and miraculous while forgetting the Holy Trinity altogether, replacing it with a vast and sometimes inconsistent pantheon of gods. One of the most prominent occultist deities is the "Serpentine God", who often manifests his will using living snakes. This fascination with snakes has caused most mainline Christians to view Revelationism with deep suspicion at best and ouright hostility at worst." #copied from CK2
+ masonic_desc:0 "The Masons practice ancient mysticisms, using rituals to protect the world from complete destruction by the Outer Gods, using ritual to direct egregores and devils to protect humanity. They hold that the Outer Gods are both unthinkably dangerous and uncaring, and although propitiation is necessary, the slightest mistake can invite calamity if their attention is drawn."
  
  tenet_guardians_of_reality:0 "Guardians of Reality"
  tenet_guardians_of_reality_desc:0 "The world is in great danger, and none besides us protect it. Sometimes drastic measures are necessary. After all, the alternative is worse."
