@@ -210,9 +210,13 @@
 
 			doctrine = unreformed_faith_doctrine
 
-			doctrine = tenet_astrology
+			doctrine = tenet_way_of_the_cutlass
 			doctrine = tenet_pursuit_of_power
-			doctrine = tenet_hedonistic #potential standin for whatever custom tenet we want to invent that makes raiding better
+			doctrine = tenet_hedonistic 
+			
+			localization = {
+				DivineRealm = brethren_divine_realm
+			}
 		}
 		
 		pelagic = { #TODO
@@ -221,12 +225,112 @@
 			reformed_icon = pelagic
 		
 			doctrine = unreformed_faith_doctrine
+			doctrine = doctrine_pluralism_pluralistic
+			doctrine = doctrine_theocracy_temporal
+			doctrine = doctrine_monogamy
+			doctrine = doctrine_divorce_approval
+			doctrine = doctrine_bastardry_legitimization
+			doctrine = doctrine_kinslaying_criminal
+			doctrine = doctrine_deviancy_criminal
+			doctrine = doctrine_clerical_function_alms_and_pacification
 			
-			doctrine = doctrine_witchcraft_accepted
+			doctrine = tenet_ritual_celebration
+			doctrine = tenet_sanctity_of_nature #This is a placeholder for a more sea-oriented version since the modifiers are wrong
+			doctrine = tenet_ritual_hospitality
 			
-			doctrine = tenet_astrology
-			doctrine = tenet_ancestor_worship #These are placeholders, not yet discussed and approved
-			doctrine = tenet_pastoral_isolation
+			localization = {
+				HighGodName = pelagic_high_god_name
+				HighGodNamePossessive = pelagic_high_god_name_possessive
+				CreatorName = pelagicl_creator_god_name
+				CreatorNamePossessive = pelagic_creator_god_name_possessive
+				HealthGodName = pelagic_health_god_name
+				HealthGodNamePossessive = pelagic_health_god_name_possessive
+				FertilityGodName = pelagic_fertility_god_name
+				FertilityGodNamePossessive = pelagic_fertility_god_name_possessive
+
+				#WealthGod
+				WealthGodName = pelagic_wealth_god_name
+				WealthGodNamePossessive = pelagic_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_IT
+				WealthGodHerHis = CHARACTER_HERHIS_ITS
+				WealthGodHerHim = CHARACTER_HERHIM_IT
+
+				#HouseholdGod
+				HouseholdGodName = pelagic_household_god_name
+				HouseholdGodNamePossessive = pelagic_household_god_name_possessive
+				#FateGod
+				FateGodName = pelagic_fate_god_name
+				FateGodNamePossessive = pelagic_fate_god_name_possessive
+				FateGodSheHe = CHARACTER_SHEHE_HE
+				FateGodHerHis = CHARACTER_HERHIS_HIS
+				FateGodHerHim = CHARACTER_HERHIM_HIM
+
+				#KnowledgeGod
+				KnowledgeGodName = pelagic_knowledge_god_name
+				KnowledgeGodNamePossessive = pelagic_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = pelagic_war_god_name
+				WarGodNamePossessive = pelagic_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#TricksterGod
+				TricksterGodName = pelagic_trickster_god_name
+				TricksterGodNamePossessive = pelagic_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_HE
+				TricksterGodHerHis = CHARACTER_HERHIS_HIS
+				TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+				#NightGod
+				NightGodName = pelagic_night_god_name
+				NightGodNamePossessive = pelagic_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_IT
+				NightGodHerHis = CHARACTER_HERHIS_ITS
+				NightGodHerHim = CHARACTER_HERHIM_IT
+
+				#WaterGod
+				WaterGodName = pelagic_water_god_name
+				WaterGodNamePossessive = pelagic_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_HE
+				WaterGodHerHis = CHARACTER_HERHIS_HIS
+				WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+
+				PantheonTerm = pelagic_pantheon_the_gods_of_the_sea
+				PantheonTermHasHave = pantheon_term_have
+				GoodGodNames = {
+					pelagic_high_god_name
+					pelagic_fertility_god_name}
+				DevilName = pelagic_devil_name
+				DevilNamePossessive = pelagic_devil_name_possessive
+				DevilSheHe = CHARACTER_SHEHE_HE
+				DevilHerHis = CHARACTER_HERHIS_HIS
+				DevilHerselfHimself = CHARACTER_HIMSELF
+				EvilGodNames = {
+					pelagic_devil_name
+					pelagic_witch_god
+				}
+
+				ReligiousSymbol = pelagic_religious_symbol
+				DivineRealm = pelagic_divine_realm
+				DeathDeityName = pelagic_death_deity_name
+				DeathDeityNamePossessive = pelagic_death_deity_name_possessive
+				DeathDeitySheHe = CHARACTER_SHEHE_SHE
+				DeathDeityHerHis = CHARACTER_HERHIS_HER
+				WitchGodName = pelagic_witch_god
+				WitchGodHerHis = CHARACTER_HERHIS_HIS
+				WitchGodSheHe = CHARACTER_SHEHE_SHE
+				WitchGodHerHim = CHARACTER_HERHIM_HIM
+				WitchGodMistressMaster = mistress
+				WitchGodMotherFather = mother
+				
+				
+			}
 		
 		}
 	}
