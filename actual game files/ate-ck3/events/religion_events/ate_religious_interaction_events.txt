@@ -459,7 +459,6 @@ ate_religious_interaction.105 = { #Laid hands on
 			}
 			desc = ate_religious_interaction.105.desc_differentfaith
 		}
-
 	}
 	theme = faith
 	override_background = {
@@ -1419,6 +1418,123 @@ ate_religious_interaction.127 = { #Bolefuego Health Spell Curse
 				send_interface_toast = {
 					title = ate_religious_interaction.127.a_curse
 					left_icon = scope:actor
+				}
+			}
+		}
+	}
+}
+
+ate_religious_interaction.128 = { #Florentino Power Spell
+	type = character_event
+	title = ate_religious_interaction.128.t
+	desc = ate_religious_interaction.128.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = personality_zealous
+	}
+	option = {
+		name = ate_religious_interaction.128.a
+		hidden_effect = {
+			random_list = {
+				40 = {
+					modifier = {
+						add = 20
+						has_trait = zealous
+					}
+					trigger_event = {
+						id = ate_religious_interaction.129
+						days = 7
+					}
+				}
+				60 = {
+					modifier = {
+						add = 20
+						has_trait = cynical
+					}
+					trigger_event = {
+						id = ate_religious_interaction.130
+						days = 7
+					}					
+				}
+			}	
+		}
+	}
+}
+
+ate_religious_interaction.129 = { #Florentino Power Spell Success
+	type = character_event
+	title = ate_religious_interaction.129.t
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = { 
+					scope:actor = scope:recipient
+				}
+				desc = ate_religious_interaction.129.desc.you
+			}
+			desc = ate_religious_interaction.129.desc.others
+		}
+	}
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:recipient
+		animation = personality_bold
+	}
+	option = {
+		name = ate_religious_interaction.129.a
+		scope:recipient = {
+			add_character_modifier = {
+				modifier = cazadiablos
+				years = 10
+			}
+		}
+	}
+}
+
+ate_religious_interaction.130 = { #Florentino Power Spell Failure
+	type = character_event
+	title = ate_religious_interaction.130.t
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = { 
+					scope:actor = scope:recipient
+				}
+				desc = ate_religious_interaction.130.desc.you
+			}
+			desc = ate_religious_interaction.130.desc.others
+		}
+	}
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:recipient
+		animation = sadness
+	}
+	option = {
+		name = ate_religious_interaction.130.a
+		scope:recipient = {
+			add_trait_force_tooltip = depressed_1
+		}
+		hidden_effect = {
+			if = {
+				limit = {
+					NOT = { scope:actor = scope:recipient }
+				}
+				scope:recipient = {
+					send_interface_toast = {
+						title = ate_religious_interaction.130.a.failure
+						left_icon = scope:actor
+					}
 				}
 			}
 		}

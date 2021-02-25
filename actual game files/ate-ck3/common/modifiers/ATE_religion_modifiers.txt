@@ -273,3 +273,13 @@ curse_of_fire = {
 used_machete_bolefuego_modifier = {
 	icon = magic_positive
 }
+
+cazadiablos = {
+	icon = martial_positive
+	diplomacy = 1
+	stewardship = 1
+	intrigue = 1
+	martial = 1
+	learning = 1
+	prowess = 10
+}
