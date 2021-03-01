@@ -27,7 +27,33 @@
 
  tenet_doctrine_and_covenants_name:0 "Doctrine and Covenants"
  tenet_doctrine_and_covenants_desc:0 "Our faith continually updates our doctrine and covenants, creating a large and codified body of practices which are unique to our faith."
-
+ 
+ woolleyite:0 "Woolleyism"
+ woolleyite_adj:0 "Woolleyite"
+ woolleyite_adherent:0 "Woolleyite"
+ woolleyite_adherent_plural:0 "Woolleyites"
+ woolleyite_desc:0 "The Woolleyites split from mainstream Mormonism in the early 20th century after polygamy was officially banned by the Church. Led by Lorin Woolley, the 'Woolleyites', as they are known after the Event, stubbornly continue to practice polygamy to this day. Mainstream Mormonism considers plural marriages to be heretical, and will excommunicate anyone who is found to be part of one."
+ 
+ strangite:0 "Strangism"
+ strangite_adj:0 "Strangite"
+ strangite_adherent:0 "Strangite"
+ strangite_adherent_plural:0 "Strangites"
+ strangite_desc:0 "The Strangites believe James Strang to be the lawful successor of Joseph Smith, and consider the historical leaders of the Mormon church to be heretics. Strangites allow the ordination of women into the priesthood and reject the notion of the Trinity (believing that there is only one God, and that Jesus was born an ordinary mortal). Animal sacrifice is common, and devout farmers make an offering of the 'Firstfruit' of the harvest."
+ mormon_good_god_the_father:0 "The Father"
+ 
+ neogodbeite:0 "Neo-Godbeism"
+ neogodbeite_adj:0 "Neo-Godbeite"
+ neogodbeite_adherent:0 "Neo-Godbeite"
+ neogodbeite_adherent_plural:0 "Neo-Godbeites"
+ neogodbeite_desc:0 "Neo-Godbeites are a relatively new movement in the Latter-Day Saints community. Originating after the Event, members of these groups drew on influences from both Pacific philosophy and heterodox pre-Event Mormon groups to inform their religious practices. Neo-Godbeites believe that women are capable of leading communities despite lacking access to the priesthood, and often emphasize the mystical and spiritual aspects of faith. They also reject the theodemocratic system, adhering instead to more secular forms of government." #???
+ mormon_good_god_heavenly_mother:0 "Heavenly Mother"
+ 
+ bickertonite:0 "Bickertonism"
+ bickertonite_adj:0 "Bickertonite"
+ bickertonite_adherent:0 "Bickertonite"
+ bickertonite_adherent_plural:0 "Bickertonites"
+ bickertonite_desc:0 "The Bickertonite faithful consider themselves the true continuation of the Mormon faith, following the events of the calamity. The Bickertonites believe that they have a sacred duty to share the gift of salvation with people of every race, and refuse to engage in plural marriage as practiced by other LDS sects." #this is taken straight from the pre-FF mod and likely needs to be changed
+ 
  hebrew_christianity_high_god_name:0 "Yehovah"
  hebrew_christianity_high_god_name_possessive:0 "Yehovah's"
  hebrew_christianity_good_god_yeshua:0 "Yeshua"

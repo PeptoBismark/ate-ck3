@@ -168,6 +168,7 @@ doctrine_mormon_tolerance = { #put certain tolerance doctrines here
 			hostility_override_special_doctrine_mainstream_protestant = 1
 		}
 	}
+	
 }
 
 doctrine_columbian_tolerance = {
