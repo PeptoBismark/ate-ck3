@@ -690,7 +690,7 @@ k_panama_puente_grande = {
 	}
 }
 
-k_puente_grande = {
+k_panama = {
 	pattern = "pattern_horizontal_bar_01.dds"
 	color1 = "white"
 	color2 = "green_light"
@@ -876,7 +876,7 @@ d_coiba = {
 	}
 }
 
-k_panama = {
+k_panama_flag = {
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "white"

@@ -6,30 +6,55 @@ male_headgear_secular_andean_common_01 = {
 	set_tags = "no_hair"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_andean_common_01_entity }
 }
+female_headgear_secular_andean_common_01 = {
+	set_tags = "no_hair"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_andean_common_01_entity }
+}
 
 male_headgear_secular_inca_count_01 = {
 	set_tags = "crown"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_inca_count_01_entity }
+}
+female_headgear_secular_inca_count_01 = {
+	set_tags = "crown"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_inca_count_01_entity }
 }
 
 male_headgear_secular_inca_duke_01 = {
 	set_tags = "crown"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_inca_duke_01_entity }
 }
+female_headgear_secular_inca_duke_01 = {
+	set_tags = "crown"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_inca_duke_01_entity }
+}
+
 
 male_headgear_secular_inca_royal_01 = {
 	set_tags = "cap"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_inca_royal_01_entity }
+}
+female_headgear_secular_inca_royal_01 = {
+	set_tags = "cap"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_inca_royal_01_entity }
 }
 
 male_headgear_secular_inca_royal_02 = {
 	set_tags = "cap"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_inca_royal_02_entity }
 }
+female_headgear_secular_inca_royal_02 = {
+	set_tags = "cap"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_inca_royal_02_entity }
+}
 
 male_headgear_secular_inca_imperial_01 = {
 	set_tags = "cap"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_inca_imperial_01_entity }
+}
+female_headgear_secular_inca_imperial_01 = {
+	set_tags = "cap"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_inca_imperial_01_entity }
 }
 
 
@@ -131,6 +156,44 @@ male_headgear_secular_ate_cowboy_imperial_01 = {
 }
 
 
+female_headgear_secular_ate_cowboy_common_01 = {	
+	set_tags = "cap"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_cowboy_common_01_entity 	 }		
+}
+female_headgear_secular_ate_cowboy_common_02 = {	
+	set_tags = "cap"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_cowboy_common_02_entity 	 }		
+}
+female_headgear_secular_ate_cowboy_low_nobility_01 = {	
+	set_tags = "cap"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_cowboy_low_nobility_01_entity 	 }		
+}
+female_headgear_secular_ate_cowboy_low_nobility_02 = {	
+	set_tags = "cap"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_cowboy_low_nobility_02_entity 	 }		
+}
+female_headgear_secular_ate_cowboy_high_nobility_01 = {	
+	set_tags = "cap"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_cowboy_high_nobility_01_entity 	 }		
+}
+female_headgear_secular_ate_cowboy_high_nobility_02 = {	
+	set_tags = "cap"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_cowboy_high_nobility_02_entity 	 }		
+}
+female_headgear_secular_ate_cowboy_royalty_01 = {	
+	set_tags = "cap"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_cowboy_royalty_01_entity 	 }		
+}
+female_headgear_secular_ate_cowboy_royalty_02 = {	
+	set_tags = "cap"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_cowboy_royalty_02_entity 	 }		
+}
+female_headgear_secular_ate_cowboy_imperial_01 = {	
+	set_tags = "cap"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_cowboy_imperial_01_entity 	 }		
+}
+
+
 ## Woodland Natives ##
 
 male_headgear_secular_ate_woodland_native_nobility_01 = {	
@@ -148,6 +211,23 @@ male_headgear_secular_ate_woodland_native_royalty_01 = {
 male_headgear_secular_ate_woodland_native_imperial_01 = {	
 	set_tags = "crown"
  	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_ate_native_imperial_01_entity 	 }		
+}
+
+female_headgear_secular_ate_woodland_native_nobility_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_native_nobility_01_entity 	 }		
+}
+female_headgear_secular_ate_woodland_native_high_nobility_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_native_high_nobility_01_entity 	 }		
+}
+female_headgear_secular_ate_woodland_native_royalty_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_native_royalty_01_entity 	 }		
+}
+female_headgear_secular_ate_woodland_native_imperial_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_native_imperial_01_entity 	 }		
 }
 
 
@@ -170,6 +250,23 @@ male_headgear_secular_ate_plains_native_imperial_01 = {
  	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_ate_native_imperial_02_entity 	 }		
 }
 
+female_headgear_secular_ate_plains_native_nobility_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_native_nobility_02_entity 	 }		
+}
+female_headgear_secular_ate_plains_native_high_nobility_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_native_high_nobility_02_entity 	 }		
+}
+female_headgear_secular_ate_plains_native_royalty_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_native_royalty_02_entity 	 }		
+}
+female_headgear_secular_ate_plains_native_imperial_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_ate_native_imperial_02_entity 	 }		
+}
+
 
 
 ## Cangaco ##
@@ -178,17 +275,36 @@ male_headgear_secular_cangaco_commoner_01 = {
 	set_tags = "crown"
  	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_cangaco_commoner_01_entity 	 }		
 }
+female_headgear_secular_cangaco_commoner_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_cangaco_commoner_01_entity 	 }		
+}
+
 male_headgear_secular_cangaco_low_nobility_01 = {	
 	set_tags = "crown"
  	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_cangaco_low_nobility_01_entity 	 }		
 }
+female_headgear_secular_cangaco_low_nobility_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_cangaco_low_nobility_01_entity 	 }		
+}
+
 male_headgear_secular_cangaco_high_nobility_01 = {	
 	set_tags = "crown"
  	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_cangaco_high_nobility_01_entity 	 }		
 }
+female_headgear_secular_cangaco_high_nobility_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_cangaco_high_nobility_01_entity 	 }		
+}
+
 male_headgear_secular_cangaco_royalty_01 = {	
 	set_tags = "crown"
  	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_cangaco_royalty_01_entity 	 }		
+}
+female_headgear_secular_cangaco_royalty_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_cangaco_royalty_01_entity 	 }		
 }
 
 
