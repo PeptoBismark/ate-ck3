@@ -211,55 +211,29 @@
 		mother_name_chance = 40
 
 	}
-	catawba = {
+	seminole = {
 
 		ethnicities = {
 	90 = amerindian
 	10 = white_indigenous
 }
-			color = { 140 165 242 }
-			
-		cadet_dynasty_names = {
-			"dynn_"
-		}
-		dynasty_names = {
-			"dynn_Ayers"
-			"dynn_Beck"
-			"dynn_Blue"
-			"dynn_Bryson"
-			"dynn_Canty"
-			"dynn_Garris"
-			"dynn_Hagler"
-			"dynn_Haire"
-			"dynn_Harris"
-			"dynn_Head"
-			"dynn_Kegg"
-			"dynn_Marsh"
-			"dynn_Rodgers"
-			"dynn_Timms"
-			"dynn_Wade"
-		}
+			color = { 127 204 178 }
 
 		male_names = {
-			Carson
-			Epps
-			Gilbert
-			Heyward
-			Nelson
-			Samuel
+			
 		}
 
 		female_names = {
-			Wenonah
+			
 		}
 
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 15
+		father_name_chance = 30
 
-		pat_grm_name_chance = 25
-		mat_grm_name_chance = 25
-		mother_name_chance = 0
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
 
 	}
 }

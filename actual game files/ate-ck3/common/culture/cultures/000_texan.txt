@@ -1153,4 +1153,203 @@
 	20 = med_indigenous
 }
 	}
+	arklatexan = {
+		graphical_cultures = {
+			texan_coa_gfx
+		}
+		
+			color = { 127 76 25 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_Adcock"
+			"dynn_Ambrose"
+			"dynn_Antley"
+			"dynn_Ashcraft"
+			"dynn_Attaway"
+			"dynn_Autry"
+			"dynn_Banks"
+			"dynn_Bearden"
+			"dynn_Beasley"
+			"dynn_Brewer"
+			"dynn_Bryant"
+			"dynn_Buggs"
+			"dynn_Byrd"
+			"dynn_Chatman"
+			"dynn_Childress"
+			"dynn_Clifton"
+			"dynn_Coats"
+			"dynn_Cochran"
+			"dynn_Coker"
+			"dynn_Colvin"
+			"dynn_Crabtree"
+			"dynn_Cranford"
+			"dynn_Crawford"
+			"dynn_Cross"
+			"dynn_Dade"
+			"dynn_Daniels"
+			"dynn_Davis"
+			"dynn_Deckard"
+			"dynn_Dodson"
+			"dynn_Doss"
+			"dynn_Driver"
+			"dynn_Durrett"
+			"dynn_Edwards"
+			"dynn_Elmore"
+			"dynn_Fletcher"
+			"dynn_Forney"
+			"dynn_Forte"
+			"dynn_Foster"
+			"dynn_Garner"
+			"dynn_Gipson"
+			"dynn_Graham"
+			"dynn_Greer"
+			"dynn_Griffin"
+			"dynn_Grigsby"
+			"dynn_Gulley"
+			"dynn_Hathcock"
+			"dynn_Hawkins"
+			"dynn_Hayes"
+			"dynn_Henderson"
+			"dynn_Hensley"
+			"dynn_Henson"
+			"dynn_Hicks"
+			"dynn_Hill"
+			"dynn_Hines"
+			"dynn_Hodges"
+			"dynn_Holland"
+			"dynn_Hood"
+			"dynn_Hooper"
+			"dynn_Horton"
+			"dynn_Joplin"
+			"dynn_Langford"
+			"dynn_Latham"
+			"dynn_Lenard"
+			"dynn_Lindsey"
+			"dynn_Long"
+			"dynn_Lunsford"
+			"dynn_Madden"
+			"dynn_Martinez"
+			"dynn_Mayfield"
+			"dynn_McCasland"
+			"dynn_McDowell"
+			"dynn_McElroy"
+			"dynn_McGee"
+			"dynn_McLemore"
+			"dynn_Meadows"
+			"dynn_Miles"
+			"dynn_Mitchell"
+			"dynn_Montgomery"
+			"dynn_Morris"
+			"dynn_Morrow"
+			"dynn_Morton"
+			"dynn_Norton"
+			"dynn_Otwell"
+			"dynn_Outley"
+			"dynn_Owens"
+			"dynn_Parham"
+			"dynn_Parker"
+			"dynn_Patton"
+			"dynn_Payne"
+			"dynn_Perry"
+			"dynn_Pilgreen"
+			"dynn_Pleasant"
+			"dynn_Poole"
+			"dynn_Potts"
+			"dynn_Powell"
+			"dynn_Purifoy"
+			"dynn_Raney"
+			"dynn_Rector"
+			"dynn_Rhodes"
+			"dynn_Roberson"
+			"dynn_Roberts"
+			"dynn_Samuels"
+			"dynn_Sepulvado"
+			"dynn_Sharp"
+			"dynn_Shavers"
+			"dynn_Shaw"
+			"dynn_Sims"
+			"dynn_Singleton"
+			"dynn_Skinner"
+			"dynn_Small"
+			"dynn_Sowell"
+			"dynn_Spears"
+			"dynn_Sterns"
+			"dynn_Stokes"
+			"dynn_Stone"
+			"dynn_Stringfellow"
+			"dynn_Tarver"
+			"dynn_Terry"
+			"dynn_Tidwell"
+			"dynn_Tuberville"
+			"dynn_Tucker"
+			"dynn_Turner"
+			"dynn_Upchurch"
+			"dynn_Vaughn"
+			"dynn_Walker"
+			"dynn_Whitaker"
+			"dynn_Woodard"
+			"dynn_Wyrick"
+			"dynn_Yarbrough"
+			"dynn_Yates"
+		}
+		
+		male_names = {
+			Alan Albert Art
+			Bill Bob Boyd Buford
+			Charles Chester Clay Cliff Clint
+			Daniel David Don Douglas Duane Durwood
+			Earl Edward Ewell
+			Faron Frank
+			Gary George
+			Harlan Hobart Houston Hubert
+			Jack Jackson James Jeb Jeff Jeremy Jim Joe John Josh
+			Ken Kevin
+			Lafayette Lamar Larry Lee Leon Lester Littleton
+			Marty Marvin Matthew Melvin Mercer Milton
+			Owen
+			Pat Paul
+			Raleigh Ralph Randy Robert Roger
+			Sam Sanford Scott Sid
+			Tim Tom Travis
+			Vance Virgil
+			Walt Webb Wiley Will Winthrop Wray
+		}
+		female_names = {
+			Alma Amy Anne
+			Beth Blanche
+			Chelsea Connie Corinne
+			Danielle Donna
+			Elizabeth Emily
+			Gloria
+			Janette Joan
+			Kate Kathleen Kim
+			Linda Liz Lucy Lynn
+			Marjorie Martha Mary Maxine Meredith Molly
+			Peggy Polly
+			Rowena Ruth
+			Sarah Sue Susan Sylvia
+			Vickie Vivian
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 10
+		father_name_chance = 35
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 15
+		
+		ethnicities = {
+	12 = african
+	6 = asian
+	40 = caucasian
+	20 = mediterranean
+	20 = med_indigenous
+}
+	}
 }
