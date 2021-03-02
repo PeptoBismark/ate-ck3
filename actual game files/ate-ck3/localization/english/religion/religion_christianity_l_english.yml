@@ -585,5 +585,10 @@
  united_church_plural:0 "United Churchers"
  united_church_desc:0 "Originally one of the many offshoots of Protestant Christianity in Toronto, the United Church differs from its fellows by its belief that the Holy Spirit acts through all faiths, and that God’s will therefore be best understood through dialogue with other creeds. Through inter-faith services, adherents invite members of other faiths into their holy spaces to perform their own rituals, so as to open new pathways to the divine. The Church retains many elements of traditional Protestant Christianity, believing that the Bible is God’s most direct revelation to humankind, and that Communion is a holy act. The Church is lead by a Moderator, who mediates disputes and may grant indulgences to the faithful."  "
  
- 
- 
+ nazarene:0 "Nazarene"
+ nazarene_adj:0 "Nazarene"
+ nazarene_adherent:0 "Nazarene"
+ nazarene_adherent_plural:0 "Nazarenes"
+ nazarene_desc:0 "In the face of the conquests of Elton the Lawgiver, the Churches of the Nazarenes put aside the ancient doctrinal divides for the sake of their own survival. Adherents to this creed practice their own traditional forms of Christianity unmolested by their peers, but also take part in the labyrinthine codes and civil systems of Californian society. The de facto spiritual leader of the Nazarenes is the Abbot of Saint Herman’s Monastery, who both settles disputes between the Christian branches and protects the holy places of the pilgrims and the libraries of the archivists."
+ christianity_religious_head_title:0 "Abbot"
+ christianity_religious_head_title_name:0 "Saint Herman's Monastery"

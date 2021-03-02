@@ -1337,6 +1337,27 @@
 
 	#############################################################
 	
+	    tenet_inward_light = {
+        icon = core_tenet_meditation
+
+        is_shown = {
+            religion_tag = christianity_religion
+        }
+
+        piety_cost = {
+            value = faith_tenet_cost_low
+        }
+
+        traits = {
+            virtues = { patient }
+            sins = { impatient }
+        }
+
+        parameters = {
+            meditation_mechanics_active = yes
+        }
+    }
+	
 	tenet_aniconism = {
 		icon = core_tenet_altar
 		piety_cost = {

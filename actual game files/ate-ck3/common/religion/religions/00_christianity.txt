@@ -818,6 +818,11 @@
 			doctrine = tenet_communion
 			doctrine = tenet_communal_identity
 			doctrine = tenet_wisdom_of_gurus
+			
+			localization = {
+						ReligiousHeadName = nazarene_religious_head_title
+						ReligiousHeadTitleName = nazarene_religious_head_title_name
+			}
 		}
 			
 		guadalupan = {
@@ -3279,20 +3284,34 @@
 			doctrine = doctrine_pluralism_fundamentalist
 		}
 		
-		peace_church = { #TODO
-			color = { 20 62 84 }
-			icon = peace_church
+        peace_church = { 
+            color = { 20 62 84 }
+            icon = peace_church
 
-			#special doctrine
-			doctrine = special_doctrine_protestant_heritage
-			
-			#tenets
-			doctrine = tenet_pacifism
-			doctrine = tenet_monasticism
-			doctrine = tenet_communion
+            #special doctrine
+            doctrine = special_doctrine_protestant_heritage
+            
+            #tenets
+            doctrine = tenet_pacifism
+            doctrine = tenet_literalism
+            doctrine = tenet_inward_light
 
-			#Doctrines
-		}
+            #Doctrines
+            doctrine = doctrine_no_head
+            doctrine = doctrine_pluralism_pluralistic
+            doctrine = doctrine_theocracy_lay_clergy
+            doctrine = doctrine_consanguinity_cousins
+            doctrine = doctrine_adultery_women_shunned
+            doctrine = doctrine_kinslaying_extended_family_crime
+            doctrine = doctrine_deviancy_shunned
+            doctrine = doctrine_clerical_function_alms_and_pacification
+            doctrine = doctrine_clerical_gender_either
+            doctrine = doctrine_clerical_marriage_allowed
+            doctrine = doctrine_clerical_succession_spiritual_appointment
+            
+            #Theology
+            doctrine = doctrine_baptism_believers
+        }
 		
 		madre_patria = { ##TODO
 			color = { 175 142 49 }
