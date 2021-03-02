@@ -1975,34 +1975,39 @@
 				{ name = "holy_order_knights_of_saint_patrick" coat_of_arms = "ho_knights_of_saint_patrick" }
 			}
 		}
-		anabaptist = {
-			color = { 153 153 63 }
-			graphical_faith = "catholic_gfx"
-			icon = anabaptist
-						
-			#Special Tolerance
-			doctrine = special_doctrine_mainstream_protestant
+        anabaptist = {
+            color = { 153 153 63 }
+            graphical_faith = "catholic_gfx"
+            icon = anabaptist
+                        
+            #Special Tolerance
+            doctrine = special_doctrine_mainstream_protestant
 
-			#Tenets
-			doctrine = tenet_pacifism
-			doctrine = tenet_communal_identity
-			doctrine = tenet_sola_fide
-			
-			doctrine = doctrine_divorce_disallowed
-			doctrine = doctrine_bastardry_none
-			doctrine = doctrine_homosexuality_crime
-			doctrine = doctrine_adultery_men_crime
-			doctrine = doctrine_theocracy_lay_clergy
-			
-			#Theology
-			doctrine = doctrine_baptism_believers
+            #Tenets
+            doctrine = tenet_pacifism
+            doctrine = tenet_communal_identity
+            doctrine = tenet_pastoral_isolation
+            
+            doctrine = doctrine_no_head
+            doctrine = doctrine_divorce_disallowed
+            doctrine = doctrine_bastardry_none
+            doctrine = doctrine_homosexuality_crime
+            doctrine = doctrine_adultery_men_crime
+            doctrine = doctrine_theocracy_lay_clergy
+            doctrine = doctrine_consanguinity_cousins
+            doctrine = doctrine_kinslaying_extended_family_crime
+            doctrine = doctrine_clerical_function_alms_and_pacification
+            doctrine = doctrine_clerical_marriage_allowed
+            
+            #Theology
+            doctrine = doctrine_baptism_believers
 
 
 
-			holy_order_names = {
-				{ name = "holy_order_lebanon_brethren" coat_of_arms = "ho_lebanon_brethren" }
-			}
-		}
+            holy_order_names = {
+                { name = "holy_order_lebanon_brethren" coat_of_arms = "ho_lebanon_brethren" }
+            }
+        }
 		batenburger = {
 			color = { 127 127 25 }
 			graphical_faith = "catholic_gfx"
