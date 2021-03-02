@@ -117,3 +117,6 @@
  doctrine_parameter_enables_constituent_assembly:0 "Enables the Caudillo to call for one Constituent Assembly during their reign and in no less than forty years since the last Assembly was called.\nDuring the Assembly, landed rulers of the faith may vote on several issues and determine different doctrines of the faith until the next Assembly is called and modifies them."
  doctrine_parameter_meditate_on_the_marquess_active:0 "May Meditate on the writings of the Marquess of García, trying to understand the underlying prophecies."
  doctrine_parameter_create_gran_colombia_active:0 "Enables the Restoration of the Gran Colombia, uniting the Patria Grande under the same banner once again."
+ 
+ tenet_inward_light_name:0 "Inward Light"
+ tenet_inward_light_desc:0 "We believe that God speaks to us in meditation, and these revelations in quiet reflection guide us to be better for it."
