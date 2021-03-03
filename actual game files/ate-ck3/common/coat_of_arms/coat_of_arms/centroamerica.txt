@@ -658,8 +658,57 @@ d_cortes = {
 		instance = { position = { 0.7 0.3 } scale = { -0.35 0.35 }  }
 		instance = { position = { 0.3 0.7 } scale = { -0.35 0.35 }  }
 	}
+}	
+d_comayagua = {	
+	pattern = "pattern_horizontal_split_01.dds"	
+	color1 = "white"	
+	color2 = "white"	
+	colored_emblem = {
+		texture = "ce_saint_virgin_mary.dds"
+		color1 = "grey"
+		color2 = "blue_light"
+		color3 = "yellow"
+		instance = { position = { 0.5 0.36 } scale = { 0.4 0.4 }  }	
+	}
+	colored_emblem = {
+		texture = "ce_palm_tree.dds"
+		color1 = "green"
+		color2 = "brown"
+		instance = { position = { 0.5 0.7 } scale = { 0.45 0.45 }  }
+	}	
+	colored_emblem = {	
+		texture = "ce_border_shield.dds"	
+		color1 = "blue_light"	
+		color2 = "blue_light"	
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }	
+	}
+	colored_emblem = {
+		texture = "ce_castle.dds"
+		color1 = "yellow"
+		color2 = "red"
+		instance = { position = { 0.15 0.05 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.85 0.05 } scale = { 0.15 0.15 }  }	
+		instance = { position = { 0.15 0.5 } scale = { 0.15 0.15 }  }	
+		instance = { position = { 0.85 0.5 } scale = { 0.15 0.15 }  }	
+	}
+	colored_emblem = {
+		texture = "ce_lion_rampant.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.05 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.2 0.75 } scale = { 0.15 0.15 }  }	
+		instance = { position = { 0.8 0.75 } scale = { 0.15 0.15 }  }	
+	}
+	colored_emblem = {
+		texture = "ce_eagle_small.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.95 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.15 0.25 } scale = { 0.15 0.15 }  }	
+		instance = { position = { 0.85 0.25 } scale = { 0.15 0.15 }  }	
+	}
 }
-d_comayagua = {
+c_comayagua = {
 	pattern = "pattern_checkers_01.dds"
 	color1 = "red"
 	color2 = "blue_light"
@@ -906,6 +955,45 @@ d_isla_de_san_andres = {
 }
 
 k_costa_rica = {
+	pattern = "pattern_solid.dds"
+	color1 = "blue"
+	color2 = "blue"
+	colored_emblem = {	
+		texture = "ce_ship_lymphad.dds"	
+		color1 = "white"	
+		color2 = "white"	
+		instance = { position = { 0.5 0.3 } scale = { 0.225 0.225 }  }	
+	}	
+	colored_emblem = {	
+		texture = "ce_fess_dancetty.dds"	
+		color1 = "green_light"	
+		color2 = "green_light"	
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }	
+	}	
+	colored_emblem = {	
+		texture = "ce_ordinary_fess_5.dds"	
+		color1 = "green_light"	
+		color2 = "green_light"	
+		instance = { position = { 0.5 0.55 } scale = { 1.0 1.0 }  }	
+	}	
+	colored_emblem = {	
+		texture = "ce_ship_lymphad.dds"	
+		color1 = "white"	
+		color2 = "white"	
+		instance = { position = { 0.5 0.65 } scale = { 0.35 0.35 }  }	
+	}	
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.2 0.15 } scale = { 0.125 0.125 }  }
+		instance = { position = { 0.35 0.15 } scale = { 0.125 0.125 }  }
+		instance = { position = { 0.5 0.15 } scale = { 0.125 0.125 }  }	
+		instance = { position = { 0.65 0.15 } scale = { 0.125 0.125 }  }	
+		instance = { position = { 0.8 0.15 } scale = { 0.125 0.125 }  }	
+	}
+}
+k_costa_rica_alt = {
 	pattern = "pattern_horizontal_stripes_01.dds"
 	color1 = "blue"
 	color2 = "red"
@@ -1054,8 +1142,8 @@ k_nicaragua = {
 	
 	colored_emblem = {
 		texture = "ce_mena_sun.dds"
-		color1 = "blue_light"
-		color2 = "blue_light"
+		color1 = "yellow"
+		color2 = "yellow"
 		instance = { position = { 0.5 0.45 } scale = { 0.75 0.75 }  }
 	}
 	colored_emblem = {

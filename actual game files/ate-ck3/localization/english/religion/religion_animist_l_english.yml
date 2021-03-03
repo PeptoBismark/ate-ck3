@@ -5,7 +5,7 @@
  dedicate_anima_shrine_tooltip:0 "Build and Dedicate a Shrine to the Anima of [ROOT.Var('tragical_anima').Char.GetFirstName] who has passed away."
  dedicate_anima_shrine_confirm:0 "Build and Dedicate Anima Shrine"
  select_a_patron_anima:0 "Select Patron Anima"
- select_a_patron_anima_desc:0 "It's both common and popular for believers in our faith to adopt a patron anima. As we believe that the souls of the tragically departed stay connected to both this world and the next one, it's through these animas that we can find a closer connection with [ROOT.Char.GetFaith.HighGodName]'s grace, by having them intercede on our behalf, granting blessings to our life as we walk with their protection."
+ select_a_patron_anima_desc:0 "It's both common and popular for believers in our faith to adopt a patron anima. As we believe that the souls of the tragically departed stay connected to both this world and the next one, it's through these animas that we can find a closer connection with [ROOT.GetFaith.HighGodName], and have them intercede on our behalf, granting blessings to our life as we walk with their protection."
  select_a_patron_anima_tooltip:0 "Select one of several Animas as your Patron, asking for their specific blessing in your life."
  select_a_patron_anima_confirm:0 "Select Patron Anima"
  select_a_patron_anima_effect:0 "You will proceed to select a Patron Anima from the list of available ones."

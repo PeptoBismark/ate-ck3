@@ -3,7 +3,7 @@
  select_national_pantheon_decision:0 "Consecrate Yourself To A Prócer"
  select_national_pantheon_decision_desc.1:0 "The próceres are the founding heroes of the Patria Grande, by living a holy life they were granted a privileged place in paradise where they are seated to the right of the father.\n\nEach devout patriot must take a prócer as their patron saint, entrusting themselves in body and soul to follow their example, for only a noble existence will guarantee that the saints intercede before the Lord."
  select_national_pantheon_decision_desc.2:0 "The próceres are the founding heroes of the Madre Patria, their extraordinary acts in the name of the highest cause led them to apotheosis and now watch over the devotees from the very bosom of divinity.\n\nEach devout patriot must take a prócer as their patron, entrusting themselves in body and soul to follow their example, in this way the mortal becomes an instrument of the divine."
- select_national_pantheon_decision_tooltip:0 "Consecrate Yourself to a Prócer, a founding hero of the [ROOT.Char.GetFaith.GetNameNoTooltip]."
+ select_national_pantheon_decision_tooltip:0 "Consecrate Yourself to a Prócer, a founding hero of the [ROOT.GetFaith.GetNameNoTooltip]."
  select_national_pantheon_decision_tt:0 "You gain a modifier associated with your selected prócer"
  select_national_pantheon_decision_confirm:0 "Consecrate to a Prócer"
  call_constituent_assembly_decision:0 "Call for a Constituent Assembly"

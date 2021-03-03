@@ -160,22 +160,22 @@ d_central_coast = {
 	}
 }
 
-k_british_columbia = {
+k_beecee = {
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "white"
 	
 	sub = {
-		parent = "e_united_kingdom"
-		instance = { offset = { 0.0 0.0 } scale = { 1.0 0.33 }  }
+		parent = "k_british_columbia"
+		instance = { offset = { 0.0 0.3 } scale = { 1.0 0.75 }  }
 	}
 	
 	sub = {
-		parent = "k_beecee"
-		instance = { offset = { 0.0 0.33 } scale = { 1.0 0.66 }  }
+		parent = "e_united_kingdom"
+		instance = { offset = { 0.0 0.0 } scale = { 1.0 0.33 }  }
 	}
 }
-k_beecee = {
+k_british_columbia = {
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "white"

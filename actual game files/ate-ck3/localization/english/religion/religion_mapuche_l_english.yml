@@ -4,7 +4,7 @@
  mapuche_religion_adj:0 "Feyentun"
  mapuche_religion_adherent:0 "Feyentun Follower"
  mapuche_religion_adherent_plural:0 "Feyentun Follower"
- mapuche_religion_desc:0 "The traditional faiths of the natives of the Mapuche and Mapuzungun speaking peoples, the Feyentun, or 'beliefs', are characterized by a worldview oriented towards living in peace with the material world, as part of the cycles of nature, as a way of attaining a good living. Through veneration and respect to the Ngen, the godly spirits who rule the world, prosperity can be found. While originally polytheistic and animist in character, the Ngen have taken a more secondary role, as centuries of contact with the abrahamic faiths have turned the faiths monotheistic."
+ mapuche_religion_desc:0 "The traditional faiths of the natives of the Mapuche and Mapuzungun speaking peoples, the Feyentun, or 'beliefs', are characterized by a worldview oriented towards living in peace with the material world, as part of the cycles of nature, as a way of attaining a good living. Through veneration and respect to the Ngen, the godly spirits who rule the world, prosperity can be found."
  mapuche_high_god_name:0 "Ngenechén"
  mapuche_high_god_name_possessive:0 "Ngenechén's"
  mapuche_high_god_shehe:0 "He"
@@ -71,16 +71,9 @@
  mapuche_chonchon:0 "Chonchon"
  mapuche_piulchen:0 "Piwicheñ"
 
- #Nguillatun
+ #Camino Estelar
  nguillatun:0 "Nguillatun"
  nguillatun_adj:1 "Nguillatun"
  nguillatun_adherent:0 "Nguillatun Follower"
  nguillatun_adherent_plural:0 "Nguillatun Followers"
- nguillatun_desc:0 "The traditional faith of the Mapuche people, adherents of the faith they believe that before the world was even formed, different primordial spirits, called the Ngen, the Pillan, and the Wangulén, came forth from the Pu-Am, the universal soul, and gave shape to all of creation through their own conflicts and stories. Now the spirits rest, still influencing the world, and, Ngenechén, the sole ruler spirit of mankind, blesses those that satisfy them with offerings in the Nguillatun, or “Petition” ceremonies, and punishes those that fail to give worthy offerings. Nguillatun faithful are led by the mostly female Machi, wise spiritual leaders that give counsel and officiate in the Nguillatun and Machitun rites. Most Nguillatun practitioners believe that the Event was just the end of another cycle in the world, and as it came, the Ngen rose again for a moment, bringing the world back to a new starting point."
-
- #Doctrines
-
- tenet_tain_futakeche_name:0 "Taiñ Futakeche"
- tenet_marichiweu_name:0 "Marichiweu"
- tenet_marichiweu_desc:0 "We'll be Ten Times Victorious! It's the rally call of our faith. As we have spend centuries defending ourselves from outside invaders, we are bound together by a common call, a common struggle, and we will give everything we can to save our people and our lands."
- doctrine_parameter_enables_hold_nguillatun_decision:0 "Enables the Hold Nguillatun decision, a ritual where you ask a blessing in the upcoming years." 
+ nguillatun_desc:0 "The traditional faith of the Mapuche people, adherents of the faith they believe that before the world was even formed, different primordial spirits, called the Ngen, the Pillan, and the Wangulén, came forth from the Pu-Am, the universal soul, and gave shape to all of creation through their own conflicts and stories. Now the spirits rest, still influencing the world, and, Ngenechén, the ruler spirit of mankind, blesses those that satisfy them with offerings in the Nguillatun, or “Petition” ceremonies, and punishes those that fail to give worthy offerings. Nguillatun faithful are led by the mostly female Machi, wise spiritual leaders that give counsel and officiate in the Nguillatun and Machitun rites. Most Nguillatun practitioners believe that the Event was just the end of another cycle in the world, and as it came, the Ngen rose again, bringing the world back to a new starting point."
