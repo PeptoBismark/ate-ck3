@@ -3029,7 +3029,7 @@
 	# Occultist Tenets	 		#
 	#############################
 
-	tenet_guardians_of_reality = {
+	tenet_inquisition = {
 		icon = core_tenet_shadyfigure
 		is_shown = {
 			always = on
@@ -3065,7 +3065,7 @@
 				callous
 			}
 			sins = {
-				compassionate
+				compassionate possessed
 			}
 		}
 	}
