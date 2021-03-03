@@ -245,7 +245,18 @@ set_doctrine_homosexuality_accepted = {
 			remove_doctrine = doctrine_homosexuality_shunned
 			add_doctrine = doctrine_homosexuality_accepted
 		}
-	}	
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_homosexuality_indifferent
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_homosexuality_indifferent
+			add_doctrine = doctrine_homosexuality_accepted
+		}
+	}
 }
 
 set_doctrine_homosexuality_shunned = {
@@ -268,6 +279,17 @@ set_doctrine_homosexuality_shunned = {
 		}
 		root.faith = {
 			remove_doctrine = doctrine_homosexuality_accepted
+			add_doctrine = doctrine_homosexuality_shunned
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_homosexuality_indifferent
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_homosexuality_indifferent
 			add_doctrine = doctrine_homosexuality_shunned
 		}
 	}	
@@ -295,7 +317,54 @@ set_doctrine_homosexuality_crime = {
 			remove_doctrine = doctrine_homosexuality_accepted
 			add_doctrine = doctrine_homosexuality_crime
 		}
-	}	
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_homosexuality_indifferent
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_homosexuality_indifferent
+			add_doctrine = doctrine_homosexuality_crime
+		}
+	}
+}
+
+set_doctrine_homosexuality_indifferent = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_homosexuality_shunned
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_homosexuality_shunned
+			add_doctrine = doctrine_homosexuality_indifferent
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_homosexuality_accepted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_homosexuality_accepted
+			add_doctrine = doctrine_homosexuality_indifferent
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_homosexuality_crime
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_homosexuality_crime
+			add_doctrine = doctrine_homosexuality_indifferent
+		}
+	}
 }
 
 set_doctrine_divorce_disallowed = {

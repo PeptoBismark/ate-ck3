@@ -1334,6 +1334,31 @@
 		}
 	}
 	
+	tenet_marichiweu = {
+		icon = core_tenet_sword
+		
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			religion_tag = mapuche_religion
+		}
+
+		can_pick = {
+			always = yes
+		}
+
+		character_modifier = {
+			tolerance_advantage_mod = 2
+		}
+		parameters = {
+			great_holy_wars_active = yes
+			same_culture_conversion_bonus_active = yes
+			other_culture_conversion_penalty_active = yes
+			enables_hold_nguillatun_decision = yes
+		}
+	}
 
 	#############################################################
 	
@@ -2286,6 +2311,12 @@
 						religion_tag = christianity_religion
 					}
 					desc = tenet_ancestor_veneration_name
+				}
+				triggered_desc = {
+					trigger = {
+						religion_tag = mapuche_religion
+					}
+					desc = tenet_tain_futakeche_name
 				}
 				desc = tenet_ancestor_worship_name
 			}

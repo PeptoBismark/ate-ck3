@@ -26,8 +26,8 @@
 	doctrine = doctrine_clerical_marriage_allowed
 	doctrine = doctrine_clerical_succession_temporal_fixed_appointment
 	traits = {
-		virtues = { brave just vengeful }
-		sins = { craven arbitrary forgiving }
+		virtues = { gregarious just content }
+		sins = { deceitful callous arbitrary }
 	}
 
 	custom_faith_icons = {
@@ -202,8 +202,8 @@
 		nguillatun = {
 			color = { 39 170 89 }
 			icon = nguillatun
-
-			doctrine = tenet_armed_pilgrimages
+			religious_head = d_toqui
+			doctrine = tenet_marichiweu
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 
