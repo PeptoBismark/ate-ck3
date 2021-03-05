@@ -654,7 +654,19 @@
 			"dynn_"
 		}
 		dynasty_names = {
-			
+			"dynn_Beartrack"
+			"dynn_Bighorse"
+			"dynn_Eagle"
+			"dynn_Greenfeather"
+			"dynn_Lookout"
+			"dynn_Redcorn"
+			"dynn_Redeagle"
+			"dynn_Standingbear"
+			"dynn_Surprise"
+			"dynn_Tallchief"
+			"dynn_Wehunt"
+			"dynn_Whitehorn"
+			"dynn_Wolfvoice"
 		}
 		
 		male_names = {
