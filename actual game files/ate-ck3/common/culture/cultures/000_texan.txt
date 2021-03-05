@@ -1158,7 +1158,7 @@
 			texan_coa_gfx
 		}
 		
-			color = { 127 76 25 }
+			color = { 227 133 75 }
 	
 		cadet_dynasty_names = {
 			"dynn_"

@@ -873,7 +873,7 @@ graphical_cultures = {
 			valleyan_coa_gfx
 		}
 		
-			color = { 178 229 127 }
+			color = { 184 84 174 }
 	
 		cadet_dynasty_names = {
 			"dynn_"

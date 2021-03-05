@@ -1193,25 +1193,25 @@ graphical_cultures = {
 		mother_name_chance = 20
 		
 		ethnicities = {
-	7 = african
-	5 = asian
-	80 = caucasian
-	5 = med_indigenous
-	3 = black_white
-}
+            7 = african
+            5 = asian
+            80 = caucasian
+            5 = med_indigenous
+            3 = black_white
+        }
 	}
 	
 	piedmontese = {
 		ethnicities = {
-	8 = african
-	2 = asian
-	74 = caucasian
-	3 = mediterranean
-	3 = med_indigenous
-	8 = black_white
-	2 = multiracial
-}
-			color = { 140 165 242 }
+            8 = african
+            2 = asian
+            74 = caucasian
+            3 = mediterranean
+            3 = med_indigenous
+            8 = black_white
+            2 = multiracial
+        }
+			color = { 254 202 163 }
 			
 		cadet_dynasty_names = {
 			"dynn_"
