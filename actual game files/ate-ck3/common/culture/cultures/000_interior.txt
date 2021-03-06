@@ -39,6 +39,72 @@ graphical_cultures = {
 	10 = white_indigenous
 }
 	}
+	mamachatpam = {
+
+			color = { 255 205 58 }
+
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+	90 = amerindian
+	10 = white_indigenous
+}
+	}
+	tinaynulama = {
+
+			color = { 252 176 64 }
+
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+	90 = amerindian
+	10 = white_indigenous
+}
+	}
 	paiute = {
 
 			color = { 206 198 132 }

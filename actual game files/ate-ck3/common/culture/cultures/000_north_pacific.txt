@@ -2019,6 +2019,31 @@
 		mother_name_chance = 25
 
 	}
+	syilx = {
+
+		ethnicities = {
+	75 = northwest
+	25 = white_indigenous
+}
+			color = { 106 53 186 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+
+	}
 	dakelh = {
 
 		ethnicities = {
