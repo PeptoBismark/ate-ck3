@@ -2019,7 +2019,7 @@
 		mother_name_chance = 25
 
 	}
-	syilx = {
+	okanagan = {
 
 		ethnicities = {
 	75 = northwest

@@ -39,7 +39,7 @@ graphical_cultures = {
 	10 = white_indigenous
 }
 	}
-	mamachatpam = {
+	yakama = {
 
 			color = { 255 205 58 }
 
@@ -72,7 +72,7 @@ graphical_cultures = {
 	10 = white_indigenous
 }
 	}
-	tinaynulama = {
+	tinainu = {
 
 			color = { 252 176 64 }
 
