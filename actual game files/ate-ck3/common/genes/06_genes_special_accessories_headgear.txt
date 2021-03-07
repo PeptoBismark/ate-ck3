@@ -1097,7 +1097,10 @@ accessory_genes = {
 				1 = male_headgear_secular_andean_common_01
 				
 			}
-			female = male
+			female = {
+				1 = female_headgear_secular_andean_common_01
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1107,7 +1110,10 @@ accessory_genes = {
 				10 = male_headgear_secular_inca_count_01
 				
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_inca_count_01
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1117,7 +1123,10 @@ accessory_genes = {
 				10 = male_headgear_secular_inca_duke_01
 				
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_inca_duke_01
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1128,7 +1137,11 @@ accessory_genes = {
 				20 = male_headgear_secular_inca_royal_02
 				
 			}
-			female = male
+			female = {
+				30 = female_headgear_secular_inca_royal_01
+				20 = female_headgear_secular_inca_royal_02
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1138,7 +1151,10 @@ accessory_genes = {
 				10 = male_headgear_secular_inca_imperial_01
 				
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_inca_imperial_01
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1219,7 +1235,11 @@ accessory_genes = {
 				1 = male_headgear_secular_ate_cowboy_common_02
 				
 			}
-			female = male
+			female = {
+				1 = female_headgear_secular_ate_cowboy_common_01
+				1 = female_headgear_secular_ate_cowboy_common_02
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1230,7 +1250,11 @@ accessory_genes = {
 				1 = male_headgear_secular_ate_cowboy_low_nobility_02
 				
 			}
-			female = male
+			female = {
+				1 = female_headgear_secular_ate_cowboy_low_nobility_01
+				1 = female_headgear_secular_ate_cowboy_low_nobility_02
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1241,7 +1265,11 @@ accessory_genes = {
 				1 = male_headgear_secular_ate_cowboy_high_nobility_02
 				
 			}
-			female = male
+			female = {
+				1 = female_headgear_secular_ate_cowboy_high_nobility_01
+				1 = female_headgear_secular_ate_cowboy_high_nobility_02
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1252,7 +1280,11 @@ accessory_genes = {
 				1 = male_headgear_secular_ate_cowboy_royalty_02
 				
 			}
-			female = male
+			female = {
+				1 = female_headgear_secular_ate_cowboy_royalty_01
+				1 = female_headgear_secular_ate_cowboy_royalty_02
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1262,7 +1294,10 @@ accessory_genes = {
 				10 = male_headgear_secular_ate_cowboy_imperial_01
 				
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_ate_cowboy_imperial_01
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1275,7 +1310,10 @@ accessory_genes = {
 				10 = male_headgear_secular_ate_woodland_native_nobility_01
 				
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_ate_woodland_native_nobility_01
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1285,7 +1323,10 @@ accessory_genes = {
 				10 = male_headgear_secular_ate_woodland_native_high_nobility_01
 				
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_ate_woodland_native_high_nobility_01
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1295,7 +1336,10 @@ accessory_genes = {
 				10 = male_headgear_secular_ate_woodland_native_royalty_01
 				
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_ate_woodland_native_royalty_01
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1305,7 +1349,10 @@ accessory_genes = {
 				10 = male_headgear_secular_ate_woodland_native_imperial_01
 				
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_ate_woodland_native_imperial_01
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1318,7 +1365,10 @@ accessory_genes = {
 				10 = male_headgear_secular_ate_plains_native_nobility_01
 				
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_ate_plains_native_nobility_01
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1328,7 +1378,10 @@ accessory_genes = {
 				10 = male_headgear_secular_ate_plains_native_high_nobility_01
 				
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_ate_plains_native_high_nobility_01
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1338,7 +1391,10 @@ accessory_genes = {
 				10 = male_headgear_secular_ate_plains_native_royalty_01
 				
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_ate_plains_native_royalty_01
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1348,7 +1404,10 @@ accessory_genes = {
 				10 = male_headgear_secular_ate_plains_native_imperial_01
 				
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_ate_plains_native_imperial_01
+				
+			}
 			boy = male
             girl = female
 		}
@@ -1360,7 +1419,9 @@ accessory_genes = {
 			male = {
 				10 = male_headgear_secular_cangaco_commoner_01
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_cangaco_commoner_01
+			}
 			boy = male
             girl = female
 		}
@@ -1369,7 +1430,9 @@ accessory_genes = {
 			male = {
 				10 = male_headgear_secular_cangaco_low_nobility_01
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_cangaco_low_nobility_01
+			}
 			boy = male
             girl = female
 		}
@@ -1378,7 +1441,9 @@ accessory_genes = {
 			male = {
 				10 = male_headgear_secular_cangaco_high_nobility_01
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_cangaco_high_nobility_01
+			}
 			boy = male
             girl = female
 		}
@@ -1387,7 +1452,9 @@ accessory_genes = {
 			male = {
 				10 = male_headgear_secular_cangaco_royalty_01
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_cangaco_royalty_01
+			}
 			boy = male
             girl = female
 		}

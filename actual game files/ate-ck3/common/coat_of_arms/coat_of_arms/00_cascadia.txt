@@ -19,7 +19,7 @@ e_cascadia = {
 	}
 }
 
-k_beecee = {
+d_lower_mainland = {
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "white"
@@ -59,7 +59,7 @@ k_beecee = {
 		instance = { position = { 0.8 0.2 } scale = { 0.3 0.3 }  }
 	}
 }
-d_lower_mainland = {
+c_ca_bc_vancouver = {
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "white"
@@ -160,22 +160,22 @@ d_central_coast = {
 	}
 }
 
-k_british_columbia = {
+k_beecee = {
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "white"
 	
 	sub = {
-		parent = "e_united_kingdom"
-		instance = { offset = { 0.0 0.0 } scale = { 1.0 0.33 }  }
+		parent = "k_british_columbia"
+		instance = { offset = { 0.0 0.3 } scale = { 1.0 0.75 }  }
 	}
 	
 	sub = {
-		parent = "k_british_columbia_base"
-		instance = { offset = { 0.0 0.33 } scale = { 1.0 0.66 }  }
+		parent = "e_united_kingdom"
+		instance = { offset = { 0.0 0.0 } scale = { 1.0 0.33 }  }
 	}
 }
-k_british_columbia_base = {
+k_british_columbia = {
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "white"
@@ -192,6 +192,12 @@ k_british_columbia_base = {
 		color1 = "yellow"
 		color2 = "yellow"
 		instance = { position = { 0.5 0.9 } scale = { 1.2 1.2 }  }
+	}
+	colored_emblem = {
+		texture = "ce_circle_mask.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.9 } scale = { 0.5 0.5 }  }
 	}
 }
 
@@ -338,49 +344,6 @@ d_us_wa_king = {
 }
 
 
-k_great_coast = {
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "red"
-	
-	colored_emblem = {
-		texture = "ce_eagle_islamic_double.dds"
-		color1 = "white"
-		color2 = "yellow_light"
-		instance = { position = { 0.5 0.5 } scale = { 0.8 0.8 }  }
-	}
-	
-	colored_emblem = {
-		texture = "ce_runic_circle_frame.dds"
-		color1 = "white"
-		color2 = "yellow_light"
-		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 }  }
-	}
-}
-k_great_coast_haida = {
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "red"
-	
-	colored_emblem = {
-		texture = "ce_haida_eagle.dds"
-		color1 = "white"
-		color2 = "yellow_light"
-		instance = { position = { 0.5 0.5 } scale = { 0.8 0.8 }  }
-	}
-}
-d_haida_gwaii = {
-	pattern = "pattern_solid.dds"
-	color1 = "white"
-	color2 = "white"
-	
-	colored_emblem = {
-		texture = "ce_haida_raven.dds"
-		color1 = "blue_light"
-		color2 = "red"
-		instance = { position = { 0.5 0.5 } scale = { 0.8 0.8 }  }
-	}
-}
 
 k_oregon = {
 	pattern = "pattern_solid.dds"

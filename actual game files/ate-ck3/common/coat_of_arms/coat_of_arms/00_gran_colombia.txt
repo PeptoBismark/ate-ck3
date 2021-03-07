@@ -690,7 +690,25 @@ k_panama_puente_grande = {
 	}
 }
 
-k_puente_grande = {
+k_panama = {
+	pattern = "pattern_checkers_diagonal_01.dds"
+	color1 = "blue"
+	color2 = "green_light"
+	colored_emblem = {
+		texture = "ce_sun.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.25 0.5 } scale = { 0.3 0.3 }  }
+	}
+	colored_emblem = {
+		texture = "ce_buddhist_moon.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.75 0.5 } scale = { 0.3 0.3 }  }
+	}
+}
+
+d_panama = {
 	pattern = "pattern_horizontal_bar_01.dds"
 	color1 = "white"
 	color2 = "green_light"
@@ -781,31 +799,6 @@ k_puente_grande = {
 		instance = { position = { 0.7 0.8 } scale = { 0.2 0.2 } }
 	}
 }
-
-d_panama = {
-	pattern = "pattern_horizontal_split_01.dds"
-	color1 = "blue"
-	color2 = "yellow"
-	
-	colored_emblem = {
-		texture = "ce_waves_02.dds"
-		color1 = "blue"
-		color2 = "blue_light"
-		instance = { position = { 0.5 0.25 } scale = { 1.0 0.5 }  }
-	}
-	colored_emblem = {
-		texture = "ce_ship_lymphad.dds"
-		color1 = "brown"
-		color2 = "white"
-		instance = { position = { 0.5 0.3 } scale = { 0.6 0.4 }  }
-	}
-	colored_emblem = {
-		texture = "ce_phoenix_02.dds"
-		color1 = "brown"
-		color2 = "orange"
-		instance = { position = { 0.5 0.7 } scale = { 0.6 0.4 }  }
-	}
-}
 d_darien = {
 	pattern = "pattern_diagonal_split_01.dds"
 	color1 = "blue_light"
@@ -876,7 +869,7 @@ d_coiba = {
 	}
 }
 
-k_panama = {
+k_panama_flag = {
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "white"

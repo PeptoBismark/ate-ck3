@@ -430,8 +430,8 @@ ate_religious_interaction.104 = { #You Lay Hands
 		name = ate_religious_interaction.104.a
 		scope:actor = {
 			add_character_modifier = {
-					modifier = used_lay_on_hands_modifier
-					years = 2
+				modifier = used_lay_on_hands_modifier
+				years = 2
 			}
 		}
 		scope:recipient = {
@@ -459,7 +459,6 @@ ate_religious_interaction.105 = { #Laid hands on
 			}
 			desc = ate_religious_interaction.105.desc_differentfaith
 		}
-
 	}
 	theme = faith
 	override_background = {
@@ -985,7 +984,7 @@ ate_religious_interaction.114 = { #resist-success-them
 				remove_trait_force_tooltip = possessed_1
 			}
 			add_character_modifier = {
-				modifier = delivered_from_evil_modifier
+				modifier = used_deliverance_ministry_modifier
 				years = 2
 			}			
 		}
@@ -1167,6 +1166,509 @@ ate_religious_interaction.120 = { #accept-fail-them
 				modifier = delivered_from_evil_modifier
 				years = 2
 			}			
+		}
+	}
+}
+
+ate_religious_interaction.122 = { #Sayona Love Spell
+	type = character_event
+	title = ate_religious_interaction.122.t
+	desc = ate_religious_interaction.122.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = personality_zealous
+	}
+	option = {
+		name = ate_religious_interaction.122.a
+		hidden_effect = {
+			random_list = {
+				50 = {
+					modifier = {
+						add = 20
+						has_trait = beauty_good_1
+					}
+					modifier = {
+						add = 25
+						has_trait = beauty_good_2
+					}
+					modifier = {
+						add = 30
+						has_trait = beauty_good_3
+					}
+					modifier = {
+						add = 5
+						intrigue >= 8
+					}
+					modifier = {
+						add = 5
+						intrigue >= 11
+					}
+					modifier = {
+						add = 10
+						intrigue >= 14
+					}
+					modifier = {
+						add = 10
+						intrigue >= 17
+					}
+					trigger_event = {
+						id = ate_religious_interaction.123
+						days = 7
+					}
+				}
+				50 = {
+					modifier = {
+						add = 20
+						has_trait = beauty_bad_1
+					}
+					modifier = {
+						add = 25
+						has_trait = beauty_bad_2
+					}
+					modifier = {
+						add = 30
+						has_trait = beauty_bad_3
+					}
+					modifier = {
+						add = 40
+						scope:recipient = {
+							NOT = { has_faith = scope:actor.faith }
+						}
+					}
+					trigger_event = {
+						id = ate_religious_interaction.124
+						days = 7
+					}
+				}
+			}
+		}
+	}
+}
+
+ate_religious_interaction.123 = { #Sayona Love Spell Success
+	type = character_event
+	title = ate_religious_interaction.123.t
+	desc = ate_religious_interaction.123.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = happiness
+	}
+	right_portrait =  { 
+		character = scope:recipient
+		animation = love
+	}
+	option = {
+		name = ate_religious_interaction.123.a
+		scope:recipient = {
+			add_opinion = {
+				target = scope:actor
+				modifier = sayona_infatuated
+			}
+		}
+		hidden_effect = {
+			scope:recipient = {
+				send_interface_toast = {
+					title = ate_religious_interaction.123.a_infatuated
+					left_icon = scope:actor
+				}
+			}
+		}
+	}
+	option = {
+		name = ate_religious_interaction.123.b
+		trigger = {
+			scope:actor = {
+				is_attracted_to_gender_of = scope:recipient
+			}
+		}
+		scope:recipient = {
+			set_relation_lover = scope:actor
+		}
+		hidden_effect = {
+			scope:recipient = {
+				send_interface_toast = {
+					title = ate_religious_interaction.123.b_lovers
+					left_icon = scope:actor
+				}
+			}
+		}
+	}
+}
+
+ate_religious_interaction.124 = { #Sayona Love Spell Fail
+	type = character_event
+	title = ate_religious_interaction.124.t
+	desc = ate_religious_interaction.124.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = sadness
+	}
+	right_portrait =  { 
+		character = scope:recipient
+		animation = dismissal
+	}
+	option = {
+		name = ate_religious_interaction.124.a
+		scope:recipient = {
+			add_opinion = {
+				target = scope:actor
+				modifier = sayona_disdain
+			}
+		}
+	}
+}
+
+ate_religious_interaction.125 = { #Bolefuego Health Spell
+	type = character_event
+	title = ate_religious_interaction.125.t
+	desc = ate_religious_interaction.125.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = personality_zealous
+	}
+	option = {
+		name = ate_religious_interaction.125.a
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_interaction.126
+				days = 7
+			}		
+		}
+	}
+	option = {
+		name = ate_religious_interaction.125.b
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_interaction.127
+				days = 7
+			}		
+		}
+	}
+}
+
+ate_religious_interaction.126 = { #Bolefuego Health Spell Blessing
+	type = character_event
+	title = ate_religious_interaction.126.t
+	desc = ate_religious_interaction.126.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = personality_zealous
+	}
+	option = {
+		name = ate_religious_interaction.126.a
+		scope:recipient = {
+			add_character_modifier = {
+				modifier = blessing_of_light
+				years = 1
+			}
+		}
+		hidden_effect = {
+			scope:recipient = {
+				send_interface_toast = {
+					title = ate_religious_interaction.126.a_blessing
+					left_icon = scope:actor
+				}
+			}
+		}
+	}
+}
+
+ate_religious_interaction.127 = { #Bolefuego Health Spell Curse
+	type = character_event
+	title = ate_religious_interaction.127.t
+	desc = ate_religious_interaction.127.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = personality_zealous
+	}
+	option = {
+		name = ate_religious_interaction.127.a
+		scope:recipient = {
+			add_character_modifier = {
+				modifier = curse_of_fire
+				years = 1
+			}
+		}
+		hidden_effect = {
+			scope:recipient = {
+				send_interface_toast = {
+					title = ate_religious_interaction.127.a_curse
+					left_icon = scope:actor
+				}
+			}
+		}
+	}
+}
+
+ate_religious_interaction.128 = { #Florentino Power Spell
+	type = character_event
+	title = ate_religious_interaction.128.t
+	desc = ate_religious_interaction.128.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = personality_zealous
+	}
+	option = {
+		name = ate_religious_interaction.128.a
+		hidden_effect = {
+			random_list = {
+				40 = {
+					modifier = {
+						add = 20
+						has_trait = zealous
+					}
+					trigger_event = {
+						id = ate_religious_interaction.129
+						days = 7
+					}
+				}
+				60 = {
+					modifier = {
+						add = 20
+						has_trait = cynical
+					}
+					modifier = {
+						add = 40
+						scope:recipient = {
+							NOT = { has_faith = scope:actor.faith }
+						}
+					}
+					trigger_event = {
+						id = ate_religious_interaction.130
+						days = 7
+					}					
+				}
+			}	
+		}
+	}
+}
+
+ate_religious_interaction.129 = { #Florentino Power Spell Success
+	type = character_event
+	title = ate_religious_interaction.129.t
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = { 
+					scope:actor = scope:recipient
+				}
+				desc = ate_religious_interaction.129.desc.you
+			}
+			desc = ate_religious_interaction.129.desc.others
+		}
+	}
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:recipient
+		animation = personality_bold
+	}
+	option = {
+		name = ate_religious_interaction.129.a
+		scope:recipient = {
+			add_character_modifier = {
+				modifier = cazadiablos
+				years = 10
+			}
+		}
+	}
+}
+
+ate_religious_interaction.130 = { #Florentino Power Spell Failure
+	type = character_event
+	title = ate_religious_interaction.130.t
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = { 
+					scope:actor = scope:recipient
+				}
+				desc = ate_religious_interaction.130.desc.you
+			}
+			desc = ate_religious_interaction.130.desc.others
+		}
+	}
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:recipient
+		animation = sadness
+	}
+	option = {
+		name = ate_religious_interaction.130.a
+		scope:recipient = {
+			add_trait_force_tooltip = depressed_1
+		}
+		hidden_effect = {
+			if = {
+				limit = {
+					NOT = { scope:actor = scope:recipient }
+				}
+				scope:recipient = {
+					send_interface_toast = {
+						title = ate_religious_interaction.130.a.failure
+						left_icon = scope:actor
+					}
+				}
+			}
+		}
+	}
+}
+
+ate_religious_interaction.131 = { #Juan Machete Fertility Spell
+	type = character_event
+	title = ate_religious_interaction.131.t
+	desc = ate_religious_interaction.131.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = personality_zealous
+	}
+	option = {
+		name = ate_religious_interaction.131.a
+		hidden_effect = {
+			random_list = {
+				40 = {
+					modifier = {
+						add = 20
+						has_trait = zealous
+					}
+					trigger_event = {
+						id = ate_religious_interaction.132
+						days = 7
+					}
+				}
+				60 = {
+					modifier = {
+						add = 20
+						has_trait = cynical
+					}
+					modifier = {
+						add = 40
+						scope:recipient = {
+							NOT = { has_faith = scope:actor.faith }
+						}
+					}
+					trigger_event = {
+						id = ate_religious_interaction.133
+						days = 7
+					}					
+				}
+			}	
+		}
+	}
+}
+
+ate_religious_interaction.132 = { #Juan Machete Fertility Spell Success
+	type = character_event
+	title = ate_religious_interaction.132.t
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = { 
+					scope:actor = scope:recipient
+				}
+				desc = ate_religious_interaction.129.desc.you
+			}
+			desc = ate_religious_interaction.129.desc.others
+		}
+	}
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:recipient
+		animation = personality_bold
+	}
+	option = {
+		name = ate_religious_interaction.132.a
+		scope:recipient = {
+			add_character_modifier = {
+				modifier = high_libido
+				years = 10
+			}
+		}
+	}
+}
+
+ate_religious_interaction.133 = { #Juan Machete Fertility Spell Failure
+	type = character_event
+	title = ate_religious_interaction.133.t
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = { 
+					scope:actor = scope:recipient
+				}
+				desc = ate_religious_interaction.133.desc.you
+			}
+			desc = ate_religious_interaction.133.desc.others
+		}
+	}
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:recipient
+		animation = sadness
+	}
+	option = {
+		name = ate_religious_interaction.133.a
+		scope:recipient = {
+			add_character_modifier = {
+				modifier = low_libido
+				years = 10
+			}
+		}
+		hidden_effect = {
+			if = {
+				limit = {
+					NOT = { scope:actor = scope:recipient }
+				}
+				scope:recipient = {
+					send_interface_toast = {
+						title = ate_religious_interaction.133.a.failure
+						left_icon = scope:actor
+					}
+				}
+			}
 		}
 	}
 }

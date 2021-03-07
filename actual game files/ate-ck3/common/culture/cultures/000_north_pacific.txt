@@ -684,7 +684,6 @@
 			"dynn_Merlo"
 			"dynn_Merwin"
 			"dynn_Nestoocka"
-			"dynn_Owyhee"
 			"dynn_Penland"
 			"dynn_Pianka"
 			"dynn_Pinchot"
@@ -709,6 +708,7 @@
 			"dynn_Tucannon"
 			"dynn_Ukonom"
 			"dynn_Umpqua"
+			"dynn_Updegraff"
 			"dynn_Viento"
 			"dynn_Wenaha"
 			"dynn_Whaleback"
@@ -786,7 +786,6 @@
 			"dynn_Merlo"
 			"dynn_Merwin"
 			"dynn_Nestoocka"
-			"dynn_Owyhee"
 			"dynn_Penland"
 			"dynn_Pianka"
 			"dynn_Pinchot"
@@ -811,6 +810,7 @@
 			"dynn_Tucannon"
 			"dynn_Ukonom"
 			"dynn_Umpqua"
+			"dynn_Updegraff"
 			"dynn_Viento"
 			"dynn_Wenaha"
 			"dynn_Whaleback"
@@ -2001,6 +2001,31 @@
 	25 = white_indigenous
 }
 			color = { 12 47 57 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+
+	}
+	okanagan = {
+
+		ethnicities = {
+	75 = northwest
+	25 = white_indigenous
+}
+			color = { 106 53 186 }
 
 		male_names = {
 			

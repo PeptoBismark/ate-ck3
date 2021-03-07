@@ -145,17 +145,23 @@
  anglican_adherent_plural:0 "Anglicans"
  anglican_desc:0 "Anglicanism describes itself as being a 'via media', or middle way, between Evangelical Protestantism and the Catholic Church. After the Deluge, the Anglican Church in Canada refused to participate in the Evangelical Convention called by the churches in the Deep South, becoming recognized as a separate faith unto itself. It quickly became widespread in the former Anglophone provinces of Canada, as its pluralistic teachings and tolerance for both Protestant and Catholic practices made it attractive to Canadians from all backgrounds. The highest authority in Anglicanism is the Archbishop of New Canterbury."
 
- anabaptist:0 "Anabaptism"
- anabaptist_adj:0 "Anabaptist"
+ anabaptist:0 "Old Order"
+ anabaptist_adj:0 "Old Order"
  anabaptist_adherent:0 "Anabaptist"
  anabaptist_adherent_plural:0 "Anabaptists"
- anabaptist_desc:0 "The Anabaptists are a branch of Christianity originating from 16th century Europe, and are the forebears of American groups such as the Amish, Hutterites and Mennonites, who banded together to survive the post-cataclysm world. Anabaptists believe Christians should remain separate from the rest of the world, refuse to hold office, and refrain from violence except when absolutely necessary. These tenets make life after the apocalypse difficult and often quite short."
+ anabaptist_desc:0 "The Old Order are a collection of groups of Conservative Amish, Mennonites, and Brethren focused on separation from the outside or ‘English’ World, Nonviolence, and ‘Plainness’. These tenets make life after the apocalypse difficult and often quite short. Following the Americanist invasion of 2376 and the murder of Abram II, the Old Order’s absolute pacifism fell out of favor among the nobility, and it now only survives in small pockets."
 
- batenburger:0 "Batenburgism"
- batenburger_adj:0 "Batenburger"
- batenburger_adherent:0 "Batenburger"
- batenburger_adherent_plural:0 "Batenburgers"
- batenburger_desc:0 "Batenburgers are a particularly violent group of Christians that emerged following the invasion of Anabaptist lands by Americanists. Followers of Batenburgism believe that the invasion was a sign that the doctrine of pacifism was to be abandoned entirely, rather than being merely relaxed. Followers of other Christian faiths condemn these heretics for their maintenence of harems and their tendency to violently raid the homes of non-believers."
+ peace_church:0 "Peace Church"
+ peace_church_adj:0 "Peaceful"
+ peace_church_adherent:0 "Peacemaker"
+ peace_church_adherent_plural:0 " Peacemakers"
+ peace_church_desc:0 "Peace Church referred originally to any denomination of pacifist Christianity, including the Society of Friends, the Brethren, and even the Old Order. Now, the term Peace Church refers to the more worldly members who believe isolation is unnecessary and that violence is acceptable if one is attacked provided it is not in anger. This less radical line of reasoning has led to success in expanding the faith, and advocate for a message of tolerance"
+ 
+ batenburger:0 "Sword-Minded"
+ batenburger_adj:0 "Sword-Minded"
+ batenburger_adherent:0 "Sword-Minder"
+ batenburger_adherent_plural:0 "Sword-Minder"
+ batenburger_desc:0 "The Sword-Minded are a particularly violent group of Christians that emerged following the invasion of Anabaptist lands by Americanists. Followers of this 'Sword-Minded' doctrine believe that the invasion was a sign that the doctrine of pacifism was to be abandoned entirely, rather than being merely relaxed. Followers of other Christian faiths condemn these heretics for their maintenance of harems and their tendency to violently raid the homes of non-believers."
 
  insular_carribean:0 "Insular Christianity"
  insular_carribean_adj:0 "Insular"
@@ -579,5 +585,10 @@
  united_church_plural:0 "United Churchers"
  united_church_desc:0 "Originally one of the many offshoots of Protestant Christianity in Toronto, the United Church differs from its fellows by its belief that the Holy Spirit acts through all faiths, and that God’s will therefore be best understood through dialogue with other creeds. Through inter-faith services, adherents invite members of other faiths into their holy spaces to perform their own rituals, so as to open new pathways to the divine. The Church retains many elements of traditional Protestant Christianity, believing that the Bible is God’s most direct revelation to humankind, and that Communion is a holy act. The Church is lead by a Moderator, who mediates disputes and may grant indulgences to the faithful."  "
  
- 
- 
+ nazarene:0 "Nazarene"
+ nazarene_adj:0 "Nazarene"
+ nazarene_adherent:0 "Nazarene"
+ nazarene_adherent_plural:0 "Nazarenes"
+ nazarene_desc:0 "In the face of the conquests of Elton the Lawgiver, the Churches of the Nazarenes put aside the ancient doctrinal divides for the sake of their own survival. Adherents to this creed practice their own traditional forms of Christianity unmolested by their peers, but also take part in the labyrinthine codes and civil systems of Californian society. The de facto spiritual leader of the Nazarenes is the Abbot of Saint Herman’s Monastery, who both settles disputes between the Christian branches and protects the holy places of the pilgrims and the libraries of the archivists."
+ christianity_religious_head_title:0 "Abbot"
+ christianity_religious_head_title_name:0 "Saint Herman's Monastery"

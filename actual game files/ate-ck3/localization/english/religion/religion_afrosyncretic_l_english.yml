@@ -37,7 +37,7 @@
  yoruba_fertility_god_name:0 "Orisha Oko"
  yoruba_fertility_god_name_possessive:0 "Oko's"
  yoruba_wealth_god_name:0 "Yemayá"
- yoruba_wealth_god_name_possessive:0 "Yemayá"
+ yoruba_wealth_god_name_possessive:0 "Yemayá's"
  yoruba_household_god_name:0 "Eleguá"
  yoruba_household_god_name_possessive:0 "Eleguá's"
  yoruba_knowledge_god_name:0 "Obatalá"
@@ -55,11 +55,11 @@
  
  yoruba_the_orishas:0 "The Orishas"
 
- lucumi:0 "Lucumí"
+ lucumi:0 "Regla de Ocha"
  lucumi_adj:0 "Lucumí"
  lucumi_adherent:0 "Lucumí"
  lucumi_adherent_plural:0 "Lucumí"
- lucumi_desc:0 "Lucumí, or Regla de Ocha, is an Afro-Cuban religion that can be traced back to the Yoruba people of West Africa. Believers worship three aspects of one god; Olodumaré the Creator, Olorún, who manifests as the Sun, and Olofi, who directly communicates with the Orishas - or 'Saints' - and grants them spiritual energy to act as intermediaries between man and God, as well as to help mankind live moral, harmonious lives."
+ lucumi_desc:0 "Santería Lucumí, or Regla de Ocha, is an Afro-Cuban religion that can be traced back to the Yoruba people of West Africa. Believers worship God in three aspects: Olodumaré the Creator, Olorún, who manifests as the Sun, and Olofi, who directly communicates with the Orishas - or 'Saints' and delivers them their aché, the powerful energy of divine agency and destiny. Because God is distant, Santeros propitiate the orishas, who give advice and proscribe behaviors to help people live correctly and fulfill their aché."
  
  candomble:0 "Candomblé"
  candomble_adj:0 "Candomblé"

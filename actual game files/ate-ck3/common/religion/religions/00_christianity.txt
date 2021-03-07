@@ -818,6 +818,11 @@
 			doctrine = tenet_communion
 			doctrine = tenet_communal_identity
 			doctrine = tenet_wisdom_of_gurus
+			
+			localization = {
+						ReligiousHeadName = nazarene_religious_head_title
+						ReligiousHeadTitleName = nazarene_religious_head_title_name
+			}
 		}
 			
 		guadalupan = {
@@ -1975,34 +1980,39 @@
 				{ name = "holy_order_knights_of_saint_patrick" coat_of_arms = "ho_knights_of_saint_patrick" }
 			}
 		}
-		anabaptist = {
-			color = { 153 153 63 }
-			graphical_faith = "catholic_gfx"
-			icon = anabaptist
-						
-			#Special Tolerance
-			doctrine = special_doctrine_mainstream_protestant
+        anabaptist = {
+            color = { 153 153 63 }
+            graphical_faith = "catholic_gfx"
+            icon = anabaptist
+                        
+            #Special Tolerance
+            doctrine = special_doctrine_mainstream_protestant
 
-			#Tenets
-			doctrine = tenet_pacifism
-			doctrine = tenet_communal_identity
-			doctrine = tenet_sola_fide
-			
-			doctrine = doctrine_divorce_disallowed
-			doctrine = doctrine_bastardry_none
-			doctrine = doctrine_homosexuality_crime
-			doctrine = doctrine_adultery_men_crime
-			doctrine = doctrine_theocracy_lay_clergy
-			
-			#Theology
-			doctrine = doctrine_baptism_believers
+            #Tenets
+            doctrine = tenet_pacifism
+            doctrine = tenet_communal_identity
+            doctrine = tenet_pastoral_isolation
+            
+            doctrine = doctrine_no_head
+            doctrine = doctrine_divorce_disallowed
+            doctrine = doctrine_bastardry_none
+            doctrine = doctrine_homosexuality_crime
+            doctrine = doctrine_adultery_men_crime
+            doctrine = doctrine_theocracy_lay_clergy
+            doctrine = doctrine_consanguinity_cousins
+            doctrine = doctrine_kinslaying_extended_family_crime
+            doctrine = doctrine_clerical_function_alms_and_pacification
+            doctrine = doctrine_clerical_marriage_allowed
+            
+            #Theology
+            doctrine = doctrine_baptism_believers
 
 
 
-			holy_order_names = {
-				{ name = "holy_order_lebanon_brethren" coat_of_arms = "ho_lebanon_brethren" }
-			}
-		}
+            holy_order_names = {
+                { name = "holy_order_lebanon_brethren" coat_of_arms = "ho_lebanon_brethren" }
+            }
+        }
 		batenburger = {
 			color = { 127 127 25 }
 			graphical_faith = "catholic_gfx"
@@ -2089,6 +2099,8 @@
 			graphical_faith = "catholic_gfx"
 			icon = mormon
 			
+			#religious head name is just president
+			
 			#Special Tolerance
 			doctrine = special_doctrine_latter_day_saints #use this to make chaste and drunkard sins
 			
@@ -2098,7 +2110,7 @@
 			doctrine = tenet_mission_service #diligent/lazy
 			
 			#Doctrine overrides
-			doctrine = doctrine_bastardry_none
+			doctrine = doctrine_bastardry_legitimization
 			doctrine = doctrine_theocracy_lay_clergy
 			doctrine = doctrine_consanguinity_cousins
 			doctrine = doctrine_homosexuality_crime
@@ -2163,6 +2175,8 @@
 			graphical_faith = "catholic_gfx"
 			icon = community_of_christ
 			
+			#religious head name is prophet-president
+			
 			#Special Tolerance
 			doctrine = special_doctrine_original_church #use this to make chaste and drunkard sins
 			
@@ -2208,7 +2222,293 @@
 			}
 		}
 		
-		#ADD OTHER MORMON FAITHS LATER
+		woolleyite = {
+			color = hsv { 0.8 0.55 0.6 }
+			graphical_faith = "catholic_gfx"
+			icon = woolleyite
+			
+			#religious head name is president of the priesthood
+			
+			#Tenets
+			doctrine = tenet_communion
+			doctrine = tenet_communal_identity
+			doctrine = tenet_false_conversion_sanction
+			
+			#Doctrine overrides
+			doctrine = doctrine_pluralism_fundamentalist
+			doctrine = doctrine_polygamy
+			doctrine = doctrine_divorce_disallowed
+			doctrine = doctrine_bastardry_legitimization
+			doctrine = doctrine_theocracy_lay_clergy
+			doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+			doctrine = doctrine_homosexuality_crime
+			doctrine = doctrine_adultery_men_crime
+			doctrine = doctrine_deviancy_crime
+			doctrine = doctrine_kinslaying_close_kin_crime
+			doctrine = doctrine_clerical_function_alms_and_pacification
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_clerical_succession_spiritual_appointment
+			
+			holy_order_names = {
+				{ name = "holy_order_danites" }
+			}
+			
+			localization = { #Default for mormons
+				CreatorGod = mormon_creator_god_name
+				CreatorGodNamePossessive = mormon_creator_god_name_possessive
+				CreatorGodSheHe = CHARACTER_SHEHE_HE
+				CreatorGodHerHis = CHARACTER_HERHIS_HIS
+				CreatorGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#HealthGod
+				HealthGodName = mormon_health_god_name
+				HealthGodNamePossessive = mormon_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#FertilityGod
+				FertilityGodName = mormon_fertility_god_name
+				FertilityGodNamePossessive = mormon_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#KnowledgeGod
+				KnowledgeGodName = mormon_knowledge_god_name
+				KnowledgeGodNamePossessive = mormon_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_IT
+				KnowledgeGodHerHis = CHARACTER_HERHIS_ITS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_IT
+				
+				#NightGod
+				NightGodName = mormon_night_god_name
+				NightGodNamePossessive = mormon_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIS
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+				
+				GoodGodNames = {
+					christianity_high_god_name
+					christianity_high_god_name_alternate
+					mormon_good_god_heavenly_father
+					chistianity_good_god_jesus
+					chistianity_good_god_christ
+					mormon_good_god_jehovah
+				}
+			}
+		}
+		
+		strangite = {
+			color = hsv { 0.6 0.35 0.5 }
+			graphical_faith = "catholic_gfx"
+			icon = strangite
+			
+			#religious head name is presiding high priest
+			
+			doctrine = special_doctrine_latter_day_saints #use this to make chaste and drunkard sins
+			
+			#Tenets
+			doctrine = tenet_sanctity_of_nature
+			doctrine = tenet_ritual_celebrations
+			doctrine = tenet_communal_identity
+			
+			#Doctrine overrides
+			doctrine = doctrine_gender_equal
+			doctrine = doctrine_polygamy
+			doctrine = doctrine_divorce_disallowed
+			doctrine = doctrine_bastardry_legitimization
+			doctrine = doctrine_theocracy_lay_clergy
+			doctrine = doctrine_consanguinity_cousins
+			doctrine = doctrine_homosexuality_crime
+			doctrine = doctrine_adultery_men_crime
+			doctrine = doctrine_deviancy_crime
+			doctrine = doctrine_kinslaying_close_kin_crime
+			doctrine = doctrine_clerical_function_alms_and_pacification
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_clerical_succession_spiritual_appointment
+			
+			holy_order_names = {
+				{ name = "holy_order_danites" }
+			}
+			
+			localization = { #Strangites call everyone god
+				#HealthGod
+				HealthGodName = mormon_health_god_name
+				HealthGodNamePossessive = mormon_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+				
+				GoodGodNames = {
+					christianity_high_god_name
+					christianity_high_god_name_alternate
+					mormon_good_god_the_father
+				}
+			}
+		}
+		
+		neogodbeite = {
+			color = hsv { 0.55 0.3 0.35 }
+			graphical_faith = "catholic_gfx"
+			icon = neogodbeite
+			
+			#no head of faith at all
+			
+			doctrine = special_doctrine_latter_day_saints #use this to make chaste and drunkard sins
+			
+			#Tenets
+			doctrine = tenet_esotericism
+			doctrine = tenet_sanctity_of_nature
+			doctrine = tenet_communal_identity #placeholder for syncretic tenet
+			
+			#Doctrine overrides
+			doctrine = doctrine_no_head
+			doctrine = doctrine_gender_equal
+			doctrine = doctrine_divorce_allowed
+			doctrine = doctrine_bastardry_legitimization
+			doctrine = doctrine_theocracy_lay_clergy
+			doctrine = doctrine_consanguinity_cousins
+			doctrine = doctrine_homosexuality_indifferent #should it be the other one?
+			doctrine = doctrine_witchcraft_accepted
+			doctrine = doctrine_adultery_men_crime
+			doctrine = doctrine_deviancy_crime
+			doctrine = doctrine_kinslaying_close_kin_crime
+			doctrine = doctrine_clerical_function_alms_and_pacification
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_clerical_succession_spiritual_appointment
+			
+			holy_order_names = {
+				{ name = "holy_order_danites" }
+			}
+			
+			localization = { #lol
+				CreatorGod = mormon_creator_god_name
+				CreatorGodNamePossessive = mormon_creator_god_name_possessive
+				CreatorGodSheHe = CHARACTER_SHEHE_HE
+				CreatorGodHerHis = CHARACTER_HERHIS_HIS
+				CreatorGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#HealthGod
+				HealthGodName = mormon_health_god_name
+				HealthGodNamePossessive = mormon_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#FertilityGod
+				FertilityGodName = mormon_fertility_god_name
+				FertilityGodNamePossessive = mormon_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#KnowledgeGod
+				KnowledgeGodName = mormon_knowledge_god_name
+				KnowledgeGodNamePossessive = mormon_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_IT
+				KnowledgeGodHerHis = CHARACTER_HERHIS_ITS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_IT
+				
+				#NightGod
+				NightGodName = mormon_night_god_name
+				NightGodNamePossessive = mormon_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIS
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+				
+				GoodGodNames = {
+					christianity_high_god_name
+					christianity_high_god_name_alternate
+					mormon_good_god_heavenly_father
+					mormon_good_god_heavenly_mother
+					chistianity_good_god_jesus
+					chistianity_good_god_christ
+					mormon_good_god_jehovah
+				}
+			}
+		}
+		
+		bickertonite = {
+			color = hsv { 0.35 0.3 0.55 }
+			graphical_faith = "catholic_gfx"
+			icon = neogodbeite #the bickertonite icon is not here
+			
+			#religious head name is just president
+			
+			doctrine = special_doctrine_latter_day_saints #use this to make chaste and drunkard sins
+			
+			#Tenets
+			doctrine = tenet_aniconism
+			doctrine = tenet_communion
+			doctrine = tenet_mission_service
+			
+			#Doctrine overrides
+			doctrine = doctrine_no_head
+			doctrine = doctrine_gender_equal
+			doctrine = doctrine_divorce_approval
+			doctrine = doctrine_bastardry_legitimization
+			doctrine = doctrine_theocracy_lay_clergy
+			doctrine = doctrine_consanguinity_cousins
+			doctrine = doctrine_homosexuality_crime
+			doctrine = doctrine_adultery_men_crime
+			doctrine = doctrine_deviancy_crime
+			doctrine = doctrine_kinslaying_close_kin_crime
+			doctrine = doctrine_clerical_function_alms_and_pacification
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_clerical_succession_spiritual_appointment
+			
+			holy_order_names = {
+				{ name = "holy_order_danites" }
+			}
+			
+			localization = { #lol
+				CreatorGod = mormon_creator_god_name
+				CreatorGodNamePossessive = mormon_creator_god_name_possessive
+				CreatorGodSheHe = CHARACTER_SHEHE_HE
+				CreatorGodHerHis = CHARACTER_HERHIS_HIS
+				CreatorGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#HealthGod
+				HealthGodName = mormon_health_god_name
+				HealthGodNamePossessive = mormon_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#FertilityGod
+				FertilityGodName = mormon_fertility_god_name
+				FertilityGodNamePossessive = mormon_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#KnowledgeGod
+				KnowledgeGodName = mormon_knowledge_god_name
+				KnowledgeGodNamePossessive = mormon_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_IT
+				KnowledgeGodHerHis = CHARACTER_HERHIS_ITS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_IT
+				
+				#NightGod
+				NightGodName = mormon_night_god_name
+				NightGodNamePossessive = mormon_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIS
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+				
+				GoodGodNames = {
+					christianity_high_god_name
+					christianity_high_god_name_alternate
+					mormon_good_god_heavenly_father
+					chistianity_good_god_jesus
+					chistianity_good_god_christ
+					mormon_good_god_jehovah
+				}
+			}
+		}
 		
 		hebrew_christianity = { #watch me whip, now watch me nae nae
 			color = { 12 38 89 }
@@ -2984,20 +3284,34 @@
 			doctrine = doctrine_pluralism_fundamentalist
 		}
 		
-		peace_church = { #TODO
-			color = { 20 62 84 }
-			icon = peace_church
+        peace_church = { 
+            color = { 20 62 84 }
+            icon = peace_church
 
-			#special doctrine
-			doctrine = special_doctrine_protestant_heritage
-			
-			#tenets
-			doctrine = tenet_pacifism
-			doctrine = tenet_monasticism
-			doctrine = tenet_communion
+            #special doctrine
+            doctrine = special_doctrine_protestant_heritage
+            
+            #tenets
+            doctrine = tenet_pacifism
+            doctrine = tenet_literalism
+            doctrine = tenet_inward_light
 
-			#Doctrines
-		}
+            #Doctrines
+            doctrine = doctrine_no_head
+            doctrine = doctrine_pluralism_pluralistic
+            doctrine = doctrine_theocracy_lay_clergy
+            doctrine = doctrine_consanguinity_cousins
+            doctrine = doctrine_adultery_women_shunned
+            doctrine = doctrine_kinslaying_extended_family_crime
+            doctrine = doctrine_deviancy_shunned
+            doctrine = doctrine_clerical_function_alms_and_pacification
+            doctrine = doctrine_clerical_gender_either
+            doctrine = doctrine_clerical_marriage_allowed
+            doctrine = doctrine_clerical_succession_spiritual_appointment
+            
+            #Theology
+            doctrine = doctrine_baptism_believers
+        }
 		
 		madre_patria = { ##TODO
 			color = { 175 142 49 }

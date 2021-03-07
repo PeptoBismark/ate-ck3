@@ -1,4 +1,4 @@
-###Latin America
+﻿###Latin America
 count_cacique = {
 	type = character
 	gender = male
@@ -6,7 +6,7 @@ count_cacique = {
 	tier = county
 	priority = 17
 	top_liege = no
-	governments = { tribal_government clan_government }
+	governments = { tribal_government }
 	culture_groups = { amazonico_group guarani_group xingu_group caribeno_group costero_group antillais_group caribbanglo_group centrano_group chacoan_group  }
 }
 count_cacique_female = {
@@ -16,7 +16,7 @@ count_cacique_female = {
 	tier = county
 	priority = 17
 	top_liege = no
-	governments = { tribal_government clan_government }
+	governments = { tribal_government }
 	culture_groups = { amazonico_group guarani_group xingu_group caribeno_group costero_group antillais_group caribbanglo_group centrano_group chacoan_group   }
 }
 county_tribe = {
@@ -24,7 +24,7 @@ county_tribe = {
 	tier = county
 	priority = 17
 	top_liege = no
-	governments = { tribal_government clan_government }
+	governments = { tribal_government }
 	culture_groups = { amazonico_group guarani_group xingu_group caribeno_group costero_group antillais_group caribbanglo_group centrano_group chacoan_group   }
 }
 
@@ -377,4 +377,126 @@ empire_federation = {
 	priority = 57
 	top_liege = no
 	governments = { captaincy_government }
+}
+
+#Religious
+
+toqui = {
+	type = character
+	special = holder
+	priority = 301
+	titles = { d_toqui }
+	top_liege = no
+}
+
+caudillo_male = {
+	type = character
+	gender = male
+	special = holder
+	priority = 301
+	titles = { d_caudillo_patria_grande }
+	top_liege = no
+}
+
+caudillo_female = {
+	type = character
+	gender = female
+	special = holder
+	priority = 301
+	titles = { d_caudillo_patria_grande }
+	top_liege = no
+}
+
+###Mapuche
+
+baron_lonko = {
+	type = character
+	special = holder
+	tier = barony
+	priority = 17
+	top_liege = no
+	governments = { feudal_government clan_government tribal_government }
+	cultures = { mapuche }
+}
+
+barony_cavi = {
+	type = title
+	tier = barony
+	priority = 17
+	top_liege = no
+	governments = { feudal_government clan_government tribal_government }
+	cultures = { mapuche }
+}
+
+count_ulmen = {
+	type = character
+	special = holder
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { feudal_government clan_government tribal_government }
+	cultures = { mapuche }
+}
+
+county_lof = {
+	type = title
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { feudal_government clan_government tribal_government }
+	cultures = { mapuche }
+}
+
+duke_ulmen_futa_lonko = {
+	type = character
+	special = holder
+	tier = duchy
+	priority = 27
+	top_liege = no
+	governments = { feudal_government clan_government tribal_government }
+	cultures = { mapuche }
+}
+duchy_aillarewe = {
+	type = title
+	tier = duchy
+	priority = 27
+	top_liege = no
+	governments = { feudal_government clan_government tribal_government }
+	cultures = { mapuche }
+}
+
+king_nizol_lonko = {
+	type = character
+	special = holder
+	tier = kingdom
+	priority = 27
+	top_liege = no
+	governments = { feudal_government clan_government tribal_government }
+	cultures = { mapuche }
+}
+kingdom_futalmapu = {
+	type = title
+	tier = kingdom
+	priority = 27
+	top_liege = no
+	governments = { feudal_government clan_government tribal_government }
+	cultures = { mapuche }
+}
+
+emperor_nizol_futa_lonko = {
+	type = character
+	special = holder
+	tier = empire
+	priority = 27
+	top_liege = no
+	governments = { feudal_government clan_government tribal_government }
+	cultures = { mapuche }
+}
+empire_wallmapu = {
+	type = title
+	tier = empire
+	priority = 27
+	top_liege = no
+	governments = { feudal_government clan_government tribal_government }
+	cultures = { mapuche }
 }

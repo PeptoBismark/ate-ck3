@@ -46,6 +46,7 @@ on_title_gain = {
 		#Test event for title destruction on-action.
 
 		religious_decision.0312 #New holder of a county with a runestone
+		ate_religious_decision.101 #New holder of country with anima shrine
 		coa.1 # check if title Coat of Arms should change.
 	}
 }

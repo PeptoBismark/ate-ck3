@@ -112,7 +112,7 @@
 			Jackson James Jarrod Jimmy Johnny Joseph Joshua Julian
 			Kelvin Kent Kenwin
 			Landon Larry Lee Leroy Lonnie Lowry Luther
-			Malcolm Mike
+			Malcolm Maxton Mike
 			Nate Neil Newman Norman
 			Patrick
 			Raymond Reginald Ricky Rod Ryan
@@ -211,13 +211,13 @@
 		mother_name_chance = 40
 
 	}
-	catawba = {
+	seminole = {
 
 		ethnicities = {
 	90 = amerindian
 	10 = white_indigenous
 }
-			color = { 140 165 242 }
+			color = { 77 133 54 }
 
 		male_names = {
 			
@@ -227,13 +227,63 @@
 			
 		}
 
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 15
+		father_name_chance = 30
 
-		pat_grm_name_chance = 25
-		mat_grm_name_chance = 25
-		mother_name_chance = 0
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+
+	}
+	choctaw = {
+
+		ethnicities = {
+	90 = amerindian
+	10 = white_indigenous
+}
+			color = { 20 140 106 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+
+	}
+	chickasaw = {
+
+		ethnicities = {
+	90 = amerindian
+	10 = white_indigenous
+}
+			color = { 127 204 178 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
 
 	}
 }

@@ -1,13 +1,68 @@
-﻿#wrestling_match_interaction_has_been_challenged= {
-#	first_not = wrestling_match_interaction_has_been_challenged
-#}
+﻿wrestling_match_interaction_has_been_challenged= {
+	first_not = wrestling_match_interaction_has_been_challenged
+}
 
-#wrestling_match_timing= {
-#	first = wrestling_match_timing
-#	first_not = not_wrestling_match_timing
-#}
+wrestling_match_timing= {
+	first = wrestling_match_timing
+	first_not = not_wrestling_match_timing
+}
 
 lay_on_hands_interaction_is_healthy={
 	first = not_lay_on_hands_interaction_is_healthy
 	first_not = lay_on_hands_interaction_is_healthy
+}
+
+decision_has_court_chaplain_same_gender_male = {
+	first = I_HAVE_MALE_COURT_CHAPLAIN
+	first_not = NOT_I_HAVE_MALE_COURT_CHAPLAIN
+}
+
+decision_has_court_chaplain_same_gender_female = {
+	first = I_HAVE_FEMALE_COURT_CHAPLAIN
+	first_not = NOT_I_HAVE_FEMALE_COURT_CHAPLAIN
+}
+
+deliverance_ministry_timing = {
+	first = deliverance_ministry_timing_up
+	first_not = NOT_deliverance_ministry_timing_up
+}
+
+deliver_from_evil_interaction_has_been_delivered = {
+	first_not = deliver_from_evil_has_been_delivered
+}
+
+machete_sayona_timing = {
+	first = MACHETE_SAYONA_TIMING_UP
+	first_not = NOT_MACHETE_SAYONA_TIMING_UP
+}
+
+machete_sayona_interaction_has_been_bewitched = {
+	first_not = machete_sayona_interaction_has_been_bewitched_up
+}
+
+machete_bolefuego_timing = {
+	first = MACHETE_BOLEFUEGO_TIMING_UP
+	first_not = NOT_MACHETE_BOLEFUEGO_TIMING_UP	
+}
+
+machete_bolefuego_interaction_has_been_bewitched = {
+	first_not = machete_bolefuego_interaction_has_been_bewitched_up
+}
+
+machete_florentino_timing = {
+	first = MACHETE_FLORENTINO_TIMING_UP
+	first_not = NOT_MACHETE_FLORENTINO_TIMING_UP	
+}
+
+machete_florentino_interaction_has_been_bewitched = {
+	first_not = machete_florentino_interaction_has_been_bewitched_up
+}
+
+machete_juan_timing = {
+	first = MACHETE_JUAN_TIMING_UP
+	first_not = NOT_MACHETE_JUAN_TIMING_UP	
+}
+
+machete_juan_interaction_has_been_bewitched = {
+	first_not = machete_juan_interaction_has_been_bewitched_up
 }

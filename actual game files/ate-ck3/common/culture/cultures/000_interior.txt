@@ -39,6 +39,72 @@ graphical_cultures = {
 	10 = white_indigenous
 }
 	}
+	yakama = {
+
+			color = { 255 205 58 }
+
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+	90 = amerindian
+	10 = white_indigenous
+}
+	}
+	tinainu = {
+
+			color = { 252 176 64 }
+
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+	90 = amerindian
+	10 = white_indigenous
+}
+	}
 	paiute = {
 
 			color = { 206 198 132 }
@@ -80,7 +146,37 @@ graphical_cultures = {
 			"dynn_"
 		}
 		dynasty_names = {
-			"dynn_"
+			"dynn_Arrowchis"
+			"dynn_Baker"
+			"dynn_Blackhair"
+			"dynn_Carmenoros"
+			"dynn_Casias"
+			"dynn_Cesspooch"
+			"dynn_Chapoose"
+			"dynn_Chegup"
+			"dynn_Cuthair"
+			"dynn_Eyetoo"
+			"dynn_Foolbear"
+			"dynn_Hatch"
+			"dynn_Hight"
+			"dynn_Keyaanie"
+			"dynn_Larose"
+			"dynn_Lucero"
+			"dynn_Maez"
+			"dynn_Natchees"
+			"dynn_Pawwinnee"
+			"dynn_Poowegup"
+			"dynn_Powaukee"
+			"dynn_Redfoot"
+			"dynn_Sage"
+			"dynn_Secakuku"
+			"dynn_Serawop"
+			"dynn_Shore"
+			"dynn_Slaugh"
+			"dynn_Tapoof"
+			"dynn_Wissiup"
+			"dynn_Wopsock"
+			"dynn_Wyasket"
 		}
 		
 		male_names = {
@@ -88,6 +184,111 @@ graphical_cultures = {
 		}
 		female_names = {
 			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+	90 = amerindian
+	10 = white_indigenous
+}
+	}
+	pomo = {
+
+			color = { 255 63 89 }
+
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_Adam"
+			"dynn_Antone"
+			"dynn_Aparicio"
+			"dynn_Arterberry"
+			"dynn_Augustine"
+			"dynn_Baguio"
+			"dynn_Ballokai"
+			"dynn_Beltran"
+			"dynn_Billy"
+			"dynn_Boggs"
+			"dynn_Buldam"
+			"dynn_Camper"
+			"dynn_Campernero"
+			"dynn_Chomchadila"
+			"dynn_Cobarrubia"
+			"dynn_Danoxa"
+			"dynn_Dapishul"
+			"dynn_Elliott"
+			"dynn_Erio"
+			"dynn_Fairall"
+			"dynn_Galanda"
+			"dynn_Galleto"
+			"dynn_Gallinomero"
+			"dynn_Garcia"
+			"dynn_Giron"
+			"dynn_Goforth"
+			"dynn_Gomes"
+			"dynn_Gualala"
+			"dynn_Hair"
+			"dynn_Hardwick"
+			"dynn_Hermosillo"
+			"dynn_Holstine"
+			"dynn_Jacob"
+			"dynn_Kabinapek"
+			"dynn_Kaime"
+			"dynn_Komacho"
+			"dynn_Kulanapo"
+			"dynn_Lema"
+			"dynn_Martinez"
+			"dynn_Mejia"
+			"dynn_Muniz"
+			"dynn_Muro"
+			"dynn_Nevarez"
+			"dynn_Nicolas"
+			"dynn_Perez"
+			"dynn_Pete"
+			"dynn_Pina"
+			"dynn_Pinola"
+			"dynn_Poam"
+			"dynn_Posh"
+			"dynn_Rael"
+			"dynn_Ramos"
+			"dynn_Rivera"
+			"dynn_Rojes"
+			"dynn_Rosales"
+			"dynn_Sanchez"
+			"dynn_Shirley"
+			"dynn_Shodokai"
+			"dynn_Siako"
+			"dynn_Sigala"
+			"dynn_Silva"
+			"dynn_Simon"
+			"dynn_Sokoa"
+			"dynn_Solorio"
+			"dynn_Steele"
+			"dynn_Thomas"
+			"dynn_Viramontes"
+			"dynn_Xowalek"
+			"dynn_Yobotui"
+			"dynn_Yusal"
+		}
+		
+		male_names = {
+			Dudi-Labith
+			Kalpela
+			Suk
+			Xasis
+		}
+		female_names = {
+			Ni_pst_ka
 		}
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.

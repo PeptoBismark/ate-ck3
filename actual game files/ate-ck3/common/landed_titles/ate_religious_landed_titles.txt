@@ -1,0 +1,52 @@
+﻿@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+# special titles
+d_toqui = {
+	color = { 7 237 222 }
+	color2 = { 0 220 220 }
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = no
+	
+	capital = c_cl_04_temuco
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	can_create = {
+		faith = { 
+			fervor >= 50
+		}
+	}
+	destroy_if_invalid_heir = yes
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+
+}
+
+d_caudillo_patria_grande = {
+	color = { 7 237 222 }
+	color2 = { 0 220 220 }
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = no
+	
+	capital = c_co_21_c_cuta
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	can_create = {
+		faith = { 
+			fervor >= 50
+		}
+	}
+	destroy_if_invalid_heir = yes
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+
+}

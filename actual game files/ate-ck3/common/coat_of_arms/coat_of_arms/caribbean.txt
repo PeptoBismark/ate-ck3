@@ -1,4 +1,4 @@
-e_caribbean = {
+ e_caribbean = {
 	pattern = "pattern_horizontal_split_01.dds"
 	color1 = "blue_light"
 	color2 = "blue"

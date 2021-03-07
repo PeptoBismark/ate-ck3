@@ -72,7 +72,7 @@ call_constituent_assembly_decision = {
 		faith = {
 			has_doctrine_parameter = enables_constituent_assembly
 		}
-		has_title = d_caudillo_patria_grande
+		has_title = root.faith.religious_head_title
 		NOT = {
 			has_character_flag = assembly_once_lifetime
 		}
@@ -519,3 +519,227 @@ consult_the_huacas_decision = {
 		}		
 	}
 }
+
+get_initiated_mystery_cult_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+
+	desc = get_initiated_mystery_cult_decision_desc
+	selection_tooltip = get_initiated_mystery_cult_decision_tooltip
+
+	is_shown = {
+		faith = {
+			has_doctrine_parameter = select_machete_spells_active
+		}
+		NOR = {
+			has_character_modifier = hell_stallion
+			has_character_modifier = night_mare
+		}
+	}
+	is_valid = {
+		is_adult = yes
+		OR = {
+			custom_description = {
+				text = decision_has_court_chaplain_same_gender_male
+				exists = cp:councillor_court_chaplain
+				is_male = yes
+				cp:councillor_court_chaplain = {
+					is_available_adult = yes
+					is_male = yes
+				}
+			}
+			custom_description = {
+				text = decision_has_court_chaplain_same_gender_female
+				exists = cp:councillor_court_chaplain
+				is_female = yes
+				cp:councillor_court_chaplain = {
+					is_available_adult = yes
+					is_female = yes
+				}
+			}
+		}
+	}
+
+	is_valid_showing_failures_only = {
+
+	}
+
+	effect = {
+		hidden_effect = {
+			trigger_event = ate_religious_decision.120
+		}
+		custom_tooltip = get_initiated_mystery_cult_effect
+	}
+
+	ai_check_interval = 12
+	
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100	
+	}
+}
+
+machete_pray_for_prosperity_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+
+	desc = machete_pray_for_prosperity_decision_desc
+	selection_tooltip = machete_pray_for_prosperity_decision_tooltip
+	cooldown = { 
+		years = 10
+	}
+	is_shown = {
+		faith = {
+			has_doctrine_parameter = select_machete_spells_active
+		}
+		OR = {
+			has_character_modifier = hell_stallion
+			has_character_modifier = night_mare
+		}
+	}
+	is_valid = {
+		is_adult = yes
+		OR = {
+			has_character_modifier = hell_stallion
+			has_character_modifier = night_mare
+		}
+		OR = {
+			custom_description = {
+				text = decision_has_court_chaplain_same_gender_male
+				exists = cp:councillor_court_chaplain
+				is_male = yes
+				cp:councillor_court_chaplain = {
+					is_available_adult = yes
+					is_male = yes
+				}
+			}
+			custom_description = {
+				text = decision_has_court_chaplain_same_gender_female
+				exists = cp:councillor_court_chaplain
+				is_female = yes
+				cp:councillor_court_chaplain = {
+					is_available_adult = yes
+					is_female = yes
+				}
+			}
+		}
+	}
+
+	is_valid_showing_failures_only = {
+
+	}
+
+	effect = {
+		hidden_effect = {
+			random_list = {
+				50 = {
+					trigger_event = ate_religious_decision.121
+				}
+				50 = {
+					trigger_event = ate_religious_decision.122
+				}
+			}
+		}
+		custom_tooltip = machete_pray_for_prosperity_effect
+	}
+
+	ai_check_interval = 12
+	
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100	
+	}
+}
+
+nguillatun_become_toqui_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+
+	desc = nguillatun_become_toqui_decision_desc
+	selection_tooltip = nguillatun_become_toqui_decision_tooltip
+	is_shown = {
+		faith = faith:nguillatun
+		title:d_toqui = {
+			is_title_created = no
+		}
+		faith = {
+			AND = {
+				fervor > 50
+				fervor <= 75
+			}
+		}
+	}
+	is_valid = {
+		OR = {
+			martial >= 13
+			prowess >= 13
+		}
+		is_adult = yes
+		is_independent_ruler = yes
+		OR = {
+			AND = {
+				OR = {
+					highest_held_title_tier = tier_kingdom
+					highest_held_title_tier = tier_empire
+				}
+				prestige >= 400
+				piety >= 650
+			}
+			AND = {
+				highest_held_title_tier = tier_duchy
+				prestige >= 650
+				piety >= 900				
+			}
+		}
+	}
+
+	is_valid_showing_failures_only = {
+
+	}
+
+	effect = {
+		if = {
+			limit = {
+				root.faith  = {
+					has_doctrine = doctrine_no_head
+				}
+			}
+			root.faith = {
+				remove_doctrine = doctrine_no_head
+				add_doctrine = doctrine_temporal_head
+			}
+		}
+		if = {
+			limit = {
+				highest_held_title_tier = tier_duchy
+			}
+			add_prestige = -750
+			add_piety = -1000
+		}
+		if = {
+			limit = {
+				OR = {
+					highest_held_title_tier = tier_kingdom
+					highest_held_title_tier = tier_empire
+				}
+			}
+			add_prestige = -500
+			add_piety = -750
+		}
+		get_title = d_toqui
+	}
+
+	ai_check_interval = 12
+	
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100	
+	}
+}
+
