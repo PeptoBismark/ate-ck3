@@ -209,7 +209,7 @@
 
 			#Main
 			doctrine = doctrine_gender_male_dominated
-			doctrine = doctrine_temporal_head
+			doctrine = doctrine_no_head #Temporal Head attainable by unique decision
 			doctrine = doctrine_theocracy_lay_clergy
 			#Marriage
 			doctrine = doctrine_concubines
