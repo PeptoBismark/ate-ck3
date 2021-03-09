@@ -825,7 +825,7 @@
 576=wetlands # b_co_29_noname168147217 - no_name_168_147_217
 577=wetlands # b_ca_on_ranoke - Ranoke
 #c_attawapiskat - Attawapiskat
-578=wetlands # b_ca_on_attawapiskat - Attawapiskat
+578=taiga # b_ca_on_attawapiskat - Attawapiskat
 579=wetlands # b_ca_on_fort_albany - Fort Albany
 #c_ca_on_fort_severn - Fort Severn
 580=wetlands # b_ca_on_winisk - Winisk
@@ -1962,63 +1962,63 @@
 1394=plains # b_us_ny_southampton - Southampton
 #d_us_nj_bergen - Bergen
 #c_us_nj_newark - Newark
-1395=plains # b_us_nj_newark - Newark
+1395=hills # b_us_nj_newark - Newark
 1396=plains # b_us_nj_passaic - Passaic
-1397=plains # b_us_nj_paterson - Paterson
+1397=hills # b_us_nj_paterson - Paterson
 1398=plains # b_us_nj_parsippany - Parsippany
-1399=plains # b_us_nj_west_milford - West Milford
+1399=hills # b_us_nj_west_milford - West Milford
 #c_us_nj_middlesex - Middlesex
-1400=plains # b_us_nj_elizabeth - Elizabeth
+1400=hills # b_us_nj_elizabeth - Elizabeth
 1401=plains # b_us_nj_edison - Edison
-1402=plains # b_us_nj_bridgewater - Bridgewater
+1402=hills # b_us_nj_bridgewater - Bridgewater
 #c_us_nj_sparta - Sparta
-1403=plains # b_us_nj_dover - Dover
-1404=plains # b_us_nj_sparta - Sparta
-1405=plains # b_us_nj_high_bridge - High Bridge
+1403=hills # b_us_nj_dover - Dover
+1404=hills # b_us_nj_sparta - Sparta
+1405=hills # b_us_nj_high_bridge - High Bridge
 #d_connecticut - Connecticut
 #c_hartford - Hartford
 1406=farmlands # b_us_ct_hartford - Hartford
 1407=plains # b_us_ma_springfield - Springfield
-1408=plains # b_us_ma_westfield - Westfield
+1408=hills # b_us_ma_westfield - Westfield
 1409=plains # b_us_ct_manchester - Manchester
 1410=plains # b_us_ct_meriden - Meriden
 #c_quinnipiac - Quinnipiac
 1411=farmlands # b_us_ct_new_haven - New Haven
 1412=farmlands # b_us_ct_bridgeport - Bridgeport
 1413=forest # b_us_ct_danbury - Danbury
-1414=plains # b_us_ct_waterbury - Waterbury
+1414=hills # b_us_ct_waterbury - Waterbury
 #c_us_ct_bristol - Bristol
-1415=plains # b_us_ct_bristol - Bristol
+1415=hills # b_us_ct_bristol - Bristol
 1416=forest # b_us_ct_west_torrington - West Torrington
 1417=forest # b_us_ct_winchester_center - Winchester Center
 #d_jersey - South Jersey
 #c_us_nj_cherry_hill - Cherry Hill
-1418=plains # b_us_nj_cherry_hill - Cherry Hill
+1418=farmlands # b_us_nj_cherry_hill - Cherry Hill
 1419=plains # b_us_nj_sewell - Sewell
-1420=plains # b_us_nj_vineland - Vineland
+1420=forest # b_us_nj_vineland - Vineland
 #c_us_nj_mount_laurel - Mount Laurel
-1421=plains # b_us_nj_mount_laurel - Mount Laurel
-1422=plains # b_us_nj_browns_mills - Browns Mills
+1421=farmlands # b_us_nj_mount_laurel - Mount Laurel
+1422=forest # b_us_nj_browns_mills - Browns Mills
 #c_us_nj_egg_harbor - Egg Harbor
-1423=plains # b_us_nj_atlantic_city - Atlantic City
-1424=plains # b_us_nj_villas - Villas
-1425=plains # b_us_nj_egg_harbor - Egg Harbor
+1423=wetlands # b_us_nj_atlantic_city - Atlantic City
+1424=wetlands # b_us_nj_villas - Villas
+1425=wetlands # b_us_nj_egg_harbor - Egg Harbor
 #c_us_nj_south_vineland - South Vineland
-1426=plains # b_us_nj_south_vineland - South Vineland
-1427=plains # b_us_nj_pennsville - Pennsville
-1428=plains # b_us_nj_bridgeton - Bridgeton
+1426=wetlands # b_us_nj_south_vineland - South Vineland
+1427=wetlands # b_us_nj_pennsville - Pennsville
+1428=wetlands # b_us_nj_bridgeton - Bridgeton
 #d_north_jersey - Raritan
 #c_us_nj_brick - Brick
 1429=plains # b_us_nj_brick - Brick
 1430=plains # b_us_nj_middletown - Middletown
 1431=plains # b_us_nj_jackson - Jackson
 #c_us_nj_trenton - Trenton
-1432=plains # b_us_nj_trenton - Trenton
+1432=farmlands # b_us_nj_trenton - Trenton
 1433=plains # b_us_nj_twin_rivers - Twin Rivers
 1434=plains # b_us_nj_bradley_gardens - Bradley Gardens
 #c_us_nj_toms_river - Toms River
-1435=plains # b_us_nj_toms_river - Toms River
-1436=plains # b_us_nj_ocean_acres - Ocean Acres
+1435=wetlands # b_us_nj_toms_river - Toms River
+1436=flooded_forests # b_us_nj_ocean_acres - Ocean Acres
 #k_new_england - New England
 #d_boston - Boston
 #c_boston - Boston
@@ -2028,7 +2028,7 @@
 #c_merrimack - Merrimack
 1440=plains # b_us_ma_lawrence - Lawrence
 1441=plains # b_us_nh_portsmouth - Portsmouth
-1442=plains # b_us_nh_dover - Dover
+1442=hills # b_us_nh_dover - Dover
 1443=plains # b_us_ma_andover - Andover
 #c_plymouth - Plymouth
 1444=farmlands # b_us_ma_plymouth - Plymouth
@@ -2049,7 +2049,7 @@
 1455=forest # b_us_ct_guilford - Guilford
 1456=forest # b_us_ct_willimantic - Willimantic
 #c_quiet_corner - Quiet Corner
-1457=hills # b_us_ct_plainfield - Plainfield
+1457=plains # b_us_ct_plainfield - Plainfield
 1458=forest # b_us_ct_mansfield_city - Mansfield City
 #d_massachusetts - Massachusetts
 #c_worcester - Worcester
@@ -2070,7 +2070,7 @@
 1469=farmlands # b_us_nh_manchester - Manchester
 1470=plains # b_us_nh_nashua - Nashua
 1471=forest # b_us_nh_concord - Concord
-1472=plains # b_us_nh_peterborough - Peterborough
+1472=hills # b_us_nh_peterborough - Peterborough
 #c_monadnock - Monadnock
 1473=forest # b_us_nh_keene - Keene
 1474=forest # b_us_nh_claremont - Claremont
@@ -2087,20 +2087,20 @@
 #c_sebago - Portland
 1481=plains # b_us_me_portland - Portland
 1482=plains # b_us_me_biddeford - Biddeford
-1483=plains # b_us_me_sanford - Sanford
+1483=hills # b_us_me_sanford - Sanford
 1484=hills # b_us_nh_conway - Conway
 #c_belknap_lakes - Lewiston
-1485=forest # b_us_me_lewiston - Lewiston
+1485=hills # b_us_me_lewiston - Lewiston
 1486=plains # b_us_me_brunswick - Brunswick
-1487=plains # b_us_me_poland - Poland
+1487=hills # b_us_me_poland - Poland
 #c_kennebec - Kennebeck
 1488=plains # b_us_me_augusta - Augusta
 1489=plains # b_us_me_lisbon - Lisbon
 1490=plains # b_us_me_winslow - Winslow
 #c_us_me_north_bath - North Bath
-1491=plains # b_us_me_rockland - Rockland
+1491=hills # b_us_me_rockland - Rockland
 1492=plains # b_us_me_north_bath - North Bath
-1493=plains # b_us_me_belfast - Belfast
+1493=hills # b_us_me_belfast - Belfast
 #d_green_mountains - Green Mountains
 #c_burlington - Burlington
 1494=forest # b_us_vt_burlington - Burlington
@@ -2129,19 +2129,19 @@
 #c_penobscot - Penobscot
 1509=plains # b_us_me_bangor - Bangor
 1510=forest # b_us_me_millinocket - Millinocket
-1511=plains # b_us_me_holden - Holden
-1512=plains # b_us_me_lincoln - Lincoln
+1511=hills # b_us_me_holden - Holden
+1512=hills # b_us_me_lincoln - Lincoln
 #c_mount_desert - Mount Desert
-1513=plains # b_us_me_ellsworth - Ellsworth
-1514=plains # b_us_me_hancock - Hancock
-1515=plains # b_us_me_carroll - Carroll
+1513=forest # b_us_me_ellsworth - Ellsworth
+1514=forest # b_us_me_hancock - Hancock
+1515=forest # b_us_me_carroll - Carroll
 #c_st_john_valley - St. John Valley
 1516=plains # b_us_me_presque_isle - Presque Isle
 1517=forest # b_ca_nb_saint_l_onard - Saint-Léonard
 1518=hills # b_us_me_ashland - Ashland
 #c_passamaquoddy - Passamaquoddy
-1519=plains # b_us_me_machias - Machias
-1520=plains # b_us_me_lubec - Lubec
+1519=forest # b_us_me_machias - Machias
+1520=forest # b_us_me_lubec - Lubec
 1521=forest # b_us_me_baileyville - Baileyville
 #c_caribou - Caribou
 1522=forest # b_us_me_houlton - Houlton
@@ -2163,74 +2163,74 @@
 #k_columbia - Columbia
 #d_maryland - Maryland
 #c_us_md_baltimore - Baltimore
-1533=plains # b_us_md_baltimore - Baltimore
-1534=plains # b_us_md_columbia - Columbia
-1535=plains # b_us_md_towson - Towson
-1536=plains # b_us_md_south_bel_air - South Bel Air
+1533=wetlands # b_us_md_baltimore - Baltimore
+1534=hills # b_us_md_columbia - Columbia
+1535=hills # b_us_md_towson - Towson
+1536=hills # b_us_md_south_bel_air - South Bel Air
 #c_us_md_waldorf - Waldorf
-1537=plains # b_us_md_bowie - Bowie
-1538=plains # b_us_md_waldorf - Waldorf
-1539=plains # b_us_md_california - California
+1537=wetlands # b_us_md_bowie - Bowie
+1538=wetlands # b_us_md_waldorf - Waldorf
+1539=wetlands # b_us_md_california - California
 #c_us_md_frederick - Frederick
-1540=plains # b_us_md_gaithersburg - Gaithersburg
-1541=plains # b_us_md_frederick - Frederick
-1542=plains # b_us_md_eldersburg - Eldersburg
+1540=hills # b_us_md_gaithersburg - Gaithersburg
+1541=hills # b_us_md_frederick - Frederick
+1542=hills # b_us_md_eldersburg - Eldersburg
 #c_us_md_germantown - Germantown
-1543=plains # b_us_va_leesburg - Leesburg
+1543=hills # b_us_va_leesburg - Leesburg
 1544=plains # b_us_md_germantown - Germantown
-1545=plains # b_us_md_brunswick - Brunswick
+1545=hills # b_us_md_brunswick - Brunswick
 #c_us_md_hagerstown - Hagerstown
-1546=plains # b_us_md_hagerstown - Hagerstown
-1547=plains # b_us_va_winchester - Winchester
-1548=plains # b_us_wv_martinsburg - Martinsburg
-1549=plains # b_us_wv_augusta - Augusta
+1546=hills # b_us_md_hagerstown - Hagerstown
+1547=hills # b_us_va_winchester - Winchester
+1548=hills # b_us_wv_martinsburg - Martinsburg
+1549=hills # b_us_wv_augusta - Augusta
 #d_delaware_valley - Delaware Valley
 #c_us_pa_philadelphia - Philadelphia
-1550=plains # b_us_pa_philadelphia - Philadelphia
-1551=plains # b_us_pa_chester - Chester
-1552=plains # b_us_pa_abington - Abington
-1553=plains # b_us_pa_levittown - Levittown
+1550=farmlands # b_us_pa_philadelphia - Philadelphia
+1551=forest # b_us_pa_chester - Chester
+1552=farmlands # b_us_pa_abington - Abington
+1553=farmlands # b_us_pa_levittown - Levittown
 1554=plains # b_us_pa_king_of_prussia - King of Prussia
 #c_us_de_wilmington - Wilmington
 1555=plains # b_us_de_wilmington - Wilmington
-1556=plains # b_us_de_newark - Newark
+1556=hills # b_us_de_newark - Newark
 1557=plains # b_us_md_elkton - Elkton
 #d_capital - The Potomac
 #c_us_dc_washington - Washington
-1558=plains # b_us_dc_washington - Washington
-1559=plains # b_us_va_arlington - Arlington
-1560=plains # b_us_md_silver_spring - Silver Spring
-1561=plains # b_us_va_alexandria - Alexandria
+1558=wetlands # b_us_dc_washington - Washington
+1559=wetlands # b_us_va_arlington - Arlington
+1560=wetlands # b_us_md_silver_spring - Silver Spring
+1561=wetlands # b_us_va_alexandria - Alexandria
 #d_delmarva - Delmarva
 #c_us_md_salisbury - Salisbury
-1562=plains # b_us_md_salisbury - Salisbury
-1563=plains # b_us_de_seaford - Seaford
-1564=plains # b_us_md_ocean_pines - Ocean Pines
+1562=wetlands # b_us_md_salisbury - Salisbury
+1563=wetlands # b_us_de_seaford - Seaford
+1564=wetlands # b_us_md_ocean_pines - Ocean Pines
 #c_us_de_dover - Dover
-1565=plains # b_us_de_dover - Dover
-1566=plains # b_us_de_middletown - Middletown
-1567=plains # b_us_de_milford - Milford
+1565=wetlands # b_us_de_dover - Dover
+1566=wetlands # b_us_de_middletown - Middletown
+1567=wetlands # b_us_de_milford - Milford
 #c_us_md_easton - Easton
-1568=plains # b_us_md_easton - Easton
-1569=plains # b_us_md_chestertown - Chestertown
-1570=plains # b_us_md_cambridge - Cambridge
+1568=wetlands # b_us_md_easton - Easton
+1569=wetlands # b_us_md_chestertown - Chestertown
+1570=wetlands # b_us_md_cambridge - Cambridge
 #c_us_md_pocomoke_city - Pocomoke City
-1571=plains # b_us_md_pocomoke_city - Pocomoke City
-1572=plains # b_us_va_exmore - Exmore
+1571=flooded_forests # b_us_md_pocomoke_city - Pocomoke City
+1572=wetlands # b_us_va_exmore - Exmore
 #k_hudsonia - Hudsonia
 #d_hudson_valley - Hudson Valley
 #c_us_ny_ramapo - Ramapo
-1573=plains # b_us_ny_ramapo - Ramapo
+1573=hills # b_us_ny_ramapo - Ramapo
 1574=plains # b_us_ny_monroe - Monroe
-1575=plains # b_us_ny_new_paltz - New Paltz
-1576=plains # b_us_ny_wallkill - Wallkill
+1575=hills # b_us_ny_new_paltz - New Paltz
+1576=hills # b_us_ny_wallkill - Wallkill
 #c_dutchess - Poughkeepsie
 1577=hills # b_us_ny_cortlandt - Cortlandt
 1578=plains # b_us_ny_poughkeepsie - Poughkeepsie
 1579=hills # b_us_ny_dover - Dover
 #c_us_ny_kingston - Kingston
-1580=plains # b_us_ny_kingston - Kingston
-1581=plains # b_us_ny_shandaken - Shandaken
+1580=mountains # b_us_ny_kingston - Kingston
+1581=mountains # b_us_ny_shandaken - Shandaken
 #d_finger_lakes - Finger Lakes
 #c_us_ny_rochester - Rochester
 1582=plains # b_us_ny_rochester - Rochester
@@ -2238,70 +2238,70 @@
 1584=plains # b_us_ny_batavia - Batavia
 1585=plains # b_us_ny_greece - Greece
 #c_us_ny_elmira - Elmira
-1586=plains # b_us_ny_elmira - Elmira
-1587=plains # b_us_ny_corning - Corning
-1588=plains # b_us_ny_hornell - Hornell
-1589=plains # b_us_ny_bath - Bath
+1586=hills # b_us_ny_elmira - Elmira
+1587=hills # b_us_ny_corning - Corning
+1588=hills # b_us_ny_hornell - Hornell
+1589=hills # b_us_ny_bath - Bath
 #c_us_ny_auburn - Auburn
 1590=plains # b_us_ny_auburn - Auburn
 1591=plains # b_us_ny_geneva - Geneva
 1592=plains # b_us_ny_arcadia - Arcadia
 1593=plains # b_us_ny_hannibal - Hannibal
 #c_us_ny_ithaca - Ithaca
-1594=plains # b_us_ny_ithaca - Ithaca
-1595=plains # b_us_ny_seneca_falls - Seneca Falls
+1594=hills # b_us_ny_ithaca - Ithaca
+1595=hills # b_us_ny_seneca_falls - Seneca Falls
 #c_us_ny_victor - Victor
 1596=plains # b_us_ny_victor - Victor
-1597=plains # b_us_ny_geneseo - Geneseo
-1598=plains # b_us_ny_north_dansville - North Dansville
+1597=hills # b_us_ny_geneseo - Geneseo
+1598=hills # b_us_ny_north_dansville - North Dansville
 #d_albany - Albany
 #c_us_ny_albany - Albany
 1599=plains # b_us_ny_albany - Albany
-1600=plains # b_us_ny_schenectady - Schenectady
-1601=plains # b_us_ny_catskill - Catskill
-1602=plains # b_us_ny_coeymans - Coeymans
+1600=hills # b_us_ny_schenectady - Schenectady
+1601=mountains # b_us_ny_catskill - Catskill
+1602=hills # b_us_ny_coeymans - Coeymans
 #c_us_ny_clifton_park - Clifton Park
-1603=plains # b_us_ny_clifton_park - Clifton Park
-1604=plains # b_us_ny_saratoga_springs - Saratoga Springs
-1605=plains # b_us_ny_gloversville - Gloversville
+1603=forest # b_us_ny_clifton_park - Clifton Park
+1604=forest # b_us_ny_saratoga_springs - Saratoga Springs
+1605=hills # b_us_ny_gloversville - Gloversville
 #c_us_ny_amsterdam - Amsterdam
-1606=plains # b_us_ny_amsterdam - Amsterdam
-1607=plains # b_us_ny_cobleskill - Cobleskill
+1606=hills # b_us_ny_amsterdam - Amsterdam
+1607=hills # b_us_ny_cobleskill - Cobleskill
 #d_onondaga - Onondaga
 #c_us_ny_syracuse - Syracuse
 1608=plains # b_us_ny_syracuse - Syracuse
 1609=plains # b_us_ny_sullivan - Sullivan
 1610=plains # b_us_ny_camillus - Camillus
-1611=plains # b_us_ny_manlius - Manlius
+1611=hills # b_us_ny_manlius - Manlius
 #c_us_ny_utica - Utica
 1612=plains # b_us_ny_utica - Utica
-1613=plains # b_us_ny_german_flatts - German Flatts
-1614=plains # b_us_ny_schuyler - Schuyler
-1615=plains # b_us_ny_rome - Rome
-1616=plains # b_us_ny_marcy - Marcy
+1613=hills # b_us_ny_german_flatts - German Flatts
+1614=forest # b_us_ny_schuyler - Schuyler
+1615=forest # b_us_ny_rome - Rome
+1616=forest # b_us_ny_marcy - Marcy
 #c_us_ny_lysander - Lysander
 1617=plains # b_us_ny_lysander - Lysander
 1618=plains # b_us_ny_hastings - Hastings
-1619=plains # b_us_ny_constantia - Constantia
+1619=forest # b_us_ny_constantia - Constantia
 #d_catskill - Catskill
 #c_us_ny_union - Union
-1620=plains # b_us_ny_binghamton - Binghamton
-1621=plains # b_us_ny_union - Union
-1622=plains # b_us_ny_owego - Owego
+1620=hills # b_us_ny_binghamton - Binghamton
+1621=hills # b_us_ny_union - Union
+1622=hills # b_us_ny_owego - Owego
 #c_us_ny_cortland - Cortland
-1623=plains # b_us_ny_cortland - Cortland
-1624=plains # b_us_ny_norwich - Norwich
-1625=plains # b_us_ny_hamilton - Hamilton
+1623=hills # b_us_ny_cortland - Cortland
+1624=hills # b_us_ny_norwich - Norwich
+1625=hills # b_us_ny_hamilton - Hamilton
 #c_us_ny_delaware - Delaware
-1626=plains # b_us_ny_thompson - Thompson
-1627=plains # b_us_ny_sidney - Sidney
-1628=plains # b_us_ny_walton - Walton
+1626=forest # b_us_ny_thompson - Thompson
+1627=hills # b_us_ny_sidney - Sidney
+1628=mountains # b_us_ny_walton - Walton
 #c_us_ny_port_jervis - Port Jervis
-1629=plains # b_us_ny_port_jervis - Port Jervis
-1630=plains # b_us_pa_honesdale - Honesdale
+1629=forest # b_us_ny_port_jervis - Port Jervis
+1630=hills # b_us_pa_honesdale - Honesdale
 #c_us_ny_oneonta - Oneonta
-1631=plains # b_us_ny_oneonta - Oneonta
-1632=plains # b_us_ny_davenport - Davenport
+1631=hills # b_us_ny_oneonta - Oneonta
+1632=hills # b_us_ny_davenport - Davenport
 #d_us_ny_rensselaer - Rensselaer
 #c_berkshires - Berkshires
 1633=mountains # b_us_ma_pittsfield - Pittsfield
@@ -2317,86 +2317,86 @@
 1641=hills # b_us_ny_copake - Copake
 #d_champlain - Champlain
 #c_us_ny_queensbury - Queensbury
-1642=plains # b_us_ny_queensbury - Queensbury
-1643=plains # b_us_ny_johnsburg - Johnsburg
+1642=forest # b_us_ny_queensbury - Queensbury
+1643=hills # b_us_ny_johnsburg - Johnsburg
 #c_us_ny_plattsburgh - Plattsburgh
 1644=plains # b_us_ny_plattsburgh - Plattsburgh
-1645=plains # b_us_ny_dannemora - Dannemora
+1645=hills # b_us_ny_dannemora - Dannemora
 #c_us_ny_north_elba - North Elba
-1646=plains # b_us_ny_north_elba - North Elba
-1647=plains # b_us_ny_ticonderoga - Ticonderoga
-1648=plains # b_us_ny_moriah - Moriah
+1646=mountains # b_us_ny_north_elba - North Elba
+1647=hills # b_us_ny_ticonderoga - Ticonderoga
+1648=mountains # b_us_ny_moriah - Moriah
 #d_us_ny_jefferson - Jefferson
 #c_us_ny_watertown - Watertown
 1649=plains # b_us_ny_watertown - Watertown
 1650=plains # b_us_ny_le_ray - Le Ray
 1651=plains # b_us_ny_clayton - Clayton
 #c_us_ny_potsdam - Potsdam
-1652=plains # b_us_ny_potsdam - Potsdam
-1653=plains # b_us_ny_ogdensburg - Ogdensburg
-1654=plains # b_us_ny_canton - Canton
+1652=forest # b_us_ny_potsdam - Potsdam
+1653=forest # b_us_ny_ogdensburg - Ogdensburg
+1654=forest # b_us_ny_canton - Canton
 #d_adirondack - Adirondack
 #c_us_ny_malone - Malone
-1655=plains # b_us_ny_saranac_lake - Saranac Lake
-1656=plains # b_us_ny_malone - Malone
-1657=plains # b_us_ny_tupper_lake - Tupper Lake
+1655=hills # b_us_ny_saranac_lake - Saranac Lake
+1656=hills # b_us_ny_malone - Malone
+1657=hills # b_us_ny_tupper_lake - Tupper Lake
 #c_us_ny_wilna - Wilna
-1658=plains # b_us_ny_carthage - Carthage
-1659=plains # b_us_ny_west_turin - West Turin
-1660=plains # b_us_ny_wilna - Wilna
+1658=hills # b_us_ny_carthage - Carthage
+1659=hills # b_us_ny_west_turin - West Turin
+1660=hills # b_us_ny_wilna - Wilna
 #c_us_ny_webb - Webb
-1661=plains # b_us_ny_indian_lake - Indian Lake
-1662=plains # b_us_ny_long_lake - Long Lake
-1663=plains # b_us_ny_webb - Webb
+1661=hills # b_us_ny_indian_lake - Indian Lake
+1662=hills # b_us_ny_long_lake - Long Lake
+1663=hills # b_us_ny_webb - Webb
 #k_deitscherei - Deitscherei
 #d_coalland - Coalland
 #c_us_pa_allentown - Allentown
-1664=plains # b_us_pa_allentown - Allentown
-1665=plains # b_us_pa_bethlehem - Bethlehem
+1664=hills # b_us_pa_allentown - Allentown
+1665=hills # b_us_pa_bethlehem - Bethlehem
 1666=plains # b_us_pa_limerick - Limerick
-1667=plains # b_us_pa_east_stroudsburg - East Stroudsburg
+1667=hills # b_us_pa_east_stroudsburg - East Stroudsburg
 1668=plains # b_us_pa_perkasie - Perkasie
 #c_us_pa_scranton - Scranton
-1669=plains # b_us_pa_scranton - Scranton
-1670=plains # b_us_pa_back_mountain - Back Mountain
-1671=plains # b_us_pa_wilkes_barre - Wilkes-Barre
+1669=hills # b_us_pa_scranton - Scranton
+1670=forest # b_us_pa_back_mountain - Back Mountain
+1671=hills # b_us_pa_wilkes_barre - Wilkes-Barre
 #c_us_pa_sayre - Sayre
-1672=plains # b_us_pa_sayre - Sayre
-1673=plains # b_us_pa_tunkhannock - Tunkhannock
-1674=plains # b_us_pa_susquehanna - Susquehanna
-1675=plains # b_us_pa_noxen - Noxen
+1672=hills # b_us_pa_sayre - Sayre
+1673=hills # b_us_pa_tunkhannock - Tunkhannock
+1674=hills # b_us_pa_susquehanna - Susquehanna
+1675=mountains # b_us_pa_noxen - Noxen
 #d_upper_susquehanna - Upper Susquehanna
 #c_us_pa_reading - Reading
-1676=plains # b_us_pa_reading - Reading
-1677=plains # b_us_pa_hershey - Hershey
-1678=plains # b_us_pa_lebanon - Lebanon
+1676=hills # b_us_pa_reading - Reading
+1677=hills # b_us_pa_hershey - Hershey
+1678=hills # b_us_pa_lebanon - Lebanon
 #c_us_pa_lancaster - Lancaster
-1679=plains # b_us_pa_lancaster - Lancaster
-1680=plains # b_us_pa_pottstown - Pottstown
-1681=plains # b_us_pa_coatesville - Coatesville
-1682=plains # b_us_pa_strasburg - Strasburg
+1679=farmlands # b_us_pa_lancaster - Lancaster
+1680=hills # b_us_pa_pottstown - Pottstown
+1681=hills # b_us_pa_coatesville - Coatesville
+1682=hills # b_us_pa_strasburg - Strasburg
 #c_us_pa_bloomsburg - Bloomsburg
-1683=plains # b_us_pa_pottsville - Pottsville
-1684=plains # b_us_pa_bloomsburg - Bloomsburg
-1685=plains # b_us_pa_shamokin - Shamokin
+1683=hills # b_us_pa_pottsville - Pottsville
+1684=hills # b_us_pa_bloomsburg - Bloomsburg
+1685=hills # b_us_pa_shamokin - Shamokin
 #c_us_pa_williamsport - Williamsport
-1686=plains # b_us_pa_williamsport - Williamsport
-1687=plains # b_us_pa_lock_haven - Lock Haven
-1688=plains # b_us_pa_sunbury - Sunbury
+1686=hills # b_us_pa_williamsport - Williamsport
+1687=mountains # b_us_pa_lock_haven - Lock Haven
+1688=hills # b_us_pa_sunbury - Sunbury
 #d_lower_susquehanna - Lower Susquehanna
 #c_us_pa_harrisburg - Harrisburg
-1689=plains # b_us_pa_harrisburg - Harrisburg
+1689=hills # b_us_pa_harrisburg - Harrisburg
 1690=plains # b_us_pa_hanover - Hanover
-1691=plains # b_us_pa_chambersburg - Chambersburg
+1691=hills # b_us_pa_chambersburg - Chambersburg
 #c_us_pa_altoona - Altoona
-1692=plains # b_us_pa_altoona - Altoona
-1693=plains # b_us_pa_park_forest_village - Park Forest Village
-1694=plains # b_us_pa_bedford - Bedford
-1695=plains # b_us_pa_mifflintown - Mifflintown
+1692=mountains # b_us_pa_altoona - Altoona
+1693=mountains # b_us_pa_park_forest_village - Park Forest Village
+1694=mountains # b_us_pa_bedford - Bedford
+1695=hills # b_us_pa_mifflintown - Mifflintown
 #c_us_pa_york - York
-1696=plains # b_us_pa_york - York
-1697=plains # b_us_pa_new_freedom - New Freedom
-1698=plains # b_us_pa_airville - Airville
+1696=hills # b_us_pa_york - York
+1697=hills # b_us_pa_new_freedom - New Freedom
+1698=hills # b_us_pa_airville - Airville
 #e_cerrado - Cerrado
 #k_goias - Goias
 #d_rio_verde - Rio Verde
@@ -2981,15 +2981,15 @@
 #c_us_il_chicago - Chicago
 2109=farmlands # b_us_il_chicago - Chicago
 #c_us_il_dupage - DuPage
-2110=plains # b_us_in_hammond - Hammond
+2110=farmlands # b_us_in_hammond - Hammond
 2111=plains # b_us_il_naperville - Naperville
 2112=plains # b_us_il_aurora - Aurora
 2113=plains # b_us_il_orland_park - Orland Park
 2114=plains # b_us_il_wasco - Wasco
 2115=plains # b_us_il_plano - Plano
 #c_us_il_elgin - Elgin
-2116=plains # b_us_wi_kenosha - Kenosha
-2117=plains # b_us_il_elgin - Elgin
+2116=farmlands # b_us_wi_kenosha - Kenosha
+2117=farmlands # b_us_il_elgin - Elgin
 2118=plains # b_us_il_woodstock - Woodstock
 #c_us_il_rockford - Rockford
 2119=plains # b_us_il_rockford - Rockford
@@ -3003,9 +3003,9 @@
 2126=plains # b_us_il_gilman - Gilman
 #d_indianapolis - Indianapolis
 #c_us_in_indianapolis - Indianapolis
-2127=plains # b_us_in_indianapolis - Indianapolis
-2128=plains # b_us_in_carmel - Carmel
-2129=plains # b_us_in_plainfield - Plainfield
+2127=farmlands # b_us_in_indianapolis - Indianapolis
+2128=farmlands # b_us_in_carmel - Carmel
+2129=farmlands # b_us_in_plainfield - Plainfield
 2130=plains # b_us_in_anderson - Anderson
 #c_us_in_muncie - Muncie
 2131=plains # b_us_in_muncie - Muncie
@@ -3017,12 +3017,12 @@
 2136=plains # b_us_in_marion - Marion
 2137=plains # b_us_in_frankfort - Frankfort
 #c_us_in_bloomington - Bloomington
-2138=plains # b_us_in_bloomington - Bloomington
-2139=plains # b_us_in_franklin - Franklin
+2138=hills # b_us_in_bloomington - Bloomington
+2139=farmlands # b_us_in_franklin - Franklin
 2140=plains # b_us_in_martinsville - Martinsville
 #d_us_wi_milwaukee - Milwaukee
 #c_us_wi_milwaukee - Milwaukee
-2141=plains # b_us_wi_milwaukee - Milwaukee
+2141=farmlands # b_us_wi_milwaukee - Milwaukee
 2142=plains # b_us_wi_waukesha - Waukesha
 2143=plains # b_us_wi_muskego - Muskego
 2144=plains # b_us_wi_oconomowoc - Oconomowoc
@@ -3037,13 +3037,13 @@
 2151=plains # b_us_wi_harrison - Harrison
 #d_illinois - Illinois
 #c_us_il_peoria - Peoria
-2152=plains # b_us_il_peoria - Peoria
+2152=farmlands # b_us_il_peoria - Peoria
 2153=plains # b_us_il_princeton - Princeton
 2154=plains # b_us_il_canton - Canton
 2155=plains # b_us_il_kewanee - Kewanee
 2156=plains # b_us_il_abingdon - Abingdon
 #c_us_il_springfield - Springfield
-2157=plains # b_us_il_springfield - Springfield
+2157=farmlands # b_us_il_springfield - Springfield
 2158=plains # b_us_il_pekin - Pekin
 2159=plains # b_us_il_lincoln - Lincoln
 2160=plains # b_us_il_beardstown - Beardstown
@@ -3053,13 +3053,13 @@
 2163=plains # b_us_il_litchfield - Litchfield
 2164=plains # b_us_il_carlinville - Carlinville
 #c_us_il_woodford - Woodford
-2165=plains # b_us_il_washington - Washington
+2165=farmlands # b_us_il_washington - Washington
 2166=plains # b_us_il_streator - Streator
 2167=plains # b_us_il_pontiac - Pontiac
 2168=plains # b_us_il_eureka - Eureka
 #d_badgerland - Badgerland
 #c_us_wi_madison - Madison
-2169=plains # b_us_wi_madison - Madison
+2169=farmlands # b_us_wi_madison - Madison
 2170=plains # b_us_wi_janesville - Janesville
 2171=plains # b_us_wi_whitewater - Whitewater
 2172=plains # b_us_wi_monroe - Monroe
@@ -3071,14 +3071,14 @@
 2176=plains # b_us_wi_berlin - Berlin
 2177=plains # b_us_wi_grand_rapids - Grand Rapids
 2178=plains # b_us_wi_waupaca - Waupaca
-2179=plains # b_us_wi_mauston - Mauston
+2179=hills # b_us_wi_mauston - Mauston
 #d_us_il_champaign - Champaign
 #c_us_il_bloomington - Bloomington
 2180=plains # b_us_il_bloomington - Bloomington
 2181=plains # b_us_il_decatur - Decatur
 2182=plains # b_us_il_monticello - Monticello
 #c_us_il_champaign - Champaign
-2183=plains # b_us_il_champaign - Champaign
+2183=farmlands # b_us_il_champaign - Champaign
 2184=plains # b_us_il_danville - Danville
 2185=plains # b_us_il_paris - Paris
 2186=plains # b_us_in_clinton - Clinton
@@ -3096,10 +3096,10 @@
 2196=plains # b_us_il_hoopeston - Hoopeston
 #d_coulee - Coulee
 #c_us_wi_la_crosse - La Crosse
-2197=plains # b_us_wi_la_crosse - La Crosse
-2198=plains # b_us_wi_tomah - Tomah
-2199=plains # b_us_wi_black_river_falls - Black River Falls
-2200=plains # b_us_wi_mondovi - Mondovi
+2197=hills # b_us_wi_la_crosse - La Crosse
+2198=hills # b_us_wi_tomah - Tomah
+2199=hills # b_us_wi_black_river_falls - Black River Falls
+2200=hills # b_us_wi_mondovi - Mondovi
 #c_us_il_freeport - Freeport
 2201=plains # b_us_il_sterling - Sterling
 2202=plains # b_us_il_freeport - Freeport
@@ -3107,13 +3107,13 @@
 2204=plains # b_us_il_galena - Galena
 #c_us_wi_baraboo - Baraboo
 2205=plains # b_us_wi_mount_horeb - Mount Horeb
-2206=plains # b_us_wi_baraboo - Baraboo
-2207=plains # b_us_wi_richland_center - Richland Center
+2206=hills # b_us_wi_baraboo - Baraboo
+2207=hills # b_us_wi_richland_center - Richland Center
 2208=plains # b_us_wi_dodgeville - Dodgeville
 #c_us_wi_platteville - Platteville
 2209=plains # b_us_wi_platteville - Platteville
-2210=plains # b_us_wi_lancaster - Lancaster
-2211=plains # b_us_wi_prairie_du_chien - Prairie du Chien
+2210=hills # b_us_wi_lancaster - Lancaster
+2211=hills # b_us_wi_prairie_du_chien - Prairie du Chien
 #d_wabash - Wabash
 #c_us_in_lafayette - Lafayette
 2212=plains # b_us_in_lafayette - Lafayette
@@ -3137,9 +3137,9 @@
 2224=plains # b_us_mi_troy - Troy
 2225=plains # b_us_mi_lapeer - Lapeer
 #c_us_mi_livonia - Livonia
-2226=plains # b_us_mi_canton - Canton
+2226=farmlands # b_us_mi_canton - Canton
 2227=forest # b_us_mi_livonia - Livonia
-2228=plains # b_us_mi_monroe - Monroe
+2228=farmlands # b_us_mi_monroe - Monroe
 #c_us_mi_ann_arbor - Ann Arbor
 2229=forest # b_us_mi_ann_arbor - Ann Arbor
 2230=plains # b_us_mi_adrian - Adrian
@@ -3154,14 +3154,14 @@
 2236=plains # b_us_in_portage - Portage
 2237=plains # b_us_in_michigan_city - Michigan City
 #c_us_in_fort_wayne - Fort Wayne
-2238=plains # b_us_in_fort_wayne - Fort Wayne
+2238=farmlands # b_us_in_fort_wayne - Fort Wayne
 2239=plains # b_us_in_auburn - Auburn
 2240=plains # b_us_in_kendallville - Kendallville
 2241=plains # b_us_oh_hicksville - Hicksville
 #c_us_in_south_bend - South Bend
 2242=plains # b_us_in_south_bend - South Bend
 2243=farmlands # b_us_in_elkhart - Elkhart
-2244=plains # b_us_mi_sturgis - Sturgis
+2244=wetlands # b_us_mi_sturgis - Sturgis
 #c_us_mi_benton_harbor - Benton Harbor
 2245=plains # b_us_mi_benton_harbor - Benton Harbor
 2246=plains # b_us_mi_dowagiac - Dowagiac
@@ -3267,30 +3267,30 @@
 #k_ohio - Ohio
 #d_ohio - Scioto
 #c_us_oh_columbus - Columbus
-2322=plains # b_us_oh_columbus - Columbus
-2323=plains # b_us_oh_westerville - Westerville
+2322=farmlands # b_us_oh_columbus - Columbus
+2323=farmlands # b_us_oh_westerville - Westerville
 2324=plains # b_us_oh_lancaster - Lancaster
 2325=plains # b_us_oh_mount_vernon - Mount Vernon
 #c_us_oh_akron - Akron
-2326=plains # b_us_oh_akron - Akron
+2326=forest # b_us_oh_akron - Akron
 2327=plains # b_us_oh_massillon - Massillon
-2328=plains # b_us_oh_new_philadelphia - New Philadelphia
-2329=plains # b_us_oh_ashland - Ashland
+2328=hills # b_us_oh_new_philadelphia - New Philadelphia
+2329=hills # b_us_oh_ashland - Ashland
 #c_us_oh_mansfield - Mansfield
 2330=plains # b_us_oh_mansfield - Mansfield
 2331=plains # b_us_oh_delaware - Delaware
 2332=plains # b_us_oh_marion - Marion
 #c_us_oh_newark - Newark
-2333=plains # b_us_oh_newark - Newark
-2334=plains # b_us_oh_zanesville - Zanesville
-2335=plains # b_us_oh_logan - Logan
+2333=hills # b_us_oh_newark - Newark
+2334=hills # b_us_oh_zanesville - Zanesville
+2335=forest # b_us_oh_logan - Logan
 #d_cincy - Cincy
 #c_us_oh_cincinnati - Cincinnati
-2336=plains # b_us_oh_cincinnati - Cincinnati
+2336=farmlands # b_us_oh_cincinnati - Cincinnati
 2337=plains # b_us_oh_hamilton - Hamilton
-2338=plains # b_us_oh_oxford - Oxford
+2338=farmlands # b_us_oh_oxford - Oxford
 #c_us_oh_dayton - Dayton
-2339=plains # b_us_oh_dayton - Dayton
+2339=farmlands # b_us_oh_dayton - Dayton
 2340=plains # b_us_oh_troy - Troy
 2341=plains # b_us_oh_xenia - Xenia
 2342=plains # b_us_oh_eaton - Eaton
@@ -3305,46 +3305,46 @@
 2349=plains # b_us_oh_london - London
 #d_reserve - The Reserve
 #c_us_oh_cleveland - Cleveland
-2350=plains # b_us_oh_cleveland - Cleveland
-2351=plains # b_us_oh_strongsville - Strongsville
-2352=plains # b_us_oh_lorain - Lorain
+2350=farmlands # b_us_oh_cleveland - Cleveland
+2351=farmlands # b_us_oh_strongsville - Strongsville
+2352=farmlands # b_us_oh_lorain - Lorain
 2353=plains # b_us_oh_vermilion_on_the_lake - Vermilion-on-the-Lake
 #c_us_oh_mentor - Mentor
-2354=plains # b_us_oh_mentor - Mentor
-2355=plains # b_us_oh_ashtabula - Ashtabula
-2356=plains # b_us_oh_middlefield - Middlefield
+2354=farmlands # b_us_oh_mentor - Mentor
+2355=forest # b_us_oh_ashtabula - Ashtabula
+2356=forest # b_us_oh_middlefield - Middlefield
 #d_upper_ohio - Upper Ohio
 #c_us_oh_youngstown - Youngstown
-2357=plains # b_us_oh_youngstown - Youngstown
-2358=plains # b_us_oh_steubenville - Steubenville
-2359=plains # b_us_oh_alliance - Alliance
+2357=forest # b_us_oh_youngstown - Youngstown
+2358=hills # b_us_oh_steubenville - Steubenville
+2359=hills # b_us_oh_alliance - Alliance
 #c_us_oh_portsmouth - Portsmouth
-2360=plains # b_us_oh_chillicothe - Chillicothe
-2361=plains # b_us_oh_washington_court_house - Washington Court House
-2362=plains # b_us_oh_wilmington - Wilmington
-2363=plains # b_us_oh_portsmouth - Portsmouth
+2360=forest # b_us_oh_chillicothe - Chillicothe
+2361=forest # b_us_oh_washington_court_house - Washington Court House
+2362=forest # b_us_oh_wilmington - Wilmington
+2363=forest # b_us_oh_portsmouth - Portsmouth
 2364=plains # b_us_oh_georgetown - Georgetown
 #c_us_oh_cambridge - Cambridge
-2365=plains # b_us_oh_martins_ferry - Martins Ferry
-2366=plains # b_us_oh_cambridge - Cambridge
-2367=plains # b_us_wv_new_martinsville - New Martinsville
-2368=plains # b_us_oh_uhrichsville - Uhrichsville
-2369=plains # b_us_oh_caldwell - Caldwell
-2370=plains # b_us_oh_duncan_falls - Duncan Falls
+2365=hills # b_us_oh_martins_ferry - Martins Ferry
+2366=hills # b_us_oh_cambridge - Cambridge
+2367=hills # b_us_wv_new_martinsville - New Martinsville
+2368=hills # b_us_oh_uhrichsville - Uhrichsville
+2369=hills # b_us_oh_caldwell - Caldwell
+2370=hills # b_us_oh_duncan_falls - Duncan Falls
 #c_us_oh_athens - Athens
-2371=plains # b_us_oh_athens - Athens
-2372=plains # b_us_oh_marietta - Marietta
-2373=plains # b_us_wv_point_pleasant - Point Pleasant
+2371=forest # b_us_oh_athens - Athens
+2372=forest # b_us_oh_marietta - Marietta
+2373=forest # b_us_wv_point_pleasant - Point Pleasant
 #c_us_oh_wheelersburg - Wheelersburg
-2374=plains # b_us_oh_wheelersburg - Wheelersburg
-2375=plains # b_us_oh_jackson - Jackson
-2376=plains # b_us_wv_lesage - Lesage
+2374=forest # b_us_oh_wheelersburg - Wheelersburg
+2375=forest # b_us_oh_jackson - Jackson
+2376=forest # b_us_wv_lesage - Lesage
 #k_superior - Superior
 #d_twin_cities - Twin Cities
 #c_us_mn_minneapolis - Minneapolis
-2377=plains # b_us_mn_minneapolis - Minneapolis
-2378=plains # b_us_mn_saint_paul - Saint Paul
-2379=plains # b_us_mn_eagan - Eagan
+2377=farmlands # b_us_mn_minneapolis - Minneapolis
+2378=farmlands # b_us_mn_saint_paul - Saint Paul
+2379=farmlands # b_us_mn_eagan - Eagan
 #c_us_mn_shakopee - Shakopee
 2380=plains # b_us_mn_shakopee - Shakopee
 2381=plains # b_us_mn_chaska - Chaska
@@ -3386,10 +3386,10 @@
 2408=plains # b_us_wi_crandon - Crandon
 #d_chippewa - Chippewa
 #c_us_wi_eau_claire - Eau Claire
-2409=plains # b_us_wi_eau_claire - Eau Claire
+2409=hills # b_us_wi_eau_claire - Eau Claire
 2410=plains # b_us_wi_medford - Medford
 2411=plains # b_us_wi_stanley - Stanley
-2412=plains # b_us_wi_neillsville - Neillsville
+2412=hills # b_us_wi_neillsville - Neillsville
 #c_us_wi_barron - Barron
 2413=plains # b_us_wi_new_richmond - New Richmond
 2414=plains # b_us_wi_menomonie - Menomonie
@@ -3457,25 +3457,25 @@
 #k_allegheny - Alleghenia
 #d_westsylvania - Westsylvania
 #c_us_pa_pittsburgh - Pittsburgh
-2457=plains # b_us_pa_pittsburgh - Pittsburgh
+2457=hills # b_us_pa_pittsburgh - Pittsburgh
 2458=plains # b_us_pa_penn_hills - Penn Hills
-2459=plains # b_us_pa_cranberry_township - Cranberry Township
-2460=plains # b_us_pa_washington - Washington
+2459=hills # b_us_pa_cranberry_township - Cranberry Township
+2460=hills # b_us_pa_washington - Washington
 #c_us_pa_greensburg - Greensburg
-2461=plains # b_us_pa_greensburg - Greensburg
-2462=plains # b_us_pa_vandergrift - Vandergrift
-2463=plains # b_us_pa_indiana - Indiana
+2461=hills # b_us_pa_greensburg - Greensburg
+2462=hills # b_us_pa_vandergrift - Vandergrift
+2463=hills # b_us_pa_indiana - Indiana
 #c_us_pa_hermitage - Hermitage
-2464=plains # b_us_pa_butler - Butler
-2465=plains # b_us_pa_grove_city - Grove City
+2464=hills # b_us_pa_butler - Butler
+2465=hills # b_us_pa_grove_city - Grove City
 2466=plains # b_us_pa_hermitage - Hermitage
 #c_us_pa_johnstown - Johnstown
-2467=plains # b_us_pa_johnstown - Johnstown
-2468=plains # b_us_pa_somerset - Somerset
+2467=mountains # b_us_pa_johnstown - Johnstown
+2468=mountains # b_us_pa_somerset - Somerset
 #c_us_pa_dubois - DuBois
-2469=plains # b_us_pa_dubois - DuBois
-2470=plains # b_us_pa_clarion - Clarion
-2471=plains # b_us_pa_marienville - Marienville
+2469=hills # b_us_pa_dubois - DuBois
+2470=hills # b_us_pa_clarion - Clarion
+2471=forest # b_us_pa_marienville - Marienville
 #d_niagara - Niagara
 #c_us_ny_buffalo - Buffalo
 2472=plains # b_us_ny_buffalo - Buffalo
@@ -3483,28 +3483,28 @@
 2474=plains # b_us_ny_lockport - Lockport
 2475=plains # b_us_ny_clarence - Clarence
 #c_us_pa_erie - Erie
-2476=plains # b_us_pa_erie - Erie
-2477=plains # b_us_ny_jamestown - Jamestown
-2478=plains # b_us_pa_meadville - Meadville
-2479=plains # b_us_pa_oil_city - Oil City
+2476=forest # b_us_pa_erie - Erie
+2477=forest # b_us_ny_jamestown - Jamestown
+2478=hills # b_us_pa_meadville - Meadville
+2479=hills # b_us_pa_oil_city - Oil City
 #c_us_ny_hamburg - Hamburg
 2480=plains # b_us_ny_hamburg - Hamburg
-2481=plains # b_us_ny_pomfret - Pomfret
-2482=plains # b_us_ny_gowanda - Gowanda
+2481=forest # b_us_ny_pomfret - Pomfret
+2482=forest # b_us_ny_gowanda - Gowanda
 #c_us_ny_attica - Attica
 2483=plains # b_us_ny_attica - Attica
-2484=plains # b_us_ny_wellsville - Wellsville
-2485=plains # b_us_ny_alfred - Alfred
+2484=forest # b_us_ny_wellsville - Wellsville
+2485=hills # b_us_ny_alfred - Alfred
 #d_wilds - The Wilds
 #c_us_ny_olean - Olean
-2486=plains # b_us_ny_olean - Olean
-2487=plains # b_us_pa_saint_marys - Saint Marys
+2486=forest # b_us_ny_olean - Olean
+2487=forest # b_us_pa_saint_marys - Saint Marys
 #c_us_pa_shiloh - Shiloh
-2488=plains # b_us_pa_shiloh - Shiloh
-2489=plains # b_us_pa_mansfield - Mansfield
-2490=plains # b_us_pa_coudersport - Coudersport
-2491=plains # b_us_pa_emporium - Emporium
-2492=plains # b_us_pa_whetham - Whetham
+2488=mountains # b_us_pa_shiloh - Shiloh
+2489=hills # b_us_pa_mansfield - Mansfield
+2490=forest # b_us_pa_coudersport - Coudersport
+2491=forest # b_us_pa_emporium - Emporium
+2492=forest # b_us_pa_whetham - Whetham
 #e_venezuela - Venezuela
 #k_venezuela - Venezuela
 #d_gran_caracas - Gran Caracas
@@ -6247,19 +6247,19 @@
 4452=plains # b_us_mo_butler - Butler
 #d_gateway - The Gateway
 #c_us_mo_saint_louis - Saint Louis
-4453=plains # b_us_mo_st_louis - St. Louis
-4454=plains # b_us_mo_wildwood - Wildwood
-4455=plains # b_us_mo_arnold - Arnold
+4453=farmlands # b_us_mo_st_louis - St. Louis
+4454=hills # b_us_mo_wildwood - Wildwood
+4455=hills # b_us_mo_arnold - Arnold
 #c_us_il_belleville - Belleville
-4456=plains # b_us_il_belleville - Belleville
+4456=farmlands # b_us_il_belleville - Belleville
 4457=plains # b_us_il_waterloo - Waterloo
 4458=plains # b_us_il_greenville - Greenville
 4459=plains # b_us_il_chester - Chester
-4460=plains # b_us_il_pinckneyville - Pinckneyville
+4460=farmlands # b_us_il_pinckneyville - Pinckneyville
 #c_us_mo_rolla - Rolla
-4461=plains # b_us_mo_washington - Washington
-4462=plains # b_us_mo_rolla - Rolla
-4463=plains # b_us_mo_bonne_terre - Bonne Terre
+4461=hills # b_us_mo_washington - Washington
+4462=hills # b_us_mo_rolla - Rolla
+4463=hills # b_us_mo_bonne_terre - Bonne Terre
 #d_twain - Twain
 #c_us_mo_o_fallon - O'Fallon
 4464=plains # b_us_mo_o_fallon - O'Fallon
@@ -6275,9 +6275,9 @@
 4471=farmlands # b_us_mo_sikeston - Sikeston
 4472=plains # b_us_mo_charleston - Charleston
 #c_us_mo_farmington - Farmington
-4473=plains # b_us_mo_farmington - Farmington
-4474=plains # b_us_mo_fredericktown - Fredericktown
-4475=plains # b_us_mo_ironton - Ironton
+4473=hills # b_us_mo_farmington - Farmington
+4474=forest # b_us_mo_fredericktown - Fredericktown
+4475=forest # b_us_mo_ironton - Ironton
 #d_chariton - Chariton
 #c_us_mo_chillicothe - Chillicothe
 4476=plains # b_us_mo_chillicothe - Chillicothe
@@ -6293,9 +6293,9 @@
 4484=plains # b_us_mo_mercer - Mercer
 #d_forgottonia - Forgottonia
 #c_us_il_quincy - Quincy
-4485=plains # b_us_il_quincy - Quincy
-4486=plains # b_us_il_pittsfield - Pittsfield
-4487=plains # b_us_il_rushville - Rushville
+4485=farmlands # b_us_il_quincy - Quincy
+4486=forest # b_us_il_pittsfield - Pittsfield
+4487=forest # b_us_il_rushville - Rushville
 #c_us_il_macomb - Macomb
 4488=plains # b_us_il_macomb - Macomb
 4489=plains # b_us_ia_keokuk - Keokuk
@@ -6365,14 +6365,14 @@
 4535=plains # b_us_ar_dewitt - DeWitt
 #d_turner_ward_knob - Turner Ward Knob
 #c_us_ar_fayetteville - Fayetteville
-4536=plains # b_us_ar_fayetteville - Fayetteville
+4536=hills # b_us_ar_fayetteville - Fayetteville
 4537=forest # b_us_ar_huntsville - Huntsville
 #c_us_ar_russellville - Russellville
 4538=mountains # b_us_ar_van_buren - Van Buren
 4539=mountains # b_us_ar_russellville - Russellville
 4540=mountains # b_us_ar_clarksville - Clarksville
 #c_us_ok_tahlequah - Tahlequah
-4541=plains # b_us_ok_tahlequah - Tahlequah
+4541=hills # b_us_ok_tahlequah - Tahlequah
 4542=plains # b_us_ok_grove - Grove
 4543=steppe # b_us_ok_vinita - Vinita
 #c_us_ar_harrison - Harrison
@@ -6441,7 +6441,7 @@
 #d_iowa - Iowa
 #c_us_ia_cedar_rapids - Cedar Rapids
 4588=plains # b_us_ia_cedar_rapids - Cedar Rapids
-4589=plains # b_us_ia_dubuque - Dubuque
+4589=farmlands # b_us_ia_dubuque - Dubuque
 4590=plains # b_us_ia_iowa_city - Iowa City
 #c_us_ia_waterloo - Waterloo
 4591=plains # b_us_ia_waterloo - Waterloo
@@ -6486,13 +6486,13 @@
 4619=plains # b_us_ia_guttenberg - Guttenberg
 #d_quad_cities - The Quad Cities
 #c_us_il_rock_island - Rock Island
-4620=plains # b_us_il_rock_island - Rock Island
+4620=farmlands # b_us_il_rock_island - Rock Island
 4621=plains # b_us_ia_muscatine - Muscatine
 4622=plains # b_us_ia_maquoketa - Maquoketa
 #c_us_il_moline - Moline
 4623=plains # b_us_il_moline - Moline
 4624=plains # b_us_il_galesburg - Galesburg
-4625=plains # b_us_il_aledo - Aledo
+4625=farmlands # b_us_il_aledo - Aledo
 #d_moingona - Moingona
 #c_us_ia_sioux_city - Sioux City
 4626=plains # b_us_ia_sioux_city - Sioux City
@@ -6989,7 +6989,7 @@
 #c_las_choapas - Las Choapas
 4979=jungle # b_mx_30_las_choapas - Las Choapas
 4980=jungle # b_mx_30_poblado_ - Poblado 10
-4981=jungle # b_mx_30_felipe_ngeles - Felipe Ángeles
+4981=hills # b_mx_30_felipe_ngeles - Felipe Ángeles
 #d_alta_huasteca - Alta Huasteca
 #c_tuxpam - Túxpam
 4982=plains # b_mx_30_t_xpam_de_rodr_guez_cano - Túxpam de Rodríguez Cano
@@ -8219,7 +8219,7 @@
 #c_longueuil - Longueuil
 5860=plains # b_ca_qc_ch_teauguay - Châteauguay
 5861=farmlands # b_ca_qc_beloeil - Beloeil
-5862=plains # b_ca_qc_saint_jean_sur_richelieu - Saint-Jean-sur-Richelieu
+5862=farmlands # b_ca_qc_saint_jean_sur_richelieu - Saint-Jean-sur-Richelieu
 5863=plains # b_ca_qc_napierville - Napierville
 #c_haute_yamaska - Haute-Yamaska
 5864=plains # b_ca_qc_granby - Granby
@@ -8431,9 +8431,9 @@
 6011=forest # b_ca_nb_bettsburg - Bettsburg
 #c_us_me_calais - Calais
 6012=forest # b_us_me_calais - Calais
-6013=plains # b_us_me_eastport - Eastport
-6014=hills # b_ca_nb_mcadam - McAdam
-6015=hills # b_ca_nb_beaver_harbour - Beaver Harbour
+6013=forest # b_us_me_eastport - Eastport
+6014=forest # b_ca_nb_mcadam - McAdam
+6015=forest # b_ca_nb_beaver_harbour - Beaver Harbour
 6016=forest # b_ca_nb_yoho - Yoho
 #d_petitcodiac - Petitcodiac
 #c_westmorland - Westmorland
@@ -8880,22 +8880,22 @@
 6334=farmlands # b_us_ca_gold_river - Gold River
 #k_jefferson - Jefferson
 #d_us_or_jackson - Jackson
-#c_us_or_medford - Medford
+#c_rogue_valley - Rogue Valley
 6335=hills # b_us_or_medford - Medford
 6336=mountains # b_us_or_klamath_falls - Klamath Falls
 6337=mountains # b_us_or_ashland - Ashland
-#c_us_or_roseburg - Roseburg
+#c_umpqua - Umpqua
 6338=forest # b_us_or_roseburg - Roseburg
 6339=mountains # b_us_or_tiller - Tiller
-#c_us_or_grants_pass - Grants Pass
+#c_port_jackson - Jackson
 6340=mountains # b_us_or_grants_pass - Grants Pass
 6341=mountains # b_us_or_shady_cove - Shady Cove
 6342=mountains # b_us_or_prospect - Prospect
-#c_us_or_coos_bay - Coos Bay
+#c_coos_1 - Coos
 6343=hills # b_us_or_coos_bay - Coos Bay
 6344=mountains # b_us_or_port_orford - Port Orford
 6345=mountains # b_us_or_melrose - Melrose
-#c_us_ca_crescent_city - Crescent City
+#c_siskiyou - Siskiyou
 6346=mountains # b_us_or_brookings - Brookings
 6347=mountains # b_us_ca_crescent_city - Crescent City
 6348=mountains # b_us_or_redwood - Redwood
@@ -8952,14 +8952,14 @@
 6385=drylands # b_us_ca_alturas - Alturas
 6386=drylands # b_us_ca_fall_river_mills - Fall River Mills
 #d_us_or_klamath - Klamath
-#c_us_or_altamont - Altamont
+#c_klamath_falls - Klamath Falls
 6387=drylands # b_us_or_altamont - Altamont
 6388=drylands # b_us_or_yocum - Yocum
-#c_us_or_lakeview - Lakeview
+#c_warner - Warner
 6389=drylands # b_us_or_lakeview - Lakeview
 6390=drylands # b_us_ca_cedarville - Cedarville
 6391=drylands # b_us_or_plush - Plush
-#c_us_or_chiloquin - Chiloquin
+#c_crater - Crater
 6392=drylands # b_us_or_chiloquin - Chiloquin
 6393=drylands # b_us_or_silver_lake - Silver Lake
 #k_nevada - Nevada
@@ -9014,108 +9014,110 @@
 6424=desert # b_us_nv_crescent_valley - Crescent Valley
 #e_thunderland - Thunderland
 #k_alberta - Alberta
-#d_palliser - Palliser
-#c_calgary - Calgary
-6425=plains # b_ca_ab_calgary - Calgary
-6426=taiga # b_ca_ab_airdrie - Airdrie
-6427=plains # b_ca_ab_okotoks - Okotoks
-6428=plains # b_ca_ab_chestermere - Chestermere
-6429=plains # b_ca_ab_didsbury - Didsbury
-6430=taiga # b_ca_ab_westcott - Westcott
-#c_lethbridge - Lethbridge
-6431=steppe # b_ca_ab_lethbridge - Lethbridge
-6432=steppe # b_ca_ab_coalhurst - Coalhurst
-6433=plains # b_ca_ab_raymond - Raymond
-#c_medicine_hat - Medicine Hat
-6434=steppe # b_ca_ab_medicine_hat - Medicine Hat
-6435=steppe # b_ca_ab_bow_island - Bow Island
-6436=steppe # b_ca_ab_schuler - Schuler
-6437=steppe # b_ca_ab_pakowki - Pakowki
-6438=steppe # b_ca_ab_nemiskam - Nemiskam
-#c_newell - Newell
-6439=steppe # b_ca_ab_brooks - Brooks
-6440=plains # b_ca_ab_strathmore - Strathmore
-6441=steppe # b_ca_ab_bassano - Bassano
-#c_foothills - Foothills
-6442=plains # b_ca_ab_high_river - High River
-6443=plains # b_ca_ab_claresholm - Claresholm
-6444=plains # b_ca_ab_lyndon - Lyndon
-#c_cardston - Cardston
-6445=plains # b_ca_ab_cardston - Cardston
-6446=plains # b_ca_ab_pincher_creek - Pincher Creek
-6447=plains # b_ca_ab_fort_macleod - Fort Macleod
-#c_hoodoo - Hoodoo
-6448=plains # b_ca_ab_drumheller - Drumheller
-6449=plains # b_ca_ab_three_hills - Three Hills
-6450=plains # b_ca_ab_watts - Watts
-#c_taber - Taber
-6451=steppe # b_ca_ab_vauxhall - Vauxhall
-6452=plains # b_ca_ab_vulcan - Vulcan
-6453=plains # b_ca_ab_siksika - Siksika
 #d_edmonton - Edmonton
 #c_edmonton - Edmonton
-6454=plains # b_ca_ab_edmonton - Edmonton
-6455=plains # b_ca_ab_sherwood_park - Sherwood Park
-6456=plains # b_ca_ab_beaumont - Beaumont
-6457=taiga # b_ca_ab_morinville - Morinville
-6458=taiga # b_ca_ab_duffield - Duffield
+6425=plains # b_ca_ab_edmonton - Edmonton
+6426=plains # b_ca_ab_sherwood_park - Sherwood Park
+6427=plains # b_ca_ab_beaumont - Beaumont
+6428=taiga # b_ca_ab_morinville - Morinville
+6429=taiga # b_ca_ab_duffield - Duffield
 #c_leduc - Leduc
-6459=taiga # b_ca_ab_drayton_valley - Drayton Valley
-6460=plains # b_ca_ab_leduc - Leduc
-6461=taiga # b_ca_ab_rimbey - Rimbey
-6462=taiga # b_ca_ab_winfield - Winfield
+6430=taiga # b_ca_ab_drayton_valley - Drayton Valley
+6431=plains # b_ca_ab_leduc - Leduc
+6432=taiga # b_ca_ab_rimbey - Rimbey
+6433=taiga # b_ca_ab_winfield - Winfield
 #c_camrose - Camrose
-6463=taiga # b_ca_ab_camrose - Camrose
-6464=plains # b_ca_ab_tofield - Tofield
-6465=plains # b_ca_ab_killam - Killam
-6466=plains # b_ca_ab_viking - Viking
+6434=taiga # b_ca_ab_camrose - Camrose
+6435=plains # b_ca_ab_tofield - Tofield
+6436=plains # b_ca_ab_killam - Killam
+6437=plains # b_ca_ab_viking - Viking
 #c_minburn - Minburn
-6467=plains # b_ca_ab_vegreville - Vegreville
-6468=plains # b_ca_ab_vermilion - Vermilion
-6469=plains # b_ca_ab_lamont - Lamont
+6438=plains # b_ca_ab_vegreville - Vegreville
+6439=plains # b_ca_ab_vermilion - Vermilion
+6440=plains # b_ca_ab_lamont - Lamont
 #c_athabasca - Athabasca
-6470=taiga # b_ca_ab_westlock - Westlock
-6471=taiga # b_ca_ab_athabasca - Athabasca
-6472=taiga # b_ca_ab_jarvie - Jarvie
-#d_chinook - Chinook
+6441=taiga # b_ca_ab_westlock - Westlock
+6442=taiga # b_ca_ab_athabasca - Athabasca
+6443=taiga # b_ca_ab_jarvie - Jarvie
+#d_ca_ab_calgary - Calgary
+#c_calgary - Calgary
+6444=plains # b_ca_ab_calgary - Calgary
+6445=taiga # b_ca_ab_airdrie - Airdrie
+6446=plains # b_ca_ab_okotoks - Okotoks
+6447=plains # b_ca_ab_chestermere - Chestermere
+6448=plains # b_ca_ab_didsbury - Didsbury
+6449=taiga # b_ca_ab_westcott - Westcott
+#c_foothills - Foothills
+6450=hills # b_ca_ab_high_river - High River
+6451=plains # b_ca_ab_claresholm - Claresholm
+6452=hills # b_ca_ab_lyndon - Lyndon
+#c_cardston - Cardston
+6453=plains # b_ca_ab_cardston - Cardston
+6454=hills # b_ca_ab_pincher_creek - Pincher Creek
+6455=plains # b_ca_ab_fort_macleod - Fort Macleod
+#d_palliser - Palliser
+#c_lethbridge - Lethbridge
+6456=steppe # b_ca_ab_lethbridge - Lethbridge
+6457=steppe # b_ca_ab_coalhurst - Coalhurst
+6458=plains # b_ca_ab_raymond - Raymond
+#c_medicine_hat - Medicine Hat
+6459=steppe # b_ca_ab_medicine_hat - Medicine Hat
+6460=steppe # b_ca_ab_bow_island - Bow Island
+6461=steppe # b_ca_ab_schuler - Schuler
+6462=steppe # b_ca_ab_pakowki - Pakowki
+6463=steppe # b_ca_ab_nemiskam - Nemiskam
+#c_newell - Newell
+6464=steppe # b_ca_ab_brooks - Brooks
+6465=plains # b_ca_ab_strathmore - Strathmore
+6466=steppe # b_ca_ab_bassano - Bassano
+#c_taber - Taber
+6467=steppe # b_ca_ab_vauxhall - Vauxhall
+6468=plains # b_ca_ab_vulcan - Vulcan
+6469=plains # b_ca_ab_siksika - Siksika
+#d_ca_ab_red_deer - Red Deer
 #c_red_deer - Red Deer
-6473=taiga # b_ca_ab_red_deer - Red Deer
-6474=taiga # b_ca_ab_lacombe - Lacombe
-6475=taiga # b_ca_ab_olds - Olds
-6476=taiga # b_ca_ab_sylvan_lake - Sylvan Lake
-#c_wainwright - Wainwright
-6477=plains # b_ca_ab_wainwright - Wainwright
-6478=plains # b_ca_ab_tinchebray - Tinchebray
-6479=plains # b_ca_ab_throne - Throne
+6470=taiga # b_ca_ab_red_deer - Red Deer
+6471=taiga # b_ca_ab_lacombe - Lacombe
+6472=taiga # b_ca_ab_olds - Olds
+6473=taiga # b_ca_ab_sylvan_lake - Sylvan Lake
+#c_hoodoo - Hoodoo
+6474=plains # b_ca_ab_drumheller - Drumheller
+6475=plains # b_ca_ab_three_hills - Three Hills
+6476=plains # b_ca_ab_watts - Watts
 #c_stettler - Stettler
-6480=plains # b_ca_ab_stettler - Stettler
-6481=plains # b_ca_ab_scollard - Scollard
-#c_hanna - Hanna
-6482=plains # b_ca_ab_hanna - Hanna
-6483=steppe # b_ca_ab_sharrow - Sharrow
-6484=steppe # b_ca_ab_wardlow - Wardlow
-#c_oyen - Oyen
-6485=steppe # b_ca_ab_acadia_valley - Acadia Valley
-6486=plains # b_ca_ab_bodo - Bodo
-6487=plains # b_ca_ab_youngstown - Youngstown
+6477=plains # b_ca_ab_stettler - Stettler
+6478=plains # b_ca_ab_scollard - Scollard
 #d_yellowhead - Yellowhead
 #c_yellowhead - Yellowhead
-6488=hills # b_ca_ab_hinton - Hinton
-6489=taiga # b_ca_ab_edson - Edson
-6490=hills # b_ca_ab_weald - Weald
+6479=hills # b_ca_ab_hinton - Hinton
+6480=taiga # b_ca_ab_edson - Edson
+6481=hills # b_ca_ab_weald - Weald
 #c_woodlands - Woodlands
-6491=taiga # b_ca_ab_whitecourt - Whitecourt
-6492=taiga # b_ca_ab_barrhead - Barrhead
-6493=taiga # b_ca_ab_mayerthorpe - Mayerthorpe
+6482=taiga # b_ca_ab_whitecourt - Whitecourt
+6483=taiga # b_ca_ab_barrhead - Barrhead
+6484=taiga # b_ca_ab_mayerthorpe - Mayerthorpe
 #c_clearwater - Clearwater
-6494=taiga # b_ca_ab_rocky_mountain_house - Rocky Mountain House
-6495=mountains # b_ca_ab_limestone_mountain - Limestone Mountain
-6496=hills # b_ca_ab_ullin - Ullin
+6485=taiga # b_ca_ab_rocky_mountain_house - Rocky Mountain House
+6486=mountains # b_ca_ab_limestone_mountain - Limestone Mountain
+6487=hills # b_ca_ab_ullin - Ullin
 #c_ca_ab_grande_cache - Grande Cache
-6497=hills # b_ca_ab_grande_cache - Grande Cache
-6498=taiga # b_ca_ab_fox_creek - Fox Creek
-6499=taiga # b_ca_ab_valleyview - Valleyview
-6500=hills # b_ca_ab_pedley - Pedley
+6488=hills # b_ca_ab_grande_cache - Grande Cache
+6489=taiga # b_ca_ab_fox_creek - Fox Creek
+6490=taiga # b_ca_ab_valleyview - Valleyview
+6491=hills # b_ca_ab_pedley - Pedley
+#d_chinook - Chinook
+#c_wainwright - Wainwright
+6492=plains # b_ca_ab_wainwright - Wainwright
+6493=plains # b_ca_ab_tinchebray - Tinchebray
+6494=plains # b_ca_ab_throne - Throne
+#c_hanna - Hanna
+6495=plains # b_ca_ab_hanna - Hanna
+6496=steppe # b_ca_ab_sharrow - Sharrow
+6497=steppe # b_ca_ab_wardlow - Wardlow
+#c_oyen - Oyen
+6498=steppe # b_ca_ab_acadia_valley - Acadia Valley
+6499=plains # b_ca_ab_bodo - Bodo
+6500=plains # b_ca_ab_youngstown - Youngstown
 #k_lakotah - Lakotah
 #d_minnesota - Minnesota
 #c_us_mn_saint_cloud - Saint Cloud
@@ -9327,7 +9329,7 @@
 6648=forest # b_ca_mb_falcon_lake - Falcon Lake
 #d_parkland - Parkland
 #c_brandon - Brandon
-6649=plains # b_ca_mb_brandon - Brandon
+6649=wetlands # b_ca_mb_brandon - Brandon
 6650=plains # b_ca_mb_neepawa - Neepawa
 6651=plains # b_ca_mb_rivers - Rivers
 6652=plains # b_ca_mb_shoal_lake - Shoal Lake
@@ -9341,7 +9343,7 @@
 6658=plains # b_ca_mb_weiden - Weiden
 #c_turtle_mountain - Turtle Mountain
 6659=plains # b_ca_mb_killarney - Killarney
-6660=plains # b_ca_mb_boissevain - Boissevain
+6660=hills # b_ca_mb_boissevain - Boissevain
 6661=plains # b_us_nd_bottineau - Bottineau
 #c_riding_mountain - Riding Mountain
 6662=plains # b_ca_mb_russell - Russell
@@ -9439,9 +9441,9 @@
 6729=plains # b_ca_sk_viceroy - Viceroy
 #c_maple_creek - Maple Creek
 6730=steppe # b_ca_sk_maple_creek - Maple Creek
-6731=steppe # b_ca_ab_elkwater - Elkwater
+6731=hills # b_ca_ab_elkwater - Elkwater
 6732=steppe # b_ca_ab_wild_horse - Wild Horse
-6733=steppe # b_ca_sk_stone - Stone
+6733=hills # b_ca_sk_stone - Stone
 #c_shaunavon - Shaunavon
 6734=steppe # b_ca_sk_shaunavon - Shaunavon
 6735=steppe # b_ca_sk_aneroid - Aneroid
@@ -9497,7 +9499,7 @@
 6771=plains # b_ca_mb_melita - Melita
 #c_carlyle - Carlyle
 6772=plains # b_ca_sk_grenfell - Grenfell
-6773=plains # b_ca_sk_carlyle - Carlyle
+6773=hills # b_ca_sk_carlyle - Carlyle
 6774=plains # b_ca_sk_carnduff - Carnduff
 6775=plains # b_ca_sk_langbank - Langbank
 #d_kelsey - Kelsey
@@ -9507,7 +9509,7 @@
 6778=plains # b_ca_sk_st_isidore_de_bellevue - St. Isidore-de-Bellevue
 #c_humboldt - Humboldt
 6779=plains # b_ca_sk_humboldt - Humboldt
-6780=plains # b_ca_sk_lanigan - Lanigan
+6780=wetlands # b_ca_sk_lanigan - Lanigan
 6781=plains # b_ca_sk_watson - Watson
 #c_ca_sk_tisdale - Tisdale
 6782=plains # b_ca_sk_tisdale - Tisdale
@@ -9518,7 +9520,7 @@
 6786=plains # b_ca_sk_preeceville - Preeceville
 6787=plains # b_ca_sk_thunder_hill - Thunder Hill
 #c_ca_sk_wynyard - Wynyard
-6788=plains # b_ca_sk_wynyard - Wynyard
+6788=wetlands # b_ca_sk_wynyard - Wynyard
 6789=plains # b_ca_sk_pasqua_lake - Pasqua Lake
 6790=plains # b_ca_sk_zala - Zala
 #c_etamomi - Etamomi
@@ -9871,7 +9873,7 @@
 #c_co_11_riosucio - Riosucio
 7037=jungle # b_co_11_riosucio - Riosucio
 7038=jungle # b_co_02_vig_a_del_fuerte - Vigía del Fuerte
-#k_puente_grande - Puente Grande
+#k_panama - Panamá
 #d_panama - Panamá
 #c_pa_08_panam_ - Panamá
 7039=plains # b_pa_08_panam_ - Panamá
@@ -10009,13 +10011,13 @@
 7135=plains # b_us_tn_south_fulton - South Fulton
 #d_middle_tennessee - Middle Tennessee
 #c_us_tn_metropolitan_government_of_nashville_davidson - Metropolitan Government of Nashville-Davidson
-7136=plains # b_us_tn_nashville - Nashville
+7136=farmlands # b_us_tn_nashville - Nashville
 7137=plains # b_us_tn_murfreesboro - Murfreesboro
 7138=plains # b_us_tn_mount_juliet - Mount Juliet
-7139=plains # b_us_tn_smithville - Smithville
+7139=hills # b_us_tn_smithville - Smithville
 #c_us_tn_maury - Maury
 7140=plains # b_us_tn_columbia - Columbia
-7141=plains # b_us_tn_shelbyville - Shelbyville
+7141=hills # b_us_tn_shelbyville - Shelbyville
 7142=hills # b_us_tn_winchester - Winchester
 7143=plains # b_us_tn_pulaski - Pulaski
 #c_us_tn_warren - Warren
@@ -10023,70 +10025,70 @@
 7145=hills # b_us_tn_mcminnville - McMinnville
 7146=hills # b_us_tn_livingston - Livingston
 #c_us_tn_dickson - Dickson
-7147=plains # b_us_tn_dickson - Dickson
-7148=plains # b_us_tn_waverly - Waverly
+7147=forest # b_us_tn_dickson - Dickson
+7148=forest # b_us_tn_waverly - Waverly
 7149=plains # b_us_tn_centerville - Centerville
 #c_us_tn_lawrenceburg - Lawrenceburg
-7150=plains # b_us_tn_savannah - Savannah
-7151=plains # b_us_tn_lawrenceburg - Lawrenceburg
-7152=plains # b_us_tn_hohenwald - Hohenwald
+7150=hills # b_us_tn_savannah - Savannah
+7151=hills # b_us_tn_lawrenceburg - Lawrenceburg
+7152=hills # b_us_tn_hohenwald - Hohenwald
 #d_bluegrass - Bluegrass
 #c_us_ky_lexington_fayette - Lexington-Fayette
-7153=plains # b_us_ky_lexington_fayette - Lexington-Fayette
-7154=plains # b_us_ky_georgetown - Georgetown
+7153=farmlands # b_us_ky_lexington_fayette - Lexington-Fayette
+7154=farmlands # b_us_ky_georgetown - Georgetown
 #c_us_ky_covington - Covington
-7155=plains # b_us_ky_covington - Covington
-7156=plains # b_us_ky_williamstown - Williamstown
-7157=plains # b_us_ky_warsaw - Warsaw
+7155=hills # b_us_ky_covington - Covington
+7156=hills # b_us_ky_williamstown - Williamstown
+7157=hills # b_us_ky_warsaw - Warsaw
 #c_us_ky_winchester - Winchester
 7158=plains # b_us_ky_winchester - Winchester
 7159=plains # b_us_ky_paris - Paris
 7160=plains # b_us_ky_maysville - Maysville
 #d_us_ky_jefferson - Jefferson
 #c_us_ky_louisville - Louisville
-7161=plains # b_us_ky_louisville - Louisville
+7161=hills # b_us_ky_louisville - Louisville
 7162=plains # b_us_ky_shelbyville - Shelbyville
-7163=plains # b_us_ky_bardstown - Bardstown
+7163=hills # b_us_ky_bardstown - Bardstown
 #c_us_ky_richmond - Richmond
 7164=plains # b_us_ky_richmond - Richmond
 7165=plains # b_us_ky_danville - Danville
 7166=plains # b_us_ky_lawrenceburg - Lawrenceburg
-7167=plains # b_us_ky_mount_vernon - Mount Vernon
+7167=hills # b_us_ky_mount_vernon - Mount Vernon
 #c_us_ky_elizabethtown - Elizabethtown
-7168=plains # b_us_ky_elizabethtown - Elizabethtown
-7169=plains # b_us_ky_leitchfield - Leitchfield
-7170=plains # b_us_ky_hardinsburg - Hardinsburg
+7168=hills # b_us_ky_elizabethtown - Elizabethtown
+7169=hills # b_us_ky_leitchfield - Leitchfield
+7170=hills # b_us_ky_hardinsburg - Hardinsburg
 #c_us_ky_russell - Russell
 7171=plains # b_us_ky_campbellsville - Campbellsville
 7172=plains # b_us_ky_glasgow - Glasgow
 7173=plains # b_us_ky_columbia - Columbia
-7174=plains # b_us_ky_hodgenville - Hodgenville
-7175=plains # b_us_ky_tompkinsville - Tompkinsville
+7174=hills # b_us_ky_hodgenville - Hodgenville
+7175=forest # b_us_ky_tompkinsville - Tompkinsville
 #d_pennyrile - Pennyrile
 #c_us_ky_bowling_green - Bowling Green
-7176=plains # b_us_tn_hendersonville - Hendersonville
+7176=hills # b_us_tn_hendersonville - Hendersonville
 7177=plains # b_us_ky_bowling_green - Bowling Green
-7178=plains # b_us_tn_gallatin - Gallatin
+7178=hills # b_us_tn_gallatin - Gallatin
 7179=plains # b_us_ky_russellville - Russellville
 #c_us_tn_clarksville - Clarksville
-7180=plains # b_us_tn_clarksville - Clarksville
+7180=forest # b_us_tn_clarksville - Clarksville
 7181=plains # b_us_ky_hopkinsville - Hopkinsville
 7182=plains # b_us_ky_princeton - Princeton
-7183=plains # b_us_ky_ledbetter - Ledbetter
+7183=forest # b_us_ky_ledbetter - Ledbetter
 #c_us_ky_owensboro - Owensboro
-7184=plains # b_us_ky_owensboro - Owensboro
+7184=hills # b_us_ky_owensboro - Owensboro
 7185=plains # b_us_ky_henderson - Henderson
-7186=plains # b_us_ky_morehead - Morehead
+7186=hills # b_us_ky_morehead - Morehead
 #d_kentuckiana - Kentuckiana
 #c_us_in_jeffersonville - Jeffersonville
-7187=plains # b_us_in_jeffersonville - Jeffersonville
-7188=plains # b_us_in_new_albany - New Albany
-7189=plains # b_us_in_seymour - Seymour
-7190=plains # b_us_in_salem - Salem
-7191=plains # b_us_in_paoli - Paoli
-7192=plains # b_us_in_marengo - Marengo
+7187=hills # b_us_in_jeffersonville - Jeffersonville
+7188=hills # b_us_in_new_albany - New Albany
+7189=hills # b_us_in_seymour - Seymour
+7190=hills # b_us_in_salem - Salem
+7191=hills # b_us_in_paoli - Paoli
+7192=hills # b_us_in_marengo - Marengo
 #c_us_in_evansville - Evansville
-7193=plains # b_us_in_evansville - Evansville
+7193=farmlands # b_us_in_evansville - Evansville
 7194=plains # b_us_in_jasper - Jasper
 7195=plains # b_us_in_tell_city - Tell City
 7196=plains # b_us_in_princeton - Princeton
@@ -10100,14 +10102,14 @@
 7202=plains # b_us_in_ellettsville - Ellettsville
 #d_little_egypt - Little Egypt
 #c_us_il_carbondale - Carbondale
-7203=plains # b_us_il_carbondale - Carbondale
-7204=plains # b_us_il_harrisburg - Harrisburg
-7205=plains # b_us_il_anna - Anna
+7203=forest # b_us_il_carbondale - Carbondale
+7204=forest # b_us_il_harrisburg - Harrisburg
+7205=forest # b_us_il_anna - Anna
 7206=plains # b_us_il_vienna - Vienna
 #c_us_il_mount_vernon - Mount Vernon
 7207=plains # b_us_il_west_frankfort - West Frankfort
 7208=plains # b_us_il_centralia - Centralia
-7209=plains # b_us_il_mount_vernon - Mount Vernon
+7209=farmlands # b_us_il_mount_vernon - Mount Vernon
 7210=plains # b_us_il_salem - Salem
 7211=plains # b_us_il_louisville - Louisville
 #c_us_il_olney - Olney
@@ -10136,7 +10138,7 @@
 #c_us_va_centreville - Centreville
 7228=forest # b_us_va_centreville - Centreville
 7229=forest # b_us_va_dale_city - Dale City
-7230=plains # b_us_va_linton_hall - Linton Hall
+7230=hills # b_us_va_linton_hall - Linton Hall
 7231=plains # b_us_va_warrenton - Warrenton
 #c_us_va_richmond - Richmond
 7232=plains # b_us_va_richmond - Richmond
@@ -10189,8 +10191,8 @@
 7268=forest # b_us_va_keysville - Keysville
 #d_shenandoah - Shenandoah
 #c_us_md_cumberland - Cumberland
-7269=plains # b_us_md_cumberland - Cumberland
-7270=plains # b_us_md_frostburg - Frostburg
+7269=hills # b_us_md_cumberland - Cumberland
+7270=mountains # b_us_md_frostburg - Frostburg
 #c_us_wv_elkins - Elkins
 7271=mountains # b_us_wv_elkins - Elkins
 7272=mountains # b_us_wv_marlinton - Marlinton
@@ -10218,20 +10220,20 @@
 7287=mountains # b_us_tn_jasper - Jasper
 #d_cumberland - Cumberland
 #c_us_ky_meads - Meads
-7288=plains # b_us_ky_meads - Meads
-7289=plains # b_us_ky_morehead0 - Morehead
-7290=plains # b_us_ky_paintsville - Paintsville
-7291=plains # b_us_ky_frenchburg - Frenchburg
+7288=hills # b_us_ky_meads - Meads
+7289=hills # b_us_ky_morehead0 - Morehead
+7290=hills # b_us_ky_paintsville - Paintsville
+7291=hills # b_us_ky_frenchburg - Frenchburg
 #c_us_ky_middlesboro - Middlesboro
 7292=hills # b_us_ky_middlesboro - Middlesboro
-7293=plains # b_us_ky_london - London
+7293=hills # b_us_ky_london - London
 7294=hills # b_us_tn_oneida - Oneida
-7295=plains # b_us_ky_pineville - Pineville
+7295=hills # b_us_ky_pineville - Pineville
 #c_us_ky_pikeville - Pikeville
-7296=plains # b_us_ky_pikeville - Pikeville
-7297=plains # b_us_ky_hazard - Hazard
-7298=plains # b_us_ky_jackson - Jackson
-7299=plains # b_us_ky_hindman - Hindman
+7296=hills # b_us_ky_pikeville - Pikeville
+7297=hills # b_us_ky_hazard - Hazard
+7298=hills # b_us_ky_jackson - Jackson
+7299=hills # b_us_ky_hindman - Hindman
 #c_us_ky_somerset - Somerset
 7300=plains # b_us_ky_somerset - Somerset
 7301=hills # b_us_ky_monticello - Monticello
@@ -10255,34 +10257,34 @@
 7314=mountains # b_us_tn_mccaysville - McCaysville
 #d_us_wv_monongalia - Monongalia
 #c_us_wv_morgantown - Morgantown
-7315=plains # b_us_wv_morgantown - Morgantown
-7316=plains # b_us_wv_buckhannon - Buckhannon
-7317=plains # b_us_wv_harrisville - Harrisville
-7318=plains # b_us_wv_salem - Salem
+7315=hills # b_us_wv_morgantown - Morgantown
+7316=hills # b_us_wv_buckhannon - Buckhannon
+7317=hills # b_us_wv_harrisville - Harrisville
+7318=hills # b_us_wv_salem - Salem
 #c_us_wv_wheeling - Wheeling
-7319=plains # b_us_wv_weirton - Weirton
-7320=plains # b_us_wv_wheeling - Wheeling
-7321=plains # b_us_pa_waynesburg - Waynesburg
+7319=hills # b_us_wv_weirton - Weirton
+7320=hills # b_us_wv_wheeling - Wheeling
+7321=hills # b_us_pa_waynesburg - Waynesburg
 #c_us_oh_parkersburg - Parkersburg
-7322=plains # b_us_oh_parkersburg - Parkersburg
-7323=plains # b_us_wv_cross_lanes - Cross Lanes
-7324=plains # b_us_wv_spencer - Spencer
+7322=hills # b_us_oh_parkersburg - Parkersburg
+7323=forest # b_us_wv_cross_lanes - Cross Lanes
+7324=hills # b_us_wv_spencer - Spencer
 #d_vandalia - Kanawha
 #c_us_wv_charleston - Charleston
-7325=plains # b_us_wv_charleston - Charleston
-7326=plains # b_us_wv_huntington - Huntington
-7327=plains # b_us_wv_teays_valley - Teays Valley
-7328=plains # b_us_wv_logan - Logan
-7329=plains # b_us_ky_williamson - Williamson
+7325=forest # b_us_wv_charleston - Charleston
+7326=forest # b_us_wv_huntington - Huntington
+7327=forest # b_us_wv_teays_valley - Teays Valley
+7328=hills # b_us_wv_logan - Logan
+7329=hills # b_us_ky_williamson - Williamson
 #c_us_wv_beckley - Beckley
-7330=plains # b_us_wv_beckley - Beckley
-7331=plains # b_us_wv_oak_hill - Oak Hill
-7332=plains # b_us_wv_lewisburg - Lewisburg
+7330=hills # b_us_wv_beckley - Beckley
+7331=hills # b_us_wv_oak_hill - Oak Hill
+7332=mountains # b_us_wv_lewisburg - Lewisburg
 #c_us_wv_summersville - Summersville
-7333=plains # b_us_wv_pinch - Pinch
-7334=plains # b_us_wv_summersville - Summersville
-7335=plains # b_us_wv_glenville - Glenville
-7336=plains # b_us_wv_webster_springs - Webster Springs
+7333=hills # b_us_wv_pinch - Pinch
+7334=hills # b_us_wv_summersville - Summersville
+7335=hills # b_us_wv_glenville - Glenville
+7336=hills # b_us_wv_webster_springs - Webster Springs
 #d_clinch - Clinch
 #c_us_va_bristol - Bristol
 7337=hills # b_us_va_bristol - Bristol
@@ -10294,9 +10296,9 @@
 7342=hills # b_us_va_marion - Marion
 7343=hills # b_us_va_galax - Galax
 #c_us_wv_bluefield - Bluefield
-7344=plains # b_us_wv_bluefield - Bluefield
-7345=plains # b_us_va_richlands - Richlands
-7346=plains # b_us_va_wise - Wise
+7344=hills # b_us_wv_bluefield - Bluefield
+7345=hills # b_us_va_richlands - Richlands
+7346=hills # b_us_va_wise - Wise
 #e_nunangat - Nunangat
 #k_greenland - Greenland
 #d_kitaa - Kitaa
@@ -10475,196 +10477,198 @@
 7455=mountains # b_ca_nu_port_burwell - Port Burwell
 7456=tundra # b_ca_qc_kangiqsualujjuaq - Kangiqsualujjuaq
 #e_yucatan - Yucatán
-#k_yucatan - Yucatán
-#d_merida - Mérida
-#c_mx_31_m_rida - Mérida
-7457=plains # b_mx_31_m_rida - Mérida
-7458=jungle # b_mx_31_kanas_n - Kanasín
-7459=plains # b_mx_31_tixkokob - Tixkokob
-7460=jungle # b_mx_31_sey_ - Seyé
-#c_mx_31_uman - Uman
-7461=jungle # b_mx_31_uman - Uman
-7462=jungle # b_mx_31_hunucm_ - Hunucmá
-7463=jungle # b_mx_31_maxcan_ - Maxcanú
-7464=jungle # b_mx_31_cepeda - Cepeda
-#c_mx_31_motul - Motul
-7465=plains # b_mx_31_motul - Motul
-7466=jungle # b_mx_31_izamal - Izamal
-7467=plains # b_mx_31_dzidzantun - Dzidzantun
-7468=plains # b_mx_31_dzilam_de_bravo - Dzilam de Bravo
-#c_mx_31_tizim_n - Tizimín
-7469=jungle # b_mx_31_tizim_n - Tizimín
-7470=jungle # b_mx_31_temozon - Temozon
-7471=jungle # b_mx_31_popolnah - Popolnah
-7472=plains # b_mx_31_dzonot_carretero - Dzonot Carretero
-#c_mx_31_espita - Espita
-7473=jungle # b_mx_31_espita - Espita
-7474=jungle # b_mx_31_buctzotz - Buctzotz
-7475=plains # b_mx_31_panab_ - Panabá
-#d_tabasco - Tabasco
-#c_mx_27_villahermosa - Villahermosa
-7476=plains # b_mx_27_villahermosa - Villahermosa
-7477=plains # b_mx_27_r_o_de_teapa - Río de Teapa
-7478=plains # b_mx_27_tacotalpa - Tacotalpa
-#c_mx_27_c_rdenas - Cárdenas
-7479=plains # b_mx_27_c_rdenas - Cárdenas
-7480=plains # b_mx_27_comalcalco - Comalcalco
-7481=plains # b_mx_27_huimanguillo - Huimanguillo
-7482=plains # b_mx_27_la_venta - la Venta
-7483=plains # b_mx_27_poblado_c_de_noviembre - Poblado C-33 20 de Noviembre
-#c_mx_27_macuspana - Macuspana
-7484=plains # b_mx_27_macuspana - Macuspana
-7485=wetlands # b_mx_27_frontera - Frontera
-7486=wetlands # b_mx_27_jonuta - Jonuta
-#d_ekab - Ekab
-#c_mx_23_canc_n - Cancún
-7487=jungle # b_mx_23_canc_n - Cancún
-7488=jungle # b_mx_23_alfredo_v_bonfil - Alfredo V. Bonfil
-7489=jungle # b_mx_23_ignacio_zaragoza - Ignacio Zaragoza
-7490=jungle # b_mx_23_kantunilk_n - Kantunilkín
-7491=jungle # b_mx_23_isla_holbox - Isla Holbox
-#c_mx_23_del_carmen - del Carmen
-7492=jungle # b_mx_23_del_carmen - del Carmen
-7493=jungle # b_mx_23_tulum - Tulum
-7494=jungle # b_mx_23_puerto_aventuras - Puerto Aventuras
-7495=jungle # b_mx_23_coba - Coba
-#c_mx_23_cozumel - Cozumel
-7496=jungle # b_mx_23_cozumel - Cozumel
-#d_campeche - Campeche
-#c_mx_04_campeche - Campeche
-7497=jungle # b_mx_04_campeche - Campeche
-7498=jungle # b_mx_04_champot_n - Champotón
-7499=jungle # b_mx_04_seybaplaya - Seybaplaya
-7500=jungle # b_mx_04_carrillo_puerto - Carrillo Puerto
-7501=jungle # b_mx_04_los_laureles - Los Laureles
-#c_mx_04_calkin_ - Calkiní
-7502=jungle # b_mx_04_calkin_ - Calkiní
-7503=jungle # b_mx_04_hecelchak_n - Hecelchakán
-7504=jungle # b_mx_04_pocboc - Pocboc
-#c_mx_04_hopelch_n - Hopelchén
-7505=jungle # b_mx_04_hopelch_n - Hopelchén
-7506=jungle # b_mx_04_iturbide - Iturbide
-7507=jungle # b_mx_04_dzibalch_n - Dzibalchén
-#c_mx_04_constituci_n - Constitución
-7508=jungle # b_mx_04_constituci_n - Constitución
-7509=jungle # b_mx_04_cinco_de_febrero - Cinco de Febrero
-7510=jungle # b_mx_04_nuevo_conhu_s - Nuevo Conhuás
-#d_chan_santa_cruz - Chan Santa Cruz
-#c_mx_23_chetumal - Chetumal
-7511=jungle # b_mx_23_chetumal - Chetumal
-7512=jungle # b_bz_01_san_pedro - San Pedro
-7513=jungle # b_mx_23_reforma - Reforma
-7514=jungle # b_mx_23_maya_balam - Maya Balam
-7515=jungle # b_mx_23_mahahual - Mahahual
-#c_mx_23_felipe_carrillo_puerto - Felipe Carrillo Puerto
-7516=plains # b_mx_23_felipe_carrillo_puerto - Felipe Carrillo Puerto
-7517=jungle # b_mx_23_tihosuco - Tihosuco
-7518=jungle # b_mx_23_x_pichil - X-pichil
-7519=plains # b_mx_23_x_hazil_sur - X-Hazil Sur
-7520=jungle # b_mx_23_chun_yah - Chun-Yah
-#c_mx_23_nicol_s_bravo - Nicolás Bravo
-7521=jungle # b_mx_23_nicol_s_bravo - Nicolás Bravo
-7522=jungle # b_mx_23_javier_rojo_g_mez - Javier Rojo Gómez
-7523=jungle # b_mx_04_ingeniero_ricardo_payro_jene - Ingeniero Ricardo Payro Jene
-7524=jungle # b_mx_04_xpujil - Xpujil
-7525=jungle # b_mx_23_caobas - Caobas
-#c_mx_23_jos_mar_a_morelos - José María Morelos
-7526=jungle # b_mx_23_jos_mar_a_morelos - José María Morelos
-7527=jungle # b_mx_31_becanch_n - Becanchén
-7528=jungle # b_mx_04_uk_m - Ukúm
-7529=jungle # b_mx_23_miguel_alem_n - Miguel Alemán
-#d_puuc - Puuc
-#c_mx_31_ticul - Ticul
-7530=jungle # b_mx_31_ticul - Ticul
-7531=jungle # b_mx_31_tecax - Tecax
-7532=jungle # b_mx_31_akil - Akil
-7533=jungle # b_mx_31_muna - Muna
-7534=jungle # b_mx_31_kantem_ - Kantemó
-#c_mx_31_valladolid - Valladolid
-7535=jungle # b_mx_31_valladolid - Valladolid
-7536=jungle # b_mx_31_chich_n_itz_ - Chichén-Itzá
-7537=jungle # b_mx_31_chemax - Chemax
-7538=jungle # b_mx_31_tixcacalcupul - Tixcacalcupul
-#c_mx_31_peto - Peto
-7539=jungle # b_mx_31_peto - Peto
-7540=jungle # b_mx_31_sotuta - Sotuta
-7541=jungle # b_mx_31_yaxcab_ - Yaxcabá
-#d_calakmul - Calakmul
-#c_mx_04_del_carmen - del Carmen
-7542=jungle # b_mx_04_del_carmen - del Carmen
-7543=wetlands # b_mx_04_palizada - Palizada
-7544=jungle # b_mx_04_el_aguacatal - El Aguacatal
-7545=jungle # b_mx_04_el_juncal - El Juncal
-#c_mx_04_esc_rcega - Escárcega
-7546=jungle # b_mx_04_esc_rcega - Escárcega
-7547=plains # b_mx_04_sabancuy - Sabancuy
-7548=jungle # b_mx_04_chicbul - Chicbul
-7549=jungle # b_mx_04_nueva_rosita - Nueva Rosita
-#c_mx_04_candelaria - Candelaria
-7550=jungle # b_mx_04_candelaria - Candelaria
-7551=jungle # b_mx_04_don_samuel - Don Samuel
-7552=jungle # b_mx_04_benito_ju_rez_uno - Benito Juárez Uno
-7553=jungle # b_mx_04_mamantel - Mamantel
 #k_chiapas - Chiapas
 #d_los_altos - Los Altos
 #c_mx_05_tuxtla - Tuxtla
-7554=plains # b_mx_05_tuxtla - Tuxtla
-7555=plains # b_mx_05_ocozocoautla_de_espinosa - Ocozocoautla de Espinosa
-7556=mountains # b_mx_05_copainal_ - Copainalá
-7557=plains # b_mx_05_acala - Acala
-7558=jungle # b_mx_05_san_fernando - San Fernando
-7559=mountains # b_mx_05_raudales_malpaso - Raudales Malpaso
+7457=hills # b_mx_05_tuxtla - Tuxtla
+7458=plains # b_mx_05_ocozocoautla_de_espinosa - Ocozocoautla de Espinosa
+7459=mountains # b_mx_05_copainal_ - Copainalá
+7460=plains # b_mx_05_acala - Acala
+7461=hills # b_mx_05_san_fernando - San Fernando
+7462=hills # b_mx_05_raudales_malpaso - Raudales Malpaso
 #c_mx_05_tapachula - Tapachula
-7560=plains # b_mx_05_tapachula - Tapachula
-7561=plains # b_mx_05_huixtla - Huixtla
-7562=mountains # b_mx_05_motozintla - Motozintla
-7563=jungle # b_mx_05_escuintla - Escuintla
-7564=plains # b_mx_05_mapastepec - Mapastepec
+7463=plains # b_mx_05_tapachula - Tapachula
+7464=plains # b_mx_05_huixtla - Huixtla
+7465=mountains # b_mx_05_motozintla - Motozintla
+7466=plains # b_mx_05_escuintla - Escuintla
+7467=plains # b_mx_05_mapastepec - Mapastepec
 #c_mx_05_tonal_ - Tonalá
-7565=mountains # b_mx_05_tonal_ - Tonalá
-7566=plains # b_mx_05_arriaga - Arriaga
-7567=jungle # b_mx_05_pijijiapan - Pijijiapan
+7468=plains # b_mx_05_tonal_ - Tonalá
+7469=plains # b_mx_05_arriaga - Arriaga
+7470=jungle # b_mx_05_pijijiapan - Pijijiapan
 #c_mx_05_villaflores - Villaflores
-7568=plains # b_mx_05_villaflores - Villaflores
-7569=mountains # b_mx_05_jes_s_mar_a_garza - Jesús María Garza
-7570=plains # b_mx_05_el_parral - El Parral
-7571=plains # b_mx_05_diecis_is_de_septiembre - Dieciséis de Septiembre
+7471=mountains # b_mx_05_villaflores - Villaflores
+7472=mountains # b_mx_05_jes_s_mar_a_garza - Jesús María Garza
+7473=hills # b_mx_05_el_parral - El Parral
+7474=mountains # b_mx_05_diecis_is_de_septiembre - Dieciséis de Septiembre
 #c_mx_05_jaltenango_de_la_paz - Jaltenango de la Paz
-7572=plains # b_mx_05_chicomuselo - Chicomuselo
-7573=mountains # b_mx_05_jaltenango_de_la_paz - Jaltenango de la Paz
-7574=plains # b_mx_05_el_mbar - El Ámbar
-7575=plains # b_mx_05_la_concordia - La Concordia
+7475=mountains # b_mx_05_chicomuselo - Chicomuselo
+7476=mountains # b_mx_05_jaltenango_de_la_paz - Jaltenango de la Paz
+7477=plains # b_mx_05_el_mbar - El Ámbar
+7478=plains # b_mx_05_la_concordia - La Concordia
 #c_mx_05_cintalapa_de_figueroa - Cintalapa de Figueroa
-7576=mountains # b_mx_05_cintalapa_de_figueroa - Cintalapa de Figueroa
-7577=plains # b_mx_05_villamorelos - Villamorelos
+7479=plains # b_mx_05_cintalapa_de_figueroa - Cintalapa de Figueroa
+7480=hills # b_mx_05_villamorelos - Villamorelos
 #d_chiapas - Chiapas
 #c_mx_05_san_crist_bal_de_las_casas - San Cristóbal de las Casas
-7578=mountains # b_mx_05_san_crist_bal_de_las_casas - San Cristóbal de las Casas
-7579=mountains # b_mx_05_nachig - Nachig
-7580=mountains # b_mx_05_simojovel_de_allende - Simojovel de Allende
-7581=plains # b_mx_05_chanal - Chanal
+7481=mountains # b_mx_05_san_crist_bal_de_las_casas - San Cristóbal de las Casas
+7482=mountains # b_mx_05_nachig - Nachig
+7483=mountains # b_mx_05_simojovel_de_allende - Simojovel de Allende
+7484=mountains # b_mx_05_chanal - Chanal
 #c_mx_05_comit_n - Comitán
-7582=plains # b_mx_05_comit_n - Comitán
-7583=plains # b_mx_05_las_margaritas - Las Margaritas
-7584=mountains # b_mx_05_teopisca - Teopisca
-7585=plains # b_mx_05_las_rosas - Las Rosas
-7586=plains # b_mx_05_paso_hondo - Paso Hondo
+7485=plains # b_mx_05_comit_n - Comitán
+7486=mountains # b_mx_05_las_margaritas - Las Margaritas
+7487=plains # b_mx_05_teopisca - Teopisca
+7488=mountains # b_mx_05_las_rosas - Las Rosas
+7489=plains # b_mx_05_paso_hondo - Paso Hondo
 #c_mx_05_palenque - Palenque
-7587=mountains # b_mx_05_yajal_n - Yajalón
-7588=jungle # b_mx_05_el_limar - El Limar
-7589=mountains # b_mx_05_chil_n - Chilón
-7590=wetlands # b_mx_05_palenque - Palenque
-7591=jungle # b_mx_05_damasco - Damasco
+7490=mountains # b_mx_05_yajal_n - Yajalón
+7491=mountains # b_mx_05_el_limar - El Limar
+7492=mountains # b_mx_05_chil_n - Chilón
+7493=wetlands # b_mx_05_palenque - Palenque
+7494=hills # b_mx_05_damasco - Damasco
 #c_mx_27_teapa - Teapa
-7592=plains # b_mx_27_teapa - Teapa
-7593=mountains # b_mx_05_bochil - Bochil
-7594=mountains # b_mx_05_ixtacomit_n - Ixtacomitán
-7595=mountains # b_mx_05_ocotepec - Ocotepec
+7495=plains # b_mx_27_teapa - Teapa
+7496=mountains # b_mx_05_bochil - Bochil
+7497=mountains # b_mx_05_ixtacomit_n - Ixtacomitán
+7498=hills # b_mx_05_ocotepec - Ocotepec
 #c_mx_05_ocosingo - Ocosingo
-7596=plains # b_mx_05_ocosingo - Ocosingo
-7597=mountains # b_mx_05_taniperla - Taniperla
-7598=mountains # b_mx_05_san_antonio_los_montes - San Antonio los Montes
-7599=mountains # b_mx_05_justo_sierra - Justo Sierra
+7499=mountains # b_mx_05_ocosingo - Ocosingo
+7500=mountains # b_mx_05_taniperla - Taniperla
+7501=mountains # b_mx_05_san_antonio_los_montes - San Antonio los Montes
+7502=mountains # b_mx_05_justo_sierra - Justo Sierra
+#d_tabasco - Tabasco
+#c_mx_27_villahermosa - Villahermosa
+7503=plains # b_mx_27_villahermosa - Villahermosa
+7504=plains # b_mx_27_r_o_de_teapa - Río de Teapa
+7505=hills # b_mx_27_tacotalpa - Tacotalpa
+#c_mx_27_c_rdenas - Cárdenas
+7506=plains # b_mx_27_c_rdenas - Cárdenas
+7507=plains # b_mx_27_comalcalco - Comalcalco
+7508=plains # b_mx_27_huimanguillo - Huimanguillo
+7509=plains # b_mx_27_la_venta - la Venta
+7510=plains # b_mx_27_poblado_c_de_noviembre - Poblado C-33 20 de Noviembre
+#c_mx_27_macuspana - Macuspana
+7511=plains # b_mx_27_macuspana - Macuspana
+7512=wetlands # b_mx_27_frontera - Frontera
+7513=wetlands # b_mx_27_jonuta - Jonuta
+#k_yucatan - Yucatán
+#d_merida - Mérida
+#c_mx_31_m_rida - Mérida
+7514=plains # b_mx_31_m_rida - Mérida
+7515=jungle # b_mx_31_kanas_n - Kanasín
+7516=plains # b_mx_31_tixkokob - Tixkokob
+7517=jungle # b_mx_31_sey_ - Seyé
+#c_mx_31_uman - Uman
+7518=jungle # b_mx_31_uman - Uman
+7519=jungle # b_mx_31_hunucm_ - Hunucmá
+7520=jungle # b_mx_31_maxcan_ - Maxcanú
+7521=jungle # b_mx_31_cepeda - Cepeda
+#c_mx_31_motul - Motul
+7522=plains # b_mx_31_motul - Motul
+7523=jungle # b_mx_31_izamal - Izamal
+7524=plains # b_mx_31_dzidzantun - Dzidzantun
+7525=plains # b_mx_31_dzilam_de_bravo - Dzilam de Bravo
+#c_mx_31_tizim_n - Tizimín
+7526=jungle # b_mx_31_tizim_n - Tizimín
+7527=jungle # b_mx_31_temozon - Temozon
+7528=jungle # b_mx_31_popolnah - Popolnah
+7529=plains # b_mx_31_dzonot_carretero - Dzonot Carretero
+#c_mx_31_espita - Espita
+7530=jungle # b_mx_31_espita - Espita
+7531=jungle # b_mx_31_buctzotz - Buctzotz
+7532=plains # b_mx_31_panab_ - Panabá
+#d_puuc - Puuc
+#c_mx_31_ticul - Ticul
+7533=jungle # b_mx_31_ticul - Ticul
+7534=jungle # b_mx_31_tecax - Tecax
+7535=jungle # b_mx_31_akil - Akil
+7536=jungle # b_mx_31_muna - Muna
+7537=jungle # b_mx_31_kantem_ - Kantemó
+#c_mx_31_valladolid - Valladolid
+7538=jungle # b_mx_31_valladolid - Valladolid
+7539=jungle # b_mx_31_chich_n_itz_ - Chichén-Itzá
+7540=jungle # b_mx_31_chemax - Chemax
+7541=jungle # b_mx_31_tixcacalcupul - Tixcacalcupul
+#c_mx_31_peto - Peto
+7542=jungle # b_mx_31_peto - Peto
+7543=jungle # b_mx_31_sotuta - Sotuta
+7544=jungle # b_mx_31_yaxcab_ - Yaxcabá
+#k_quintana_roo - Quintana Roo
+#d_ekab - Ekab
+#c_mx_23_canc_n - Cancún
+7545=jungle # b_mx_23_canc_n - Cancún
+7546=jungle # b_mx_23_alfredo_v_bonfil - Alfredo V. Bonfil
+7547=jungle # b_mx_23_ignacio_zaragoza - Ignacio Zaragoza
+7548=jungle # b_mx_23_kantunilk_n - Kantunilkín
+7549=jungle # b_mx_23_isla_holbox - Isla Holbox
+#c_mx_23_del_carmen - del Carmen
+7550=jungle # b_mx_23_del_carmen - del Carmen
+7551=jungle # b_mx_23_tulum - Tulum
+7552=jungle # b_mx_23_puerto_aventuras - Puerto Aventuras
+7553=jungle # b_mx_23_coba - Coba
+#c_mx_23_cozumel - Cozumel
+7554=jungle # b_mx_23_cozumel - Cozumel
+#d_chan_santa_cruz - Chan Santa Cruz
+#c_mx_23_chetumal - Chetumal
+7555=jungle # b_mx_23_chetumal - Chetumal
+7556=jungle # b_bz_01_san_pedro - San Pedro
+7557=jungle # b_mx_23_reforma - Reforma
+7558=jungle # b_mx_23_maya_balam - Maya Balam
+7559=jungle # b_mx_23_mahahual - Mahahual
+#c_mx_23_felipe_carrillo_puerto - Felipe Carrillo Puerto
+7560=plains # b_mx_23_felipe_carrillo_puerto - Felipe Carrillo Puerto
+7561=jungle # b_mx_23_tihosuco - Tihosuco
+7562=jungle # b_mx_23_x_pichil - X-pichil
+7563=plains # b_mx_23_x_hazil_sur - X-Hazil Sur
+7564=jungle # b_mx_23_chun_yah - Chun-Yah
+#c_mx_23_nicol_s_bravo - Nicolás Bravo
+7565=jungle # b_mx_23_nicol_s_bravo - Nicolás Bravo
+7566=jungle # b_mx_23_javier_rojo_g_mez - Javier Rojo Gómez
+7567=jungle # b_mx_04_ingeniero_ricardo_payro_jene - Ingeniero Ricardo Payro Jene
+7568=jungle # b_mx_04_xpujil - Xpujil
+7569=jungle # b_mx_23_caobas - Caobas
+#c_mx_23_jos_mar_a_morelos - José María Morelos
+7570=jungle # b_mx_23_jos_mar_a_morelos - José María Morelos
+7571=jungle # b_mx_31_becanch_n - Becanchén
+7572=jungle # b_mx_04_uk_m - Ukúm
+7573=jungle # b_mx_23_miguel_alem_n - Miguel Alemán
+#k_campeche - Campeche
+#d_campeche - Campeche
+#c_mx_04_campeche - Campeche
+7574=jungle # b_mx_04_campeche - Campeche
+7575=jungle # b_mx_04_champot_n - Champotón
+7576=jungle # b_mx_04_seybaplaya - Seybaplaya
+7577=jungle # b_mx_04_carrillo_puerto - Carrillo Puerto
+7578=jungle # b_mx_04_los_laureles - Los Laureles
+#c_mx_04_calkin_ - Calkiní
+7579=jungle # b_mx_04_calkin_ - Calkiní
+7580=jungle # b_mx_04_hecelchak_n - Hecelchakán
+7581=jungle # b_mx_04_pocboc - Pocboc
+#c_mx_04_hopelch_n - Hopelchén
+7582=jungle # b_mx_04_hopelch_n - Hopelchén
+7583=jungle # b_mx_04_iturbide - Iturbide
+7584=jungle # b_mx_04_dzibalch_n - Dzibalchén
+#c_mx_04_constituci_n - Constitución
+7585=jungle # b_mx_04_constituci_n - Constitución
+7586=jungle # b_mx_04_cinco_de_febrero - Cinco de Febrero
+7587=jungle # b_mx_04_nuevo_conhu_s - Nuevo Conhuás
+#d_calakmul - Calakmul
+#c_mx_04_del_carmen - del Carmen
+7588=jungle # b_mx_04_del_carmen - del Carmen
+7589=wetlands # b_mx_04_palizada - Palizada
+7590=jungle # b_mx_04_el_aguacatal - El Aguacatal
+7591=jungle # b_mx_04_el_juncal - El Juncal
+#c_mx_04_esc_rcega - Escárcega
+7592=jungle # b_mx_04_esc_rcega - Escárcega
+7593=plains # b_mx_04_sabancuy - Sabancuy
+7594=jungle # b_mx_04_chicbul - Chicbul
+7595=jungle # b_mx_04_nueva_rosita - Nueva Rosita
+#c_mx_04_candelaria - Candelaria
+7596=jungle # b_mx_04_candelaria - Candelaria
+7597=jungle # b_mx_04_don_samuel - Don Samuel
+7598=jungle # b_mx_04_benito_ju_rez_uno - Benito Juárez Uno
+7599=jungle # b_mx_04_mamantel - Mamantel
 #k_peten - Petén
 #d_lacandon - Lacandón
 #c_mx_27_tenosique - Tenosique
@@ -11396,28 +11400,28 @@
 8125=mountains # b_us_wa_concrete - Concrete
 8126=mountains # b_us_wa_silverton - Silverton
 #d_us_or_washington - Washington
-#c_us_or_portland - Portland
+#c_port_columbia - Columbia
 8127=plains # b_us_or_portland - Portland
 8128=plains # b_us_or_saint_helens - Saint Helens
 8129=forest # b_us_wa_kalama - Kalama
-#c_us_or_tigard - Tigard
+#c_yamhill - Yamhill
 8130=plains # b_us_or_tigard - Tigard
 8131=plains # b_us_or_keizer - Keizer
 8132=forest # b_us_or_dallas - Dallas
-#c_us_or_corvallis - Corvallis
+#c_siletz - Siletz
 8133=plains # b_us_or_corvallis - Corvallis
 8134=hills # b_us_or_newport - Newport
 8135=hills # b_us_or_lincoln_city - Lincoln City
-#c_us_or_astoria - Astoria
+#c_clatsop - Clatsop
 8136=forest # b_us_or_seaside - Seaside
 8137=hills # b_us_or_astoria - Astoria
 8138=hills # b_us_or_vernonia - Vernonia
-#c_us_or_tillamook - Tillamook
+#c_tillamook - Tillamook
 8139=forest # b_us_or_cannon_beach - Cannon Beach
 8140=hills # b_us_or_tillamook - Tillamook
 8141=hills # b_us_or_westimber - Westimber
 #d_us_or_multnomah - Multnomah
-#c_us_or_gresham - Gresham
+#c_portland - Portland
 8142=farmlands # b_us_or_gresham - Gresham
 8143=plains # b_us_or_sandy - Sandy
 8144=forest # b_us_or_damascus - Damascus
@@ -11426,14 +11430,14 @@
 8146=forest # b_us_wa_ridgefield - Ridgefield
 8147=mountains # b_us_wa_carson - Carson
 8148=mountains # b_us_wa_willard - Willard
-#c_us_or_woodburn - Woodburn
+#c_clackamas - Clackamas
 8149=plains # b_us_or_woodburn - Woodburn
 8150=farmlands # b_us_or_hayesville - Hayesville
 8151=plains # b_us_or_molalla - Molalla
-#c_us_or_the_dalles - The Dalles
+#c_hood_river - Hood River
 8152=drylands # b_us_or_the_dalles - The Dalles
 8153=mountains # b_us_or_hood_river - Hood River
-#c_us_or_government_camp - Government Camp
+#c_frazier - Frazier
 8154=mountains # b_us_or_government_camp - Government Camp
 8155=mountains # b_us_or_ripplebrook - Ripplebrook
 #d_us_wa_kitsap - Kitsap
@@ -11467,28 +11471,28 @@
 8175=forest # b_us_wa_mossyrock - Mossyrock
 8176=mountains # b_us_wa_packwood - Packwood
 #d_us_or_lane - Lane
-#c_us_or_eugene - Eugene
+#c_alsea - Alsea
 8177=plains # b_us_or_eugene - Eugene
 8178=plains # b_us_or_veneta - Veneta
 8179=hills # b_us_or_yachats - Yachats
-#c_us_or_cottage_grove - Cottage Grove
+#c_siuslaw - Siuslaw
 8180=forest # b_us_or_cottage_grove - Cottage Grove
 8181=hills # b_us_or_florence - Florence
 8182=hills # b_us_or_reedsport - Reedsport
-#c_us_or_oakridge - Oakridge
+#c_diamond_peak - Diamond Peak
 8183=mountains # b_us_or_oakridge - Oakridge
 8184=mountains # b_us_or_hawthorne - Hawthorne
 #d_us_or_linn - Linn
-#c_us_or_salem - Salem
+#c_marion - Marion
 8185=plains # b_us_or_salem - Salem
 8186=farmlands # b_us_or_albany - Albany
 8187=plains # b_us_or_lebanon - Lebanon
 8188=hills # b_us_or_holley - Holley
-#c_us_or_sweet_home - Sweet Home
+#c_santiam - Santiam
 8189=hills # b_us_or_sweet_home - Sweet Home
 8190=mountains # b_us_or_mill_city - Mill City
 8191=mountains # b_us_or_cascadia - Cascadia
-#c_us_or_unity - Unity
+#c_lane - Lane
 8192=hills # b_us_or_unity - Unity
 8193=mountains # b_us_or_rainbow - Rainbow
 8194=mountains # b_us_or_mccredie_springs - McCredie Springs
@@ -11627,20 +11631,20 @@
 8286=mountains # b_us_id_powell_junction - Powell Junction
 8287=mountains # b_us_id_the_cedars - The Cedars
 #d_us_or_deschutes - Deschutes
-#c_us_or_bend - Bend
+#c_port_warm_springs - Warm Springs
 8288=drylands # b_us_or_bend - Bend
 8289=drylands # b_us_or_warm_springs - Warm Springs
 8290=hills # b_ar_11_noname2070210 - no_name_207_0_210
-#c_us_or_redmond - Redmond
+#c_ochoco - Ochoco
 8291=mountains # b_us_or_redmond - Redmond
 8292=mountains # b_us_or_spray - Spray
 8293=drylands # b_us_or_seneca - Seneca
 8294=drylands # b_us_or_pronghorn - Pronghorn
-#c_us_or_deschutes_river - Deschutes River
+#c_deschutes - Deschutes
 8295=drylands # b_us_or_deschutes_river - Deschutes River
 8296=drylands # b_us_or_wagontire - Wagontire
 8297=drylands # b_us_or_summer_lake - Summer Lake
-#c_us_or_condon - Condon
+#c_wasco - Wasco
 8298=drylands # b_us_or_condon - Condon
 8299=drylands # b_us_or_wasco - Wasco
 8300=mountains # b_us_or_fossil - Fossil
@@ -11656,12 +11660,12 @@
 8307=drylands # b_us_wa_clarkston - Clarkston
 8308=drylands # b_us_wa_dayton - Dayton
 8309=drylands # b_us_wa_waitsburg - Waitsburg
-#c_us_or_la_grande - La Grande
+#c_cundiff_slough - Cundiff Slough
 8310=mountains # b_us_or_la_grande - La Grande
 8311=hills # b_us_or_baker_city - Baker City
 8312=mountains # b_us_or_halfway - Halfway
 8313=mountains # b_us_or_sumpter - Sumpter
-#c_us_or_enterprise - Enterprise
+#c_wallowa - Wallowa
 8314=drylands # b_us_or_enterprise - Enterprise
 8315=mountains # b_us_or_elgin - Elgin
 8316=mountains # b_us_or_zumwalt - Zumwalt
@@ -11678,16 +11682,16 @@
 8323=mountains # b_us_wa_nespelem - Nespelem
 8324=mountains # b_us_wa_inchelium - Inchelium
 #d_us_or_malheur - Malheur
-#c_us_or_burns - Burns
+#c_harney - Harney
 8325=drylands # b_us_or_burns - Burns
 8326=mountains # b_us_or_crane - Crane
 8327=drylands # b_us_or_juntura - Juntura
 8328=drylands # b_us_or_voltage - Voltage
-#c_us_or_john_day - John Day
+#c_john_day - John Day
 8329=mountains # b_us_or_john_day - John Day
 8330=mountains # b_us_or_prairie_city - Prairie City
 8331=mountains # b_us_or_long_creek - Long Creek
-#c_us_or_harper - Harper
+#c_malheur - Malheur
 8332=drylands # b_us_or_harper - Harper
 8333=drylands # b_us_or_watson - Watson
 8334=desert # b_us_or_andrews - Andrews
@@ -12187,13 +12191,13 @@
 8685=forest # b_us_al_gordo - Gordo
 #d_nickajack - Nickajack
 #c_us_al_huntsville - Huntsville
-8686=plains # b_us_al_huntsville - Huntsville
+8686=farmlands # b_us_al_huntsville - Huntsville
 8687=plains # b_us_al_florence - Florence
 8688=hills # b_us_al_meridianville - Meridianville
 8689=hills # b_us_al_scottsboro - Scottsboro
 #c_us_al_decatur - Decatur
 8690=plains # b_us_al_decatur - Decatur
-8691=plains # b_us_al_muscle_shoals - Muscle Shoals
+8691=farmlands # b_us_al_muscle_shoals - Muscle Shoals
 8692=forest # b_us_al_haleyville - Haleyville
 #c_us_al_gadsden - Gadsden
 8693=hills # b_us_al_gadsden - Gadsden
@@ -12694,184 +12698,185 @@
 9044=jungle # b_gt_01_chahal_guatemala - Chahal Guatemala
 9045=mountains # b_gt_01_cahab_n - Cahabón
 9046=mountains # b_gt_01_lanqu_n - Lanquín
-#k_gran_nicoya - de Managua
-#d_managua - Managua
-#c_ni_10_managua - Managua
-9047=hills # b_ni_10_managua - Managua
-9048=hills # b_ni_11_masaya - Masaya
-9049=plains # b_ni_10_sandino - Sandino
-9050=plains # b_ni_02_diriamba - Diriamba
-9051=plains # b_ni_10_tipitapa - Tipitapa
-#c_ni_08_le_n - León
-9052=plains # b_ni_03_chinandega - Chinandega
-9053=plains # b_ni_08_le_n - León
-9054=hills # b_ni_08_el_sauce - El Sauce
-9055=floodplains # b_ni_03_somotillo - Somotillo
-9056=plains # b_ni_08_larreynaga - Larreynaga
-#c_ni_15_rivas - Rivas
-9057=plains # b_ni_15_rivas - Rivas
-9058=plains # b_ni_15_san_juan_del_sur - San Juan del Sur
-9059=plains # b_ni_15_moyogalpa - Moyogalpa
-#d_talamanca - Talamanca
-#c_cr_08_san_jos_ - San José
-9060=mountains # b_cr_08_san_jos_ - San José
-9061=mountains # b_cr_02_para_so - Paraíso
-9062=mountains # b_cr_02_turrialba - Turrialba
-#c_cr_01_grecia - Grecia
-9063=mountains # b_cr_01_grecia - Grecia
-9064=mountains # b_cr_01_desamparados - Desamparados
-9065=jungle # b_cr_01_quesada - Quesada
-#c_cr_03_liberia - Liberia
-9066=hills # b_cr_07_puntarenas - Puntarenas
-9067=plains # b_cr_03_liberia - Liberia
-9068=hills # b_cr_03_ca_as - Cañas
-9069=plains # b_cr_03_la_cruz - La Cruz
-#c_cr_08_de_san_jos_ - de San José
-9070=mountains # b_cr_08_san_rafael_abajo - San Rafael Abajo
-9071=mountains # b_cr_08_san_isidro - San Isidro
-9072=mountains # b_cr_07_quepos - Quepos
-#c_cr_06_lim_n - Limón
-9073=jungle # b_cr_06_lim_n - Limón
-9074=jungle # b_cr_06_gu_piles - Guápiles
-9075=jungle # b_cr_06_siquirres - Siquirres
-#c_cr_01_san_jos_ - San José
-9076=jungle # b_cr_01_san_jos_ - San José
-9077=jungle # b_cr_01_la_fortuna - La Fortuna
-9078=jungle # b_cr_01_los_chiles - Los Chiles
-#c_cr_07_buenos_aires - Buenos Aires
-9079=jungle # b_cr_07_corredor - Corredor
-9080=mountains # b_cr_07_buenos_aires - Buenos Aires
-9081=jungle # b_cr_07_sierpe - Sierpe
-#c_cr_03_nicoya - Nicoya
-9082=hills # b_cr_03_nicoya - Nicoya
-9083=hills # b_cr_03_santa_cruz - Santa Cruz
-9084=hills # b_cr_07_c_bano - Cóbano
 #k_honduras - Honduras
 #d_lempira - Lempira
 #c_hn_08_tegucigalpa - Tegucigalpa
-9085=mountains # b_hn_08_tegucigalpa - Tegucigalpa
-9086=hills # b_hn_08_talanga - Talanga
-9087=mountains # b_hn_08_de_san_francisco - de San Francisco
-9088=mountains # b_hn_08_el_porvenir - El Porvenir
-9089=plains # b_hn_08_guaimaca - Guaimaca
+9047=mountains # b_hn_08_tegucigalpa - Tegucigalpa
+9048=hills # b_hn_08_talanga - Talanga
+9049=mountains # b_hn_08_de_san_francisco - de San Francisco
+9050=mountains # b_hn_08_el_porvenir - El Porvenir
+9051=plains # b_hn_08_guaimaca - Guaimaca
 #c_hn_04_comayagua - Comayagua
-9090=mountains # b_hn_04_comayagua - Comayagua
-9091=mountains # b_hn_04_siguatepeque - Siguatepeque
-9092=mountains # b_hn_12_la_paz - La Paz
-9093=mountains # b_hn_04_minas_de_oro - Minas de Oro
-9094=mountains # b_hn_12_marcala - Marcala
+9052=mountains # b_hn_04_comayagua - Comayagua
+9053=mountains # b_hn_04_siguatepeque - Siguatepeque
+9054=mountains # b_hn_12_la_paz - La Paz
+9055=mountains # b_hn_04_minas_de_oro - Minas de Oro
+9056=mountains # b_hn_12_marcala - Marcala
 #c_hn_05_santa_rosa_de_cop_n - Santa Rosa de Copán
-9095=mountains # b_hn_05_santa_rosa_de_cop_n - Santa Rosa de Copán
-9096=mountains # b_hn_05_cop_n - Copán
-9097=mountains # b_hn_13_gracias - Gracias
+9057=mountains # b_hn_05_santa_rosa_de_cop_n - Santa Rosa de Copán
+9058=mountains # b_hn_05_cop_n - Copán
+9059=mountains # b_hn_13_gracias - Gracias
 #c_hn_16_santa_b_rbara - Santa Bárbara
-9098=mountains # b_hn_16_santa_b_rbara - Santa Bárbara
-9099=mountains # b_hn_16_tras_cerros - Tras Cerros
-9100=mountains # b_hn_16_san_luis - San Luis
+9060=mountains # b_hn_16_santa_b_rbara - Santa Bárbara
+9061=mountains # b_hn_16_tras_cerros - Tras Cerros
+9062=mountains # b_hn_16_san_luis - San Luis
 #c_hn_07_danl_ - Danlí
-9101=hills # b_hn_07_danl_ - Danlí
-9102=hills # b_hn_07_teupasenti - Teupasenti
-9103=mountains # b_hn_07_g_inope - Güinope
-9104=hills # b_hn_07_las - Las
+9063=hills # b_hn_07_danl_ - Danlí
+9064=hills # b_hn_07_teupasenti - Teupasenti
+9065=mountains # b_hn_07_g_inope - Güinope
+9066=hills # b_hn_07_las - Las
 #c_hn_10_intibuc_ - Intibucá
-9105=mountains # b_hn_14_nueva_ocotepeque - Nueva Ocotepeque
-9106=mountains # b_hn_10_intibuc_ - Intibucá
-9107=mountains # b_hn_13_erandique - Erandique
-9108=mountains # b_hn_13_cololaca - Cololaca
+9067=mountains # b_hn_14_nueva_ocotepeque - Nueva Ocotepeque
+9068=mountains # b_hn_10_intibuc_ - Intibucá
+9069=mountains # b_hn_13_erandique - Erandique
+9070=mountains # b_hn_13_cololaca - Cololaca
 #c_hn_15_juticalpa - Juticalpa
-9109=hills # b_hn_15_juticalpa - Juticalpa
-9110=plains # b_hn_15_campamento - Campamento
-9111=hills # b_hn_15_dulce_nombre_de_culm_ - Dulce Nombre de Culmí
-9112=hills # b_hn_15_nueva_choluteca - Nueva Choluteca
+9071=hills # b_hn_15_juticalpa - Juticalpa
+9072=plains # b_hn_15_campamento - Campamento
+9073=hills # b_hn_15_dulce_nombre_de_culm_ - Dulce Nombre de Culmí
+9074=hills # b_hn_15_nueva_choluteca - Nueva Choluteca
 #c_hn_15_san_francisco_de_la_paz - San Francisco de la Paz
-9113=plains # b_hn_15_san_francisco_de_la_paz - San Francisco de la Paz
-9114=hills # b_hn_15_gualaco - Gualaco
-9115=mountains # b_hn_15_salam_ - Salamá
-9116=mountains # b_hn_15_san_esteban - San Esteban
+9075=plains # b_hn_15_san_francisco_de_la_paz - San Francisco de la Paz
+9076=hills # b_hn_15_gualaco - Gualaco
+9077=mountains # b_hn_15_salam_ - Salamá
+9078=mountains # b_hn_15_san_esteban - San Esteban
 #d_comayagua - Comayagua
 #c_hn_06_san_pedro_sula - San Pedro Sula
-9117=mountains # b_hn_06_san_pedro_sula - San Pedro Sula
-9118=hills # b_hn_06_choloma - Choloma
-9119=mountains # b_hn_06_la_lima - La Lima
-9120=plains # b_hn_06_santa_cruz_de_yojoa - Santa Cruz de Yojoa
+9079=mountains # b_hn_06_san_pedro_sula - San Pedro Sula
+9080=hills # b_hn_06_choloma - Choloma
+9081=mountains # b_hn_06_la_lima - La Lima
+9082=plains # b_hn_06_santa_cruz_de_yojoa - Santa Cruz de Yojoa
 #c_hn_01_la_ceiba - La Ceiba
-9121=mountains # b_hn_01_la_ceiba - La Ceiba
-9122=hills # b_hn_01_tela - Tela
-9123=jungle # b_hn_01_san_juan - San Juan
+9083=mountains # b_hn_01_la_ceiba - La Ceiba
+9084=hills # b_hn_01_tela - Tela
+9085=jungle # b_hn_01_san_juan - San Juan
 #c_hn_18_olanchito - Olanchito
-9124=hills # b_hn_18_moraz_n - Morazán
-9125=hills # b_hn_18_olanchito - Olanchito
-9126=mountains # b_hn_18_santa_rita - Santa Rita
-9127=mountains # b_hn_18_yoro - Yoro
-9128=mountains # b_hn_18_joc_n - Jocón
+9086=hills # b_hn_18_moraz_n - Morazán
+9087=hills # b_hn_18_olanchito - Olanchito
+9088=mountains # b_hn_18_santa_rita - Santa Rita
+9089=mountains # b_hn_18_yoro - Yoro
+9090=mountains # b_hn_18_joc_n - Jocón
 #d_cortes - Cortés
 #c_hn_03_tocoa - Tocoa
-9129=hills # b_hn_03_tocoa - Tocoa
-9130=hills # b_hn_03_bonito_oriental - Bonito Oriental
-9131=jungle # b_hn_03_cusuna - Cusuna
-9132=mountains # b_hn_09_baltil_ - Baltilú
+9091=hills # b_hn_03_tocoa - Tocoa
+9092=hills # b_hn_03_bonito_oriental - Bonito Oriental
+9093=jungle # b_hn_03_cusuna - Cusuna
+9094=mountains # b_hn_09_baltil_ - Baltilú
 #c_hn_11_coxen_hole - Coxen Hole
-9133=jungle # b_hn_11_coxen_hole - Coxen Hole
-#k_el_salvador - de San Salvador
+9095=jungle # b_hn_11_coxen_hole - Coxen Hole
+#k_el_salvador - El Salvador
 #d_san_salvador - San Salvador
 #c_sv_10_san_salvador - San Salvador
-9134=farmlands # b_sv_10_san_salvador - San Salvador
-9135=hills # b_sv_05_santa_tecla - Santa Tecla
-9136=plains # b_sv_06_zacatecoluca - Zacatecoluca
-9137=hills # b_sv_12_san_vicente - San Vicente
-9138=plains # b_sv_05_la_libertad - La Libertad
+9096=farmlands # b_sv_10_san_salvador - San Salvador
+9097=hills # b_sv_05_santa_tecla - Santa Tecla
+9098=plains # b_sv_06_zacatecoluca - Zacatecoluca
+9099=hills # b_sv_12_san_vicente - San Vicente
+9100=plains # b_sv_05_la_libertad - La Libertad
 #c_sv_11_santa_ana - Santa Ana
-9139=hills # b_sv_11_santa_ana - Santa Ana
-9140=hills # b_sv_13_sonsonate - Sonsonate
-9141=mountains # b_sv_01_ahuachap_n - Ahuachapán
-9142=mountains # b_sv_11_metap_n - Metapán
+9101=hills # b_sv_11_santa_ana - Santa Ana
+9102=hills # b_sv_13_sonsonate - Sonsonate
+9103=mountains # b_sv_01_ahuachap_n - Ahuachapán
+9104=mountains # b_sv_11_metap_n - Metapán
 #c_sv_09_de_san_miguel - de San Miguel
-9143=hills # b_sv_09_san_miguel - San Miguel
-9144=floodplains # b_sv_14_usulut_n - Usulután
-9145=hills # b_sv_14_santiago_de_mar_a - Santiago de María
-9146=floodplains # b_sv_07_la_uni_n - La Unión
-9147=hills # b_sv_09_chirilagua - Chirilagua
+9105=hills # b_sv_09_san_miguel - San Miguel
+9106=floodplains # b_sv_14_usulut_n - Usulután
+9107=hills # b_sv_14_santiago_de_mar_a - Santiago de María
+9108=floodplains # b_sv_07_la_uni_n - La Unión
+9109=hills # b_sv_09_chirilagua - Chirilagua
 #c_hn_02_choluteca - Choluteca
-9148=floodplains # b_hn_02_choluteca - Choluteca
-9149=floodplains # b_hn_17_san_lorenzo - San Lorenzo
-9150=floodplains # b_hn_02_monjar_s - Monjarás
-9151=mountains # b_hn_02_san_marcos_de_col_n - San Marcos de Colón
+9110=floodplains # b_hn_02_choluteca - Choluteca
+9111=floodplains # b_hn_17_san_lorenzo - San Lorenzo
+9112=floodplains # b_hn_02_monjar_s - Monjarás
+9113=mountains # b_hn_02_san_marcos_de_col_n - San Marcos de Colón
 #c_sv_04_cojutepeque - Cojutepeque
-9152=plains # b_sv_04_cojutepeque - Cojutepeque
-9153=hills # b_sv_02_sensuntepeque - Sensuntepeque
-9154=hills # b_sv_03_chalatenango - Chalatenango
-9155=hills # b_sv_03_nueva_concepci_n - Nueva Concepción
+9114=plains # b_sv_04_cojutepeque - Cojutepeque
+9115=hills # b_sv_02_sensuntepeque - Sensuntepeque
+9116=hills # b_sv_03_chalatenango - Chalatenango
+9117=hills # b_sv_03_nueva_concepci_n - Nueva Concepción
 #c_sv_08_san_francisco - San Francisco
-9156=hills # b_sv_08_san_francisco - San Francisco
-9157=hills # b_sv_07_santa_rosa_de_lima - Santa Rosa de Lima
-9158=hills # b_sv_09_barrios - Barrios
-#k_mosquito - Mosquito
+9118=hills # b_sv_08_san_francisco - San Francisco
+9119=hills # b_sv_07_santa_rosa_de_lima - Santa Rosa de Lima
+9120=hills # b_sv_09_barrios - Barrios
+#k_nicaragua - Nicaragua
+#d_managua - Managua
+#c_ni_10_managua - Managua
+9121=hills # b_ni_10_managua - Managua
+9122=hills # b_ni_11_masaya - Masaya
+9123=plains # b_ni_10_sandino - Sandino
+9124=plains # b_ni_02_diriamba - Diriamba
+9125=plains # b_ni_10_tipitapa - Tipitapa
+#c_ni_08_le_n - León
+9126=plains # b_ni_03_chinandega - Chinandega
+9127=plains # b_ni_08_le_n - León
+9128=hills # b_ni_08_el_sauce - El Sauce
+9129=floodplains # b_ni_03_somotillo - Somotillo
+9130=plains # b_ni_08_larreynaga - Larreynaga
+#c_ni_15_rivas - Rivas
+9131=plains # b_ni_15_rivas - Rivas
+9132=plains # b_ni_15_san_juan_del_sur - San Juan del Sur
+9133=plains # b_ni_15_moyogalpa - Moyogalpa
 #d_matagalpa - Matagalpa
 #c_ni_05_estel_ - Estelí
-9159=hills # b_ni_05_estel_ - Estelí
-9160=hills # b_ni_13_jalapa - Jalapa
-9161=hills # b_ni_09_somoto - Somoto
-9162=mountains # b_ni_13_ocotal - Ocotal
+9134=hills # b_ni_05_estel_ - Estelí
+9135=hills # b_ni_13_jalapa - Jalapa
+9136=hills # b_ni_09_somoto - Somoto
+9137=mountains # b_ni_13_ocotal - Ocotal
 #c_ni_12_matagalpa - Matagalpa
-9163=hills # b_ni_12_matagalpa - Matagalpa
-9164=hills # b_ni_01_boaco - Boaco
-9165=hills # b_ni_12_r_o_blanco - Río Blanco
-9166=plains # b_ni_01_camoapa - Camoapa
-9167=hills # b_ni_12_muy_muy - Muy Muy
+9138=hills # b_ni_12_matagalpa - Matagalpa
+9139=hills # b_ni_01_boaco - Boaco
+9140=hills # b_ni_12_r_o_blanco - Río Blanco
+9141=hills # b_ni_01_camoapa - Camoapa
+9142=hills # b_ni_12_muy_muy - Muy Muy
 #c_ni_04_juigalpa - Juigalpa
-9168=plains # b_ni_04_juigalpa - Juigalpa
-9169=hills # b_ni_04_santo_tom_s - Santo Tomás
-9170=plains # b_ni_04_acoyapa - Acoyapa
+9143=hills # b_ni_04_juigalpa - Juigalpa
+9144=hills # b_ni_04_santo_tom_s - Santo Tomás
+9145=plains # b_ni_04_acoyapa - Acoyapa
 #c_ni_07_jinotega - Jinotega
-9171=hills # b_ni_07_jinotega - Jinotega
-9172=mountains # b_ni_07_san_jos_de_bocay - San José de Bocay
-9173=jungle # b_ni_07_amaka - Amaka
+9146=hills # b_ni_07_jinotega - Jinotega
+9147=mountains # b_ni_07_san_jos_de_bocay - San José de Bocay
+9148=jungle # b_ni_07_amaka - Amaka
+#k_costa_rica - Costa Rica
+#d_talamanca - Talamanca
+#c_cr_08_san_jos_ - San José
+9149=mountains # b_cr_08_san_jos_ - San José
+9150=mountains # b_cr_02_para_so - Paraíso
+9151=mountains # b_cr_02_turrialba - Turrialba
+#c_cr_01_grecia - Grecia
+9152=mountains # b_cr_01_grecia - Grecia
+9153=mountains # b_cr_01_desamparados - Desamparados
+9154=jungle # b_cr_01_quesada - Quesada
+#c_cr_03_liberia - Liberia
+9155=hills # b_cr_07_puntarenas - Puntarenas
+9156=plains # b_cr_03_liberia - Liberia
+9157=hills # b_cr_03_ca_as - Cañas
+9158=plains # b_cr_03_la_cruz - La Cruz
+#c_cr_08_de_san_jos_ - de San José
+9159=mountains # b_cr_08_san_rafael_abajo - San Rafael Abajo
+9160=mountains # b_cr_08_san_isidro - San Isidro
+9161=mountains # b_cr_07_quepos - Quepos
+#c_cr_06_lim_n - Limón
+9162=jungle # b_cr_06_lim_n - Limón
+9163=jungle # b_cr_06_gu_piles - Guápiles
+9164=jungle # b_cr_06_siquirres - Siquirres
+#c_cr_01_san_jos_ - San José
+9165=jungle # b_cr_01_san_jos_ - San José
+9166=jungle # b_cr_01_la_fortuna - La Fortuna
+9167=jungle # b_cr_01_los_chiles - Los Chiles
+#c_cr_07_buenos_aires - Buenos Aires
+9168=jungle # b_cr_07_corredor - Corredor
+9169=mountains # b_cr_07_buenos_aires - Buenos Aires
+9170=jungle # b_cr_07_sierpe - Sierpe
+#c_cr_03_nicoya - Nicoya
+9171=hills # b_cr_03_nicoya - Nicoya
+9172=hills # b_cr_03_santa_cruz - Santa Cruz
+9173=hills # b_cr_07_c_bano - Cóbano
+#k_miskito - Miskito
 #d_mosquito_coast - Mosquito Coast
 #c_ni_18_nueva_guinea - Nueva Guinea
-9174=jungle # b_ni_18_nueva_guinea - Nueva Guinea
+9174=hills # b_ni_18_nueva_guinea - Nueva Guinea
 9175=jungle # b_ni_18_bluefields - Bluefields
 9176=jungle # b_ni_18_el_rama - El Rama
-9177=plains # b_ni_18_muelle_de_los_bueyes - Muelle de los Bueyes
+9177=hills # b_ni_18_muelle_de_los_bueyes - Muelle de los Bueyes
 9178=jungle # b_ni_18_amerisco - Amerisco
 #c_ni_17_puerto_cabezas - Puerto Cabezas
 9179=wetlands # b_ni_17_puerto_cabezas - Puerto Cabezas
@@ -12880,19 +12885,19 @@
 9182=jungle # b_ni_17_amaki - Amaki
 #c_ni_14_san_carlos - San Carlos
 9183=jungle # b_ni_14_san_carlos - San Carlos
-9184=plains # b_ni_14_san_miguelito - San Miguelito
+9184=hills # b_ni_14_san_miguelito - San Miguelito
 9185=jungle # b_ni_14_el_castillo_de_la_concepci_n - El Castillo de La Concepción
 #c_ni_18_corn_island - Corn Island
 9186=jungle # b_ni_18_corn_island - Corn Island
-9187=jungle # b_ni_18_la_cruz_de_r_o_grande - La Cruz de Río Grande
+9187=hills # b_ni_18_la_cruz_de_r_o_grande - La Cruz de Río Grande
 9188=jungle # b_ni_18_el_tortuguero - El Tortuguero
 #c_ni_17_siuna - Siuna
-9189=jungle # b_ni_17_siuna - Siuna
-9190=plains # b_ni_18_bilamp_ - Bilampí
-9191=jungle # b_ni_17_al_ - Aló
+9189=hills # b_ni_17_siuna - Siuna
+9190=hills # b_ni_18_bilamp_ - Bilampí
+9191=hills # b_ni_17_al_ - Aló
 9192=hills # b_ni_17_casul_ - Casulí
 #c_ni_17_bonanza - Bonanza
-9193=jungle # b_ni_17_bonanza - Bonanza
+9193=hills # b_ni_17_bonanza - Bonanza
 9194=jungle # b_ni_17_prinzapolka - Prinzapolka
 9195=jungle # b_ni_17_betil - Betil
 #d_gracias_a_dios - Gracias a Dios

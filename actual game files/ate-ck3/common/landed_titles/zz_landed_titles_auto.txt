@@ -42471,7 +42471,7 @@ e_california = { #California
 			color = { 175 193 12 }
 			color2 = { 255 255 255 }
 
-			c_us_or_medford = { #Medford
+			c_rogue_valley = { #Rogue Valley
 				color = { 223 210 109 }
 				color2 = { 255 255 255 }
 				b_us_or_medford = { #Medford
@@ -42490,7 +42490,7 @@ e_california = { #California
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_roseburg = { #Roseburg
+			c_umpqua = { #Umpqua
 				color = { 146 109 160 }
 				color2 = { 255 255 255 }
 				b_us_or_roseburg = { #Roseburg
@@ -42504,7 +42504,7 @@ e_california = { #California
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_grants_pass = { #Grants Pass
+			c_port_jackson = { #Jackson
 				color = { 87 219 65 }
 				color2 = { 255 255 255 }
 				b_us_or_grants_pass = { #Grants Pass
@@ -42523,7 +42523,7 @@ e_california = { #California
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_coos_bay = { #Coos Bay
+			c_coos_1 = { #Coos
 				color = { 138 88 80 }
 				color2 = { 255 255 255 }
 				b_us_or_coos_bay = { #Coos Bay
@@ -42542,7 +42542,7 @@ e_california = { #California
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_ca_crescent_city = { #Crescent City
+			c_siskiyou = { #Siskiyou
 				color = { 135 65 141 }
 				color2 = { 255 255 255 }
 				b_us_or_brookings = { #Brookings
@@ -42815,7 +42815,7 @@ e_california = { #California
 			color = { 5 201 227 }
 			color2 = { 255 255 255 }
 
-			c_us_or_altamont = { #Altamont
+			c_klamath_falls = { #Klamath Falls
 				color = { 47 164 59 }
 				color2 = { 255 255 255 }
 				b_us_or_altamont = { #Altamont
@@ -42829,7 +42829,7 @@ e_california = { #California
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_lakeview = { #Lakeview
+			c_warner = { #Warner
 				color = { 141 71 73 }
 				color2 = { 255 255 255 }
 				b_us_or_lakeview = { #Lakeview
@@ -42848,7 +42848,7 @@ e_california = { #California
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_chiloquin = { #Chiloquin
+			c_crater = { #Crater
 				color = { 38 163 187 }
 				color2 = { 255 255 255 }
 				b_us_or_chiloquin = { #Chiloquin
@@ -43109,188 +43109,6 @@ e_thunderland = { #Thunderland
 		color = { 122 142 104 }
 		color2 = { 255 255 255 }
 
-		d_palliser = { #Palliser
-			color = { 35 153 112 }
-			color2 = { 255 255 255 }
-
-			c_calgary = { #Calgary
-				color = { 189 85 113 }
-				color2 = { 255 255 255 }
-				b_ca_ab_calgary = { #Calgary
-					province = 6425
-					color = { 172 110 78 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_airdrie = { #Airdrie
-					province = 6426
-					color = { 171 95 118 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_okotoks = { #Okotoks
-					province = 6427
-					color = { 175 68 86 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_chestermere = { #Chestermere
-					province = 6428
-					color = { 190 87 116 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_didsbury = { #Didsbury
-					province = 6429
-					color = { 202 52 79 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_westcott = { #Westcott
-					province = 6430
-					color = { 162 53 108 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_lethbridge = { #Lethbridge
-				color = { 224 70 133 }
-				color2 = { 255 255 255 }
-				b_ca_ab_lethbridge = { #Lethbridge
-					province = 6431
-					color = { 246 69 157 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_coalhurst = { #Coalhurst
-					province = 6432
-					color = { 238 72 164 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_raymond = { #Raymond
-					province = 6433
-					color = { 200 74 145 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_medicine_hat = { #Medicine Hat
-				color = { 44 117 98 }
-				color2 = { 255 255 255 }
-				b_ca_ab_medicine_hat = { #Medicine Hat
-					province = 6434
-					color = { 32 143 77 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_bow_island = { #Bow Island
-					province = 6435
-					color = { 18 130 76 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_schuler = { #Schuler
-					province = 6436
-					color = { 72 138 97 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_pakowki = { #Pakowki
-					province = 6437
-					color = { 66 143 68 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_nemiskam = { #Nemiskam
-					province = 6438
-					color = { 34 150 91 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_newell = { #Newell
-				color = { 119 122 11 }
-				color2 = { 255 255 255 }
-				b_ca_ab_brooks = { #Brooks
-					province = 6439
-					color = { 114 144 3 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_strathmore = { #Strathmore
-					province = 6440
-					color = { 97 146 4 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_bassano = { #Bassano
-					province = 6441
-					color = { 106 105 7 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_foothills = { #Foothills
-				color = { 88 122 31 }
-				color2 = { 255 255 255 }
-				b_ca_ab_high_river = { #High River
-					province = 6442
-					color = { 70 121 35 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_claresholm = { #Claresholm
-					province = 6443
-					color = { 63 126 39 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_lyndon = { #Lyndon
-					province = 6444
-					color = { 86 140 61 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_cardston = { #Cardston
-				color = { 147 86 147 }
-				color2 = { 255 255 255 }
-				b_ca_ab_cardston = { #Cardston
-					province = 6445
-					color = { 178 90 141 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_pincher_creek = { #Pincher Creek
-					province = 6446
-					color = { 170 68 122 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_fort_macleod = { #Fort Macleod
-					province = 6447
-					color = { 169 105 114 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_hoodoo = { #Hoodoo
-				color = { 66 120 189 }
-				color2 = { 255 255 255 }
-				b_ca_ab_drumheller = { #Drumheller
-					province = 6448
-					color = { 54 92 189 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_three_hills = { #Three Hills
-					province = 6449
-					color = { 90 104 210 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_watts = { #Watts
-					province = 6450
-					color = { 70 107 177 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_taber = { #Taber
-				color = { 80 104 178 }
-				color2 = { 255 255 255 }
-				b_ca_ab_vauxhall = { #Vauxhall
-					province = 6451
-					color = { 108 109 173 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_vulcan = { #Vulcan
-					province = 6452
-					color = { 115 113 205 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_siksika = { #Siksika
-					province = 6453
-					color = { 84 138 177 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
 		d_edmonton = { #Edmonton
 			color = { 89 84 17 }
 			color2 = { 255 255 255 }
@@ -43299,27 +43117,27 @@ e_thunderland = { #Thunderland
 				color = { 35 148 59 }
 				color2 = { 255 255 255 }
 				b_ca_ab_edmonton = { #Edmonton
-					province = 6454
+					province = 6425
 					color = { 69 146 31 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_sherwood_park = { #Sherwood Park
-					province = 6455
+					province = 6426
 					color = { 9 149 55 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_beaumont = { #Beaumont
-					province = 6456
+					province = 6427
 					color = { 53 181 77 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_morinville = { #Morinville
-					province = 6457
+					province = 6428
 					color = { 58 177 86 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_duffield = { #Duffield
-					province = 6458
+					province = 6429
 					color = { 10 152 54 }
 					color2 = { 255 255 255 }
 				}
@@ -43328,22 +43146,22 @@ e_thunderland = { #Thunderland
 				color = { 179 116 72 }
 				color2 = { 255 255 255 }
 				b_ca_ab_drayton_valley = { #Drayton Valley
-					province = 6459
+					province = 6430
 					color = { 214 81 81 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_leduc = { #Leduc
-					province = 6460
+					province = 6431
 					color = { 164 91 40 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_rimbey = { #Rimbey
-					province = 6461
+					province = 6432
 					color = { 196 94 106 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_winfield = { #Winfield
-					province = 6462
+					province = 6433
 					color = { 189 92 44 }
 					color2 = { 255 255 255 }
 				}
@@ -43352,22 +43170,22 @@ e_thunderland = { #Thunderland
 				color = { 199 191 68 }
 				color2 = { 255 255 255 }
 				b_ca_ab_camrose = { #Camrose
-					province = 6463
+					province = 6434
 					color = { 231 180 80 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_tofield = { #Tofield
-					province = 6464
+					province = 6435
 					color = { 221 187 44 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_killam = { #Killam
-					province = 6465
+					province = 6436
 					color = { 232 202 100 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_viking = { #Viking
-					province = 6466
+					province = 6437
 					color = { 195 180 54 }
 					color2 = { 255 255 255 }
 				}
@@ -43376,17 +43194,17 @@ e_thunderland = { #Thunderland
 				color = { 159 199 75 }
 				color2 = { 255 255 255 }
 				b_ca_ab_vegreville = { #Vegreville
-					province = 6467
+					province = 6438
 					color = { 170 210 60 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_vermilion = { #Vermilion
-					province = 6468
+					province = 6439
 					color = { 167 223 87 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_lamont = { #Lamont
-					province = 6469
+					province = 6440
 					color = { 135 224 69 }
 					color2 = { 255 255 255 }
 				}
@@ -43395,66 +43213,234 @@ e_thunderland = { #Thunderland
 				color = { 167 182 145 }
 				color2 = { 255 255 255 }
 				b_ca_ab_westlock = { #Westlock
-					province = 6470
+					province = 6441
 					color = { 195 201 153 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_athabasca = { #Athabasca
-					province = 6471
+					province = 6442
 					color = { 186 160 167 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_jarvie = { #Jarvie
-					province = 6472
+					province = 6443
 					color = { 190 184 125 }
 					color2 = { 255 255 255 }
 				}
 			}
 		}
-		d_chinook = { #Chinook
-			color = { 59 100 120 }
+		d_ca_ab_calgary = { #Calgary
+			color = { 67 87 180 }
+			color2 = { 255 255 255 }
+
+			c_calgary = { #Calgary
+				color = { 189 85 113 }
+				color2 = { 255 255 255 }
+				b_ca_ab_calgary = { #Calgary
+					province = 6444
+					color = { 172 110 78 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_airdrie = { #Airdrie
+					province = 6445
+					color = { 171 95 118 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_okotoks = { #Okotoks
+					province = 6446
+					color = { 175 68 86 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_chestermere = { #Chestermere
+					province = 6447
+					color = { 190 87 116 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_didsbury = { #Didsbury
+					province = 6448
+					color = { 202 52 79 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_westcott = { #Westcott
+					province = 6449
+					color = { 162 53 108 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_foothills = { #Foothills
+				color = { 88 122 31 }
+				color2 = { 255 255 255 }
+				b_ca_ab_high_river = { #High River
+					province = 6450
+					color = { 70 121 35 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_claresholm = { #Claresholm
+					province = 6451
+					color = { 63 126 39 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_lyndon = { #Lyndon
+					province = 6452
+					color = { 86 140 61 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_cardston = { #Cardston
+				color = { 147 86 147 }
+				color2 = { 255 255 255 }
+				b_ca_ab_cardston = { #Cardston
+					province = 6453
+					color = { 178 90 141 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_pincher_creek = { #Pincher Creek
+					province = 6454
+					color = { 170 68 122 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_fort_macleod = { #Fort Macleod
+					province = 6455
+					color = { 169 105 114 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		d_palliser = { #Palliser
+			color = { 35 153 112 }
+			color2 = { 255 255 255 }
+
+			c_lethbridge = { #Lethbridge
+				color = { 224 70 133 }
+				color2 = { 255 255 255 }
+				b_ca_ab_lethbridge = { #Lethbridge
+					province = 6456
+					color = { 246 69 157 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_coalhurst = { #Coalhurst
+					province = 6457
+					color = { 238 72 164 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_raymond = { #Raymond
+					province = 6458
+					color = { 200 74 145 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_medicine_hat = { #Medicine Hat
+				color = { 44 117 98 }
+				color2 = { 255 255 255 }
+				b_ca_ab_medicine_hat = { #Medicine Hat
+					province = 6459
+					color = { 32 143 77 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_bow_island = { #Bow Island
+					province = 6460
+					color = { 18 130 76 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_schuler = { #Schuler
+					province = 6461
+					color = { 72 138 97 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_pakowki = { #Pakowki
+					province = 6462
+					color = { 66 143 68 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_nemiskam = { #Nemiskam
+					province = 6463
+					color = { 34 150 91 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_newell = { #Newell
+				color = { 119 122 11 }
+				color2 = { 255 255 255 }
+				b_ca_ab_brooks = { #Brooks
+					province = 6464
+					color = { 114 144 3 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_strathmore = { #Strathmore
+					province = 6465
+					color = { 97 146 4 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_bassano = { #Bassano
+					province = 6466
+					color = { 106 105 7 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_taber = { #Taber
+				color = { 80 104 178 }
+				color2 = { 255 255 255 }
+				b_ca_ab_vauxhall = { #Vauxhall
+					province = 6467
+					color = { 108 109 173 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_vulcan = { #Vulcan
+					province = 6468
+					color = { 115 113 205 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_siksika = { #Siksika
+					province = 6469
+					color = { 84 138 177 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		d_ca_ab_red_deer = { #Red Deer
+			color = { 183 42 114 }
 			color2 = { 255 255 255 }
 
 			c_red_deer = { #Red Deer
 				color = { 189 97 92 }
 				color2 = { 255 255 255 }
 				b_ca_ab_red_deer = { #Red Deer
-					province = 6473
+					province = 6470
 					color = { 210 113 121 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_lacombe = { #Lacombe
-					province = 6474
+					province = 6471
 					color = { 167 91 97 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_olds = { #Olds
-					province = 6475
+					province = 6472
 					color = { 170 100 63 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_sylvan_lake = { #Sylvan Lake
-					province = 6476
+					province = 6473
 					color = { 194 131 107 }
 					color2 = { 255 255 255 }
 				}
 			}
-			c_wainwright = { #Wainwright
-				color = { 112 158 38 }
+			c_hoodoo = { #Hoodoo
+				color = { 66 120 189 }
 				color2 = { 255 255 255 }
-				b_ca_ab_wainwright = { #Wainwright
-					province = 6477
-					color = { 122 164 32 }
+				b_ca_ab_drumheller = { #Drumheller
+					province = 6474
+					color = { 54 92 189 }
 					color2 = { 255 255 255 }
 				}
-				b_ca_ab_tinchebray = { #Tinchebray
-					province = 6478
-					color = { 132 163 36 }
+				b_ca_ab_three_hills = { #Three Hills
+					province = 6475
+					color = { 90 104 210 }
 					color2 = { 255 255 255 }
 				}
-				b_ca_ab_throne = { #Throne
-					province = 6479
-					color = { 146 158 32 }
+				b_ca_ab_watts = { #Watts
+					province = 6476
+					color = { 70 107 177 }
 					color2 = { 255 255 255 }
 				}
 			}
@@ -43462,51 +43448,13 @@ e_thunderland = { #Thunderland
 				color = { 28 153 46 }
 				color2 = { 255 255 255 }
 				b_ca_ab_stettler = { #Stettler
-					province = 6480
+					province = 6477
 					color = { 20 131 18 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_scollard = { #Scollard
-					province = 6481
+					province = 6478
 					color = { 9 171 44 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_hanna = { #Hanna
-				color = { 20 161 0 }
-				color2 = { 255 255 255 }
-				b_ca_ab_hanna = { #Hanna
-					province = 6482
-					color = { 45 171 16 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_sharrow = { #Sharrow
-					province = 6483
-					color = { 20 162 0 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_wardlow = { #Wardlow
-					province = 6484
-					color = { 0 141 10 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_oyen = { #Oyen
-				color = { 206 120 144 }
-				color2 = { 255 255 255 }
-				b_ca_ab_acadia_valley = { #Acadia Valley
-					province = 6485
-					color = { 218 114 125 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_bodo = { #Bodo
-					province = 6486
-					color = { 233 98 110 }
-					color2 = { 255 255 255 }
-				}
-				b_ca_ab_youngstown = { #Youngstown
-					province = 6487
-					color = { 211 154 149 }
 					color2 = { 255 255 255 }
 				}
 			}
@@ -43519,17 +43467,17 @@ e_thunderland = { #Thunderland
 				color = { 69 192 31 }
 				color2 = { 255 255 255 }
 				b_ca_ab_hinton = { #Hinton
-					province = 6488
+					province = 6479
 					color = { 88 178 51 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_edson = { #Edson
-					province = 6489
+					province = 6480
 					color = { 96 173 29 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_weald = { #Weald
-					province = 6490
+					province = 6481
 					color = { 43 172 32 }
 					color2 = { 255 255 255 }
 				}
@@ -43538,17 +43486,17 @@ e_thunderland = { #Thunderland
 				color = { 45 217 147 }
 				color2 = { 255 255 255 }
 				b_ca_ab_whitecourt = { #Whitecourt
-					province = 6491
+					province = 6482
 					color = { 75 186 163 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_barrhead = { #Barrhead
-					province = 6492
+					province = 6483
 					color = { 58 214 147 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_mayerthorpe = { #Mayerthorpe
-					province = 6493
+					province = 6484
 					color = { 15 251 161 }
 					color2 = { 255 255 255 }
 				}
@@ -43557,17 +43505,17 @@ e_thunderland = { #Thunderland
 				color = { 119 166 94 }
 				color2 = { 255 255 255 }
 				b_ca_ab_rocky_mountain_house = { #Rocky Mountain House
-					province = 6494
+					province = 6485
 					color = { 127 200 73 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_limestone_mountain = { #Limestone Mountain
-					province = 6495
+					province = 6486
 					color = { 95 170 92 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_ullin = { #Ullin
-					province = 6496
+					province = 6487
 					color = { 103 131 95 }
 					color2 = { 255 255 255 }
 				}
@@ -43576,23 +43524,85 @@ e_thunderland = { #Thunderland
 				color = { 167 146 62 }
 				color2 = { 255 255 255 }
 				b_ca_ab_grande_cache = { #Grande Cache
-					province = 6497
+					province = 6488
 					color = { 146 138 40 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_fox_creek = { #Fox Creek
-					province = 6498
+					province = 6489
 					color = { 138 181 97 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_valleyview = { #Valleyview
-					province = 6499
+					province = 6490
 					color = { 190 127 33 }
 					color2 = { 255 255 255 }
 				}
 				b_ca_ab_pedley = { #Pedley
-					province = 6500
+					province = 6491
 					color = { 160 115 52 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		d_chinook = { #Chinook
+			color = { 59 100 120 }
+			color2 = { 255 255 255 }
+
+			c_wainwright = { #Wainwright
+				color = { 112 158 38 }
+				color2 = { 255 255 255 }
+				b_ca_ab_wainwright = { #Wainwright
+					province = 6492
+					color = { 122 164 32 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_tinchebray = { #Tinchebray
+					province = 6493
+					color = { 132 163 36 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_throne = { #Throne
+					province = 6494
+					color = { 146 158 32 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_hanna = { #Hanna
+				color = { 20 161 0 }
+				color2 = { 255 255 255 }
+				b_ca_ab_hanna = { #Hanna
+					province = 6495
+					color = { 45 171 16 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_sharrow = { #Sharrow
+					province = 6496
+					color = { 20 162 0 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_wardlow = { #Wardlow
+					province = 6497
+					color = { 0 141 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_oyen = { #Oyen
+				color = { 206 120 144 }
+				color2 = { 255 255 255 }
+				b_ca_ab_acadia_valley = { #Acadia Valley
+					province = 6498
+					color = { 218 114 125 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_bodo = { #Bodo
+					province = 6499
+					color = { 233 98 110 }
+					color2 = { 255 255 255 }
+				}
+				b_ca_ab_youngstown = { #Youngstown
+					province = 6500
+					color = { 211 154 149 }
 					color2 = { 255 255 255 }
 				}
 			}
@@ -47206,8 +47216,8 @@ e_colombia = { #Colombia
 			}
 		}
 	}
-	k_puente_grande = { #Puente Grande
-		color = { 15 166 236 }
+	k_panama = { #Panamá
+		color = { 74 181 129 }
 		color2 = { 255 255 255 }
 
 		d_panama = { #Panamá
@@ -50090,633 +50100,8 @@ e_yucatan = { #Yucatán
 	color = { 113 235 253 }
 	color2 = { 255 255 255 }
 
-	k_yucatan = { #Yucatán
-		color = { 103 225 253 }
-		color2 = { 255 255 255 }
-
-		d_merida = { #Mérida
-			color = { 72 134 180 }
-			color2 = { 255 255 255 }
-
-			c_mx_31_m_rida = { #Mérida
-				color = { 23 78 102 }
-				color2 = { 255 255 255 }
-				b_mx_31_m_rida = { #Mérida
-					province = 7457
-					color = { 55 51 68 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_kanas_n = { #Kanasín
-					province = 7458
-					color = { 51 104 88 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_tixkokob = { #Tixkokob
-					province = 7459
-					color = { 40 96 131 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_sey_ = { #Seyé
-					province = 7460
-					color = { 7 92 72 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_31_uman = { #Uman
-				color = { 156 34 63 }
-				color2 = { 255 255 255 }
-				b_mx_31_uman = { #Uman
-					province = 7461
-					color = { 121 63 85 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_hunucm_ = { #Hunucmá
-					province = 7462
-					color = { 177 23 71 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_maxcan_ = { #Maxcanú
-					province = 7463
-					color = { 183 41 74 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_cepeda = { #Cepeda
-					province = 7464
-					color = { 167 24 93 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_31_motul = { #Motul
-				color = { 165 219 24 }
-				color2 = { 255 255 255 }
-				b_mx_31_motul = { #Motul
-					province = 7465
-					color = { 131 246 54 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_izamal = { #Izamal
-					province = 7466
-					color = { 172 221 6 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_dzidzantun = { #Dzidzantun
-					province = 7467
-					color = { 163 235 0 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_dzilam_de_bravo = { #Dzilam de Bravo
-					province = 7468
-					color = { 185 211 40 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_31_tizim_n = { #Tizimín
-				color = { 207 205 71 }
-				color2 = { 255 255 255 }
-				b_mx_31_tizim_n = { #Tizimín
-					province = 7469
-					color = { 178 235 50 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_temozon = { #Temozon
-					province = 7470
-					color = { 240 182 45 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_popolnah = { #Popolnah
-					province = 7471
-					color = { 231 221 79 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_dzonot_carretero = { #Dzonot Carretero
-					province = 7472
-					color = { 181 187 40 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_31_espita = { #Espita
-				color = { 93 214 160 }
-				color2 = { 255 255 255 }
-				b_mx_31_espita = { #Espita
-					province = 7473
-					color = { 120 188 170 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_buctzotz = { #Buctzotz
-					province = 7474
-					color = { 124 215 141 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_panab_ = { #Panabá
-					province = 7475
-					color = { 93 239 132 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
-		d_tabasco = { #Tabasco
-			color = { 89 128 120 }
-			color2 = { 255 255 255 }
-
-			c_mx_27_villahermosa = { #Villahermosa
-				color = { 219 124 155 }
-				color2 = { 255 255 255 }
-				b_mx_27_villahermosa = { #Villahermosa
-					province = 7476
-					color = { 208 152 136 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_27_r_o_de_teapa = { #Río de Teapa
-					province = 7477
-					color = { 222 137 130 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_27_tacotalpa = { #Tacotalpa
-					province = 7478
-					color = { 253 135 150 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_27_c_rdenas = { #Cárdenas
-				color = { 109 75 82 }
-				color2 = { 255 255 255 }
-				b_mx_27_c_rdenas = { #Cárdenas
-					province = 7479
-					color = { 139 95 74 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_27_comalcalco = { #Comalcalco
-					province = 7480
-					color = { 138 81 92 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_27_huimanguillo = { #Huimanguillo
-					province = 7481
-					color = { 138 106 108 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_27_la_venta = { #la Venta
-					province = 7482
-					color = { 126 58 117 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_27_poblado_c_de_noviembre = { #Poblado C-33 20 de Noviembre
-					province = 7483
-					color = { 114 75 84 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_27_macuspana = { #Macuspana
-				color = { 67 148 58 }
-				color2 = { 255 255 255 }
-				b_mx_27_macuspana = { #Macuspana
-					province = 7484
-					color = { 70 162 80 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_27_frontera = { #Frontera
-					province = 7485
-					color = { 39 153 25 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_27_jonuta = { #Jonuta
-					province = 7486
-					color = { 89 174 48 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
-		d_ekab = { #Ekab
-			color = { 72 179 177 }
-			color2 = { 255 255 255 }
-
-			c_mx_23_canc_n = { #Cancún
-				color = { 182 39 46 }
-				color2 = { 255 255 255 }
-				b_mx_23_canc_n = { #Cancún
-					province = 7487
-					color = { 166 12 51 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_alfredo_v_bonfil = { #Alfredo V. Bonfil
-					province = 7488
-					color = { 199 62 36 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_ignacio_zaragoza = { #Ignacio Zaragoza
-					province = 7489
-					color = { 177 21 77 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_kantunilk_n = { #Kantunilkín
-					province = 7490
-					color = { 153 32 51 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_isla_holbox = { #Isla Holbox
-					province = 7491
-					color = { 199 40 75 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_23_del_carmen = { #del Carmen
-				color = { 79 183 38 }
-				color2 = { 255 255 255 }
-				b_mx_23_del_carmen = { #del Carmen
-					province = 7492
-					color = { 83 206 49 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_tulum = { #Tulum
-					province = 7493
-					color = { 102 167 52 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_puerto_aventuras = { #Puerto Aventuras
-					province = 7494
-					color = { 106 151 4 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_coba = { #Coba
-					province = 7495
-					color = { 108 160 70 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_23_cozumel = { #Cozumel
-				color = { 153 159 5 }
-				color2 = { 255 255 255 }
-				b_mx_23_cozumel = { #Cozumel
-					province = 7496
-					color = { 148 144 26 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
-		d_campeche = { #Campeche
-			color = { 83 195 243 }
-			color2 = { 255 255 255 }
-
-			c_mx_04_campeche = { #Campeche
-				color = { 39 24 189 }
-				color2 = { 255 255 255 }
-				b_mx_04_campeche = { #Campeche
-					province = 7497
-					color = { 74 56 168 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_champot_n = { #Champotón
-					province = 7498
-					color = { 64 0 159 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_seybaplaya = { #Seybaplaya
-					province = 7499
-					color = { 73 46 209 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_carrillo_puerto = { #Carrillo Puerto
-					province = 7500
-					color = { 34 53 157 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_los_laureles = { #Los Laureles
-					province = 7501
-					color = { 47 19 177 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_04_calkin_ = { #Calkiní
-				color = { 163 61 102 }
-				color2 = { 255 255 255 }
-				b_mx_04_calkin_ = { #Calkiní
-					province = 7502
-					color = { 139 65 95 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_hecelchak_n = { #Hecelchakán
-					province = 7503
-					color = { 145 81 88 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_pocboc = { #Pocboc
-					province = 7504
-					color = { 173 41 77 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_04_hopelch_n = { #Hopelchén
-				color = { 160 49 55 }
-				color2 = { 255 255 255 }
-				b_mx_04_hopelch_n = { #Hopelchén
-					province = 7505
-					color = { 128 54 25 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_iturbide = { #Iturbide
-					province = 7506
-					color = { 165 74 80 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_dzibalch_n = { #Dzibalchén
-					province = 7507
-					color = { 175 26 44 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_04_constituci_n = { #Constitución
-				color = { 101 170 83 }
-				color2 = { 255 255 255 }
-				b_mx_04_constituci_n = { #Constitución
-					province = 7508
-					color = { 81 161 76 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_cinco_de_febrero = { #Cinco de Febrero
-					province = 7509
-					color = { 116 199 57 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_nuevo_conhu_s = { #Nuevo Conhuás
-					province = 7510
-					color = { 123 144 115 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
-		d_chan_santa_cruz = { #Chan Santa Cruz
-			color = { 100 190 200 }
-			color2 = { 255 255 255 }
-
-			c_mx_23_chetumal = { #Chetumal
-				color = { 142 111 44 }
-				color2 = { 255 255 255 }
-				b_mx_23_chetumal = { #Chetumal
-					province = 7511
-					color = { 129 133 10 }
-					color2 = { 255 255 255 }
-				}
-				b_bz_01_san_pedro = { #San Pedro
-					province = 7512
-					color = { 159 142 70 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_reforma = { #Reforma
-					province = 7513
-					color = { 176 134 78 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_maya_balam = { #Maya Balam
-					province = 7514
-					color = { 174 105 37 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_mahahual = { #Mahahual
-					province = 7515
-					color = { 160 141 67 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_23_felipe_carrillo_puerto = { #Felipe Carrillo Puerto
-				color = { 22 69 98 }
-				color2 = { 255 255 255 }
-				b_mx_23_felipe_carrillo_puerto = { #Felipe Carrillo Puerto
-					province = 7516
-					color = { 34 99 101 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_tihosuco = { #Tihosuco
-					province = 7517
-					color = { 45 59 123 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_x_pichil = { #X-pichil
-					province = 7518
-					color = { 0 53 72 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_x_hazil_sur = { #X-Hazil Sur
-					province = 7519
-					color = { 24 34 124 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_chun_yah = { #Chun-Yah
-					province = 7520
-					color = { 0 85 65 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_23_nicol_s_bravo = { #Nicolás Bravo
-				color = { 176 163 139 }
-				color2 = { 255 255 255 }
-				b_mx_23_nicol_s_bravo = { #Nicolás Bravo
-					province = 7521
-					color = { 155 128 151 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_javier_rojo_g_mez = { #Javier Rojo Gómez
-					province = 7522
-					color = { 175 129 144 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_ingeniero_ricardo_payro_jene = { #Ingeniero Ricardo Payro Jene
-					province = 7523
-					color = { 177 156 148 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_xpujil = { #Xpujil
-					province = 7524
-					color = { 207 142 144 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_caobas = { #Caobas
-					province = 7525
-					color = { 208 188 135 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_23_jos_mar_a_morelos = { #José María Morelos
-				color = { 117 164 0 }
-				color2 = { 255 255 255 }
-				b_mx_23_jos_mar_a_morelos = { #José María Morelos
-					province = 7526
-					color = { 121 139 5 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_becanch_n = { #Becanchén
-					province = 7527
-					color = { 129 197 0 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_uk_m = { #Ukúm
-					province = 7528
-					color = { 93 147 24 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_23_miguel_alem_n = { #Miguel Alemán
-					province = 7529
-					color = { 128 173 35 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
-		d_puuc = { #Puuc
-			color = { 100 220 230 }
-			color2 = { 255 255 255 }
-
-			c_mx_31_ticul = { #Ticul
-				color = { 30 216 189 }
-				color2 = { 255 255 255 }
-				b_mx_31_ticul = { #Ticul
-					province = 7530
-					color = { 34 194 222 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_tecax = { #Tecax
-					province = 7531
-					color = { 12 220 189 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_akil = { #Akil
-					province = 7532
-					color = { 53 229 197 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_muna = { #Muna
-					province = 7533
-					color = { 28 221 213 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_kantem_ = { #Kantemó
-					province = 7534
-					color = { 3 195 200 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_31_valladolid = { #Valladolid
-				color = { 87 55 116 }
-				color2 = { 255 255 255 }
-				b_mx_31_valladolid = { #Valladolid
-					province = 7535
-					color = { 81 59 89 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_chich_n_itz_ = { #Chichén-Itzá
-					province = 7536
-					color = { 98 66 140 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_chemax = { #Chemax
-					province = 7537
-					color = { 120 50 116 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_tixcacalcupul = { #Tixcacalcupul
-					province = 7538
-					color = { 75 78 130 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_31_peto = { #Peto
-				color = { 187 158 129 }
-				color2 = { 255 255 255 }
-				b_mx_31_peto = { #Peto
-					province = 7539
-					color = { 169 174 122 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_sotuta = { #Sotuta
-					province = 7540
-					color = { 177 129 162 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_31_yaxcab_ = { #Yaxcabá
-					province = 7541
-					color = { 185 136 147 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
-		d_calakmul = { #Calakmul
-			color = { 80 100 240 }
-			color2 = { 255 255 255 }
-
-			c_mx_04_del_carmen = { #del Carmen
-				color = { 207 96 98 }
-				color2 = { 255 255 255 }
-				b_mx_04_del_carmen = { #del Carmen
-					province = 7542
-					color = { 177 99 69 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_palizada = { #Palizada
-					province = 7543
-					color = { 205 79 128 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_el_aguacatal = { #El Aguacatal
-					province = 7544
-					color = { 173 89 132 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_el_juncal = { #El Juncal
-					province = 7545
-					color = { 203 98 74 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_04_esc_rcega = { #Escárcega
-				color = { 25 108 101 }
-				color2 = { 255 255 255 }
-				b_mx_04_esc_rcega = { #Escárcega
-					province = 7546
-					color = { 48 79 90 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_sabancuy = { #Sabancuy
-					province = 7547
-					color = { 56 139 117 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_chicbul = { #Chicbul
-					province = 7548
-					color = { 11 112 120 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_nueva_rosita = { #Nueva Rosita
-					province = 7549
-					color = { 51 121 120 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_mx_04_candelaria = { #Candelaria
-				color = { 178 198 113 }
-				color2 = { 255 255 255 }
-				b_mx_04_candelaria = { #Candelaria
-					province = 7550
-					color = { 213 164 130 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_don_samuel = { #Don Samuel
-					province = 7551
-					color = { 169 175 140 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_benito_ju_rez_uno = { #Benito Juárez Uno
-					province = 7552
-					color = { 148 199 78 }
-					color2 = { 255 255 255 }
-				}
-				b_mx_04_mamantel = { #Mamantel
-					province = 7553
-					color = { 179 226 135 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
-	}
 	k_chiapas = { #Chiapas
-		color = { 188 47 40 }
+		color = { 194 24 15 }
 		color2 = { 255 255 255 }
 
 		d_los_altos = { #Los Altos
@@ -50727,32 +50112,32 @@ e_yucatan = { #Yucatán
 				color = { 165 117 50 }
 				color2 = { 255 255 255 }
 				b_mx_05_tuxtla = { #Tuxtla
-					province = 7554
+					province = 7457
 					color = { 187 133 34 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_ocozocoautla_de_espinosa = { #Ocozocoautla de Espinosa
-					province = 7555
+					province = 7458
 					color = { 139 109 66 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_copainal_ = { #Copainalá
-					province = 7556
+					province = 7459
 					color = { 130 147 75 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_acala = { #Acala
-					province = 7557
+					province = 7460
 					color = { 138 123 16 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_san_fernando = { #San Fernando
-					province = 7558
+					province = 7461
 					color = { 184 137 83 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_raudales_malpaso = { #Raudales Malpaso
-					province = 7559
+					province = 7462
 					color = { 191 124 39 }
 					color2 = { 255 255 255 }
 				}
@@ -50761,27 +50146,27 @@ e_yucatan = { #Yucatán
 				color = { 29 148 185 }
 				color2 = { 255 255 255 }
 				b_mx_05_tapachula = { #Tapachula
-					province = 7560
+					province = 7463
 					color = { 3 172 178 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_huixtla = { #Huixtla
-					province = 7561
+					province = 7464
 					color = { 0 175 174 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_motozintla = { #Motozintla
-					province = 7562
+					province = 7465
 					color = { 16 154 207 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_escuintla = { #Escuintla
-					province = 7563
+					province = 7466
 					color = { 19 175 181 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_mapastepec = { #Mapastepec
-					province = 7564
+					province = 7467
 					color = { 37 115 151 }
 					color2 = { 255 255 255 }
 				}
@@ -50790,17 +50175,17 @@ e_yucatan = { #Yucatán
 				color = { 90 142 158 }
 				color2 = { 255 255 255 }
 				b_mx_05_tonal_ = { #Tonalá
-					province = 7565
+					province = 7468
 					color = { 66 157 170 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_arriaga = { #Arriaga
-					province = 7566
+					province = 7469
 					color = { 57 129 165 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_pijijiapan = { #Pijijiapan
-					province = 7567
+					province = 7470
 					color = { 57 136 192 }
 					color2 = { 255 255 255 }
 				}
@@ -50809,22 +50194,22 @@ e_yucatan = { #Yucatán
 				color = { 197 183 160 }
 				color2 = { 255 255 255 }
 				b_mx_05_villaflores = { #Villaflores
-					province = 7568
+					province = 7471
 					color = { 219 185 165 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_jes_s_mar_a_garza = { #Jesús María Garza
-					province = 7569
+					province = 7472
 					color = { 177 162 144 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_el_parral = { #El Parral
-					province = 7570
+					province = 7473
 					color = { 220 208 193 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_diecis_is_de_septiembre = { #Dieciséis de Septiembre
-					province = 7571
+					province = 7474
 					color = { 174 212 151 }
 					color2 = { 255 255 255 }
 				}
@@ -50833,22 +50218,22 @@ e_yucatan = { #Yucatán
 				color = { 49 56 197 }
 				color2 = { 255 255 255 }
 				b_mx_05_chicomuselo = { #Chicomuselo
-					province = 7572
+					province = 7475
 					color = { 51 42 180 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_jaltenango_de_la_paz = { #Jaltenango de la Paz
-					province = 7573
+					province = 7476
 					color = { 18 81 224 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_el_mbar = { #El Ámbar
-					province = 7574
+					province = 7477
 					color = { 78 21 192 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_la_concordia = { #La Concordia
-					province = 7575
+					province = 7478
 					color = { 31 75 200 }
 					color2 = { 255 255 255 }
 				}
@@ -50857,12 +50242,12 @@ e_yucatan = { #Yucatán
 				color = { 54 193 192 }
 				color2 = { 255 255 255 }
 				b_mx_05_cintalapa_de_figueroa = { #Cintalapa de Figueroa
-					province = 7576
+					province = 7479
 					color = { 77 176 196 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_villamorelos = { #Villamorelos
-					province = 7577
+					province = 7480
 					color = { 41 170 160 }
 					color2 = { 255 255 255 }
 				}
@@ -50876,22 +50261,22 @@ e_yucatan = { #Yucatán
 				color = { 31 218 65 }
 				color2 = { 255 255 255 }
 				b_mx_05_san_crist_bal_de_las_casas = { #San Cristóbal de las Casas
-					province = 7578
+					province = 7481
 					color = { 20 185 58 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_nachig = { #Nachig
-					province = 7579
+					province = 7482
 					color = { 60 209 91 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_simojovel_de_allende = { #Simojovel de Allende
-					province = 7580
+					province = 7483
 					color = { 18 248 77 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_chanal = { #Chanal
-					province = 7581
+					province = 7484
 					color = { 26 213 57 }
 					color2 = { 255 255 255 }
 				}
@@ -50900,27 +50285,27 @@ e_yucatan = { #Yucatán
 				color = { 216 204 25 }
 				color2 = { 255 255 255 }
 				b_mx_05_comit_n = { #Comitán
-					province = 7582
+					province = 7485
 					color = { 189 196 39 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_las_margaritas = { #Las Margaritas
-					province = 7583
+					province = 7486
 					color = { 224 231 7 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_teopisca = { #Teopisca
-					province = 7584
+					province = 7487
 					color = { 242 226 16 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_las_rosas = { #Las Rosas
-					province = 7585
+					province = 7488
 					color = { 223 215 0 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_paso_hondo = { #Paso Hondo
-					province = 7586
+					province = 7489
 					color = { 221 206 17 }
 					color2 = { 255 255 255 }
 				}
@@ -50929,27 +50314,27 @@ e_yucatan = { #Yucatán
 				color = { 54 98 71 }
 				color2 = { 255 255 255 }
 				b_mx_05_yajal_n = { #Yajalón
-					province = 7587
+					province = 7490
 					color = { 35 107 58 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_el_limar = { #El Limar
-					province = 7588
+					province = 7491
 					color = { 84 82 104 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_chil_n = { #Chilón
-					province = 7589
+					province = 7492
 					color = { 82 70 38 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_palenque = { #Palenque
-					province = 7590
+					province = 7493
 					color = { 61 109 53 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_damasco = { #Damasco
-					province = 7591
+					province = 7494
 					color = { 37 109 57 }
 					color2 = { 255 255 255 }
 				}
@@ -50958,22 +50343,22 @@ e_yucatan = { #Yucatán
 				color = { 79 114 37 }
 				color2 = { 255 255 255 }
 				b_mx_27_teapa = { #Teapa
-					province = 7592
+					province = 7495
 					color = { 60 84 7 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_bochil = { #Bochil
-					province = 7593
+					province = 7496
 					color = { 48 142 64 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_ixtacomit_n = { #Ixtacomitán
-					province = 7594
+					province = 7497
 					color = { 95 121 62 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_ocotepec = { #Ocotepec
-					province = 7595
+					province = 7498
 					color = { 78 117 49 }
 					color2 = { 255 255 255 }
 				}
@@ -50982,30 +50367,665 @@ e_yucatan = { #Yucatán
 				color = { 202 28 69 }
 				color2 = { 255 255 255 }
 				b_mx_05_ocosingo = { #Ocosingo
-					province = 7596
+					province = 7499
 					color = { 230 32 83 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_taniperla = { #Taniperla
-					province = 7597
+					province = 7500
 					color = { 233 49 45 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_san_antonio_los_montes = { #San Antonio los Montes
-					province = 7598
+					province = 7501
 					color = { 195 38 70 }
 					color2 = { 255 255 255 }
 				}
 				b_mx_05_justo_sierra = { #Justo Sierra
-					province = 7599
+					province = 7502
 					color = { 224 36 37 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		d_tabasco = { #Tabasco
+			color = { 89 128 120 }
+			color2 = { 255 255 255 }
+
+			c_mx_27_villahermosa = { #Villahermosa
+				color = { 219 124 155 }
+				color2 = { 255 255 255 }
+				b_mx_27_villahermosa = { #Villahermosa
+					province = 7503
+					color = { 208 152 136 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_27_r_o_de_teapa = { #Río de Teapa
+					province = 7504
+					color = { 222 137 130 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_27_tacotalpa = { #Tacotalpa
+					province = 7505
+					color = { 253 135 150 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_27_c_rdenas = { #Cárdenas
+				color = { 109 75 82 }
+				color2 = { 255 255 255 }
+				b_mx_27_c_rdenas = { #Cárdenas
+					province = 7506
+					color = { 139 95 74 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_27_comalcalco = { #Comalcalco
+					province = 7507
+					color = { 138 81 92 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_27_huimanguillo = { #Huimanguillo
+					province = 7508
+					color = { 138 106 108 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_27_la_venta = { #la Venta
+					province = 7509
+					color = { 126 58 117 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_27_poblado_c_de_noviembre = { #Poblado C-33 20 de Noviembre
+					province = 7510
+					color = { 114 75 84 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_27_macuspana = { #Macuspana
+				color = { 67 148 58 }
+				color2 = { 255 255 255 }
+				b_mx_27_macuspana = { #Macuspana
+					province = 7511
+					color = { 70 162 80 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_27_frontera = { #Frontera
+					province = 7512
+					color = { 39 153 25 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_27_jonuta = { #Jonuta
+					province = 7513
+					color = { 89 174 48 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	k_yucatan = { #Yucatán
+		color = { 27 121 191 }
+		color2 = { 255 255 255 }
+
+		d_merida = { #Mérida
+			color = { 72 134 180 }
+			color2 = { 255 255 255 }
+
+			c_mx_31_m_rida = { #Mérida
+				color = { 23 78 102 }
+				color2 = { 255 255 255 }
+				b_mx_31_m_rida = { #Mérida
+					province = 7514
+					color = { 55 51 68 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_kanas_n = { #Kanasín
+					province = 7515
+					color = { 51 104 88 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_tixkokob = { #Tixkokob
+					province = 7516
+					color = { 40 96 131 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_sey_ = { #Seyé
+					province = 7517
+					color = { 7 92 72 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_31_uman = { #Uman
+				color = { 156 34 63 }
+				color2 = { 255 255 255 }
+				b_mx_31_uman = { #Uman
+					province = 7518
+					color = { 121 63 85 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_hunucm_ = { #Hunucmá
+					province = 7519
+					color = { 177 23 71 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_maxcan_ = { #Maxcanú
+					province = 7520
+					color = { 183 41 74 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_cepeda = { #Cepeda
+					province = 7521
+					color = { 167 24 93 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_31_motul = { #Motul
+				color = { 165 219 24 }
+				color2 = { 255 255 255 }
+				b_mx_31_motul = { #Motul
+					province = 7522
+					color = { 131 246 54 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_izamal = { #Izamal
+					province = 7523
+					color = { 172 221 6 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_dzidzantun = { #Dzidzantun
+					province = 7524
+					color = { 163 235 0 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_dzilam_de_bravo = { #Dzilam de Bravo
+					province = 7525
+					color = { 185 211 40 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_31_tizim_n = { #Tizimín
+				color = { 207 205 71 }
+				color2 = { 255 255 255 }
+				b_mx_31_tizim_n = { #Tizimín
+					province = 7526
+					color = { 178 235 50 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_temozon = { #Temozon
+					province = 7527
+					color = { 240 182 45 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_popolnah = { #Popolnah
+					province = 7528
+					color = { 231 221 79 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_dzonot_carretero = { #Dzonot Carretero
+					province = 7529
+					color = { 181 187 40 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_31_espita = { #Espita
+				color = { 93 214 160 }
+				color2 = { 255 255 255 }
+				b_mx_31_espita = { #Espita
+					province = 7530
+					color = { 120 188 170 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_buctzotz = { #Buctzotz
+					province = 7531
+					color = { 124 215 141 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_panab_ = { #Panabá
+					province = 7532
+					color = { 93 239 132 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		d_puuc = { #Puuc
+			color = { 100 220 230 }
+			color2 = { 255 255 255 }
+
+			c_mx_31_ticul = { #Ticul
+				color = { 30 216 189 }
+				color2 = { 255 255 255 }
+				b_mx_31_ticul = { #Ticul
+					province = 7533
+					color = { 34 194 222 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_tecax = { #Tecax
+					province = 7534
+					color = { 12 220 189 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_akil = { #Akil
+					province = 7535
+					color = { 53 229 197 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_muna = { #Muna
+					province = 7536
+					color = { 28 221 213 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_kantem_ = { #Kantemó
+					province = 7537
+					color = { 3 195 200 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_31_valladolid = { #Valladolid
+				color = { 87 55 116 }
+				color2 = { 255 255 255 }
+				b_mx_31_valladolid = { #Valladolid
+					province = 7538
+					color = { 81 59 89 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_chich_n_itz_ = { #Chichén-Itzá
+					province = 7539
+					color = { 98 66 140 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_chemax = { #Chemax
+					province = 7540
+					color = { 120 50 116 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_tixcacalcupul = { #Tixcacalcupul
+					province = 7541
+					color = { 75 78 130 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_31_peto = { #Peto
+				color = { 187 158 129 }
+				color2 = { 255 255 255 }
+				b_mx_31_peto = { #Peto
+					province = 7542
+					color = { 169 174 122 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_sotuta = { #Sotuta
+					province = 7543
+					color = { 177 129 162 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_yaxcab_ = { #Yaxcabá
+					province = 7544
+					color = { 185 136 147 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	k_quintana_roo = { #Quintana Roo
+		color = { 136 190 196 }
+		color2 = { 255 255 255 }
+
+		d_ekab = { #Ekab
+			color = { 72 179 177 }
+			color2 = { 255 255 255 }
+
+			c_mx_23_canc_n = { #Cancún
+				color = { 182 39 46 }
+				color2 = { 255 255 255 }
+				b_mx_23_canc_n = { #Cancún
+					province = 7545
+					color = { 166 12 51 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_alfredo_v_bonfil = { #Alfredo V. Bonfil
+					province = 7546
+					color = { 199 62 36 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_ignacio_zaragoza = { #Ignacio Zaragoza
+					province = 7547
+					color = { 177 21 77 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_kantunilk_n = { #Kantunilkín
+					province = 7548
+					color = { 153 32 51 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_isla_holbox = { #Isla Holbox
+					province = 7549
+					color = { 199 40 75 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_23_del_carmen = { #del Carmen
+				color = { 79 183 38 }
+				color2 = { 255 255 255 }
+				b_mx_23_del_carmen = { #del Carmen
+					province = 7550
+					color = { 83 206 49 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_tulum = { #Tulum
+					province = 7551
+					color = { 102 167 52 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_puerto_aventuras = { #Puerto Aventuras
+					province = 7552
+					color = { 106 151 4 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_coba = { #Coba
+					province = 7553
+					color = { 108 160 70 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_23_cozumel = { #Cozumel
+				color = { 153 159 5 }
+				color2 = { 255 255 255 }
+				b_mx_23_cozumel = { #Cozumel
+					province = 7554
+					color = { 148 144 26 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		d_chan_santa_cruz = { #Chan Santa Cruz
+			color = { 100 190 200 }
+			color2 = { 255 255 255 }
+
+			c_mx_23_chetumal = { #Chetumal
+				color = { 142 111 44 }
+				color2 = { 255 255 255 }
+				b_mx_23_chetumal = { #Chetumal
+					province = 7555
+					color = { 129 133 10 }
+					color2 = { 255 255 255 }
+				}
+				b_bz_01_san_pedro = { #San Pedro
+					province = 7556
+					color = { 159 142 70 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_reforma = { #Reforma
+					province = 7557
+					color = { 176 134 78 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_maya_balam = { #Maya Balam
+					province = 7558
+					color = { 174 105 37 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_mahahual = { #Mahahual
+					province = 7559
+					color = { 160 141 67 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_23_felipe_carrillo_puerto = { #Felipe Carrillo Puerto
+				color = { 22 69 98 }
+				color2 = { 255 255 255 }
+				b_mx_23_felipe_carrillo_puerto = { #Felipe Carrillo Puerto
+					province = 7560
+					color = { 34 99 101 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_tihosuco = { #Tihosuco
+					province = 7561
+					color = { 45 59 123 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_x_pichil = { #X-pichil
+					province = 7562
+					color = { 0 53 72 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_x_hazil_sur = { #X-Hazil Sur
+					province = 7563
+					color = { 24 34 124 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_chun_yah = { #Chun-Yah
+					province = 7564
+					color = { 0 85 65 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_23_nicol_s_bravo = { #Nicolás Bravo
+				color = { 176 163 139 }
+				color2 = { 255 255 255 }
+				b_mx_23_nicol_s_bravo = { #Nicolás Bravo
+					province = 7565
+					color = { 155 128 151 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_javier_rojo_g_mez = { #Javier Rojo Gómez
+					province = 7566
+					color = { 175 129 144 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_ingeniero_ricardo_payro_jene = { #Ingeniero Ricardo Payro Jene
+					province = 7567
+					color = { 177 156 148 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_xpujil = { #Xpujil
+					province = 7568
+					color = { 207 142 144 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_caobas = { #Caobas
+					province = 7569
+					color = { 208 188 135 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_23_jos_mar_a_morelos = { #José María Morelos
+				color = { 117 164 0 }
+				color2 = { 255 255 255 }
+				b_mx_23_jos_mar_a_morelos = { #José María Morelos
+					province = 7570
+					color = { 121 139 5 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_31_becanch_n = { #Becanchén
+					province = 7571
+					color = { 129 197 0 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_uk_m = { #Ukúm
+					province = 7572
+					color = { 93 147 24 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_23_miguel_alem_n = { #Miguel Alemán
+					province = 7573
+					color = { 128 173 35 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	k_campeche = { #Campeche
+		color = { 23 42 181 }
+		color2 = { 255 255 255 }
+
+		d_campeche = { #Campeche
+			color = { 83 195 243 }
+			color2 = { 255 255 255 }
+
+			c_mx_04_campeche = { #Campeche
+				color = { 39 24 189 }
+				color2 = { 255 255 255 }
+				b_mx_04_campeche = { #Campeche
+					province = 7574
+					color = { 74 56 168 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_champot_n = { #Champotón
+					province = 7575
+					color = { 64 0 159 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_seybaplaya = { #Seybaplaya
+					province = 7576
+					color = { 73 46 209 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_carrillo_puerto = { #Carrillo Puerto
+					province = 7577
+					color = { 34 53 157 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_los_laureles = { #Los Laureles
+					province = 7578
+					color = { 47 19 177 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_04_calkin_ = { #Calkiní
+				color = { 163 61 102 }
+				color2 = { 255 255 255 }
+				b_mx_04_calkin_ = { #Calkiní
+					province = 7579
+					color = { 139 65 95 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_hecelchak_n = { #Hecelchakán
+					province = 7580
+					color = { 145 81 88 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_pocboc = { #Pocboc
+					province = 7581
+					color = { 173 41 77 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_04_hopelch_n = { #Hopelchén
+				color = { 160 49 55 }
+				color2 = { 255 255 255 }
+				b_mx_04_hopelch_n = { #Hopelchén
+					province = 7582
+					color = { 128 54 25 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_iturbide = { #Iturbide
+					province = 7583
+					color = { 165 74 80 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_dzibalch_n = { #Dzibalchén
+					province = 7584
+					color = { 175 26 44 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_04_constituci_n = { #Constitución
+				color = { 101 170 83 }
+				color2 = { 255 255 255 }
+				b_mx_04_constituci_n = { #Constitución
+					province = 7585
+					color = { 81 161 76 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_cinco_de_febrero = { #Cinco de Febrero
+					province = 7586
+					color = { 116 199 57 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_nuevo_conhu_s = { #Nuevo Conhuás
+					province = 7587
+					color = { 123 144 115 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		d_calakmul = { #Calakmul
+			color = { 80 100 240 }
+			color2 = { 255 255 255 }
+
+			c_mx_04_del_carmen = { #del Carmen
+				color = { 207 96 98 }
+				color2 = { 255 255 255 }
+				b_mx_04_del_carmen = { #del Carmen
+					province = 7588
+					color = { 177 99 69 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_palizada = { #Palizada
+					province = 7589
+					color = { 205 79 128 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_el_aguacatal = { #El Aguacatal
+					province = 7590
+					color = { 173 89 132 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_el_juncal = { #El Juncal
+					province = 7591
+					color = { 203 98 74 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_04_esc_rcega = { #Escárcega
+				color = { 25 108 101 }
+				color2 = { 255 255 255 }
+				b_mx_04_esc_rcega = { #Escárcega
+					province = 7592
+					color = { 48 79 90 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_sabancuy = { #Sabancuy
+					province = 7593
+					color = { 56 139 117 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_chicbul = { #Chicbul
+					province = 7594
+					color = { 11 112 120 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_nueva_rosita = { #Nueva Rosita
+					province = 7595
+					color = { 51 121 120 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mx_04_candelaria = { #Candelaria
+				color = { 178 198 113 }
+				color2 = { 255 255 255 }
+				b_mx_04_candelaria = { #Candelaria
+					province = 7596
+					color = { 213 164 130 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_don_samuel = { #Don Samuel
+					province = 7597
+					color = { 169 175 140 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_benito_ju_rez_uno = { #Benito Juárez Uno
+					province = 7598
+					color = { 148 199 78 }
+					color2 = { 255 255 255 }
+				}
+				b_mx_04_mamantel = { #Mamantel
+					province = 7599
+					color = { 179 226 135 }
 					color2 = { 255 255 255 }
 				}
 			}
 		}
 	}
 	k_peten = { #Petén
-		color = { 11 192 146 }
+		color = { 28 220 191 }
 		color2 = { 255 255 255 }
 
 		d_lacandon = { #Lacandón
@@ -54502,7 +54522,7 @@ e_cascadia = { #Cascadia
 			color = { 80 170 75 }
 			color2 = { 255 255 255 }
 
-			c_us_or_portland = { #Portland
+			c_port_columbia = { #Columbia
 				color = { 174 174 81 }
 				color2 = { 255 255 255 }
 				b_us_or_portland = { #Portland
@@ -54521,7 +54541,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_tigard = { #Tigard
+			c_yamhill = { #Yamhill
 				color = { 127 81 34 }
 				color2 = { 255 255 255 }
 				b_us_or_tigard = { #Tigard
@@ -54540,7 +54560,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_corvallis = { #Corvallis
+			c_siletz = { #Siletz
 				color = { 108 128 77 }
 				color2 = { 255 255 255 }
 				b_us_or_corvallis = { #Corvallis
@@ -54559,7 +54579,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_astoria = { #Astoria
+			c_clatsop = { #Clatsop
 				color = { 174 84 96 }
 				color2 = { 255 255 255 }
 				b_us_or_seaside = { #Seaside
@@ -54578,7 +54598,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_tillamook = { #Tillamook
+			c_tillamook = { #Tillamook
 				color = { 183 157 11 }
 				color2 = { 255 255 255 }
 				b_us_or_cannon_beach = { #Cannon Beach
@@ -54602,7 +54622,7 @@ e_cascadia = { #Cascadia
 			color = { 130 118 7 }
 			color2 = { 255 255 255 }
 
-			c_us_or_gresham = { #Gresham
+			c_portland = { #Portland
 				color = { 173 173 57 }
 				color2 = { 255 255 255 }
 				b_us_or_gresham = { #Gresham
@@ -54645,7 +54665,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_woodburn = { #Woodburn
+			c_clackamas = { #Clackamas
 				color = { 218 65 26 }
 				color2 = { 255 255 255 }
 				b_us_or_woodburn = { #Woodburn
@@ -54664,7 +54684,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_the_dalles = { #The Dalles
+			c_hood_river = { #Hood River
 				color = { 102 98 197 }
 				color2 = { 255 255 255 }
 				b_us_or_the_dalles = { #The Dalles
@@ -54678,7 +54698,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_government_camp = { #Government Camp
+			c_frazier = { #Frazier
 				color = { 193 141 143 }
 				color2 = { 255 255 255 }
 				b_us_or_government_camp = { #Government Camp
@@ -54840,7 +54860,7 @@ e_cascadia = { #Cascadia
 			color = { 82 7 134 }
 			color2 = { 255 255 255 }
 
-			c_us_or_eugene = { #Eugene
+			c_alsea = { #Alsea
 				color = { 117 189 18 }
 				color2 = { 255 255 255 }
 				b_us_or_eugene = { #Eugene
@@ -54859,7 +54879,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_cottage_grove = { #Cottage Grove
+			c_siuslaw = { #Siuslaw
 				color = { 94 29 193 }
 				color2 = { 255 255 255 }
 				b_us_or_cottage_grove = { #Cottage Grove
@@ -54878,7 +54898,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_oakridge = { #Oakridge
+			c_diamond_peak = { #Diamond Peak
 				color = { 114 65 38 }
 				color2 = { 255 255 255 }
 				b_us_or_oakridge = { #Oakridge
@@ -54897,7 +54917,7 @@ e_cascadia = { #Cascadia
 			color = { 0 30 253 }
 			color2 = { 255 255 255 }
 
-			c_us_or_salem = { #Salem
+			c_marion = { #Marion
 				color = { 130 99 52 }
 				color2 = { 255 255 255 }
 				b_us_or_salem = { #Salem
@@ -54921,7 +54941,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_sweet_home = { #Sweet Home
+			c_santiam = { #Santiam
 				color = { 145 91 163 }
 				color2 = { 255 255 255 }
 				b_us_or_sweet_home = { #Sweet Home
@@ -54940,7 +54960,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_unity = { #Unity
+			c_lane = { #Lane
 				color = { 23 147 17 }
 				color2 = { 255 255 255 }
 				b_us_or_unity = { #Unity
@@ -55602,7 +55622,7 @@ e_cascadia = { #Cascadia
 			color = { 235 124 83 }
 			color2 = { 255 255 255 }
 
-			c_us_or_bend = { #Bend
+			c_port_warm_springs = { #Warm Springs
 				color = { 223 25 179 }
 				color2 = { 255 255 255 }
 				b_us_or_bend = { #Bend
@@ -55621,7 +55641,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_redmond = { #Redmond
+			c_ochoco = { #Ochoco
 				color = { 44 230 128 }
 				color2 = { 255 255 255 }
 				b_us_or_redmond = { #Redmond
@@ -55645,7 +55665,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_deschutes_river = { #Deschutes River
+			c_deschutes = { #Deschutes
 				color = { 160 28 115 }
 				color2 = { 255 255 255 }
 				b_us_or_deschutes_river = { #Deschutes River
@@ -55664,7 +55684,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_condon = { #Condon
+			c_wasco = { #Wasco
 				color = { 169 56 50 }
 				color2 = { 255 255 255 }
 				b_us_or_condon = { #Condon
@@ -55741,7 +55761,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_la_grande = { #La Grande
+			c_cundiff_slough = { #Cundiff Slough
 				color = { 188 202 72 }
 				color2 = { 255 255 255 }
 				b_us_or_la_grande = { #La Grande
@@ -55765,7 +55785,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_enterprise = { #Enterprise
+			c_wallowa = { #Wallowa
 				color = { 22 119 158 }
 				color2 = { 255 255 255 }
 				b_us_or_enterprise = { #Enterprise
@@ -55846,7 +55866,7 @@ e_cascadia = { #Cascadia
 			color = { 103 190 160 }
 			color2 = { 255 255 255 }
 
-			c_us_or_burns = { #Burns
+			c_harney = { #Harney
 				color = { 124 78 192 }
 				color2 = { 255 255 255 }
 				b_us_or_burns = { #Burns
@@ -55870,7 +55890,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_john_day = { #John Day
+			c_john_day = { #John Day
 				color = { 174 212 155 }
 				color2 = { 255 255 255 }
 				b_us_or_john_day = { #John Day
@@ -55889,7 +55909,7 @@ e_cascadia = { #Cascadia
 					color2 = { 255 255 255 }
 				}
 			}
-			c_us_or_harper = { #Harper
+			c_malheur = { #Malheur
 				color = { 226 87 101 }
 				color2 = { 255 255 255 }
 				b_us_or_harper = { #Harper
@@ -60414,7 +60434,7 @@ e_centroamerica = { #Guatemala
 	color2 = { 255 255 255 }
 
 	k_guatemala = { #Guatemala
-		color = { 24 90 181 }
+		color = { 93 114 198 }
 		color2 = { 255 255 255 }
 
 		d_guatemala = { #Guatemala
@@ -60703,257 +60723,8 @@ e_centroamerica = { #Guatemala
 			}
 		}
 	}
-	k_gran_nicoya = { #de Managua
-		color = { 140 194 221 }
-		color2 = { 255 255 255 }
-
-		d_managua = { #Managua
-			color = { 99 165 221 }
-			color2 = { 255 255 255 }
-
-			c_ni_10_managua = { #Managua
-				color = { 29 210 100 }
-				color2 = { 255 255 255 }
-				b_ni_10_managua = { #Managua
-					province = 9047
-					color = { 43 233 76 }
-					color2 = { 255 255 255 }
-				}
-				b_ni_11_masaya = { #Masaya
-					province = 9048
-					color = { 63 221 82 }
-					color2 = { 255 255 255 }
-				}
-				b_ni_10_sandino = { #Sandino
-					province = 9049
-					color = { 25 180 67 }
-					color2 = { 255 255 255 }
-				}
-				b_ni_02_diriamba = { #Diriamba
-					province = 9050
-					color = { 38 189 105 }
-					color2 = { 255 255 255 }
-				}
-				b_ni_10_tipitapa = { #Tipitapa
-					province = 9051
-					color = { 36 206 104 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_ni_08_le_n = { #León
-				color = { 50 46 71 }
-				color2 = { 255 255 255 }
-				b_ni_03_chinandega = { #Chinandega
-					province = 9052
-					color = { 64 54 51 }
-					color2 = { 255 255 255 }
-				}
-				b_ni_08_le_n = { #León
-					province = 9053
-					color = { 19 75 99 }
-					color2 = { 255 255 255 }
-				}
-				b_ni_08_el_sauce = { #El Sauce
-					province = 9054
-					color = { 43 50 51 }
-					color2 = { 255 255 255 }
-				}
-				b_ni_03_somotillo = { #Somotillo
-					province = 9055
-					color = { 47 59 77 }
-					color2 = { 255 255 255 }
-				}
-				b_ni_08_larreynaga = { #Larreynaga
-					province = 9056
-					color = { 27 35 64 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_ni_15_rivas = { #Rivas
-				color = { 24 120 29 }
-				color2 = { 255 255 255 }
-				b_ni_15_rivas = { #Rivas
-					province = 9057
-					color = { 4 132 41 }
-					color2 = { 255 255 255 }
-				}
-				b_ni_15_san_juan_del_sur = { #San Juan del Sur
-					province = 9058
-					color = { 24 150 3 }
-					color2 = { 255 255 255 }
-				}
-				b_ni_15_moyogalpa = { #Moyogalpa
-					province = 9059
-					color = { 44 144 39 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
-		d_talamanca = { #Talamanca
-			color = { 35 206 186 }
-			color2 = { 255 255 255 }
-
-			c_cr_08_san_jos_ = { #San José
-				color = { 202 134 172 }
-				color2 = { 255 255 255 }
-				b_cr_08_san_jos_ = { #San José
-					province = 9060
-					color = { 171 111 164 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_02_para_so = { #Paraíso
-					province = 9061
-					color = { 211 107 170 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_02_turrialba = { #Turrialba
-					province = 9062
-					color = { 223 146 188 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_cr_01_grecia = { #Grecia
-				color = { 218 180 18 }
-				color2 = { 255 255 255 }
-				b_cr_01_grecia = { #Grecia
-					province = 9063
-					color = { 240 188 28 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_01_desamparados = { #Desamparados
-					province = 9064
-					color = { 185 173 13 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_01_quesada = { #Quesada
-					province = 9065
-					color = { 188 160 13 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_cr_03_liberia = { #Liberia
-				color = { 192 230 62 }
-				color2 = { 255 255 255 }
-				b_cr_07_puntarenas = { #Puntarenas
-					province = 9066
-					color = { 222 241 46 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_03_liberia = { #Liberia
-					province = 9067
-					color = { 166 248 46 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_03_ca_as = { #Cañas
-					province = 9068
-					color = { 204 203 97 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_03_la_cruz = { #La Cruz
-					province = 9069
-					color = { 163 255 62 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_cr_08_de_san_jos_ = { #de San José
-				color = { 210 229 189 }
-				color2 = { 255 255 255 }
-				b_cr_08_san_rafael_abajo = { #San Rafael Abajo
-					province = 9070
-					color = { 228 255 199 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_08_san_isidro = { #San Isidro
-					province = 9071
-					color = { 218 226 222 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_07_quepos = { #Quepos
-					province = 9072
-					color = { 190 208 194 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_cr_06_lim_n = { #Limón
-				color = { 92 67 91 }
-				color2 = { 255 255 255 }
-				b_cr_06_lim_n = { #Limón
-					province = 9073
-					color = { 122 99 96 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_06_gu_piles = { #Guápiles
-					province = 9074
-					color = { 101 51 115 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_06_siquirres = { #Siquirres
-					province = 9075
-					color = { 62 47 104 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_cr_01_san_jos_ = { #San José
-				color = { 131 72 146 }
-				color2 = { 255 255 255 }
-				b_cr_01_san_jos_ = { #San José
-					province = 9076
-					color = { 136 49 115 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_01_la_fortuna = { #La Fortuna
-					province = 9077
-					color = { 132 55 149 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_01_los_chiles = { #Los Chiles
-					province = 9078
-					color = { 112 37 176 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_cr_07_buenos_aires = { #Buenos Aires
-				color = { 71 143 154 }
-				color2 = { 255 255 255 }
-				b_cr_07_corredor = { #Corredor
-					province = 9079
-					color = { 98 162 144 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_07_buenos_aires = { #Buenos Aires
-					province = 9080
-					color = { 83 152 169 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_07_sierpe = { #Sierpe
-					province = 9081
-					color = { 70 134 150 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_cr_03_nicoya = { #Nicoya
-				color = { 104 191 20 }
-				color2 = { 255 255 255 }
-				b_cr_03_nicoya = { #Nicoya
-					province = 9082
-					color = { 119 206 40 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_03_santa_cruz = { #Santa Cruz
-					province = 9083
-					color = { 114 225 51 }
-					color2 = { 255 255 255 }
-				}
-				b_cr_07_c_bano = { #Cóbano
-					province = 9084
-					color = { 74 197 18 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
-	}
 	k_honduras = { #Honduras
-		color = { 220 240 250 }
+		color = { 69 122 144 }
 		color2 = { 255 255 255 }
 
 		d_lempira = { #Lempira
@@ -60964,27 +60735,27 @@ e_centroamerica = { #Guatemala
 				color = { 182 50 150 }
 				color2 = { 255 255 255 }
 				b_hn_08_tegucigalpa = { #Tegucigalpa
-					province = 9085
+					province = 9047
 					color = { 181 57 121 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_08_talanga = { #Talanga
-					province = 9086
+					province = 9048
 					color = { 212 33 128 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_08_de_san_francisco = { #de San Francisco
-					province = 9087
+					province = 9049
 					color = { 216 82 153 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_08_el_porvenir = { #El Porvenir
-					province = 9088
+					province = 9050
 					color = { 190 75 148 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_08_guaimaca = { #Guaimaca
-					province = 9089
+					province = 9051
 					color = { 171 69 143 }
 					color2 = { 255 255 255 }
 				}
@@ -60993,27 +60764,27 @@ e_centroamerica = { #Guatemala
 				color = { 147 161 144 }
 				color2 = { 255 255 255 }
 				b_hn_04_comayagua = { #Comayagua
-					province = 9090
+					province = 9052
 					color = { 155 157 169 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_04_siguatepeque = { #Siguatepeque
-					province = 9091
+					province = 9053
 					color = { 117 140 150 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_12_la_paz = { #La Paz
-					province = 9092
+					province = 9054
 					color = { 142 189 157 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_04_minas_de_oro = { #Minas de Oro
-					province = 9093
+					province = 9055
 					color = { 173 185 110 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_12_marcala = { #Marcala
-					province = 9094
+					province = 9056
 					color = { 128 178 121 }
 					color2 = { 255 255 255 }
 				}
@@ -61022,17 +60793,17 @@ e_centroamerica = { #Guatemala
 				color = { 35 130 117 }
 				color2 = { 255 255 255 }
 				b_hn_05_santa_rosa_de_cop_n = { #Santa Rosa de Copán
-					province = 9095
+					province = 9057
 					color = { 6 123 105 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_05_cop_n = { #Copán
-					province = 9096
+					province = 9058
 					color = { 34 145 143 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_13_gracias = { #Gracias
-					province = 9097
+					province = 9059
 					color = { 34 158 93 }
 					color2 = { 255 255 255 }
 				}
@@ -61041,17 +60812,17 @@ e_centroamerica = { #Guatemala
 				color = { 100 39 83 }
 				color2 = { 255 255 255 }
 				b_hn_16_santa_b_rbara = { #Santa Bárbara
-					province = 9098
+					province = 9060
 					color = { 82 51 99 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_16_tras_cerros = { #Tras Cerros
-					province = 9099
+					province = 9061
 					color = { 126 69 77 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_16_san_luis = { #San Luis
-					province = 9100
+					province = 9062
 					color = { 126 44 82 }
 					color2 = { 255 255 255 }
 				}
@@ -61060,22 +60831,22 @@ e_centroamerica = { #Guatemala
 				color = { 142 84 63 }
 				color2 = { 255 255 255 }
 				b_hn_07_danl_ = { #Danlí
-					province = 9101
+					province = 9063
 					color = { 146 95 75 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_07_teupasenti = { #Teupasenti
-					province = 9102
+					province = 9064
 					color = { 124 94 82 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_07_g_inope = { #Güinope
-					province = 9103
+					province = 9065
 					color = { 114 62 28 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_07_las = { #Las
-					province = 9104
+					province = 9066
 					color = { 114 93 65 }
 					color2 = { 255 255 255 }
 				}
@@ -61084,22 +60855,22 @@ e_centroamerica = { #Guatemala
 				color = { 92 170 73 }
 				color2 = { 255 255 255 }
 				b_hn_14_nueva_ocotepeque = { #Nueva Ocotepeque
-					province = 9105
+					province = 9067
 					color = { 118 159 98 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_10_intibuc_ = { #Intibucá
-					province = 9106
+					province = 9068
 					color = { 123 175 103 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_13_erandique = { #Erandique
-					province = 9107
+					province = 9069
 					color = { 117 147 57 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_13_cololaca = { #Cololaca
-					province = 9108
+					province = 9070
 					color = { 88 196 53 }
 					color2 = { 255 255 255 }
 				}
@@ -61108,22 +60879,22 @@ e_centroamerica = { #Guatemala
 				color = { 221 201 119 }
 				color2 = { 255 255 255 }
 				b_hn_15_juticalpa = { #Juticalpa
-					province = 9109
+					province = 9071
 					color = { 208 170 139 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_15_campamento = { #Campamento
-					province = 9110
+					province = 9072
 					color = { 228 183 112 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_15_dulce_nombre_de_culm_ = { #Dulce Nombre de Culmí
-					province = 9111
+					province = 9073
 					color = { 251 189 122 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_15_nueva_choluteca = { #Nueva Choluteca
-					province = 9112
+					province = 9074
 					color = { 242 236 103 }
 					color2 = { 255 255 255 }
 				}
@@ -61132,22 +60903,22 @@ e_centroamerica = { #Guatemala
 				color = { 74 167 93 }
 				color2 = { 255 255 255 }
 				b_hn_15_san_francisco_de_la_paz = { #San Francisco de la Paz
-					province = 9113
+					province = 9075
 					color = { 50 149 92 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_15_gualaco = { #Gualaco
-					province = 9114
+					province = 9076
 					color = { 92 153 110 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_15_salam_ = { #Salamá
-					province = 9115
+					province = 9077
 					color = { 70 162 119 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_15_san_esteban = { #San Esteban
-					province = 9116
+					province = 9078
 					color = { 50 179 61 }
 					color2 = { 255 255 255 }
 				}
@@ -61161,22 +60932,22 @@ e_centroamerica = { #Guatemala
 				color = { 227 118 95 }
 				color2 = { 255 255 255 }
 				b_hn_06_san_pedro_sula = { #San Pedro Sula
-					province = 9117
+					province = 9079
 					color = { 255 122 75 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_06_choloma = { #Choloma
-					province = 9118
+					province = 9080
 					color = { 207 125 109 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_06_la_lima = { #La Lima
-					province = 9119
+					province = 9081
 					color = { 204 152 62 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_06_santa_cruz_de_yojoa = { #Santa Cruz de Yojoa
-					province = 9120
+					province = 9082
 					color = { 215 94 61 }
 					color2 = { 255 255 255 }
 				}
@@ -61185,17 +60956,17 @@ e_centroamerica = { #Guatemala
 				color = { 185 79 141 }
 				color2 = { 255 255 255 }
 				b_hn_01_la_ceiba = { #La Ceiba
-					province = 9121
+					province = 9083
 					color = { 175 109 174 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_01_tela = { #Tela
-					province = 9122
+					province = 9084
 					color = { 200 110 135 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_01_san_juan = { #San Juan
-					province = 9123
+					province = 9085
 					color = { 216 96 107 }
 					color2 = { 255 255 255 }
 				}
@@ -61204,27 +60975,27 @@ e_centroamerica = { #Guatemala
 				color = { 131 93 17 }
 				color2 = { 255 255 255 }
 				b_hn_18_moraz_n = { #Morazán
-					province = 9124
+					province = 9086
 					color = { 118 112 0 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_18_olanchito = { #Olanchito
-					province = 9125
+					province = 9087
 					color = { 161 112 3 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_18_santa_rita = { #Santa Rita
-					province = 9126
+					province = 9088
 					color = { 145 80 28 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_18_yoro = { #Yoro
-					province = 9127
+					province = 9089
 					color = { 113 58 21 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_18_joc_n = { #Jocón
-					province = 9128
+					province = 9090
 					color = { 114 119 0 }
 					color2 = { 255 255 255 }
 				}
@@ -61238,22 +61009,22 @@ e_centroamerica = { #Guatemala
 				color = { 170 83 48 }
 				color2 = { 255 255 255 }
 				b_hn_03_tocoa = { #Tocoa
-					province = 9129
+					province = 9091
 					color = { 204 88 48 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_03_bonito_oriental = { #Bonito Oriental
-					province = 9130
+					province = 9092
 					color = { 194 74 19 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_03_cusuna = { #Cusuna
-					province = 9131
+					province = 9093
 					color = { 153 88 20 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_09_baltil_ = { #Baltilú
-					province = 9132
+					province = 9094
 					color = { 179 67 36 }
 					color2 = { 255 255 255 }
 				}
@@ -61262,15 +61033,15 @@ e_centroamerica = { #Guatemala
 				color = { 130 142 122 }
 				color2 = { 255 255 255 }
 				b_hn_11_coxen_hole = { #Coxen Hole
-					province = 9133
+					province = 9095
 					color = { 134 120 134 }
 					color2 = { 255 255 255 }
 				}
 			}
 		}
 	}
-	k_el_salvador = { #de San Salvador
-		color = { 25 200 244 }
+	k_el_salvador = { #El Salvador
+		color = { 45 178 216 }
 		color2 = { 255 255 255 }
 
 		d_san_salvador = { #San Salvador
@@ -61281,27 +61052,27 @@ e_centroamerica = { #Guatemala
 				color = { 43 49 114 }
 				color2 = { 255 255 255 }
 				b_sv_10_san_salvador = { #San Salvador
-					province = 9134
+					province = 9096
 					color = { 11 49 120 }
 					color2 = { 255 255 255 }
 				}
 				b_sv_05_santa_tecla = { #Santa Tecla
-					province = 9135
+					province = 9097
 					color = { 8 14 103 }
 					color2 = { 255 255 255 }
 				}
 				b_sv_06_zacatecoluca = { #Zacatecoluca
-					province = 9136
+					province = 9098
 					color = { 74 63 124 }
 					color2 = { 255 255 255 }
 				}
 				b_sv_12_san_vicente = { #San Vicente
-					province = 9137
+					province = 9099
 					color = { 37 74 119 }
 					color2 = { 255 255 255 }
 				}
 				b_sv_05_la_libertad = { #La Libertad
-					province = 9138
+					province = 9100
 					color = { 29 64 147 }
 					color2 = { 255 255 255 }
 				}
@@ -61310,22 +61081,22 @@ e_centroamerica = { #Guatemala
 				color = { 22 157 174 }
 				color2 = { 255 255 255 }
 				b_sv_11_santa_ana = { #Santa Ana
-					province = 9139
+					province = 9101
 					color = { 54 153 177 }
 					color2 = { 255 255 255 }
 				}
 				b_sv_13_sonsonate = { #Sonsonate
-					province = 9140
+					province = 9102
 					color = { 50 176 174 }
 					color2 = { 255 255 255 }
 				}
 				b_sv_01_ahuachap_n = { #Ahuachapán
-					province = 9141
+					province = 9103
 					color = { 51 156 140 }
 					color2 = { 255 255 255 }
 				}
 				b_sv_11_metap_n = { #Metapán
-					province = 9142
+					province = 9104
 					color = { 31 180 158 }
 					color2 = { 255 255 255 }
 				}
@@ -61334,27 +61105,27 @@ e_centroamerica = { #Guatemala
 				color = { 223 60 147 }
 				color2 = { 255 255 255 }
 				b_sv_09_san_miguel = { #San Miguel
-					province = 9143
+					province = 9105
 					color = { 201 33 138 }
 					color2 = { 255 255 255 }
 				}
 				b_sv_14_usulut_n = { #Usulután
-					province = 9144
+					province = 9106
 					color = { 189 86 146 }
 					color2 = { 255 255 255 }
 				}
 				b_sv_14_santiago_de_mar_a = { #Santiago de María
-					province = 9145
+					province = 9107
 					color = { 228 47 170 }
 					color2 = { 255 255 255 }
 				}
 				b_sv_07_la_uni_n = { #La Unión
-					province = 9146
+					province = 9108
 					color = { 189 90 135 }
 					color2 = { 255 255 255 }
 				}
 				b_sv_09_chirilagua = { #Chirilagua
-					province = 9147
+					province = 9109
 					color = { 209 25 155 }
 					color2 = { 255 255 255 }
 				}
@@ -61363,22 +61134,22 @@ e_centroamerica = { #Guatemala
 				color = { 167 157 29 }
 				color2 = { 255 255 255 }
 				b_hn_02_choluteca = { #Choluteca
-					province = 9148
+					province = 9110
 					color = { 153 171 28 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_17_san_lorenzo = { #San Lorenzo
-					province = 9149
+					province = 9111
 					color = { 146 154 9 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_02_monjar_s = { #Monjarás
-					province = 9150
+					province = 9112
 					color = { 142 184 36 }
 					color2 = { 255 255 255 }
 				}
 				b_hn_02_san_marcos_de_col_n = { #San Marcos de Colón
-					province = 9151
+					province = 9113
 					color = { 165 186 53 }
 					color2 = { 255 255 255 }
 				}
@@ -61387,22 +61158,22 @@ e_centroamerica = { #Guatemala
 				color = { 81 147 78 }
 				color2 = { 255 255 255 }
 				b_sv_04_cojutepeque = { #Cojutepeque
-					province = 9152
+					province = 9114
 					color = { 57 165 63 }
 					color2 = { 255 255 255 }
 				}
 				b_sv_02_sensuntepeque = { #Sensuntepeque
-					province = 9153
+					province = 9115
 					color = { 113 172 102 }
 					color2 = { 255 255 255 }
 				}
 				b_sv_03_chalatenango = { #Chalatenango
-					province = 9154
+					province = 9116
 					color = { 104 135 88 }
 					color2 = { 255 255 255 }
 				}
 				b_sv_03_nueva_concepci_n = { #Nueva Concepción
-					province = 9155
+					province = 9117
 					color = { 79 123 43 }
 					color2 = { 255 255 255 }
 				}
@@ -61411,27 +61182,109 @@ e_centroamerica = { #Guatemala
 				color = { 86 55 8 }
 				color2 = { 255 255 255 }
 				b_sv_08_san_francisco = { #San Francisco
-					province = 9156
+					province = 9118
 					color = { 80 83 35 }
 					color2 = { 255 255 255 }
 				}
 				b_sv_07_santa_rosa_de_lima = { #Santa Rosa de Lima
-					province = 9157
+					province = 9119
 					color = { 86 41 0 }
 					color2 = { 255 255 255 }
 				}
 				b_sv_09_barrios = { #Barrios
-					province = 9158
+					province = 9120
 					color = { 106 75 18 }
 					color2 = { 255 255 255 }
 				}
 			}
 		}
 	}
-	k_mosquito = { #Mosquito
-		color = { 200 24 61 }
+	k_nicaragua = { #Nicaragua
+		color = { 128 37 122 }
 		color2 = { 255 255 255 }
 
+		d_managua = { #Managua
+			color = { 99 165 221 }
+			color2 = { 255 255 255 }
+
+			c_ni_10_managua = { #Managua
+				color = { 29 210 100 }
+				color2 = { 255 255 255 }
+				b_ni_10_managua = { #Managua
+					province = 9121
+					color = { 43 233 76 }
+					color2 = { 255 255 255 }
+				}
+				b_ni_11_masaya = { #Masaya
+					province = 9122
+					color = { 63 221 82 }
+					color2 = { 255 255 255 }
+				}
+				b_ni_10_sandino = { #Sandino
+					province = 9123
+					color = { 25 180 67 }
+					color2 = { 255 255 255 }
+				}
+				b_ni_02_diriamba = { #Diriamba
+					province = 9124
+					color = { 38 189 105 }
+					color2 = { 255 255 255 }
+				}
+				b_ni_10_tipitapa = { #Tipitapa
+					province = 9125
+					color = { 36 206 104 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_ni_08_le_n = { #León
+				color = { 50 46 71 }
+				color2 = { 255 255 255 }
+				b_ni_03_chinandega = { #Chinandega
+					province = 9126
+					color = { 64 54 51 }
+					color2 = { 255 255 255 }
+				}
+				b_ni_08_le_n = { #León
+					province = 9127
+					color = { 19 75 99 }
+					color2 = { 255 255 255 }
+				}
+				b_ni_08_el_sauce = { #El Sauce
+					province = 9128
+					color = { 43 50 51 }
+					color2 = { 255 255 255 }
+				}
+				b_ni_03_somotillo = { #Somotillo
+					province = 9129
+					color = { 47 59 77 }
+					color2 = { 255 255 255 }
+				}
+				b_ni_08_larreynaga = { #Larreynaga
+					province = 9130
+					color = { 27 35 64 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_ni_15_rivas = { #Rivas
+				color = { 24 120 29 }
+				color2 = { 255 255 255 }
+				b_ni_15_rivas = { #Rivas
+					province = 9131
+					color = { 4 132 41 }
+					color2 = { 255 255 255 }
+				}
+				b_ni_15_san_juan_del_sur = { #San Juan del Sur
+					province = 9132
+					color = { 24 150 3 }
+					color2 = { 255 255 255 }
+				}
+				b_ni_15_moyogalpa = { #Moyogalpa
+					province = 9133
+					color = { 44 144 39 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
 		d_matagalpa = { #Matagalpa
 			color = { 150 91 146 }
 			color2 = { 255 255 255 }
@@ -61440,22 +61293,22 @@ e_centroamerica = { #Guatemala
 				color = { 189 20 188 }
 				color2 = { 255 255 255 }
 				b_ni_05_estel_ = { #Estelí
-					province = 9159
+					province = 9134
 					color = { 218 0 161 }
 					color2 = { 255 255 255 }
 				}
 				b_ni_13_jalapa = { #Jalapa
-					province = 9160
+					province = 9135
 					color = { 155 44 180 }
 					color2 = { 255 255 255 }
 				}
 				b_ni_09_somoto = { #Somoto
-					province = 9161
+					province = 9136
 					color = { 190 51 157 }
 					color2 = { 255 255 255 }
 				}
 				b_ni_13_ocotal = { #Ocotal
-					province = 9162
+					province = 9137
 					color = { 161 0 171 }
 					color2 = { 255 255 255 }
 				}
@@ -61464,27 +61317,27 @@ e_centroamerica = { #Guatemala
 				color = { 58 66 194 }
 				color2 = { 255 255 255 }
 				b_ni_12_matagalpa = { #Matagalpa
-					province = 9163
+					province = 9138
 					color = { 49 94 214 }
 					color2 = { 255 255 255 }
 				}
 				b_ni_01_boaco = { #Boaco
-					province = 9164
+					province = 9139
 					color = { 88 71 226 }
 					color2 = { 255 255 255 }
 				}
 				b_ni_12_r_o_blanco = { #Río Blanco
-					province = 9165
+					province = 9140
 					color = { 74 67 197 }
 					color2 = { 255 255 255 }
 				}
 				b_ni_01_camoapa = { #Camoapa
-					province = 9166
+					province = 9141
 					color = { 65 44 192 }
 					color2 = { 255 255 255 }
 				}
 				b_ni_12_muy_muy = { #Muy Muy
-					province = 9167
+					province = 9142
 					color = { 61 94 171 }
 					color2 = { 255 255 255 }
 				}
@@ -61493,17 +61346,17 @@ e_centroamerica = { #Guatemala
 				color = { 206 155 77 }
 				color2 = { 255 255 255 }
 				b_ni_04_juigalpa = { #Juigalpa
-					province = 9168
+					province = 9143
 					color = { 186 157 69 }
 					color2 = { 255 255 255 }
 				}
 				b_ni_04_santo_tom_s = { #Santo Tomás
-					province = 9169
+					province = 9144
 					color = { 219 125 110 }
 					color2 = { 255 255 255 }
 				}
 				b_ni_04_acoyapa = { #Acoyapa
-					province = 9170
+					province = 9145
 					color = { 197 151 100 }
 					color2 = { 255 255 255 }
 				}
@@ -61512,22 +61365,194 @@ e_centroamerica = { #Guatemala
 				color = { 206 135 150 }
 				color2 = { 255 255 255 }
 				b_ni_07_jinotega = { #Jinotega
-					province = 9171
+					province = 9146
 					color = { 224 148 169 }
 					color2 = { 255 255 255 }
 				}
 				b_ni_07_san_jos_de_bocay = { #San José de Bocay
-					province = 9172
+					province = 9147
 					color = { 232 110 183 }
 					color2 = { 255 255 255 }
 				}
 				b_ni_07_amaka = { #Amaka
-					province = 9173
+					province = 9148
 					color = { 222 113 178 }
 					color2 = { 255 255 255 }
 				}
 			}
 		}
+	}
+	k_costa_rica = { #Costa Rica
+		color = { 8 133 115 }
+		color2 = { 255 255 255 }
+
+		d_talamanca = { #Talamanca
+			color = { 35 206 186 }
+			color2 = { 255 255 255 }
+
+			c_cr_08_san_jos_ = { #San José
+				color = { 202 134 172 }
+				color2 = { 255 255 255 }
+				b_cr_08_san_jos_ = { #San José
+					province = 9149
+					color = { 171 111 164 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_02_para_so = { #Paraíso
+					province = 9150
+					color = { 211 107 170 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_02_turrialba = { #Turrialba
+					province = 9151
+					color = { 223 146 188 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_cr_01_grecia = { #Grecia
+				color = { 218 180 18 }
+				color2 = { 255 255 255 }
+				b_cr_01_grecia = { #Grecia
+					province = 9152
+					color = { 240 188 28 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_01_desamparados = { #Desamparados
+					province = 9153
+					color = { 185 173 13 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_01_quesada = { #Quesada
+					province = 9154
+					color = { 188 160 13 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_cr_03_liberia = { #Liberia
+				color = { 192 230 62 }
+				color2 = { 255 255 255 }
+				b_cr_07_puntarenas = { #Puntarenas
+					province = 9155
+					color = { 222 241 46 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_03_liberia = { #Liberia
+					province = 9156
+					color = { 166 248 46 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_03_ca_as = { #Cañas
+					province = 9157
+					color = { 204 203 97 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_03_la_cruz = { #La Cruz
+					province = 9158
+					color = { 163 255 62 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_cr_08_de_san_jos_ = { #de San José
+				color = { 210 229 189 }
+				color2 = { 255 255 255 }
+				b_cr_08_san_rafael_abajo = { #San Rafael Abajo
+					province = 9159
+					color = { 228 255 199 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_08_san_isidro = { #San Isidro
+					province = 9160
+					color = { 218 226 222 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_07_quepos = { #Quepos
+					province = 9161
+					color = { 190 208 194 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_cr_06_lim_n = { #Limón
+				color = { 92 67 91 }
+				color2 = { 255 255 255 }
+				b_cr_06_lim_n = { #Limón
+					province = 9162
+					color = { 122 99 96 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_06_gu_piles = { #Guápiles
+					province = 9163
+					color = { 101 51 115 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_06_siquirres = { #Siquirres
+					province = 9164
+					color = { 62 47 104 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_cr_01_san_jos_ = { #San José
+				color = { 131 72 146 }
+				color2 = { 255 255 255 }
+				b_cr_01_san_jos_ = { #San José
+					province = 9165
+					color = { 136 49 115 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_01_la_fortuna = { #La Fortuna
+					province = 9166
+					color = { 132 55 149 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_01_los_chiles = { #Los Chiles
+					province = 9167
+					color = { 112 37 176 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_cr_07_buenos_aires = { #Buenos Aires
+				color = { 71 143 154 }
+				color2 = { 255 255 255 }
+				b_cr_07_corredor = { #Corredor
+					province = 9168
+					color = { 98 162 144 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_07_buenos_aires = { #Buenos Aires
+					province = 9169
+					color = { 83 152 169 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_07_sierpe = { #Sierpe
+					province = 9170
+					color = { 70 134 150 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_cr_03_nicoya = { #Nicoya
+				color = { 104 191 20 }
+				color2 = { 255 255 255 }
+				b_cr_03_nicoya = { #Nicoya
+					province = 9171
+					color = { 119 206 40 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_03_santa_cruz = { #Santa Cruz
+					province = 9172
+					color = { 114 225 51 }
+					color2 = { 255 255 255 }
+				}
+				b_cr_07_c_bano = { #Cóbano
+					province = 9173
+					color = { 74 197 18 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	k_miskito = { #Miskito
+		color = { 199 20 39 }
+		color2 = { 255 255 255 }
+
 		d_mosquito_coast = { #Mosquito Coast
 			color = { 199 50 66 }
 			color2 = { 255 255 255 }

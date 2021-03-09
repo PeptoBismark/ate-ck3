@@ -2950,22 +2950,22 @@
 	holding = church_holding
 }
 591 = {	#Sherridon
-	culture = metis
+	culture = woodland_cree
 	religion = exovedate
 	holding = castle_holding
 }
 592 = {	#The Two Rivers
-	culture = metis
+	culture = woodland_cree
 	religion = exovedate
 	holding = city_holding
 }
 593 = {	#Lynn Lake
-	culture = metis
+	culture = woodland_cree
 	religion = exovedate
 	holding = church_holding
 }
 594 = {	#Island Falls
-	culture = metis
+	culture = woodland_cree
 	religion = exovedate
 	holding = none
 }
@@ -6010,12 +6010,12 @@
 	holding = tribal_holding
 }
 1203 = {	#Chignik
-	culture = unangan
+	culture = alutiiq
 	religion = cross_faith
 	holding = none
 }
 1204 = {	#Perryville
-	culture = unangan
+	culture = alutiiq
 	religion = cross_faith
 	holding = none
 }
@@ -6170,17 +6170,17 @@
 	holding = tribal_holding
 }
 1235 = {	#Shageluk
-	culture = yupik
+	culture = koyukon
 	religion = ilisaijjut
 	holding = none
 }
 1236 = {	#Bear Creek
-	culture = yupik
+	culture = koyukon
 	religion = ilisaijjut
 	holding = none
 }
 1237 = {	#Khadilotden
-	culture = yupik
+	culture = koyukon
 	religion = ilisaijjut
 	holding = none
 }
@@ -7650,12 +7650,12 @@
 	holding = city_holding
 }
 1531 = {	#Jackman
-	culture = acadien
+	culture = yankee
 	religion = masonic
 	holding = castle_holding
 }
 1532 = {	#Caratunk
-	culture = acadien
+	culture = yankee
 	religion = masonic
 	holding = city_holding
 }
@@ -8285,17 +8285,17 @@
 	holding = city_holding
 }
 1658 = {	#Carthage
-	culture = upstater
+	culture = hudsonian
 	religion = anglican
 	holding = castle_holding
 }
 1659 = {	#West Turin
-	culture = upstater
+	culture = hudsonian
 	religion = anglican
 	holding = castle_holding
 }
 1660 = {	#Wilna
-	culture = upstater
+	culture = hudsonian
 	religion = anglican
 	holding = church_holding
 }
@@ -15590,7 +15590,7 @@
 	holding = none
 }
 3119 = {	#Łutselk'e
-	culture = tlicho
+	culture = denesuline
 	religion = peyotist
 	holding = tribal_holding
 }
@@ -21870,37 +21870,37 @@
 	holding = city_holding
 }
 4375 = {	#Roseau
-	culture = venteux
+	culture = calypsonian
 	religion = voodoo
 	holding = castle_holding
 }
 4376 = {	#Mon Repos
-	culture = guayanes
+	culture = calypsonian
 	religion = twelve_tribes
 	holding = castle_holding
 }
 4377 = {	#Chaguanas
-	culture = guayanes
+	culture = calypsonian
 	religion = twelve_tribes
 	holding = city_holding
 }
 4378 = {	#Point Fortin
-	culture = guayanes
+	culture = calypsonian
 	religion = twelve_tribes
 	holding = church_holding
 }
 4379 = {	#Rio Claro
-	culture = guayanes
+	culture = calypsonian
 	religion = twelve_tribes
 	holding = none
 }
 4380 = {	#Port of Spain
-	culture = margariteno
+	culture = calypsonian
 	religion = twelve_tribes
 	holding = castle_holding
 }
 4381 = {	#Sangre Grande
-	culture = margariteno
+	culture = calypsonian
 	religion = twelve_tribes
 	holding = city_holding
 }
@@ -21935,7 +21935,7 @@
 	holding = castle_holding
 }
 4388 = {	#Castries
-	culture = venteux
+	culture = calypsonian
 	religion = twelve_tribes
 	holding = castle_holding
 }
@@ -22500,7 +22500,7 @@
 	holding = tribal_holding
 }
 4501 = {	#Bartlesville
-	culture = dhegihan
+	culture = cherokee
 	religion = catholic
 	holding = tribal_holding
 }
@@ -22510,17 +22510,17 @@
 	holding = none
 }
 4503 = {	#Bixby
-	culture = muscogee
+	culture = chickasaw
 	religion = catholic
 	holding = tribal_holding
 }
 4504 = {	#Muskogee
-	culture = muscogee
+	culture = chickasaw
 	religion = catholic
 	holding = none
 }
 4505 = {	#Seminole
-	culture = muscogee
+	culture = chickasaw
 	religion = catholic
 	holding = none
 }
@@ -22700,12 +22700,12 @@
 	holding = church_holding
 }
 4541 = {	#Tahlequah
-	culture = ozark
+	culture = cherokee
 	religion = catholic
 	holding = city_holding
 }
 4542 = {	#Grove
-	culture = ozark
+	culture = cherokee
 	religion = catholic
 	holding = church_holding
 }
@@ -23620,12 +23620,12 @@
 	holding = church_holding
 }
 4725 = {	#Labette
-	culture = cherokee
+	culture = grangelander
 	religion = catholic
 	holding = castle_holding
 }
 4726 = {	#Coffeyville
-	culture = cherokee
+	culture = grangelander
 	religion = catholic
 	holding = city_holding
 }
@@ -23775,17 +23775,17 @@
 	holding = castle_holding
 }
 4756 = {	#Tepeaca
-	culture = mixtec
+	culture = chilango
 	religion = guadalupan
 	holding = city_holding
 }
 4757 = {	#Tepexi de Rodríguez
-	culture = mixtec
+	culture = chilango
 	religion = guadalupan
 	holding = church_holding
 }
 4758 = {	#Zapotitlán
-	culture = mixtec
+	culture = chilango
 	religion = guadalupan
 	holding = none
 }
@@ -23815,22 +23815,22 @@
 	holding = none
 }
 4764 = {	#Cholula
-	culture = chilango
+	culture = nahua
 	religion = guadalupan
 	holding = castle_holding
 }
 4765 = {	#San Martin Texmelucan de Labastida
-	culture = chilango
+	culture = nahua
 	religion = guadalupan
 	holding = city_holding
 }
 4766 = {	#Atlixco
-	culture = chilango
+	culture = nahua
 	religion = guadalupan
 	holding = church_holding
 }
 4767 = {	#San Jerónimo Coyula
-	culture = chilango
+	culture = nahua
 	religion = guadalupan
 	holding = none
 }
@@ -23855,17 +23855,17 @@
 	holding = none
 }
 4772 = {	#Izúcar de Matamoros
-	culture = mixtec
+	culture = chilango
 	religion = guadalupan
 	holding = castle_holding
 }
 4773 = {	#Tehuitzingo
-	culture = mixtec
+	culture = chilango
 	religion = guadalupan
 	holding = city_holding
 }
 4774 = {	#Acatlán de Osorio
-	culture = mixtec
+	culture = chilango
 	religion = guadalupan
 	holding = church_holding
 }
@@ -25670,7 +25670,7 @@
 	holding = castle_holding
 }
 5135 = {	#Puerto Escondido
-	culture = zapotec
+	culture = mixtec
 	religion = mictlantec
 	holding = city_holding
 }
@@ -32119,385 +32119,385 @@
 	religion = nazarene
 	holding = castle_holding
 }
-6425 = {	#Calgary
+6425 = {	#Edmonton
 	culture = prairielander
 	religion = midnight_sun
 	holding = castle_holding
 }
-6426 = {	#Airdrie
+6426 = {	#Sherwood Park
 	culture = prairielander
 	religion = midnight_sun
 	holding = city_holding
 }
-6427 = {	#Okotoks
+6427 = {	#Beaumont
 	culture = prairielander
 	religion = midnight_sun
 	holding = church_holding
 }
-6428 = {	#Chestermere
+6428 = {	#Morinville
 	culture = prairielander
 	religion = midnight_sun
 	holding = none
 }
-6429 = {	#Didsbury
+6429 = {	#Duffield
 	culture = prairielander
 	religion = midnight_sun
 	holding = none
 }
-6430 = {	#Westcott
-	culture = prairielander
-	religion = midnight_sun
-	holding = none
-}
-6431 = {	#Lethbridge
-	culture = prairielander
-	religion = mormon
-	holding = castle_holding
-}
-6432 = {	#Coalhurst
-	culture = prairielander
-	religion = mormon
-	holding = city_holding
-}
-6433 = {	#Raymond
-	culture = prairielander
-	religion = mormon
-	holding = church_holding
-}
-6434 = {	#Medicine Hat
+6430 = {	#Drayton Valley
 	culture = prairielander
 	religion = midnight_sun
 	holding = castle_holding
 }
-6435 = {	#Bow Island
+6431 = {	#Leduc
 	culture = prairielander
 	religion = midnight_sun
 	holding = city_holding
 }
-6436 = {	#Schuler
+6432 = {	#Rimbey
 	culture = prairielander
 	religion = midnight_sun
 	holding = church_holding
 }
-6437 = {	#Pakowki
+6433 = {	#Winfield
 	culture = prairielander
 	religion = midnight_sun
 	holding = none
 }
-6438 = {	#Nemiskam
-	culture = prairielander
-	religion = midnight_sun
-	holding = none
-}
-6439 = {	#Brooks
-	culture = blackfoot
-	religion = midnight_sun
-	holding = tribal_holding
-}
-6440 = {	#Strathmore
-	culture = blackfoot
-	religion = midnight_sun
-	holding = none
-}
-6441 = {	#Bassano
-	culture = blackfoot
-	religion = midnight_sun
-	holding = none
-}
-6442 = {	#High River
-	culture = prairielander
-	religion = mormon
-	holding = castle_holding
-}
-6443 = {	#Claresholm
-	culture = prairielander
-	religion = mormon
-	holding = city_holding
-}
-6444 = {	#Lyndon
-	culture = prairielander
-	religion = mormon
-	holding = church_holding
-}
-6445 = {	#Cardston
-	culture = blackfoot
-	religion = mormon
-	holding = tribal_holding
-}
-6446 = {	#Pincher Creek
-	culture = blackfoot
-	religion = mormon
-	holding = none
-}
-6447 = {	#Fort Macleod
-	culture = blackfoot
-	religion = mormon
-	holding = none
-}
-6448 = {	#Drumheller
+6434 = {	#Camrose
 	culture = prairielander
 	religion = midnight_sun
 	holding = castle_holding
 }
-6449 = {	#Three Hills
+6435 = {	#Tofield
 	culture = prairielander
 	religion = midnight_sun
 	holding = city_holding
 }
-6450 = {	#Watts
+6436 = {	#Killam
 	culture = prairielander
 	religion = midnight_sun
 	holding = church_holding
 }
-6451 = {	#Vauxhall
-	culture = prairielander
-	religion = midnight_sun
-	holding = castle_holding
-}
-6452 = {	#Vulcan
-	culture = prairielander
-	religion = midnight_sun
-	holding = city_holding
-}
-6453 = {	#Siksika
-	culture = prairielander
-	religion = midnight_sun
-	holding = church_holding
-}
-6454 = {	#Edmonton
-	culture = prairielander
-	religion = midnight_sun
-	holding = castle_holding
-}
-6455 = {	#Sherwood Park
-	culture = prairielander
-	religion = midnight_sun
-	holding = city_holding
-}
-6456 = {	#Beaumont
-	culture = prairielander
-	religion = midnight_sun
-	holding = church_holding
-}
-6457 = {	#Morinville
+6437 = {	#Viking
 	culture = prairielander
 	religion = midnight_sun
 	holding = none
 }
-6458 = {	#Duffield
-	culture = prairielander
-	religion = midnight_sun
-	holding = none
-}
-6459 = {	#Drayton Valley
-	culture = prairielander
-	religion = midnight_sun
-	holding = castle_holding
-}
-6460 = {	#Leduc
-	culture = prairielander
-	religion = midnight_sun
-	holding = city_holding
-}
-6461 = {	#Rimbey
-	culture = prairielander
-	religion = midnight_sun
-	holding = church_holding
-}
-6462 = {	#Winfield
-	culture = prairielander
-	religion = midnight_sun
-	holding = none
-}
-6463 = {	#Camrose
-	culture = prairielander
-	religion = midnight_sun
-	holding = castle_holding
-}
-6464 = {	#Tofield
-	culture = prairielander
-	religion = midnight_sun
-	holding = city_holding
-}
-6465 = {	#Killam
-	culture = prairielander
-	religion = midnight_sun
-	holding = church_holding
-}
-6466 = {	#Viking
-	culture = prairielander
-	religion = midnight_sun
-	holding = none
-}
-6467 = {	#Vegreville
+6438 = {	#Vegreville
 	culture = preiryansky
 	religion = midnight_sun
 	holding = castle_holding
 }
-6468 = {	#Vermilion
+6439 = {	#Vermilion
 	culture = preiryansky
 	religion = midnight_sun
 	holding = city_holding
 }
-6469 = {	#Lamont
+6440 = {	#Lamont
 	culture = preiryansky
 	religion = midnight_sun
 	holding = church_holding
 }
-6470 = {	#Westlock
+6441 = {	#Westlock
 	culture = plains_cree
 	religion = midnight_sun
 	holding = tribal_holding
 }
-6471 = {	#Athabasca
+6442 = {	#Athabasca
 	culture = plains_cree
 	religion = midnight_sun
 	holding = none
 }
-6472 = {	#Jarvie
+6443 = {	#Jarvie
 	culture = plains_cree
 	religion = midnight_sun
 	holding = none
 }
-6473 = {	#Red Deer
+6444 = {	#Calgary
 	culture = prairielander
 	religion = midnight_sun
 	holding = castle_holding
 }
-6474 = {	#Lacombe
+6445 = {	#Airdrie
 	culture = prairielander
 	religion = midnight_sun
 	holding = city_holding
 }
-6475 = {	#Olds
+6446 = {	#Okotoks
 	culture = prairielander
 	religion = midnight_sun
 	holding = church_holding
 }
-6476 = {	#Sylvan Lake
+6447 = {	#Chestermere
 	culture = prairielander
 	religion = midnight_sun
 	holding = none
 }
-6477 = {	#Wainwright
+6448 = {	#Didsbury
+	culture = prairielander
+	religion = midnight_sun
+	holding = none
+}
+6449 = {	#Westcott
+	culture = prairielander
+	religion = midnight_sun
+	holding = none
+}
+6450 = {	#High River
+	culture = prairielander
+	religion = mormon
+	holding = castle_holding
+}
+6451 = {	#Claresholm
+	culture = prairielander
+	religion = mormon
+	holding = city_holding
+}
+6452 = {	#Lyndon
+	culture = prairielander
+	religion = mormon
+	holding = church_holding
+}
+6453 = {	#Cardston
+	culture = prairielander
+	religion = mormon
+	holding = tribal_holding
+}
+6454 = {	#Pincher Creek
+	culture = prairielander
+	religion = mormon
+	holding = none
+}
+6455 = {	#Fort Macleod
+	culture = prairielander
+	religion = mormon
+	holding = none
+}
+6456 = {	#Lethbridge
+	culture = prairielander
+	religion = mormon
+	holding = castle_holding
+}
+6457 = {	#Coalhurst
+	culture = prairielander
+	religion = mormon
+	holding = city_holding
+}
+6458 = {	#Raymond
+	culture = prairielander
+	religion = mormon
+	holding = church_holding
+}
+6459 = {	#Medicine Hat
 	culture = prairielander
 	religion = midnight_sun
 	holding = castle_holding
 }
-6478 = {	#Tinchebray
+6460 = {	#Bow Island
 	culture = prairielander
 	religion = midnight_sun
 	holding = city_holding
 }
-6479 = {	#Throne
+6461 = {	#Schuler
 	culture = prairielander
 	religion = midnight_sun
 	holding = church_holding
 }
-6480 = {	#Stettler
+6462 = {	#Pakowki
+	culture = prairielander
+	religion = midnight_sun
+	holding = none
+}
+6463 = {	#Nemiskam
+	culture = prairielander
+	religion = midnight_sun
+	holding = none
+}
+6464 = {	#Brooks
+	culture = prairielander
+	religion = midnight_sun
+	holding = tribal_holding
+}
+6465 = {	#Strathmore
+	culture = prairielander
+	religion = midnight_sun
+	holding = none
+}
+6466 = {	#Bassano
+	culture = prairielander
+	religion = midnight_sun
+	holding = none
+}
+6467 = {	#Vauxhall
 	culture = prairielander
 	religion = midnight_sun
 	holding = castle_holding
 }
-6481 = {	#Scollard
+6468 = {	#Vulcan
 	culture = prairielander
 	religion = midnight_sun
 	holding = city_holding
 }
-6482 = {	#Hanna
-	culture = prairielander
-	religion = midnight_sun
-	holding = castle_holding
-}
-6483 = {	#Sharrow
-	culture = prairielander
-	religion = midnight_sun
-	holding = city_holding
-}
-6484 = {	#Wardlow
+6469 = {	#Siksika
 	culture = prairielander
 	religion = midnight_sun
 	holding = church_holding
 }
-6485 = {	#Acadia Valley
+6470 = {	#Red Deer
 	culture = prairielander
 	religion = midnight_sun
 	holding = castle_holding
 }
-6486 = {	#Bodo
+6471 = {	#Lacombe
 	culture = prairielander
 	religion = midnight_sun
 	holding = city_holding
 }
-6487 = {	#Youngstown
+6472 = {	#Olds
 	culture = prairielander
 	religion = midnight_sun
 	holding = church_holding
 }
-6488 = {	#Hinton
+6473 = {	#Sylvan Lake
+	culture = prairielander
+	religion = midnight_sun
+	holding = none
+}
+6474 = {	#Drumheller
 	culture = prairielander
 	religion = midnight_sun
 	holding = castle_holding
 }
-6489 = {	#Edson
+6475 = {	#Three Hills
 	culture = prairielander
 	religion = midnight_sun
 	holding = city_holding
 }
-6490 = {	#Weald
+6476 = {	#Watts
 	culture = prairielander
 	religion = midnight_sun
 	holding = church_holding
 }
-6491 = {	#Whitecourt
+6477 = {	#Stettler
 	culture = prairielander
 	religion = midnight_sun
 	holding = castle_holding
 }
-6492 = {	#Barrhead
+6478 = {	#Scollard
 	culture = prairielander
 	religion = midnight_sun
 	holding = city_holding
 }
-6493 = {	#Mayerthorpe
-	culture = prairielander
-	religion = midnight_sun
-	holding = church_holding
-}
-6494 = {	#Rocky Mountain House
+6479 = {	#Hinton
 	culture = prairielander
 	religion = midnight_sun
 	holding = castle_holding
 }
-6495 = {	#Limestone Mountain
+6480 = {	#Edson
 	culture = prairielander
 	religion = midnight_sun
 	holding = city_holding
 }
-6496 = {	#Ullin
+6481 = {	#Weald
 	culture = prairielander
 	religion = midnight_sun
 	holding = church_holding
 }
-6497 = {	#Grande Cache
+6482 = {	#Whitecourt
+	culture = prairielander
+	religion = midnight_sun
+	holding = castle_holding
+}
+6483 = {	#Barrhead
+	culture = prairielander
+	religion = midnight_sun
+	holding = city_holding
+}
+6484 = {	#Mayerthorpe
+	culture = prairielander
+	religion = midnight_sun
+	holding = church_holding
+}
+6485 = {	#Rocky Mountain House
+	culture = prairielander
+	religion = midnight_sun
+	holding = castle_holding
+}
+6486 = {	#Limestone Mountain
+	culture = prairielander
+	religion = midnight_sun
+	holding = city_holding
+}
+6487 = {	#Ullin
+	culture = prairielander
+	religion = midnight_sun
+	holding = church_holding
+}
+6488 = {	#Grande Cache
 	culture = plautsdeutsch
 	religion = peace_church
 	holding = castle_holding
 }
-6498 = {	#Fox Creek
+6489 = {	#Fox Creek
 	culture = plautsdeutsch
 	religion = peace_church
 	holding = castle_holding
 }
-6499 = {	#Valleyview
+6490 = {	#Valleyview
 	culture = plautsdeutsch
 	religion = peace_church
 	holding = city_holding
 }
-6500 = {	#Pedley
+6491 = {	#Pedley
 	culture = plautsdeutsch
 	religion = peace_church
 	holding = city_holding
+}
+6492 = {	#Wainwright
+	culture = prairielander
+	religion = midnight_sun
+	holding = castle_holding
+}
+6493 = {	#Tinchebray
+	culture = prairielander
+	religion = midnight_sun
+	holding = city_holding
+}
+6494 = {	#Throne
+	culture = prairielander
+	religion = midnight_sun
+	holding = church_holding
+}
+6495 = {	#Hanna
+	culture = prairielander
+	religion = midnight_sun
+	holding = castle_holding
+}
+6496 = {	#Sharrow
+	culture = prairielander
+	religion = midnight_sun
+	holding = city_holding
+}
+6497 = {	#Wardlow
+	culture = prairielander
+	religion = midnight_sun
+	holding = church_holding
+}
+6498 = {	#Acadia Valley
+	culture = prairielander
+	religion = midnight_sun
+	holding = castle_holding
+}
+6499 = {	#Bodo
+	culture = prairielander
+	religion = midnight_sun
+	holding = city_holding
+}
+6500 = {	#Youngstown
+	culture = prairielander
+	religion = midnight_sun
+	holding = church_holding
 }
 6501 = {	#Saint Cloud
 	culture = uplander
@@ -33240,22 +33240,22 @@
 	holding = city_holding
 }
 6649 = {	#Brandon
-	culture = dakota
+	culture = preiryansky
 	religion = peyotist
 	holding = tribal_holding
 }
 6650 = {	#Neepawa
-	culture = dakota
+	culture = preiryansky
 	religion = peyotist
 	holding = none
 }
 6651 = {	#Rivers
-	culture = dakota
+	culture = preiryansky
 	religion = peyotist
 	holding = none
 }
 6652 = {	#Shoal Lake
-	culture = dakota
+	culture = preiryansky
 	religion = peyotist
 	holding = none
 }
@@ -33495,17 +33495,17 @@
 	holding = city_holding
 }
 6700 = {	#Rosetown
-	culture = prairielander
+	culture = plains_cree
 	religion = peyotist
 	holding = castle_holding
 }
 6701 = {	#Biggar
-	culture = prairielander
+	culture = plains_cree
 	religion = peyotist
 	holding = city_holding
 }
 6702 = {	#Kerrobert
-	culture = prairielander
+	culture = plains_cree
 	religion = peyotist
 	holding = church_holding
 }
@@ -33520,7 +33520,7 @@
 	holding = none
 }
 6705 = {	#Cando
-	culture = prairielander
+	culture = plains_cree
 	religion = midnight_sun
 	holding = none
 }
@@ -33555,32 +33555,32 @@
 	holding = none
 }
 6712 = {	#Estevan
-	culture = crow
+	culture = lakota
 	religion = peyotist
 	holding = tribal_holding
 }
 6713 = {	#Oxbow
-	culture = crow
+	culture = lakota
 	religion = peyotist
 	holding = none
 }
 6714 = {	#North Weyburn
-	culture = crow
+	culture = lakota
 	religion = peyotist
 	holding = none
 }
 6715 = {	#Weyburn
-	culture = crow
+	culture = lakota
 	religion = peyotist
 	holding = tribal_holding
 }
 6716 = {	#Crosby
-	culture = crow
+	culture = lakota
 	religion = peyotist
 	holding = none
 }
 6717 = {	#Gladmar
-	culture = crow
+	culture = lakota
 	religion = peyotist
 	holding = none
 }
@@ -33630,17 +33630,17 @@
 	holding = none
 }
 6727 = {	#Assiniboia
-	culture = crow
+	culture = lakota
 	religion = peyotist
 	holding = tribal_holding
 }
 6728 = {	#Woodrow
-	culture = crow
+	culture = lakota
 	religion = peyotist
 	holding = none
 }
 6729 = {	#Viceroy
-	culture = crow
+	culture = lakota
 	religion = peyotist
 	holding = none
 }
@@ -33790,17 +33790,17 @@
 	holding = church_holding
 }
 6759 = {	#Rosthern
-	culture = prairielander
+	culture = plains_cree
 	religion = midnight_sun
 	holding = castle_holding
 }
 6760 = {	#Shellbrook
-	culture = prairielander
+	culture = plains_cree
 	religion = midnight_sun
 	holding = city_holding
 }
 6761 = {	#Pelican Cove
-	culture = prairielander
+	culture = plains_cree
 	religion = midnight_sun
 	holding = church_holding
 }
@@ -37195,12 +37195,12 @@
 	holding = none
 }
 7440 = {	#Whapmagoostui
-	culture = iyyu
+	culture = inuit
 	religion = unipkaaq
 	holding = tribal_holding
 }
 7441 = {	#Umiujaq
-	culture = iyyu
+	culture = inuit
 	religion = unipkaaq
 	holding = none
 }
@@ -37279,718 +37279,718 @@
 	religion = pelagic
 	holding = none
 }
-7457 = {	#Mérida
-	culture = yucateco
-	religion = qabantajik
-	holding = castle_holding
-}
-7458 = {	#Kanasín
-	culture = yucateco
-	religion = qabantajik
-	holding = city_holding
-}
-7459 = {	#Tixkokob
-	culture = yucateco
-	religion = qabantajik
-	holding = church_holding
-}
-7460 = {	#Seyé
-	culture = yucateco
-	religion = qabantajik
-	holding = none
-}
-7461 = {	#Uman
-	culture = yucateco
-	religion = qabantajik
-	holding = castle_holding
-}
-7462 = {	#Hunucmá
-	culture = yucateco
-	religion = qabantajik
-	holding = city_holding
-}
-7463 = {	#Maxcanú
-	culture = yucateco
-	religion = qabantajik
-	holding = church_holding
-}
-7464 = {	#Cepeda
-	culture = yucateco
-	religion = qabantajik
-	holding = none
-}
-7465 = {	#Motul
-	culture = yucateco
-	religion = qabantajik
-	holding = castle_holding
-}
-7466 = {	#Izamal
-	culture = yucateco
-	religion = qabantajik
-	holding = city_holding
-}
-7467 = {	#Dzidzantun
-	culture = yucateco
-	religion = qabantajik
-	holding = church_holding
-}
-7468 = {	#Dzilam de Bravo
-	culture = yucateco
-	religion = qabantajik
-	holding = none
-}
-7469 = {	#Tizimín
-	culture = yucateco
-	religion = neomayan
-	holding = castle_holding
-}
-7470 = {	#Temozon
-	culture = yucateco
-	religion = neomayan
-	holding = city_holding
-}
-7471 = {	#Popolnah
-	culture = yucateco
-	religion = neomayan
-	holding = church_holding
-}
-7472 = {	#Dzonot Carretero
-	culture = yucateco
-	religion = neomayan
-	holding = none
-}
-7473 = {	#Espita
-	culture = yucateco
-	religion = qabantajik
-	holding = castle_holding
-}
-7474 = {	#Buctzotz
-	culture = yucateco
-	religion = qabantajik
-	holding = city_holding
-}
-7475 = {	#Panabá
-	culture = yucateco
-	religion = qabantajik
-	holding = church_holding
-}
-7476 = {	#Villahermosa
-	culture = chontal
-	religion = neomayan
-	holding = castle_holding
-}
-7477 = {	#Río de Teapa
-	culture = chontal
-	religion = neomayan
-	holding = city_holding
-}
-7478 = {	#Tacotalpa
-	culture = chontal
-	religion = neomayan
-	holding = church_holding
-}
-7479 = {	#Cárdenas
-	culture = chontal
-	religion = neomayan
-	holding = castle_holding
-}
-7480 = {	#Comalcalco
-	culture = chontal
-	religion = neomayan
-	holding = city_holding
-}
-7481 = {	#Huimanguillo
-	culture = chontal
-	religion = neomayan
-	holding = church_holding
-}
-7482 = {	#la Venta
-	culture = chontal
-	religion = neomayan
-	holding = none
-}
-7483 = {	#Poblado C-33 20 de Noviembre
-	culture = chontal
-	religion = neomayan
-	holding = none
-}
-7484 = {	#Macuspana
-	culture = chontal
-	religion = neomayan
-	holding = castle_holding
-}
-7485 = {	#Frontera
-	culture = chontal
-	religion = neomayan
-	holding = city_holding
-}
-7486 = {	#Jonuta
-	culture = chontal
-	religion = neomayan
-	holding = church_holding
-}
-7487 = {	#Cancún
-	culture = yucateco
-	religion = neomayan
-	holding = castle_holding
-}
-7488 = {	#Alfredo V. Bonfil
-	culture = yucateco
-	religion = neomayan
-	holding = city_holding
-}
-7489 = {	#Ignacio Zaragoza
-	culture = yucateco
-	religion = neomayan
-	holding = church_holding
-}
-7490 = {	#Kantunilkín
-	culture = yucateco
-	religion = neomayan
-	holding = none
-}
-7491 = {	#Isla Holbox
-	culture = yucateco
-	religion = neomayan
-	holding = none
-}
-7492 = {	#del Carmen
-	culture = yucateco
-	religion = neomayan
-	holding = castle_holding
-}
-7493 = {	#Tulum
-	culture = yucateco
-	religion = neomayan
-	holding = city_holding
-}
-7494 = {	#Puerto Aventuras
-	culture = yucateco
-	religion = neomayan
-	holding = church_holding
-}
-7495 = {	#Coba
-	culture = yucateco
-	religion = neomayan
-	holding = none
-}
-7496 = {	#Cozumel
-	culture = yucateco
-	religion = brethren
-	holding = castle_holding
-}
-7497 = {	#Campeche
-	culture = yucateco
-	religion = qabantajik
-	holding = castle_holding
-}
-7498 = {	#Champotón
-	culture = yucateco
-	religion = qabantajik
-	holding = city_holding
-}
-7499 = {	#Seybaplaya
-	culture = yucateco
-	religion = qabantajik
-	holding = church_holding
-}
-7500 = {	#Carrillo Puerto
-	culture = yucateco
-	religion = qabantajik
-	holding = none
-}
-7501 = {	#Los Laureles
-	culture = yucateco
-	religion = qabantajik
-	holding = none
-}
-7502 = {	#Calkiní
-	culture = yucateco
-	religion = qabantajik
-	holding = castle_holding
-}
-7503 = {	#Hecelchakán
-	culture = yucateco
-	religion = qabantajik
-	holding = city_holding
-}
-7504 = {	#Pocboc
-	culture = yucateco
-	religion = qabantajik
-	holding = church_holding
-}
-7505 = {	#Hopelchén
-	culture = yucateco
-	religion = qabantajik
-	holding = castle_holding
-}
-7506 = {	#Iturbide
-	culture = yucateco
-	religion = qabantajik
-	holding = city_holding
-}
-7507 = {	#Dzibalchén
-	culture = yucateco
-	religion = qabantajik
-	holding = church_holding
-}
-7508 = {	#Constitución
-	culture = yucateco
-	religion = qabantajik
-	holding = castle_holding
-}
-7509 = {	#Cinco de Febrero
-	culture = yucateco
-	religion = qabantajik
-	holding = city_holding
-}
-7510 = {	#Nuevo Conhuás
-	culture = yucateco
-	religion = qabantajik
-	holding = church_holding
-}
-7511 = {	#Chetumal
-	culture = yucateco
-	religion = qabantajik
-	holding = castle_holding
-}
-7512 = {	#San Pedro
-	culture = yucateco
-	religion = qabantajik
-	holding = city_holding
-}
-7513 = {	#Reforma
-	culture = yucateco
-	religion = qabantajik
-	holding = church_holding
-}
-7514 = {	#Maya Balam
-	culture = yucateco
-	religion = qabantajik
-	holding = none
-}
-7515 = {	#Mahahual
-	culture = yucateco
-	religion = qabantajik
-	holding = none
-}
-7516 = {	#Felipe Carrillo Puerto
-	culture = yucateco
-	religion = qabantajik
-	holding = castle_holding
-}
-7517 = {	#Tihosuco
-	culture = yucateco
-	religion = qabantajik
-	holding = city_holding
-}
-7518 = {	#X-pichil
-	culture = yucateco
-	religion = qabantajik
-	holding = church_holding
-}
-7519 = {	#X-Hazil Sur
-	culture = yucateco
-	religion = qabantajik
-	holding = none
-}
-7520 = {	#Chun-Yah
-	culture = yucateco
-	religion = qabantajik
-	holding = none
-}
-7521 = {	#Nicolás Bravo
-	culture = yucateco
-	religion = qabantajik
-	holding = castle_holding
-}
-7522 = {	#Javier Rojo Gómez
-	culture = yucateco
-	religion = qabantajik
-	holding = city_holding
-}
-7523 = {	#Ingeniero Ricardo Payro Jene
-	culture = yucateco
-	religion = qabantajik
-	holding = church_holding
-}
-7524 = {	#Xpujil
-	culture = yucateco
-	religion = qabantajik
-	holding = none
-}
-7525 = {	#Caobas
-	culture = yucateco
-	religion = qabantajik
-	holding = none
-}
-7526 = {	#José María Morelos
-	culture = yucateco
-	religion = qabantajik
-	holding = castle_holding
-}
-7527 = {	#Becanchén
-	culture = yucateco
-	religion = qabantajik
-	holding = city_holding
-}
-7528 = {	#Ukúm
-	culture = yucateco
-	religion = qabantajik
-	holding = church_holding
-}
-7529 = {	#Miguel Alemán
-	culture = yucateco
-	religion = qabantajik
-	holding = none
-}
-7530 = {	#Ticul
-	culture = yucateco
-	religion = qabantajik
-	holding = castle_holding
-}
-7531 = {	#Tecax
-	culture = yucateco
-	religion = qabantajik
-	holding = city_holding
-}
-7532 = {	#Akil
-	culture = yucateco
-	religion = qabantajik
-	holding = church_holding
-}
-7533 = {	#Muna
-	culture = yucateco
-	religion = qabantajik
-	holding = none
-}
-7534 = {	#Kantemó
-	culture = yucateco
-	religion = qabantajik
-	holding = none
-}
-7535 = {	#Valladolid
-	culture = yucateco
-	religion = qabantajik
-	holding = castle_holding
-}
-7536 = {	#Chichén-Itzá
-	culture = yucateco
-	religion = qabantajik
-	holding = city_holding
-}
-7537 = {	#Chemax
-	culture = yucateco
-	religion = qabantajik
-	holding = church_holding
-}
-7538 = {	#Tixcacalcupul
-	culture = yucateco
-	religion = qabantajik
-	holding = none
-}
-7539 = {	#Peto
-	culture = yucateco
-	religion = qabantajik
-	holding = castle_holding
-}
-7540 = {	#Sotuta
-	culture = yucateco
-	religion = qabantajik
-	holding = city_holding
-}
-7541 = {	#Yaxcabá
-	culture = yucateco
-	religion = qabantajik
-	holding = church_holding
-}
-7542 = {	#del Carmen
-	culture = chontal
-	religion = neomayan
-	holding = castle_holding
-}
-7543 = {	#Palizada
-	culture = chontal
-	religion = neomayan
-	holding = city_holding
-}
-7544 = {	#El Aguacatal
-	culture = chontal
-	religion = neomayan
-	holding = church_holding
-}
-7545 = {	#El Juncal
-	culture = chontal
-	religion = neomayan
-	holding = none
-}
-7546 = {	#Escárcega
-	culture = yucateco
-	religion = qabantajik
-	holding = castle_holding
-}
-7547 = {	#Sabancuy
-	culture = yucateco
-	religion = qabantajik
-	holding = city_holding
-}
-7548 = {	#Chicbul
-	culture = yucateco
-	religion = qabantajik
-	holding = church_holding
-}
-7549 = {	#Nueva Rosita
-	culture = yucateco
-	religion = qabantajik
-	holding = none
-}
-7550 = {	#Candelaria
-	culture = lacandon
-	religion = qabantajik
-	holding = castle_holding
-}
-7551 = {	#Don Samuel
-	culture = lacandon
-	religion = qabantajik
-	holding = city_holding
-}
-7552 = {	#Benito Juárez Uno
-	culture = lacandon
-	religion = qabantajik
-	holding = church_holding
-}
-7553 = {	#Mamantel
-	culture = lacandon
-	religion = qabantajik
-	holding = none
-}
-7554 = {	#Tuxtla
+7457 = {	#Tuxtla
 	culture = zoque
 	religion = qabantajik
 	holding = castle_holding
 }
-7555 = {	#Ocozocoautla de Espinosa
+7458 = {	#Ocozocoautla de Espinosa
 	culture = zoque
 	religion = qabantajik
 	holding = city_holding
 }
-7556 = {	#Copainalá
+7459 = {	#Copainalá
 	culture = zoque
 	religion = qabantajik
 	holding = church_holding
 }
-7557 = {	#Acala
+7460 = {	#Acala
 	culture = zoque
 	religion = qabantajik
 	holding = none
 }
-7558 = {	#San Fernando
+7461 = {	#San Fernando
 	culture = zoque
 	religion = qabantajik
 	holding = none
 }
-7559 = {	#Raudales Malpaso
+7462 = {	#Raudales Malpaso
 	culture = zoque
 	religion = qabantajik
 	holding = none
 }
-7560 = {	#Tapachula
+7463 = {	#Tapachula
 	culture = chapin
 	religion = qabantajik
 	holding = castle_holding
 }
-7561 = {	#Huixtla
+7464 = {	#Huixtla
 	culture = chapin
 	religion = qabantajik
 	holding = city_holding
 }
-7562 = {	#Motozintla
+7465 = {	#Motozintla
 	culture = quichean
 	religion = qabantajik
 	holding = church_holding
 }
-7563 = {	#Escuintla
+7466 = {	#Escuintla
 	culture = chapin
 	religion = qabantajik
 	holding = none
 }
-7564 = {	#Mapastepec
+7467 = {	#Mapastepec
 	culture = chapin
 	religion = qabantajik
 	holding = none
 }
-7565 = {	#Tonalá
+7468 = {	#Tonalá
 	culture = chapin
 	religion = qabantajik
 	holding = castle_holding
 }
-7566 = {	#Arriaga
+7469 = {	#Arriaga
 	culture = chapin
 	religion = qabantajik
 	holding = city_holding
 }
-7567 = {	#Pijijiapan
+7470 = {	#Pijijiapan
 	culture = chapin
 	religion = qabantajik
 	holding = church_holding
 }
-7568 = {	#Villaflores
+7471 = {	#Villaflores
 	culture = zoque
 	religion = qabantajik
 	holding = castle_holding
 }
-7569 = {	#Jesús María Garza
+7472 = {	#Jesús María Garza
 	culture = zoque
 	religion = qabantajik
 	holding = city_holding
 }
-7570 = {	#El Parral
+7473 = {	#El Parral
 	culture = zoque
 	religion = qabantajik
 	holding = church_holding
 }
-7571 = {	#Dieciséis de Septiembre
+7474 = {	#Dieciséis de Septiembre
 	culture = zoque
 	religion = qabantajik
 	holding = none
 }
-7572 = {	#Chicomuselo
+7475 = {	#Chicomuselo
 	culture = cholano
 	religion = qabantajik
 	holding = castle_holding
 }
-7573 = {	#Jaltenango de la Paz
+7476 = {	#Jaltenango de la Paz
 	culture = cholano
 	religion = qabantajik
 	holding = city_holding
 }
-7574 = {	#El Ámbar
+7477 = {	#El Ámbar
 	culture = cholano
 	religion = qabantajik
 	holding = church_holding
 }
-7575 = {	#La Concordia
+7478 = {	#La Concordia
 	culture = cholano
 	religion = qabantajik
 	holding = none
 }
-7576 = {	#Cintalapa de Figueroa
+7479 = {	#Cintalapa de Figueroa
 	culture = zoque
 	religion = qabantajik
 	holding = castle_holding
 }
-7577 = {	#Villamorelos
+7480 = {	#Villamorelos
 	culture = zoque
 	religion = qabantajik
 	holding = city_holding
 }
-7578 = {	#San Cristóbal de las Casas
+7481 = {	#San Cristóbal de las Casas
 	culture = cholano
 	religion = qabantajik
 	holding = castle_holding
 }
-7579 = {	#Nachig
+7482 = {	#Nachig
 	culture = cholano
 	religion = qabantajik
 	holding = city_holding
 }
-7580 = {	#Simojovel de Allende
+7483 = {	#Simojovel de Allende
 	culture = cholano
 	religion = qabantajik
 	holding = church_holding
 }
-7581 = {	#Chanal
+7484 = {	#Chanal
 	culture = cholano
 	religion = qabantajik
 	holding = none
 }
-7582 = {	#Comitán
+7485 = {	#Comitán
 	culture = cholano
 	religion = qabantajik
 	holding = castle_holding
 }
-7583 = {	#Las Margaritas
+7486 = {	#Las Margaritas
 	culture = cholano
 	religion = qabantajik
 	holding = city_holding
 }
-7584 = {	#Teopisca
+7487 = {	#Teopisca
 	culture = cholano
 	religion = qabantajik
 	holding = church_holding
 }
-7585 = {	#Las Rosas
+7488 = {	#Las Rosas
 	culture = cholano
 	religion = qabantajik
 	holding = none
 }
-7586 = {	#Paso Hondo
+7489 = {	#Paso Hondo
 	culture = cholano
 	religion = qabantajik
 	holding = none
 }
-7587 = {	#Yajalón
+7490 = {	#Yajalón
 	culture = cholano
 	religion = qabantajik
 	holding = castle_holding
 }
-7588 = {	#El Limar
+7491 = {	#El Limar
 	culture = cholano
 	religion = qabantajik
 	holding = city_holding
 }
-7589 = {	#Chilón
+7492 = {	#Chilón
 	culture = cholano
 	religion = qabantajik
 	holding = church_holding
 }
-7590 = {	#Palenque
+7493 = {	#Palenque
 	culture = cholano
 	religion = qabantajik
 	holding = none
 }
-7591 = {	#Damasco
+7494 = {	#Damasco
 	culture = cholano
 	religion = qabantajik
 	holding = none
 }
-7592 = {	#Teapa
+7495 = {	#Teapa
 	culture = zoque
 	religion = neomayan
 	holding = castle_holding
 }
-7593 = {	#Bochil
+7496 = {	#Bochil
 	culture = zoque
 	religion = neomayan
 	holding = city_holding
 }
-7594 = {	#Ixtacomitán
+7497 = {	#Ixtacomitán
 	culture = zoque
 	religion = neomayan
 	holding = church_holding
 }
-7595 = {	#Ocotepec
+7498 = {	#Ocotepec
 	culture = zoque
 	religion = neomayan
 	holding = none
 }
-7596 = {	#Ocosingo
+7499 = {	#Ocosingo
 	culture = cholano
 	religion = qabantajik
 	holding = castle_holding
 }
-7597 = {	#Taniperla
+7500 = {	#Taniperla
 	culture = cholano
 	religion = qabantajik
 	holding = city_holding
 }
-7598 = {	#San Antonio los Montes
+7501 = {	#San Antonio los Montes
 	culture = cholano
 	religion = qabantajik
 	holding = church_holding
 }
-7599 = {	#Justo Sierra
+7502 = {	#Justo Sierra
 	culture = cholano
+	religion = qabantajik
+	holding = none
+}
+7503 = {	#Villahermosa
+	culture = chontal
+	religion = neomayan
+	holding = castle_holding
+}
+7504 = {	#Río de Teapa
+	culture = chontal
+	religion = neomayan
+	holding = city_holding
+}
+7505 = {	#Tacotalpa
+	culture = chontal
+	religion = neomayan
+	holding = church_holding
+}
+7506 = {	#Cárdenas
+	culture = chontal
+	religion = neomayan
+	holding = castle_holding
+}
+7507 = {	#Comalcalco
+	culture = chontal
+	religion = neomayan
+	holding = city_holding
+}
+7508 = {	#Huimanguillo
+	culture = chontal
+	religion = neomayan
+	holding = church_holding
+}
+7509 = {	#la Venta
+	culture = chontal
+	religion = neomayan
+	holding = none
+}
+7510 = {	#Poblado C-33 20 de Noviembre
+	culture = chontal
+	religion = neomayan
+	holding = none
+}
+7511 = {	#Macuspana
+	culture = chontal
+	religion = neomayan
+	holding = castle_holding
+}
+7512 = {	#Frontera
+	culture = chontal
+	religion = neomayan
+	holding = city_holding
+}
+7513 = {	#Jonuta
+	culture = chontal
+	religion = neomayan
+	holding = church_holding
+}
+7514 = {	#Mérida
+	culture = yucateco
+	religion = qabantajik
+	holding = castle_holding
+}
+7515 = {	#Kanasín
+	culture = yucateco
+	religion = qabantajik
+	holding = city_holding
+}
+7516 = {	#Tixkokob
+	culture = yucateco
+	religion = qabantajik
+	holding = church_holding
+}
+7517 = {	#Seyé
+	culture = yucateco
+	religion = qabantajik
+	holding = none
+}
+7518 = {	#Uman
+	culture = yucateco
+	religion = qabantajik
+	holding = castle_holding
+}
+7519 = {	#Hunucmá
+	culture = yucateco
+	religion = qabantajik
+	holding = city_holding
+}
+7520 = {	#Maxcanú
+	culture = yucateco
+	religion = qabantajik
+	holding = church_holding
+}
+7521 = {	#Cepeda
+	culture = yucateco
+	religion = qabantajik
+	holding = none
+}
+7522 = {	#Motul
+	culture = yucateco
+	religion = qabantajik
+	holding = castle_holding
+}
+7523 = {	#Izamal
+	culture = yucateco
+	religion = qabantajik
+	holding = city_holding
+}
+7524 = {	#Dzidzantun
+	culture = yucateco
+	religion = qabantajik
+	holding = church_holding
+}
+7525 = {	#Dzilam de Bravo
+	culture = yucateco
+	religion = qabantajik
+	holding = none
+}
+7526 = {	#Tizimín
+	culture = yucateco
+	religion = neomayan
+	holding = castle_holding
+}
+7527 = {	#Temozon
+	culture = yucateco
+	religion = neomayan
+	holding = city_holding
+}
+7528 = {	#Popolnah
+	culture = yucateco
+	religion = neomayan
+	holding = church_holding
+}
+7529 = {	#Dzonot Carretero
+	culture = yucateco
+	religion = neomayan
+	holding = none
+}
+7530 = {	#Espita
+	culture = yucateco
+	religion = qabantajik
+	holding = castle_holding
+}
+7531 = {	#Buctzotz
+	culture = yucateco
+	religion = qabantajik
+	holding = city_holding
+}
+7532 = {	#Panabá
+	culture = yucateco
+	religion = qabantajik
+	holding = church_holding
+}
+7533 = {	#Ticul
+	culture = yucateco
+	religion = qabantajik
+	holding = castle_holding
+}
+7534 = {	#Tecax
+	culture = yucateco
+	religion = qabantajik
+	holding = city_holding
+}
+7535 = {	#Akil
+	culture = yucateco
+	religion = qabantajik
+	holding = church_holding
+}
+7536 = {	#Muna
+	culture = yucateco
+	religion = qabantajik
+	holding = none
+}
+7537 = {	#Kantemó
+	culture = yucateco
+	religion = qabantajik
+	holding = none
+}
+7538 = {	#Valladolid
+	culture = yucateco
+	religion = qabantajik
+	holding = castle_holding
+}
+7539 = {	#Chichén-Itzá
+	culture = yucateco
+	religion = qabantajik
+	holding = city_holding
+}
+7540 = {	#Chemax
+	culture = yucateco
+	religion = qabantajik
+	holding = church_holding
+}
+7541 = {	#Tixcacalcupul
+	culture = yucateco
+	religion = qabantajik
+	holding = none
+}
+7542 = {	#Peto
+	culture = yucateco
+	religion = qabantajik
+	holding = castle_holding
+}
+7543 = {	#Sotuta
+	culture = yucateco
+	religion = qabantajik
+	holding = city_holding
+}
+7544 = {	#Yaxcabá
+	culture = yucateco
+	religion = qabantajik
+	holding = church_holding
+}
+7545 = {	#Cancún
+	culture = yucateco
+	religion = neomayan
+	holding = castle_holding
+}
+7546 = {	#Alfredo V. Bonfil
+	culture = yucateco
+	religion = neomayan
+	holding = city_holding
+}
+7547 = {	#Ignacio Zaragoza
+	culture = yucateco
+	religion = neomayan
+	holding = church_holding
+}
+7548 = {	#Kantunilkín
+	culture = yucateco
+	religion = neomayan
+	holding = none
+}
+7549 = {	#Isla Holbox
+	culture = yucateco
+	religion = neomayan
+	holding = none
+}
+7550 = {	#del Carmen
+	culture = yucateco
+	religion = neomayan
+	holding = castle_holding
+}
+7551 = {	#Tulum
+	culture = yucateco
+	religion = neomayan
+	holding = city_holding
+}
+7552 = {	#Puerto Aventuras
+	culture = yucateco
+	religion = neomayan
+	holding = church_holding
+}
+7553 = {	#Coba
+	culture = yucateco
+	religion = neomayan
+	holding = none
+}
+7554 = {	#Cozumel
+	culture = yucateco
+	religion = brethren
+	holding = castle_holding
+}
+7555 = {	#Chetumal
+	culture = yucateco
+	religion = qabantajik
+	holding = castle_holding
+}
+7556 = {	#San Pedro
+	culture = yucateco
+	religion = qabantajik
+	holding = city_holding
+}
+7557 = {	#Reforma
+	culture = yucateco
+	religion = qabantajik
+	holding = church_holding
+}
+7558 = {	#Maya Balam
+	culture = yucateco
+	religion = qabantajik
+	holding = none
+}
+7559 = {	#Mahahual
+	culture = yucateco
+	religion = qabantajik
+	holding = none
+}
+7560 = {	#Felipe Carrillo Puerto
+	culture = yucateco
+	religion = qabantajik
+	holding = castle_holding
+}
+7561 = {	#Tihosuco
+	culture = yucateco
+	religion = qabantajik
+	holding = city_holding
+}
+7562 = {	#X-pichil
+	culture = yucateco
+	religion = qabantajik
+	holding = church_holding
+}
+7563 = {	#X-Hazil Sur
+	culture = yucateco
+	religion = qabantajik
+	holding = none
+}
+7564 = {	#Chun-Yah
+	culture = yucateco
+	religion = qabantajik
+	holding = none
+}
+7565 = {	#Nicolás Bravo
+	culture = yucateco
+	religion = qabantajik
+	holding = castle_holding
+}
+7566 = {	#Javier Rojo Gómez
+	culture = yucateco
+	religion = qabantajik
+	holding = city_holding
+}
+7567 = {	#Ingeniero Ricardo Payro Jene
+	culture = yucateco
+	religion = qabantajik
+	holding = church_holding
+}
+7568 = {	#Xpujil
+	culture = yucateco
+	religion = qabantajik
+	holding = none
+}
+7569 = {	#Caobas
+	culture = yucateco
+	religion = qabantajik
+	holding = none
+}
+7570 = {	#José María Morelos
+	culture = yucateco
+	religion = qabantajik
+	holding = castle_holding
+}
+7571 = {	#Becanchén
+	culture = yucateco
+	religion = qabantajik
+	holding = city_holding
+}
+7572 = {	#Ukúm
+	culture = yucateco
+	religion = qabantajik
+	holding = church_holding
+}
+7573 = {	#Miguel Alemán
+	culture = yucateco
+	religion = qabantajik
+	holding = none
+}
+7574 = {	#Campeche
+	culture = yucateco
+	religion = qabantajik
+	holding = castle_holding
+}
+7575 = {	#Champotón
+	culture = yucateco
+	religion = qabantajik
+	holding = city_holding
+}
+7576 = {	#Seybaplaya
+	culture = yucateco
+	religion = qabantajik
+	holding = church_holding
+}
+7577 = {	#Carrillo Puerto
+	culture = yucateco
+	religion = qabantajik
+	holding = none
+}
+7578 = {	#Los Laureles
+	culture = yucateco
+	religion = qabantajik
+	holding = none
+}
+7579 = {	#Calkiní
+	culture = yucateco
+	religion = qabantajik
+	holding = castle_holding
+}
+7580 = {	#Hecelchakán
+	culture = yucateco
+	religion = qabantajik
+	holding = city_holding
+}
+7581 = {	#Pocboc
+	culture = yucateco
+	religion = qabantajik
+	holding = church_holding
+}
+7582 = {	#Hopelchén
+	culture = yucateco
+	religion = qabantajik
+	holding = castle_holding
+}
+7583 = {	#Iturbide
+	culture = yucateco
+	religion = qabantajik
+	holding = city_holding
+}
+7584 = {	#Dzibalchén
+	culture = yucateco
+	religion = qabantajik
+	holding = church_holding
+}
+7585 = {	#Constitución
+	culture = yucateco
+	religion = qabantajik
+	holding = castle_holding
+}
+7586 = {	#Cinco de Febrero
+	culture = yucateco
+	religion = qabantajik
+	holding = city_holding
+}
+7587 = {	#Nuevo Conhuás
+	culture = yucateco
+	religion = qabantajik
+	holding = church_holding
+}
+7588 = {	#del Carmen
+	culture = chontal
+	religion = neomayan
+	holding = castle_holding
+}
+7589 = {	#Palizada
+	culture = chontal
+	religion = neomayan
+	holding = city_holding
+}
+7590 = {	#El Aguacatal
+	culture = chontal
+	religion = neomayan
+	holding = church_holding
+}
+7591 = {	#El Juncal
+	culture = chontal
+	religion = neomayan
+	holding = none
+}
+7592 = {	#Escárcega
+	culture = yucateco
+	religion = qabantajik
+	holding = castle_holding
+}
+7593 = {	#Sabancuy
+	culture = yucateco
+	religion = qabantajik
+	holding = city_holding
+}
+7594 = {	#Chicbul
+	culture = yucateco
+	religion = qabantajik
+	holding = church_holding
+}
+7595 = {	#Nueva Rosita
+	culture = yucateco
+	religion = qabantajik
+	holding = none
+}
+7596 = {	#Candelaria
+	culture = lacandon
+	religion = qabantajik
+	holding = castle_holding
+}
+7597 = {	#Don Samuel
+	culture = lacandon
+	religion = qabantajik
+	holding = city_holding
+}
+7598 = {	#Benito Juárez Uno
+	culture = lacandon
+	religion = qabantajik
+	holding = church_holding
+}
+7599 = {	#Mamantel
+	culture = lacandon
 	religion = qabantajik
 	holding = none
 }
@@ -40755,12 +40755,12 @@
 	holding = church_holding
 }
 8152 = {	#The Dalles
-	culture = inlander
+	culture = tinainu
 	religion = gaian
 	holding = castle_holding
 }
 8153 = {	#Hood River
-	culture = inlander
+	culture = tinainu
 	religion = gaian
 	holding = city_holding
 }
@@ -41265,17 +41265,17 @@
 	holding = city_holding
 }
 8254 = {	#Yakima
-	culture = inlander
+	culture = yakama
 	religion = gaian
 	holding = castle_holding
 }
 8255 = {	#Toppenish
-	culture = inlander
+	culture = yakama
 	religion = gaian
 	holding = city_holding
 }
 8256 = {	#Ahtanum
-	culture = inlander
+	culture = yakama
 	religion = gaian
 	holding = church_holding
 }
@@ -41305,32 +41305,32 @@
 	holding = church_holding
 }
 8262 = {	#Sunnyside
-	culture = inlander
+	culture = yakama
 	religion = gaian
 	holding = castle_holding
 }
 8263 = {	#Terrace Heights
-	culture = inlander
+	culture = yakama
 	religion = gaian
 	holding = city_holding
 }
 8264 = {	#Kittitas
-	culture = inlander
+	culture = yakama
 	religion = gaian
 	holding = church_holding
 }
 8265 = {	#Goldendale
-	culture = inlander
+	culture = yakama
 	religion = gaian
 	holding = castle_holding
 }
 8266 = {	#Trout Lake
-	culture = inlander
+	culture = yakama
 	religion = gaian
 	holding = city_holding
 }
 8267 = {	#Klickitat
-	culture = inlander
+	culture = yakama
 	religion = gaian
 	holding = church_holding
 }
@@ -41380,22 +41380,22 @@
 	holding = church_holding
 }
 8277 = {	#Kalispell
-	culture = inlander
+	culture = ktunaxa
 	religion = gaian
 	holding = castle_holding
 }
 8278 = {	#Polson
-	culture = inlander
+	culture = ktunaxa
 	religion = gaian
 	holding = city_holding
 }
 8279 = {	#Hungry Horse
-	culture = inlander
+	culture = ktunaxa
 	religion = gaian
 	holding = church_holding
 }
 8280 = {	#Marion
-	culture = inlander
+	culture = ktunaxa
 	religion = gaian
 	holding = none
 }
@@ -41435,17 +41435,17 @@
 	holding = none
 }
 8288 = {	#Bend
-	culture = inlander
+	culture = tinainu
 	religion = gaian
 	holding = castle_holding
 }
 8289 = {	#Warm Springs
-	culture = inlander
+	culture = tinainu
 	religion = gaian
 	holding = city_holding
 }
 8290 = {	#no_name_207_0_210
-	culture = inlander
+	culture = tinainu
 	religion = gaian
 	holding = church_holding
 }
@@ -41580,42 +41580,42 @@
 	holding = church_holding
 }
 8317 = {	#Post Falls
-	culture = inlander
+	culture = okanagan
 	religion = gaian
 	holding = castle_holding
 }
 8318 = {	#Colville
-	culture = inlander
+	culture = okanagan
 	religion = gaian
 	holding = city_holding
 }
 8319 = {	#Chewelah
-	culture = inlander
+	culture = okanagan
 	religion = gaian
 	holding = church_holding
 }
 8320 = {	#Newport
-	culture = inlander
+	culture = okanagan
 	religion = gaian
 	holding = none
 }
 8321 = {	#Omak
-	culture = inlander
+	culture = okanagan
 	religion = gaian
 	holding = castle_holding
 }
 8322 = {	#North Omak
-	culture = inlander
+	culture = okanagan
 	religion = gaian
 	holding = city_holding
 }
 8323 = {	#Nespelem
-	culture = inlander
+	culture = okanagan
 	religion = gaian
 	holding = castle_holding
 }
 8324 = {	#Inchelium
-	culture = inlander
+	culture = okanagan
 	religion = gaian
 	holding = city_holding
 }
@@ -41710,22 +41710,22 @@
 	holding = none
 }
 8343 = {	#Kamloops
-	culture = canuck
+	culture = inlander
 	religion = gaian
 	holding = castle_holding
 }
 8344 = {	#Logan Lake
-	culture = canuck
+	culture = inlander
 	religion = gaian
 	holding = city_holding
 }
 8345 = {	#Chase
-	culture = canuck
+	culture = inlander
 	religion = gaian
 	holding = church_holding
 }
 8346 = {	#Vidette
-	culture = canuck
+	culture = inlander
 	religion = gaian
 	holding = none
 }
@@ -41735,22 +41735,22 @@
 	holding = castle_holding
 }
 8348 = {	#Kettle Valley
-	culture = inlander
+	culture = okanagan
 	religion = gaian
 	holding = city_holding
 }
 8349 = {	#Big White Ski
-	culture = inlander
+	culture = okanagan
 	religion = gaian
 	holding = church_holding
 }
 8350 = {	#Merritt
-	culture = canuck
+	culture = inlander
 	religion = gaian
 	holding = castle_holding
 }
 8351 = {	#Westwold
-	culture = canuck
+	culture = inlander
 	religion = gaian
 	holding = city_holding
 }
@@ -41855,7 +41855,7 @@
 	holding = city_holding
 }
 8372 = {	#Mica Creek
-	culture = ktunaxa
+	culture = shuswap
 	religion = gaian
 	holding = church_holding
 }
@@ -41995,22 +41995,22 @@
 	holding = church_holding
 }
 8400 = {	#Ashcroft
-	culture = canuck
+	culture = shuswap
 	religion = gaian
 	holding = castle_holding
 }
 8401 = {	#Lillooet
-	culture = canuck
+	culture = shuswap
 	religion = gaian
 	holding = city_holding
 }
 8402 = {	#Kelly Lake
-	culture = canuck
+	culture = shuswap
 	religion = gaian
 	holding = church_holding
 }
 8403 = {	#Loon Lake
-	culture = canuck
+	culture = shuswap
 	religion = gaian
 	holding = none
 }
@@ -42045,17 +42045,17 @@
 	holding = church_holding
 }
 8410 = {	#Revelstoke
-	culture = shuswap
+	culture = doukhobor
 	religion = gaian
 	holding = castle_holding
 }
 8411 = {	#Nakusp
-	culture = shuswap
+	culture = doukhobor
 	religion = gaian
 	holding = city_holding
 }
 8412 = {	#Edgewood
-	culture = shuswap
+	culture = doukhobor
 	religion = gaian
 	holding = church_holding
 }
@@ -45229,638 +45229,638 @@
 	religion = qabantajik
 	holding = none
 }
-9047 = {	#Managua
-	culture = nica
-	religion = falling_star
-	holding = castle_holding
-}
-9048 = {	#Masaya
-	culture = nica
-	religion = falling_star
-	holding = city_holding
-}
-9049 = {	#Sandino
-	culture = nica
-	religion = falling_star
-	holding = church_holding
-}
-9050 = {	#Diriamba
-	culture = nica
-	religion = falling_star
-	holding = none
-}
-9051 = {	#Tipitapa
-	culture = nica
-	religion = falling_star
-	holding = none
-}
-9052 = {	#Chinandega
-	culture = nica
-	religion = falling_star
-	holding = castle_holding
-}
-9053 = {	#León
-	culture = nica
-	religion = falling_star
-	holding = city_holding
-}
-9054 = {	#El Sauce
-	culture = nica
-	religion = falling_star
-	holding = church_holding
-}
-9055 = {	#Somotillo
-	culture = nica
-	religion = falling_star
-	holding = none
-}
-9056 = {	#Larreynaga
-	culture = nica
-	religion = falling_star
-	holding = none
-}
-9057 = {	#Rivas
-	culture = nica
-	religion = falling_star
-	holding = castle_holding
-}
-9058 = {	#San Juan del Sur
-	culture = nica
-	religion = falling_star
-	holding = city_holding
-}
-9059 = {	#Moyogalpa
-	culture = nica
-	religion = falling_star
-	holding = church_holding
-}
-9060 = {	#San José
-	culture = tico
-	religion = falling_star
-	holding = castle_holding
-}
-9061 = {	#Paraíso
-	culture = tico
-	religion = falling_star
-	holding = city_holding
-}
-9062 = {	#Turrialba
-	culture = tico
-	religion = falling_star
-	holding = church_holding
-}
-9063 = {	#Grecia
-	culture = tico
-	religion = falling_star
-	holding = castle_holding
-}
-9064 = {	#Desamparados
-	culture = tico
-	religion = falling_star
-	holding = city_holding
-}
-9065 = {	#Quesada
-	culture = tico
-	religion = falling_star
-	holding = church_holding
-}
-9066 = {	#Puntarenas
-	culture = tico
-	religion = falling_star
-	holding = castle_holding
-}
-9067 = {	#Liberia
-	culture = tico
-	religion = falling_star
-	holding = city_holding
-}
-9068 = {	#Cañas
-	culture = tico
-	religion = falling_star
-	holding = church_holding
-}
-9069 = {	#La Cruz
-	culture = tico
-	religion = falling_star
-	holding = none
-}
-9070 = {	#San Rafael Abajo
-	culture = tico
-	religion = falling_star
-	holding = castle_holding
-}
-9071 = {	#San Isidro
-	culture = tico
-	religion = falling_star
-	holding = city_holding
-}
-9072 = {	#Quepos
-	culture = tico
-	religion = falling_star
-	holding = church_holding
-}
-9073 = {	#Limón
-	culture = tico
-	religion = falling_star
-	holding = castle_holding
-}
-9074 = {	#Guápiles
-	culture = tico
-	religion = falling_star
-	holding = city_holding
-}
-9075 = {	#Siquirres
-	culture = tico
-	religion = falling_star
-	holding = church_holding
-}
-9076 = {	#San José
-	culture = tico
-	religion = falling_star
-	holding = castle_holding
-}
-9077 = {	#La Fortuna
-	culture = tico
-	religion = falling_star
-	holding = city_holding
-}
-9078 = {	#Los Chiles
-	culture = tico
-	religion = falling_star
-	holding = church_holding
-}
-9079 = {	#Corredor
-	culture = tico
-	religion = patria_grande
-	holding = castle_holding
-}
-9080 = {	#Buenos Aires
-	culture = tico
-	religion = patria_grande
-	holding = city_holding
-}
-9081 = {	#Sierpe
-	culture = tico
-	religion = patria_grande
-	holding = church_holding
-}
-9082 = {	#Nicoya
-	culture = tico
-	religion = falling_star
-	holding = castle_holding
-}
-9083 = {	#Santa Cruz
-	culture = tico
-	religion = falling_star
-	holding = city_holding
-}
-9084 = {	#Cóbano
-	culture = tico
-	religion = falling_star
-	holding = church_holding
-}
-9085 = {	#Tegucigalpa
+9047 = {	#Tegucigalpa
 	culture = catracho
 	religion = falling_star
 	holding = castle_holding
 }
-9086 = {	#Talanga
+9048 = {	#Talanga
 	culture = catracho
 	religion = falling_star
 	holding = city_holding
 }
-9087 = {	#de San Francisco
+9049 = {	#de San Francisco
 	culture = catracho
 	religion = falling_star
 	holding = church_holding
 }
-9088 = {	#El Porvenir
+9050 = {	#El Porvenir
 	culture = catracho
 	religion = falling_star
 	holding = none
 }
-9089 = {	#Guaimaca
+9051 = {	#Guaimaca
 	culture = catracho
 	religion = falling_star
 	holding = none
 }
-9090 = {	#Comayagua
+9052 = {	#Comayagua
 	culture = catracho
 	religion = falling_star
 	holding = castle_holding
 }
-9091 = {	#Siguatepeque
+9053 = {	#Siguatepeque
 	culture = catracho
 	religion = falling_star
 	holding = city_holding
 }
-9092 = {	#La Paz
+9054 = {	#La Paz
 	culture = catracho
 	religion = falling_star
 	holding = church_holding
 }
-9093 = {	#Minas de Oro
+9055 = {	#Minas de Oro
 	culture = catracho
 	religion = falling_star
 	holding = none
 }
-9094 = {	#Marcala
+9056 = {	#Marcala
 	culture = catracho
 	religion = falling_star
 	holding = none
 }
-9095 = {	#Santa Rosa de Copán
+9057 = {	#Santa Rosa de Copán
 	culture = catracho
 	religion = qabantajik
 	holding = castle_holding
 }
-9096 = {	#Copán
+9058 = {	#Copán
 	culture = catracho
 	religion = qabantajik
 	holding = city_holding
 }
-9097 = {	#Gracias
+9059 = {	#Gracias
 	culture = catracho
 	religion = qabantajik
 	holding = church_holding
 }
-9098 = {	#Santa Bárbara
+9060 = {	#Santa Bárbara
 	culture = catracho
 	religion = qabantajik
 	holding = castle_holding
 }
-9099 = {	#Tras Cerros
+9061 = {	#Tras Cerros
 	culture = catracho
 	religion = qabantajik
 	holding = city_holding
 }
-9100 = {	#San Luis
+9062 = {	#San Luis
 	culture = catracho
 	religion = qabantajik
 	holding = church_holding
 }
-9101 = {	#Danlí
+9063 = {	#Danlí
 	culture = catracho
 	religion = falling_star
 	holding = castle_holding
 }
-9102 = {	#Teupasenti
+9064 = {	#Teupasenti
 	culture = catracho
 	religion = falling_star
 	holding = city_holding
 }
-9103 = {	#Güinope
+9065 = {	#Güinope
 	culture = catracho
 	religion = falling_star
 	holding = church_holding
 }
-9104 = {	#Las
+9066 = {	#Las
 	culture = catracho
 	religion = falling_star
 	holding = none
 }
-9105 = {	#Nueva Ocotepeque
+9067 = {	#Nueva Ocotepeque
 	culture = catracho
 	religion = falling_star
 	holding = castle_holding
 }
-9106 = {	#Intibucá
+9068 = {	#Intibucá
 	culture = catracho
 	religion = falling_star
 	holding = city_holding
 }
-9107 = {	#Erandique
+9069 = {	#Erandique
 	culture = catracho
 	religion = falling_star
 	holding = church_holding
 }
-9108 = {	#Cololaca
+9070 = {	#Cololaca
 	culture = catracho
 	religion = falling_star
 	holding = none
 }
-9109 = {	#Juticalpa
+9071 = {	#Juticalpa
 	culture = catracho
 	religion = falling_star
 	holding = castle_holding
 }
-9110 = {	#Campamento
+9072 = {	#Campamento
 	culture = catracho
 	religion = falling_star
 	holding = city_holding
 }
-9111 = {	#Dulce Nombre de Culmí
+9073 = {	#Dulce Nombre de Culmí
 	culture = catracho
 	religion = falling_star
 	holding = church_holding
 }
-9112 = {	#Nueva Choluteca
+9074 = {	#Nueva Choluteca
 	culture = catracho
 	religion = falling_star
 	holding = none
 }
-9113 = {	#San Francisco de la Paz
+9075 = {	#San Francisco de la Paz
 	culture = catracho
 	religion = falling_star
 	holding = castle_holding
 }
-9114 = {	#Gualaco
+9076 = {	#Gualaco
 	culture = catracho
 	religion = falling_star
 	holding = city_holding
 }
-9115 = {	#Salamá
+9077 = {	#Salamá
 	culture = catracho
 	religion = falling_star
 	holding = church_holding
 }
-9116 = {	#San Esteban
+9078 = {	#San Esteban
 	culture = catracho
 	religion = falling_star
 	holding = none
 }
-9117 = {	#San Pedro Sula
+9079 = {	#San Pedro Sula
 	culture = catracho
 	religion = qabantajik
 	holding = castle_holding
 }
-9118 = {	#Choloma
+9080 = {	#Choloma
 	culture = catracho
 	religion = qabantajik
 	holding = city_holding
 }
-9119 = {	#La Lima
+9081 = {	#La Lima
 	culture = catracho
 	religion = qabantajik
 	holding = church_holding
 }
-9120 = {	#Santa Cruz de Yojoa
+9082 = {	#Santa Cruz de Yojoa
 	culture = catracho
 	religion = qabantajik
 	holding = none
 }
-9121 = {	#La Ceiba
+9083 = {	#La Ceiba
 	culture = garinagu
 	religion = qabantajik
 	holding = castle_holding
 }
-9122 = {	#Tela
+9084 = {	#Tela
 	culture = garinagu
 	religion = qabantajik
 	holding = city_holding
 }
-9123 = {	#San Juan
+9085 = {	#San Juan
 	culture = garinagu
 	religion = qabantajik
 	holding = church_holding
 }
-9124 = {	#Morazán
+9086 = {	#Morazán
 	culture = catracho
 	religion = falling_star
 	holding = castle_holding
 }
-9125 = {	#Olanchito
+9087 = {	#Olanchito
 	culture = catracho
 	religion = falling_star
 	holding = city_holding
 }
-9126 = {	#Santa Rita
+9088 = {	#Santa Rita
 	culture = catracho
 	religion = falling_star
 	holding = church_holding
 }
-9127 = {	#Yoro
+9089 = {	#Yoro
 	culture = catracho
 	religion = falling_star
 	holding = none
 }
-9128 = {	#Jocón
+9090 = {	#Jocón
 	culture = catracho
 	religion = falling_star
 	holding = none
 }
-9129 = {	#Tocoa
+9091 = {	#Tocoa
 	culture = garinagu
 	religion = falling_star
 	holding = castle_holding
 }
-9130 = {	#Bonito Oriental
+9092 = {	#Bonito Oriental
 	culture = garinagu
 	religion = falling_star
 	holding = city_holding
 }
-9131 = {	#Cusuna
+9093 = {	#Cusuna
 	culture = garinagu
 	religion = falling_star
 	holding = church_holding
 }
-9132 = {	#Baltilú
+9094 = {	#Baltilú
 	culture = garinagu
 	religion = falling_star
 	holding = none
 }
-9133 = {	#Coxen Hole
+9095 = {	#Coxen Hole
 	culture = garinagu
 	religion = brethren
 	holding = castle_holding
 }
-9134 = {	#San Salvador
+9096 = {	#San Salvador
 	culture = guanaco
 	religion = falling_star
 	holding = castle_holding
 }
-9135 = {	#Santa Tecla
+9097 = {	#Santa Tecla
 	culture = guanaco
 	religion = falling_star
 	holding = city_holding
 }
-9136 = {	#Zacatecoluca
+9098 = {	#Zacatecoluca
 	culture = guanaco
 	religion = falling_star
 	holding = church_holding
 }
-9137 = {	#San Vicente
+9099 = {	#San Vicente
 	culture = guanaco
 	religion = falling_star
 	holding = none
 }
-9138 = {	#La Libertad
+9100 = {	#La Libertad
 	culture = guanaco
 	religion = falling_star
 	holding = none
 }
-9139 = {	#Santa Ana
+9101 = {	#Santa Ana
 	culture = guanaco
 	religion = falling_star
 	holding = castle_holding
 }
-9140 = {	#Sonsonate
+9102 = {	#Sonsonate
 	culture = guanaco
 	religion = falling_star
 	holding = city_holding
 }
-9141 = {	#Ahuachapán
+9103 = {	#Ahuachapán
 	culture = guanaco
 	religion = falling_star
 	holding = church_holding
 }
-9142 = {	#Metapán
+9104 = {	#Metapán
 	culture = guanaco
 	religion = falling_star
 	holding = none
 }
-9143 = {	#San Miguel
+9105 = {	#San Miguel
 	culture = guanaco
 	religion = falling_star
 	holding = castle_holding
 }
-9144 = {	#Usulután
+9106 = {	#Usulután
 	culture = guanaco
 	religion = falling_star
 	holding = city_holding
 }
-9145 = {	#Santiago de María
+9107 = {	#Santiago de María
 	culture = guanaco
 	religion = falling_star
 	holding = church_holding
 }
-9146 = {	#La Unión
+9108 = {	#La Unión
 	culture = guanaco
 	religion = falling_star
 	holding = none
 }
-9147 = {	#Chirilagua
+9109 = {	#Chirilagua
 	culture = guanaco
 	religion = falling_star
 	holding = none
 }
-9148 = {	#Choluteca
+9110 = {	#Choluteca
 	culture = catracho
 	religion = falling_star
 	holding = castle_holding
 }
-9149 = {	#San Lorenzo
+9111 = {	#San Lorenzo
 	culture = catracho
 	religion = falling_star
 	holding = city_holding
 }
-9150 = {	#Monjarás
+9112 = {	#Monjarás
 	culture = catracho
 	religion = falling_star
 	holding = church_holding
 }
-9151 = {	#San Marcos de Colón
+9113 = {	#San Marcos de Colón
 	culture = catracho
 	religion = falling_star
 	holding = none
 }
-9152 = {	#Cojutepeque
+9114 = {	#Cojutepeque
 	culture = guanaco
 	religion = falling_star
 	holding = castle_holding
 }
-9153 = {	#Sensuntepeque
+9115 = {	#Sensuntepeque
 	culture = guanaco
 	religion = falling_star
 	holding = city_holding
 }
-9154 = {	#Chalatenango
+9116 = {	#Chalatenango
 	culture = guanaco
 	religion = falling_star
 	holding = church_holding
 }
-9155 = {	#Nueva Concepción
+9117 = {	#Nueva Concepción
 	culture = guanaco
 	religion = falling_star
 	holding = none
 }
-9156 = {	#San Francisco
+9118 = {	#San Francisco
 	culture = guanaco
 	religion = falling_star
 	holding = castle_holding
 }
-9157 = {	#Santa Rosa de Lima
+9119 = {	#Santa Rosa de Lima
 	culture = guanaco
 	religion = falling_star
 	holding = city_holding
 }
-9158 = {	#Barrios
+9120 = {	#Barrios
 	culture = guanaco
 	religion = falling_star
 	holding = church_holding
 }
-9159 = {	#Estelí
+9121 = {	#Managua
 	culture = nica
 	religion = falling_star
 	holding = castle_holding
 }
-9160 = {	#Jalapa
+9122 = {	#Masaya
 	culture = nica
 	religion = falling_star
 	holding = city_holding
 }
-9161 = {	#Somoto
+9123 = {	#Sandino
 	culture = nica
 	religion = falling_star
 	holding = church_holding
 }
-9162 = {	#Ocotal
+9124 = {	#Diriamba
 	culture = nica
 	religion = falling_star
 	holding = none
 }
-9163 = {	#Matagalpa
+9125 = {	#Tipitapa
+	culture = nica
+	religion = falling_star
+	holding = none
+}
+9126 = {	#Chinandega
 	culture = nica
 	religion = falling_star
 	holding = castle_holding
 }
-9164 = {	#Boaco
+9127 = {	#León
 	culture = nica
 	religion = falling_star
 	holding = city_holding
 }
-9165 = {	#Río Blanco
+9128 = {	#El Sauce
 	culture = nica
 	religion = falling_star
 	holding = church_holding
 }
-9166 = {	#Camoapa
+9129 = {	#Somotillo
 	culture = nica
 	religion = falling_star
 	holding = none
 }
-9167 = {	#Muy Muy
+9130 = {	#Larreynaga
 	culture = nica
 	religion = falling_star
 	holding = none
 }
-9168 = {	#Juigalpa
+9131 = {	#Rivas
 	culture = nica
 	religion = falling_star
 	holding = castle_holding
 }
-9169 = {	#Santo Tomás
+9132 = {	#San Juan del Sur
 	culture = nica
 	religion = falling_star
 	holding = city_holding
 }
-9170 = {	#Acoyapa
+9133 = {	#Moyogalpa
 	culture = nica
 	religion = falling_star
 	holding = church_holding
 }
-9171 = {	#Jinotega
+9134 = {	#Estelí
 	culture = nica
 	religion = falling_star
 	holding = castle_holding
 }
-9172 = {	#San José de Bocay
+9135 = {	#Jalapa
 	culture = nica
 	religion = falling_star
 	holding = city_holding
 }
-9173 = {	#Amaka
+9136 = {	#Somoto
 	culture = nica
+	religion = falling_star
+	holding = church_holding
+}
+9137 = {	#Ocotal
+	culture = nica
+	religion = falling_star
+	holding = none
+}
+9138 = {	#Matagalpa
+	culture = nica
+	religion = falling_star
+	holding = castle_holding
+}
+9139 = {	#Boaco
+	culture = nica
+	religion = falling_star
+	holding = city_holding
+}
+9140 = {	#Río Blanco
+	culture = nica
+	religion = falling_star
+	holding = church_holding
+}
+9141 = {	#Camoapa
+	culture = nica
+	religion = falling_star
+	holding = none
+}
+9142 = {	#Muy Muy
+	culture = nica
+	religion = falling_star
+	holding = none
+}
+9143 = {	#Juigalpa
+	culture = nica
+	religion = falling_star
+	holding = castle_holding
+}
+9144 = {	#Santo Tomás
+	culture = nica
+	religion = falling_star
+	holding = city_holding
+}
+9145 = {	#Acoyapa
+	culture = nica
+	religion = falling_star
+	holding = church_holding
+}
+9146 = {	#Jinotega
+	culture = nica
+	religion = falling_star
+	holding = castle_holding
+}
+9147 = {	#San José de Bocay
+	culture = nica
+	religion = falling_star
+	holding = city_holding
+}
+9148 = {	#Amaka
+	culture = nica
+	religion = falling_star
+	holding = church_holding
+}
+9149 = {	#San José
+	culture = tico
+	religion = falling_star
+	holding = castle_holding
+}
+9150 = {	#Paraíso
+	culture = tico
+	religion = falling_star
+	holding = city_holding
+}
+9151 = {	#Turrialba
+	culture = tico
+	religion = falling_star
+	holding = church_holding
+}
+9152 = {	#Grecia
+	culture = tico
+	religion = falling_star
+	holding = castle_holding
+}
+9153 = {	#Desamparados
+	culture = tico
+	religion = falling_star
+	holding = city_holding
+}
+9154 = {	#Quesada
+	culture = tico
+	religion = falling_star
+	holding = church_holding
+}
+9155 = {	#Puntarenas
+	culture = tico
+	religion = falling_star
+	holding = castle_holding
+}
+9156 = {	#Liberia
+	culture = tico
+	religion = falling_star
+	holding = city_holding
+}
+9157 = {	#Cañas
+	culture = tico
+	religion = falling_star
+	holding = church_holding
+}
+9158 = {	#La Cruz
+	culture = tico
+	religion = falling_star
+	holding = none
+}
+9159 = {	#San Rafael Abajo
+	culture = tico
+	religion = falling_star
+	holding = castle_holding
+}
+9160 = {	#San Isidro
+	culture = tico
+	religion = falling_star
+	holding = city_holding
+}
+9161 = {	#Quepos
+	culture = tico
+	religion = falling_star
+	holding = church_holding
+}
+9162 = {	#Limón
+	culture = tico
+	religion = falling_star
+	holding = castle_holding
+}
+9163 = {	#Guápiles
+	culture = tico
+	religion = falling_star
+	holding = city_holding
+}
+9164 = {	#Siquirres
+	culture = tico
+	religion = falling_star
+	holding = church_holding
+}
+9165 = {	#San José
+	culture = tico
+	religion = falling_star
+	holding = castle_holding
+}
+9166 = {	#La Fortuna
+	culture = tico
+	religion = falling_star
+	holding = city_holding
+}
+9167 = {	#Los Chiles
+	culture = tico
+	religion = falling_star
+	holding = church_holding
+}
+9168 = {	#Corredor
+	culture = tico
+	religion = patria_grande
+	holding = castle_holding
+}
+9169 = {	#Buenos Aires
+	culture = tico
+	religion = patria_grande
+	holding = city_holding
+}
+9170 = {	#Sierpe
+	culture = tico
+	religion = patria_grande
+	holding = church_holding
+}
+9171 = {	#Nicoya
+	culture = tico
+	religion = falling_star
+	holding = castle_holding
+}
+9172 = {	#Santa Cruz
+	culture = tico
+	religion = falling_star
+	holding = city_holding
+}
+9173 = {	#Cóbano
+	culture = tico
 	religion = falling_star
 	holding = church_holding
 }
