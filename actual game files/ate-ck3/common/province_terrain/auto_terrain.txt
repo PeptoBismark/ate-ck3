@@ -9877,27 +9877,27 @@
 #d_panama - Panamá
 #c_pa_08_panam_ - Panamá
 7039=plains # b_pa_08_panam_ - Panamá
-#c_pa_04_col_n - Colón
-7040=jungle # b_pa_04_col_n - Colón
-7041=jungle # b_pa_04_puerto_escondido - Puerto Escondido
-7042=jungle # b_pa_04_portobelo - Portobelo
-7043=jungle # b_pa_04_cocl_del_norte - Coclé del Norte
-#c_pa_08_corregimiento_chepo - Corregimiento Chepo
-7044=hills # b_pa_08_chepo - Chepo
-7045=jungle # b_pa_08_san_miguel - San Miguel
-#c_pa_09_nargana - Nargana
-7046=mountains # b_pa_09_ustupo - Ustupo
-7047=jungle # b_pa_11_uni_n_choc_ - Unión Chocó
-7048=hills # b_pa_09_nargan_ - Narganá
-#c_pa_05_meteti - Meteti
-7049=jungle # b_pa_05_metet_ - Metetí
-7050=jungle # b_pa_05_santa_f_ - Santa Fé
-7051=mountains # b_pa_05_jaqu_ - Jaqué
-7052=jungle # b_pa_05_yaviza - Yaviza
-#d_cocle - Coclé
 #c_pa_13_arraij_n - Arraiján
-7053=hills # b_pa_13_la_chorrera - La Chorrera
-7054=jungle # b_pa_13_arraij_n - Arraiján
+7040=hills # b_pa_13_la_chorrera - La Chorrera
+7041=jungle # b_pa_13_arraij_n - Arraiján
+#c_pa_04_col_n - Colón
+7042=jungle # b_pa_04_col_n - Colón
+7043=jungle # b_pa_04_puerto_escondido - Puerto Escondido
+7044=jungle # b_pa_04_portobelo - Portobelo
+7045=jungle # b_pa_04_cocl_del_norte - Coclé del Norte
+#c_pa_08_corregimiento_chepo - Corregimiento Chepo
+7046=hills # b_pa_08_chepo - Chepo
+7047=jungle # b_pa_08_san_miguel - San Miguel
+#c_pa_09_nargana - Nargana
+7048=mountains # b_pa_09_ustupo - Ustupo
+7049=jungle # b_pa_11_uni_n_choc_ - Unión Chocó
+7050=hills # b_pa_09_nargan_ - Narganá
+#c_pa_05_meteti - Meteti
+7051=jungle # b_pa_05_metet_ - Metetí
+7052=jungle # b_pa_05_santa_f_ - Santa Fé
+7053=mountains # b_pa_05_jaqu_ - Jaqué
+7054=jungle # b_pa_05_yaviza - Yaviza
+#d_cocle - Coclé
 #c_pa_03_corregimiento_penonom_ - Corregimiento Penonomé
 7055=plains # b_pa_03_penonom_ - Penonomé
 7056=hills # b_pa_03_nat_ - Natá
@@ -9915,23 +9915,23 @@
 7066=hills # b_pa_10_el_picador - El Picador
 7067=jungle # b_pa_10_la_mesa - La Mesa
 7068=hills # b_pa_10_santa_f_ - Santa Fé
+#c_pa_10_corregimiento_gobernadora - Corregimiento Gobernadora
+7069=jungle # b_pa_10_el_trapiche - El Trapiche
 #d_chiriqui - Chiriquí
 #c_pa_02_corregimiento_david - Corregimiento David
-7069=jungle # b_pa_02_david - David
-7070=mountains # b_pa_02_la_concepci_n - La Concepción
-7071=jungle # b_pa_02_puerto_armuelles - Puerto Armuelles
-7072=mountains # b_pa_02_alto_boquete - Alto Boquete
-7073=jungle # b_pa_02_tol_ - Tolé
+7070=jungle # b_pa_02_david - David
+7071=mountains # b_pa_02_la_concepci_n - La Concepción
+7072=jungle # b_pa_02_puerto_armuelles - Puerto Armuelles
+7073=mountains # b_pa_02_alto_boquete - Alto Boquete
+7074=jungle # b_pa_02_tol_ - Tolé
 #c_pa_01_corregimiento_de_changuinola - Corregimiento de Changuinola
-7074=mountains # b_pa_01_el_empalme - El Empalme
-7075=mountains # b_pa_01_almirante - Almirante
-7076=mountains # b_pa_01_oscura - Oscura
+7075=mountains # b_pa_01_el_empalme - El Empalme
+7076=mountains # b_pa_01_almirante - Almirante
+7077=mountains # b_pa_01_oscura - Oscura
 #c_pa_12_corregimiento_chichica - Corregimiento Chichica
-7077=mountains # b_pa_12_buenos_aires - Buenos Aires
-7078=jungle # b_pa_12_bisira - Bisira
-7079=mountains # b_pa_12_quebrada_canoa - Quebrada Canoa
-#c_pa_10_corregimiento_gobernadora - Corregimiento Gobernadora
-7080=jungle # b_pa_10_el_trapiche - El Trapiche
+7078=mountains # b_pa_12_buenos_aires - Buenos Aires
+7079=jungle # b_pa_12_bisira - Bisira
+7080=mountains # b_pa_12_quebrada_canoa - Quebrada Canoa
 #k_tierradentro - Tierradentro
 #d_co_28_ibagu_ - Ibagué
 #c_co_28_ibagu_ - Ibagué
@@ -10537,154 +10537,153 @@
 7500=mountains # b_mx_05_taniperla - Taniperla
 7501=mountains # b_mx_05_san_antonio_los_montes - San Antonio los Montes
 7502=mountains # b_mx_05_justo_sierra - Justo Sierra
+#c_mx_05_benem_rito_de_las_am_ricas - Benemérito de las Américas
+7503=hills # b_mx_05_cintalapa - Cintalapa
+7504=hills # b_mx_05_san_quint_n - San Quintín
+7505=jungle # b_mx_05_benem_rito_de_las_am_ricas - Benemérito de las Américas
 #d_tabasco - Tabasco
 #c_mx_27_villahermosa - Villahermosa
-7503=plains # b_mx_27_villahermosa - Villahermosa
-7504=plains # b_mx_27_r_o_de_teapa - Río de Teapa
-7505=hills # b_mx_27_tacotalpa - Tacotalpa
+7506=plains # b_mx_27_villahermosa - Villahermosa
+7507=plains # b_mx_27_r_o_de_teapa - Río de Teapa
+7508=hills # b_mx_27_tacotalpa - Tacotalpa
 #c_mx_27_c_rdenas - Cárdenas
-7506=plains # b_mx_27_c_rdenas - Cárdenas
-7507=plains # b_mx_27_comalcalco - Comalcalco
-7508=plains # b_mx_27_huimanguillo - Huimanguillo
-7509=plains # b_mx_27_la_venta - la Venta
-7510=plains # b_mx_27_poblado_c_de_noviembre - Poblado C-33 20 de Noviembre
+7509=plains # b_mx_27_c_rdenas - Cárdenas
+7510=plains # b_mx_27_comalcalco - Comalcalco
+7511=plains # b_mx_27_huimanguillo - Huimanguillo
+7512=plains # b_mx_27_la_venta - la Venta
+7513=plains # b_mx_27_poblado_c_de_noviembre - Poblado C-33 20 de Noviembre
 #c_mx_27_macuspana - Macuspana
-7511=plains # b_mx_27_macuspana - Macuspana
-7512=wetlands # b_mx_27_frontera - Frontera
-7513=wetlands # b_mx_27_jonuta - Jonuta
+7514=plains # b_mx_27_macuspana - Macuspana
+7515=wetlands # b_mx_27_frontera - Frontera
+7516=wetlands # b_mx_27_jonuta - Jonuta
 #k_yucatan - Yucatán
 #d_merida - Mérida
 #c_mx_31_m_rida - Mérida
-7514=plains # b_mx_31_m_rida - Mérida
-7515=jungle # b_mx_31_kanas_n - Kanasín
-7516=plains # b_mx_31_tixkokob - Tixkokob
-7517=jungle # b_mx_31_sey_ - Seyé
+7517=plains # b_mx_31_m_rida - Mérida
+7518=jungle # b_mx_31_kanas_n - Kanasín
+7519=plains # b_mx_31_tixkokob - Tixkokob
+7520=jungle # b_mx_31_sey_ - Seyé
 #c_mx_31_uman - Uman
-7518=jungle # b_mx_31_uman - Uman
-7519=jungle # b_mx_31_hunucm_ - Hunucmá
-7520=jungle # b_mx_31_maxcan_ - Maxcanú
-7521=jungle # b_mx_31_cepeda - Cepeda
+7521=jungle # b_mx_31_uman - Uman
+7522=jungle # b_mx_31_hunucm_ - Hunucmá
+7523=jungle # b_mx_31_maxcan_ - Maxcanú
+7524=jungle # b_mx_31_cepeda - Cepeda
 #c_mx_31_motul - Motul
-7522=plains # b_mx_31_motul - Motul
-7523=jungle # b_mx_31_izamal - Izamal
-7524=plains # b_mx_31_dzidzantun - Dzidzantun
-7525=plains # b_mx_31_dzilam_de_bravo - Dzilam de Bravo
+7525=plains # b_mx_31_motul - Motul
+7526=jungle # b_mx_31_izamal - Izamal
+7527=plains # b_mx_31_dzidzantun - Dzidzantun
+7528=plains # b_mx_31_dzilam_de_bravo - Dzilam de Bravo
 #c_mx_31_tizim_n - Tizimín
-7526=jungle # b_mx_31_tizim_n - Tizimín
-7527=jungle # b_mx_31_temozon - Temozon
-7528=jungle # b_mx_31_popolnah - Popolnah
-7529=plains # b_mx_31_dzonot_carretero - Dzonot Carretero
+7529=jungle # b_mx_31_tizim_n - Tizimín
+7530=jungle # b_mx_31_temozon - Temozon
+7531=jungle # b_mx_31_popolnah - Popolnah
+7532=plains # b_mx_31_dzonot_carretero - Dzonot Carretero
 #c_mx_31_espita - Espita
-7530=jungle # b_mx_31_espita - Espita
-7531=jungle # b_mx_31_buctzotz - Buctzotz
-7532=plains # b_mx_31_panab_ - Panabá
+7533=jungle # b_mx_31_espita - Espita
+7534=jungle # b_mx_31_buctzotz - Buctzotz
+7535=plains # b_mx_31_panab_ - Panabá
 #d_puuc - Puuc
 #c_mx_31_ticul - Ticul
-7533=jungle # b_mx_31_ticul - Ticul
-7534=jungle # b_mx_31_tecax - Tecax
-7535=jungle # b_mx_31_akil - Akil
-7536=jungle # b_mx_31_muna - Muna
-7537=jungle # b_mx_31_kantem_ - Kantemó
+7536=jungle # b_mx_31_ticul - Ticul
+7537=jungle # b_mx_31_tecax - Tecax
+7538=jungle # b_mx_31_akil - Akil
+7539=jungle # b_mx_31_muna - Muna
+7540=jungle # b_mx_31_kantem_ - Kantemó
 #c_mx_31_valladolid - Valladolid
-7538=jungle # b_mx_31_valladolid - Valladolid
-7539=jungle # b_mx_31_chich_n_itz_ - Chichén-Itzá
-7540=jungle # b_mx_31_chemax - Chemax
-7541=jungle # b_mx_31_tixcacalcupul - Tixcacalcupul
+7541=jungle # b_mx_31_valladolid - Valladolid
+7542=jungle # b_mx_31_chich_n_itz_ - Chichén-Itzá
+7543=jungle # b_mx_31_chemax - Chemax
+7544=jungle # b_mx_31_tixcacalcupul - Tixcacalcupul
 #c_mx_31_peto - Peto
-7542=jungle # b_mx_31_peto - Peto
-7543=jungle # b_mx_31_sotuta - Sotuta
-7544=jungle # b_mx_31_yaxcab_ - Yaxcabá
+7545=jungle # b_mx_31_peto - Peto
+7546=jungle # b_mx_31_sotuta - Sotuta
+7547=jungle # b_mx_31_yaxcab_ - Yaxcabá
 #k_quintana_roo - Quintana Roo
 #d_ekab - Ekab
 #c_mx_23_canc_n - Cancún
-7545=jungle # b_mx_23_canc_n - Cancún
-7546=jungle # b_mx_23_alfredo_v_bonfil - Alfredo V. Bonfil
-7547=jungle # b_mx_23_ignacio_zaragoza - Ignacio Zaragoza
-7548=jungle # b_mx_23_kantunilk_n - Kantunilkín
-7549=jungle # b_mx_23_isla_holbox - Isla Holbox
+7548=jungle # b_mx_23_canc_n - Cancún
+7549=jungle # b_mx_23_alfredo_v_bonfil - Alfredo V. Bonfil
+7550=jungle # b_mx_23_ignacio_zaragoza - Ignacio Zaragoza
+7551=jungle # b_mx_23_kantunilk_n - Kantunilkín
+7552=jungle # b_mx_23_isla_holbox - Isla Holbox
 #c_mx_23_del_carmen - del Carmen
-7550=jungle # b_mx_23_del_carmen - del Carmen
-7551=jungle # b_mx_23_tulum - Tulum
-7552=jungle # b_mx_23_puerto_aventuras - Puerto Aventuras
-7553=jungle # b_mx_23_coba - Coba
+7553=jungle # b_mx_23_del_carmen - del Carmen
+7554=jungle # b_mx_23_tulum - Tulum
+7555=jungle # b_mx_23_puerto_aventuras - Puerto Aventuras
+7556=jungle # b_mx_23_coba - Coba
 #c_mx_23_cozumel - Cozumel
-7554=jungle # b_mx_23_cozumel - Cozumel
+7557=jungle # b_mx_23_cozumel - Cozumel
 #d_chan_santa_cruz - Chan Santa Cruz
 #c_mx_23_chetumal - Chetumal
-7555=jungle # b_mx_23_chetumal - Chetumal
-7556=jungle # b_bz_01_san_pedro - San Pedro
-7557=jungle # b_mx_23_reforma - Reforma
-7558=jungle # b_mx_23_maya_balam - Maya Balam
-7559=jungle # b_mx_23_mahahual - Mahahual
+7558=jungle # b_mx_23_chetumal - Chetumal
+7559=jungle # b_bz_01_san_pedro - San Pedro
+7560=jungle # b_mx_23_reforma - Reforma
+7561=jungle # b_mx_23_maya_balam - Maya Balam
+7562=jungle # b_mx_23_mahahual - Mahahual
 #c_mx_23_felipe_carrillo_puerto - Felipe Carrillo Puerto
-7560=plains # b_mx_23_felipe_carrillo_puerto - Felipe Carrillo Puerto
-7561=jungle # b_mx_23_tihosuco - Tihosuco
-7562=jungle # b_mx_23_x_pichil - X-pichil
-7563=plains # b_mx_23_x_hazil_sur - X-Hazil Sur
-7564=jungle # b_mx_23_chun_yah - Chun-Yah
+7563=plains # b_mx_23_felipe_carrillo_puerto - Felipe Carrillo Puerto
+7564=jungle # b_mx_23_tihosuco - Tihosuco
+7565=jungle # b_mx_23_x_pichil - X-pichil
+7566=plains # b_mx_23_x_hazil_sur - X-Hazil Sur
+7567=jungle # b_mx_23_chun_yah - Chun-Yah
 #c_mx_23_nicol_s_bravo - Nicolás Bravo
-7565=jungle # b_mx_23_nicol_s_bravo - Nicolás Bravo
-7566=jungle # b_mx_23_javier_rojo_g_mez - Javier Rojo Gómez
-7567=jungle # b_mx_04_ingeniero_ricardo_payro_jene - Ingeniero Ricardo Payro Jene
-7568=jungle # b_mx_04_xpujil - Xpujil
-7569=jungle # b_mx_23_caobas - Caobas
+7568=jungle # b_mx_23_nicol_s_bravo - Nicolás Bravo
+7569=jungle # b_mx_23_javier_rojo_g_mez - Javier Rojo Gómez
+7570=jungle # b_mx_04_ingeniero_ricardo_payro_jene - Ingeniero Ricardo Payro Jene
+7571=jungle # b_mx_04_xpujil - Xpujil
+7572=jungle # b_mx_23_caobas - Caobas
 #c_mx_23_jos_mar_a_morelos - José María Morelos
-7570=jungle # b_mx_23_jos_mar_a_morelos - José María Morelos
-7571=jungle # b_mx_31_becanch_n - Becanchén
-7572=jungle # b_mx_04_uk_m - Ukúm
-7573=jungle # b_mx_23_miguel_alem_n - Miguel Alemán
+7573=jungle # b_mx_23_jos_mar_a_morelos - José María Morelos
+7574=jungle # b_mx_31_becanch_n - Becanchén
+7575=jungle # b_mx_04_uk_m - Ukúm
+7576=jungle # b_mx_23_miguel_alem_n - Miguel Alemán
 #k_campeche - Campeche
 #d_campeche - Campeche
 #c_mx_04_campeche - Campeche
-7574=jungle # b_mx_04_campeche - Campeche
-7575=jungle # b_mx_04_champot_n - Champotón
-7576=jungle # b_mx_04_seybaplaya - Seybaplaya
-7577=jungle # b_mx_04_carrillo_puerto - Carrillo Puerto
-7578=jungle # b_mx_04_los_laureles - Los Laureles
+7577=jungle # b_mx_04_campeche - Campeche
+7578=jungle # b_mx_04_champot_n - Champotón
+7579=jungle # b_mx_04_seybaplaya - Seybaplaya
+7580=jungle # b_mx_04_carrillo_puerto - Carrillo Puerto
+7581=jungle # b_mx_04_los_laureles - Los Laureles
 #c_mx_04_calkin_ - Calkiní
-7579=jungle # b_mx_04_calkin_ - Calkiní
-7580=jungle # b_mx_04_hecelchak_n - Hecelchakán
-7581=jungle # b_mx_04_pocboc - Pocboc
+7582=jungle # b_mx_04_calkin_ - Calkiní
+7583=jungle # b_mx_04_hecelchak_n - Hecelchakán
+7584=jungle # b_mx_04_pocboc - Pocboc
 #c_mx_04_hopelch_n - Hopelchén
-7582=jungle # b_mx_04_hopelch_n - Hopelchén
-7583=jungle # b_mx_04_iturbide - Iturbide
-7584=jungle # b_mx_04_dzibalch_n - Dzibalchén
+7585=jungle # b_mx_04_hopelch_n - Hopelchén
+7586=jungle # b_mx_04_iturbide - Iturbide
+7587=jungle # b_mx_04_dzibalch_n - Dzibalchén
 #c_mx_04_constituci_n - Constitución
-7585=jungle # b_mx_04_constituci_n - Constitución
-7586=jungle # b_mx_04_cinco_de_febrero - Cinco de Febrero
-7587=jungle # b_mx_04_nuevo_conhu_s - Nuevo Conhuás
+7588=jungle # b_mx_04_constituci_n - Constitución
+7589=jungle # b_mx_04_cinco_de_febrero - Cinco de Febrero
+7590=jungle # b_mx_04_nuevo_conhu_s - Nuevo Conhuás
 #d_calakmul - Calakmul
 #c_mx_04_del_carmen - del Carmen
-7588=jungle # b_mx_04_del_carmen - del Carmen
-7589=wetlands # b_mx_04_palizada - Palizada
-7590=jungle # b_mx_04_el_aguacatal - El Aguacatal
-7591=jungle # b_mx_04_el_juncal - El Juncal
-#c_mx_04_esc_rcega - Escárcega
-7592=jungle # b_mx_04_esc_rcega - Escárcega
-7593=plains # b_mx_04_sabancuy - Sabancuy
-7594=jungle # b_mx_04_chicbul - Chicbul
-7595=jungle # b_mx_04_nueva_rosita - Nueva Rosita
-#c_mx_04_candelaria - Candelaria
-7596=jungle # b_mx_04_candelaria - Candelaria
-7597=jungle # b_mx_04_don_samuel - Don Samuel
-7598=jungle # b_mx_04_benito_ju_rez_uno - Benito Juárez Uno
-7599=jungle # b_mx_04_mamantel - Mamantel
-#k_peten - Petén
-#d_lacandon - Lacandón
+7591=jungle # b_mx_04_del_carmen - del Carmen
+7592=wetlands # b_mx_04_palizada - Palizada
+7593=jungle # b_mx_04_el_aguacatal - El Aguacatal
+7594=jungle # b_mx_04_el_juncal - El Juncal
 #c_mx_27_tenosique - Tenosique
-7600=jungle # b_mx_27_tenosique - Tenosique
-7601=plains # b_mx_27_san_carlos - San Carlos
-7602=wetlands # b_mx_27_mult_ - Multé
-7603=plains # b_mx_27_balanc_n - Balancán
-7604=plains # b_mx_27_chabl_ - Chablé
-#c_mx_05_benem_rito_de_las_am_ricas - Benemérito de las Américas
-7605=hills # b_mx_05_cintalapa - Cintalapa
-7606=hills # b_mx_05_san_quint_n - San Quintín
-7607=jungle # b_mx_05_benem_rito_de_las_am_ricas - Benemérito de las Américas
-#c_gt_12_sayaxch_ - Sayaxché
-7608=jungle # b_mx_05_zamora_pico_de_oro - Zamora Pico de Oro
-7609=plains # b_gt_12_sayaxch_ - Sayaxché
-7610=plains # b_mx_05_roberto_barrios_r_o - Roberto Barrios Río
+7595=jungle # b_mx_27_tenosique - Tenosique
+7596=plains # b_mx_27_san_carlos - San Carlos
+7597=wetlands # b_mx_27_mult_ - Multé
+7598=plains # b_mx_27_balanc_n - Balancán
+7599=plains # b_mx_27_chabl_ - Chablé
+#c_mx_04_esc_rcega - Escárcega
+7600=jungle # b_mx_04_esc_rcega - Escárcega
+7601=plains # b_mx_04_sabancuy - Sabancuy
+7602=jungle # b_mx_04_chicbul - Chicbul
+7603=jungle # b_mx_04_nueva_rosita - Nueva Rosita
+#c_mx_04_candelaria - Candelaria
+7604=jungle # b_mx_04_candelaria - Candelaria
+7605=jungle # b_mx_04_don_samuel - Don Samuel
+7606=jungle # b_mx_04_benito_ju_rez_uno - Benito Juárez Uno
+7607=jungle # b_mx_04_mamantel - Mamantel
+#c_mx_04_miguel_hidalgo_y_costilla - Miguel Hidalgo y Costilla
+7608=jungle # b_mx_04_miguel_hidalgo_y_costilla - Miguel Hidalgo y Costilla
+7609=jungle # b_mx_04_monclova - Monclova
+7610=jungle # b_mx_04_miguel_de_la_madrid - Miguel de la Madrid
+#k_peten - Petén
 #d_peten - Petén
 #c_gt_12_san_benito - San Benito
 7611=plains # b_gt_12_san_benito - San Benito
@@ -10695,14 +10694,14 @@
 7615=jungle # b_gt_12_popt_n - Poptún
 7616=jungle # b_gt_12_santa_mar_a_sechact_ - Santa María Sechactí
 7617=jungle # b_gt_12_poit_seco - Poité Seco
+#c_gt_12_sayaxch_ - Sayaxché
+7618=jungle # b_mx_05_zamora_pico_de_oro - Zamora Pico de Oro
+7619=plains # b_gt_12_sayaxch_ - Sayaxché
+7620=plains # b_mx_05_roberto_barrios_r_o - Roberto Barrios Río
 #c_gt_12_melchor_de_mencos - Melchor de Mencos
-7618=jungle # b_gt_12_melchor_de_mencos - Melchor de Mencos
-7619=jungle # b_gt_12_tikal - Tikal
-7620=jungle # b_mx_04_el_jag_ey - El Jagüey
-#c_mx_04_miguel_hidalgo_y_costilla - Miguel Hidalgo y Costilla
-7621=jungle # b_mx_04_miguel_hidalgo_y_costilla - Miguel Hidalgo y Costilla
-7622=jungle # b_mx_04_monclova - Monclova
-7623=jungle # b_mx_04_miguel_de_la_madrid - Miguel de la Madrid
+7621=jungle # b_gt_12_melchor_de_mencos - Melchor de Mencos
+7622=jungle # b_gt_12_tikal - Tikal
+7623=jungle # b_mx_04_el_jag_ey - El Jagüey
 #c_gt_12_dolores - Dolores
 7624=jungle # b_gt_12_dolores - Dolores
 7625=plains # b_gt_12_sesaltut - Sesaltut
@@ -12699,7 +12698,7 @@
 9045=mountains # b_gt_01_cahab_n - Cahabón
 9046=mountains # b_gt_01_lanqu_n - Lanquín
 #k_honduras - Honduras
-#d_lempira - Lempira
+#d_comayagua - Comayagua
 #c_hn_08_tegucigalpa - Tegucigalpa
 9047=mountains # b_hn_08_tegucigalpa - Tegucigalpa
 9048=hills # b_hn_08_talanga - Talanga
@@ -12712,82 +12711,83 @@
 9054=mountains # b_hn_12_la_paz - La Paz
 9055=mountains # b_hn_04_minas_de_oro - Minas de Oro
 9056=mountains # b_hn_12_marcala - Marcala
-#c_hn_05_santa_rosa_de_cop_n - Santa Rosa de Copán
-9057=mountains # b_hn_05_santa_rosa_de_cop_n - Santa Rosa de Copán
-9058=mountains # b_hn_05_cop_n - Copán
-9059=mountains # b_hn_13_gracias - Gracias
-#c_hn_16_santa_b_rbara - Santa Bárbara
-9060=mountains # b_hn_16_santa_b_rbara - Santa Bárbara
-9061=mountains # b_hn_16_tras_cerros - Tras Cerros
-9062=mountains # b_hn_16_san_luis - San Luis
-#c_hn_07_danl_ - Danlí
-9063=hills # b_hn_07_danl_ - Danlí
-9064=hills # b_hn_07_teupasenti - Teupasenti
-9065=mountains # b_hn_07_g_inope - Güinope
-9066=hills # b_hn_07_las - Las
-#c_hn_10_intibuc_ - Intibucá
-9067=mountains # b_hn_14_nueva_ocotepeque - Nueva Ocotepeque
-9068=mountains # b_hn_10_intibuc_ - Intibucá
-9069=mountains # b_hn_13_erandique - Erandique
-9070=mountains # b_hn_13_cololaca - Cololaca
-#c_hn_15_juticalpa - Juticalpa
-9071=hills # b_hn_15_juticalpa - Juticalpa
-9072=plains # b_hn_15_campamento - Campamento
-9073=hills # b_hn_15_dulce_nombre_de_culm_ - Dulce Nombre de Culmí
-9074=hills # b_hn_15_nueva_choluteca - Nueva Choluteca
-#c_hn_15_san_francisco_de_la_paz - San Francisco de la Paz
-9075=plains # b_hn_15_san_francisco_de_la_paz - San Francisco de la Paz
-9076=hills # b_hn_15_gualaco - Gualaco
-9077=mountains # b_hn_15_salam_ - Salamá
-9078=mountains # b_hn_15_san_esteban - San Esteban
-#d_comayagua - Comayagua
-#c_hn_06_san_pedro_sula - San Pedro Sula
-9079=mountains # b_hn_06_san_pedro_sula - San Pedro Sula
-9080=hills # b_hn_06_choloma - Choloma
-9081=mountains # b_hn_06_la_lima - La Lima
-9082=plains # b_hn_06_santa_cruz_de_yojoa - Santa Cruz de Yojoa
-#c_hn_01_la_ceiba - La Ceiba
-9083=mountains # b_hn_01_la_ceiba - La Ceiba
-9084=hills # b_hn_01_tela - Tela
-9085=jungle # b_hn_01_san_juan - San Juan
+#c_hn_02_choluteca - Choluteca
+9057=floodplains # b_hn_02_choluteca - Choluteca
+9058=floodplains # b_hn_17_san_lorenzo - San Lorenzo
+9059=floodplains # b_hn_02_monjar_s - Monjarás
+9060=mountains # b_hn_02_san_marcos_de_col_n - San Marcos de Colón
 #c_hn_18_olanchito - Olanchito
-9086=hills # b_hn_18_moraz_n - Morazán
-9087=hills # b_hn_18_olanchito - Olanchito
-9088=mountains # b_hn_18_santa_rita - Santa Rita
-9089=mountains # b_hn_18_yoro - Yoro
-9090=mountains # b_hn_18_joc_n - Jocón
+9061=hills # b_hn_18_moraz_n - Morazán
+9062=hills # b_hn_18_olanchito - Olanchito
+9063=mountains # b_hn_18_santa_rita - Santa Rita
+9064=mountains # b_hn_18_yoro - Yoro
+9065=mountains # b_hn_18_joc_n - Jocón
 #d_cortes - Cortés
+#c_hn_06_san_pedro_sula - San Pedro Sula
+9066=mountains # b_hn_06_san_pedro_sula - San Pedro Sula
+9067=hills # b_hn_06_choloma - Choloma
+9068=mountains # b_hn_06_la_lima - La Lima
+9069=plains # b_hn_06_santa_cruz_de_yojoa - Santa Cruz de Yojoa
+#c_hn_01_la_ceiba - La Ceiba
+9070=mountains # b_hn_01_la_ceiba - La Ceiba
+9071=hills # b_hn_01_tela - Tela
+9072=jungle # b_hn_01_san_juan - San Juan
 #c_hn_03_tocoa - Tocoa
-9091=hills # b_hn_03_tocoa - Tocoa
-9092=hills # b_hn_03_bonito_oriental - Bonito Oriental
-9093=jungle # b_hn_03_cusuna - Cusuna
-9094=mountains # b_hn_09_baltil_ - Baltilú
+9073=hills # b_hn_03_tocoa - Tocoa
+9074=hills # b_hn_03_bonito_oriental - Bonito Oriental
+9075=jungle # b_hn_03_cusuna - Cusuna
+9076=mountains # b_hn_09_baltil_ - Baltilú
 #c_hn_11_coxen_hole - Coxen Hole
-9095=jungle # b_hn_11_coxen_hole - Coxen Hole
+9077=jungle # b_hn_11_coxen_hole - Coxen Hole
+#d_lempira - Lempira
+#c_hn_05_santa_rosa_de_cop_n - Santa Rosa de Copán
+9078=mountains # b_hn_05_santa_rosa_de_cop_n - Santa Rosa de Copán
+9079=mountains # b_hn_05_cop_n - Copán
+9080=mountains # b_hn_13_gracias - Gracias
+#c_hn_16_santa_b_rbara - Santa Bárbara
+9081=mountains # b_hn_16_santa_b_rbara - Santa Bárbara
+9082=mountains # b_hn_16_tras_cerros - Tras Cerros
+9083=mountains # b_hn_16_san_luis - San Luis
+#c_hn_10_intibuc_ - Intibucá
+9084=mountains # b_hn_14_nueva_ocotepeque - Nueva Ocotepeque
+9085=mountains # b_hn_10_intibuc_ - Intibucá
+9086=mountains # b_hn_13_erandique - Erandique
+9087=mountains # b_hn_13_cololaca - Cololaca
+#d_olancho - Olancho
+#c_hn_07_danl_ - Danlí
+9088=hills # b_hn_07_danl_ - Danlí
+9089=hills # b_hn_07_teupasenti - Teupasenti
+9090=mountains # b_hn_07_g_inope - Güinope
+9091=hills # b_hn_07_las - Las
+#c_hn_15_juticalpa - Juticalpa
+9092=hills # b_hn_15_juticalpa - Juticalpa
+9093=plains # b_hn_15_campamento - Campamento
+9094=hills # b_hn_15_dulce_nombre_de_culm_ - Dulce Nombre de Culmí
+9095=hills # b_hn_15_nueva_choluteca - Nueva Choluteca
+#c_hn_15_san_francisco_de_la_paz - San Francisco de la Paz
+9096=plains # b_hn_15_san_francisco_de_la_paz - San Francisco de la Paz
+9097=hills # b_hn_15_gualaco - Gualaco
+9098=mountains # b_hn_15_salam_ - Salamá
+9099=mountains # b_hn_15_san_esteban - San Esteban
 #k_el_salvador - El Salvador
 #d_san_salvador - San Salvador
 #c_sv_10_san_salvador - San Salvador
-9096=farmlands # b_sv_10_san_salvador - San Salvador
-9097=hills # b_sv_05_santa_tecla - Santa Tecla
-9098=plains # b_sv_06_zacatecoluca - Zacatecoluca
-9099=hills # b_sv_12_san_vicente - San Vicente
-9100=plains # b_sv_05_la_libertad - La Libertad
+9100=farmlands # b_sv_10_san_salvador - San Salvador
+9101=hills # b_sv_05_santa_tecla - Santa Tecla
+9102=plains # b_sv_06_zacatecoluca - Zacatecoluca
+9103=hills # b_sv_12_san_vicente - San Vicente
+9104=plains # b_sv_05_la_libertad - La Libertad
 #c_sv_11_santa_ana - Santa Ana
-9101=hills # b_sv_11_santa_ana - Santa Ana
-9102=hills # b_sv_13_sonsonate - Sonsonate
-9103=mountains # b_sv_01_ahuachap_n - Ahuachapán
-9104=mountains # b_sv_11_metap_n - Metapán
+9105=hills # b_sv_11_santa_ana - Santa Ana
+9106=hills # b_sv_13_sonsonate - Sonsonate
+9107=mountains # b_sv_01_ahuachap_n - Ahuachapán
+9108=mountains # b_sv_11_metap_n - Metapán
 #c_sv_09_de_san_miguel - de San Miguel
-9105=hills # b_sv_09_san_miguel - San Miguel
-9106=floodplains # b_sv_14_usulut_n - Usulután
-9107=hills # b_sv_14_santiago_de_mar_a - Santiago de María
-9108=floodplains # b_sv_07_la_uni_n - La Unión
-9109=hills # b_sv_09_chirilagua - Chirilagua
-#c_hn_02_choluteca - Choluteca
-9110=floodplains # b_hn_02_choluteca - Choluteca
-9111=floodplains # b_hn_17_san_lorenzo - San Lorenzo
-9112=floodplains # b_hn_02_monjar_s - Monjarás
-9113=mountains # b_hn_02_san_marcos_de_col_n - San Marcos de Colón
+9109=hills # b_sv_09_san_miguel - San Miguel
+9110=floodplains # b_sv_14_usulut_n - Usulután
+9111=hills # b_sv_14_santiago_de_mar_a - Santiago de María
+9112=floodplains # b_sv_07_la_uni_n - La Unión
+9113=hills # b_sv_09_chirilagua - Chirilagua
 #c_sv_04_cojutepeque - Cojutepeque
 9114=plains # b_sv_04_cojutepeque - Cojutepeque
 9115=hills # b_sv_02_sensuntepeque - Sensuntepeque
@@ -12835,54 +12835,55 @@
 9146=hills # b_ni_07_jinotega - Jinotega
 9147=mountains # b_ni_07_san_jos_de_bocay - San José de Bocay
 9148=jungle # b_ni_07_amaka - Amaka
+#c_ni_17_siuna - Siuna
+9149=hills # b_ni_17_siuna - Siuna
+9150=hills # b_ni_18_bilamp_ - Bilampí
+9151=hills # b_ni_17_al_ - Aló
+9152=hills # b_ni_17_casul_ - Casulí
 #k_costa_rica - Costa Rica
 #d_talamanca - Talamanca
 #c_cr_08_san_jos_ - San José
-9149=mountains # b_cr_08_san_jos_ - San José
-9150=mountains # b_cr_02_para_so - Paraíso
-9151=mountains # b_cr_02_turrialba - Turrialba
-#c_cr_01_grecia - Grecia
-9152=mountains # b_cr_01_grecia - Grecia
-9153=mountains # b_cr_01_desamparados - Desamparados
-9154=jungle # b_cr_01_quesada - Quesada
-#c_cr_03_liberia - Liberia
-9155=hills # b_cr_07_puntarenas - Puntarenas
-9156=plains # b_cr_03_liberia - Liberia
-9157=hills # b_cr_03_ca_as - Cañas
-9158=plains # b_cr_03_la_cruz - La Cruz
+9153=mountains # b_cr_08_san_jos_ - San José
+9154=mountains # b_cr_02_para_so - Paraíso
+9155=mountains # b_cr_02_turrialba - Turrialba
 #c_cr_08_de_san_jos_ - de San José
-9159=mountains # b_cr_08_san_rafael_abajo - San Rafael Abajo
-9160=mountains # b_cr_08_san_isidro - San Isidro
-9161=mountains # b_cr_07_quepos - Quepos
+9156=mountains # b_cr_08_san_rafael_abajo - San Rafael Abajo
+9157=mountains # b_cr_08_san_isidro - San Isidro
+9158=mountains # b_cr_07_quepos - Quepos
 #c_cr_06_lim_n - Limón
-9162=jungle # b_cr_06_lim_n - Limón
-9163=jungle # b_cr_06_gu_piles - Guápiles
-9164=jungle # b_cr_06_siquirres - Siquirres
-#c_cr_01_san_jos_ - San José
-9165=jungle # b_cr_01_san_jos_ - San José
-9166=jungle # b_cr_01_la_fortuna - La Fortuna
-9167=jungle # b_cr_01_los_chiles - Los Chiles
+9159=jungle # b_cr_06_lim_n - Limón
+9160=jungle # b_cr_06_gu_piles - Guápiles
+9161=jungle # b_cr_06_siquirres - Siquirres
 #c_cr_07_buenos_aires - Buenos Aires
-9168=jungle # b_cr_07_corredor - Corredor
-9169=mountains # b_cr_07_buenos_aires - Buenos Aires
-9170=jungle # b_cr_07_sierpe - Sierpe
+9162=jungle # b_cr_07_corredor - Corredor
+9163=mountains # b_cr_07_buenos_aires - Buenos Aires
+9164=jungle # b_cr_07_sierpe - Sierpe
+#d_guanacaste - Guanacaste
+#c_cr_01_grecia - Grecia
+9165=mountains # b_cr_01_grecia - Grecia
+9166=mountains # b_cr_01_desamparados - Desamparados
+9167=jungle # b_cr_01_quesada - Quesada
+#c_cr_03_liberia - Liberia
+9168=hills # b_cr_07_puntarenas - Puntarenas
+9169=plains # b_cr_03_liberia - Liberia
+9170=hills # b_cr_03_ca_as - Cañas
+9171=plains # b_cr_03_la_cruz - La Cruz
+#c_cr_01_san_jos_ - San José
+9172=jungle # b_cr_01_san_jos_ - San José
+9173=jungle # b_cr_01_la_fortuna - La Fortuna
+9174=jungle # b_cr_01_los_chiles - Los Chiles
 #c_cr_03_nicoya - Nicoya
-9171=hills # b_cr_03_nicoya - Nicoya
-9172=hills # b_cr_03_santa_cruz - Santa Cruz
-9173=hills # b_cr_07_c_bano - Cóbano
+9175=hills # b_cr_03_nicoya - Nicoya
+9176=hills # b_cr_03_santa_cruz - Santa Cruz
+9177=hills # b_cr_07_c_bano - Cóbano
 #k_miskito - Miskito
 #d_mosquito_coast - Mosquito Coast
 #c_ni_18_nueva_guinea - Nueva Guinea
-9174=hills # b_ni_18_nueva_guinea - Nueva Guinea
-9175=jungle # b_ni_18_bluefields - Bluefields
-9176=jungle # b_ni_18_el_rama - El Rama
-9177=hills # b_ni_18_muelle_de_los_bueyes - Muelle de los Bueyes
-9178=jungle # b_ni_18_amerisco - Amerisco
-#c_ni_17_puerto_cabezas - Puerto Cabezas
-9179=wetlands # b_ni_17_puerto_cabezas - Puerto Cabezas
-9180=wetlands # b_ni_17_wasp_n - Waspán
-9181=jungle # b_ni_17_aserradero_sanders - Aserradero Sanders
-9182=jungle # b_ni_17_amaki - Amaki
+9178=hills # b_ni_18_nueva_guinea - Nueva Guinea
+9179=jungle # b_ni_18_bluefields - Bluefields
+9180=jungle # b_ni_18_el_rama - El Rama
+9181=hills # b_ni_18_muelle_de_los_bueyes - Muelle de los Bueyes
+9182=jungle # b_ni_18_amerisco - Amerisco
 #c_ni_14_san_carlos - San Carlos
 9183=jungle # b_ni_14_san_carlos - San Carlos
 9184=hills # b_ni_14_san_miguelito - San Miguelito
@@ -12891,16 +12892,16 @@
 9186=jungle # b_ni_18_corn_island - Corn Island
 9187=hills # b_ni_18_la_cruz_de_r_o_grande - La Cruz de Río Grande
 9188=jungle # b_ni_18_el_tortuguero - El Tortuguero
-#c_ni_17_siuna - Siuna
-9189=hills # b_ni_17_siuna - Siuna
-9190=hills # b_ni_18_bilamp_ - Bilampí
-9191=hills # b_ni_17_al_ - Aló
-9192=hills # b_ni_17_casul_ - Casulí
 #c_ni_17_bonanza - Bonanza
-9193=hills # b_ni_17_bonanza - Bonanza
-9194=jungle # b_ni_17_prinzapolka - Prinzapolka
-9195=jungle # b_ni_17_betil - Betil
+9189=hills # b_ni_17_bonanza - Bonanza
+9190=jungle # b_ni_17_prinzapolka - Prinzapolka
+9191=jungle # b_ni_17_betil - Betil
 #d_gracias_a_dios - Gracias a Dios
+#c_ni_17_puerto_cabezas - Puerto Cabezas
+9192=wetlands # b_ni_17_puerto_cabezas - Puerto Cabezas
+9193=wetlands # b_ni_17_wasp_n - Waspán
+9194=jungle # b_ni_17_aserradero_sanders - Aserradero Sanders
+9195=jungle # b_ni_17_amaki - Amaki
 #c_hn_09_puerto_lempira - Puerto Lempira
 9196=wetlands # b_hn_09_puerto_lempira - Puerto Lempira
 9197=jungle # b_hn_09_brus_laguna - Brus Laguna
