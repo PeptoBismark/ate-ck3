@@ -3833,3 +3833,431 @@ ate_religious_decision.122 = {
 		}
 	}
 }
+
+ate_religious_decision.124 = { 
+	type = character_event
+	title = ate_religious_decision.124.t
+	desc = ate_religious_decision.124.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = personality_rational
+	}
+	override_background = {
+		event_background = council_chamber
+	}
+	option = {
+		name = ate_religious_decision.124.a
+		add_character_flag = {
+			flag = called_futakoyag
+			years = 1
+		}
+		hidden_effect = {
+			save_scope_as = caller
+			every_independent_ruler = {
+				limit = {
+					faith = faith:nguillatun
+					NOT = {
+						has_character_flag = called_futakoyag
+					}
+				}
+				trigger_event = ate_religious_decision.125
+			}
+			trigger_event = {
+				id = ate_religious_decision.126
+				days = 14
+			}
+		}
+	}
+}
+
+ate_religious_decision.125 = { 
+	type = character_event
+	title = ate_religious_decision.125.t
+	desc = ate_religious_decision.125.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = personality_rational
+	}
+	left_portrait = {
+		character = scope:caller
+		animation = personality_content
+	}
+	override_background = {
+		event_background = council_chamber
+	}
+	option = {
+		name = ate_religious_decision.125.a
+		custom_tooltip = invite_futakoyag_tt
+		stress_impact = {
+			cynical = 50
+			craven = 25
+			physique_bad = 25
+			zealous = -50
+		}
+		add_piety = 25
+		add_character_flag = {
+			flag = participant_koyag
+			years = 1
+		}
+	}
+	option = {
+		name = ate_religious_decision.125.b
+		stress_impact = {
+			cynical = -20 #it's not a big deal
+			zealous = 50
+			proud = 25
+			brave = 25
+			ambitious = 50
+		}
+	}
+}
+
+
+ate_religious_decision.126 = { 
+	type = character_event
+	title = ate_religious_decision.126.t
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = personality_rational
+	}
+	override_background = {
+		event_background = army_camp
+	}
+	immediate = {
+		every_independent_ruler = {
+			limit = {
+				faith = faith:nguillatun
+				OR = {
+					has_character_flag = called_futakoyag
+					has_character_flag = participant_koyag
+				}
+			}
+			add_to_list = koyag_contest
+			if = {
+				limit = {
+					has_character_flag = participant_koyag
+				}
+				trigger_event = {
+					id = ate_religious_decision.128 #just for flavor about the trials
+					days = 1
+				}				
+			}
+		}
+		ordered_in_list = {
+			list = koyag_contest
+			max = 2
+			order_by = {
+				value = {
+					add = 1
+					if = {
+						limit = {
+							martial < 11
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							martial < 12
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							martial < 13
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							martial < 14
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							martial < 15
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							martial < 16
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							martial < 17
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							martial < 18
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							martial < 19
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							martial < 20
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							prowess < 11
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							prowess < 12
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							prowess < 13
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							prowess < 14
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							prowess < 15
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							prowess < 16
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							prowess < 17
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							prowess < 18
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							prowess < 19
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							prowess < 20
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							has_trait = education_martial_1
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							has_trait = education_martial_2
+						}
+						add = 2
+					}
+					if = {
+						limit = {
+							has_trait = education_martial_3
+						}
+						add = 3
+					}
+					if = {
+						limit = {
+							has_trait = education_martial_4
+						}
+						add = 4
+					}
+					if = {
+						limit = {
+							has_trait = education_martial_prowess_1
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							has_trait = education_martial_prowess_2
+						}
+						add = 2
+					}
+					if = {
+						limit = {
+							has_trait = education_martial_prowess_3
+						}
+						add = 3
+					}
+					if = {
+						limit = {
+							has_trait = education_martial_prowess_4
+						}
+						add = 4
+					}
+					if = {
+						limit = {
+							has_trait = physique_good_1
+						}
+						add = 1
+					}
+					if = {
+						limit = {
+							has_trait = physique_good_2
+						}
+						add = 2
+					}
+					if = {
+						limit = {
+							has_trait = physique_good_3
+						}
+						add = 3
+					}
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						exists = scope:toqui_winner
+					}
+				}
+				save_scope_as = toqui_winner
+			}
+			if = {
+				limit = {
+					NOT = {
+						this = scope:toqui_winner
+					}
+				}
+				save_scope_as = toqui_runnerup
+			}
+		}		
+	}
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					exists = scope:toqui_runnerup
+				}
+				desc = ate_religious_decision.126.desc.1
+			}
+			desc = ate_religious_decision.126.desc.2
+		}
+	}
+	option = {
+		name = ate_religious_decision.126.a
+		hidden_effect = {
+			every_independent_ruler = {
+				limit = {
+					faith = faith:nguillatun
+				}
+				trigger_event = {
+					id = ate_religious_decision.127
+					days = 7
+				}
+			}
+		}
+	}
+}
+
+
+ate_religious_decision.127 = { 
+	type = character_event
+	title = ate_religious_decision.127.t
+	desc = ate_religious_decision.127.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = personality_zealous
+	}
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					this = scope:toqui_winner
+				}
+				desc = ate_religious_decision.127.desc.you
+			}
+			desc = ate_religious_decision.127.desc.others
+		}
+	}
+	option = {
+		name = ate_religious_decision.127.a
+		trigger = {
+			this = scope:toqui_winner
+		}
+		add_piety = 250
+		if = {
+			limit = {
+				root.faith  = {
+					has_doctrine = doctrine_no_head
+				}
+			}
+			root.faith = {
+				remove_doctrine = doctrine_no_head
+				add_doctrine = doctrine_temporal_head
+			}
+		}
+		get_title = d_toqui
+	}
+	option = {
+		name = ate_religious_decision.127.a #same name either way, you can only see one option at once
+		trigger = {
+			NOT = {
+				this = scope:toqui_winner
+			}
+		}
+	}
+}
+
+ate_religious_decision.128 = { #Mirror of 126 for other rulers
+	type = character_event
+	title = ate_religious_decision.126.t
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					exists = scope:toqui_runnerup
+				}
+				desc = ate_religious_decision.126.desc.1
+			}
+			desc = ate_religious_decision.126.desc.2
+		}
+	}
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = personality_zealous
+	}
+	override_background = {
+		event_background = army_camp
+	}
+	option = {
+		name = ate_religious_decision.1286.a
+	}
+}

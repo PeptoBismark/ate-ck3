@@ -666,13 +666,16 @@ nguillatun_become_toqui_decision = {
 			is_title_created = no
 		}
 		faith = {
+			fervor <= 75
+		}
+	}
+	is_valid = {
+		faith = {
 			AND = {
 				fervor > 50
 				fervor <= 75
 			}
 		}
-	}
-	is_valid = {
 		OR = {
 			martial >= 13
 			prowess >= 13
@@ -742,4 +745,58 @@ nguillatun_become_toqui_decision = {
 		base = 100	
 	}
 }
+
+nguillatun_call_futakoyag_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+
+	desc = nguillatun_call_futakoyag_decision_desc
+	selection_tooltip = nguillatun_call_futakoyag_decision_tooltip
+	is_shown = {
+		faith = faith:nguillatun
+		title:d_toqui = {
+			is_title_created = no
+		}
+		faith = {
+			fervor > 75
+		}
+	}
+	is_valid = {
+		OR = {
+			martial >= 10
+			prowess >= 10
+		}
+		is_adult = yes
+		is_independent_ruler = yes
+		prestige >= 250
+		piety >= 250
+	}
+
+	is_valid_showing_failures_only = {
+
+	}
+	cost = { gold = standard_activity_cost }
+	effect = {
+		stress_impact = {
+			zealous = medium_stress_loss
+			cynical = 20
+		}
+		hidden_effect = {
+			trigger_event = ate_religious_decision.124
+		}
+		custom_tooltip = nguillatun_call_futakoyag_effect
+		add_prestige = -250
+		add_piety = -250		
+	}
+
+	ai_check_interval = 12
+	
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100	
+	}
+}
+
 
