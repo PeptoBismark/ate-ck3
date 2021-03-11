@@ -3,7 +3,7 @@ pdxmesh = {
 	file = "male_headgear_secular_canadian_royalty_02.mesh"
 
 	meshsettings = {
-		name = "male_headgear_secular_canadian_royalty_01Shape"
+		name = "male_headgear_secular_canadian_royalty_02Shape"
 		index = 0
 		texture_diffuse = "male_headgear_secular_canadian_royalty_02_diffuse.dds"
 		texture_normal = "male_headgear_secular_canadian_royalty_02_normal.dds"

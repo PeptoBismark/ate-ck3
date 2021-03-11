@@ -29,6 +29,10 @@
 		gene = headgear
 		template = hcc_crown
 	}
+	add_accessory_modifiers = {
+		gene = headgear
+		template = burger_king_crown
+	}
 
 
 	add_accessory_modifiers = {
@@ -68,6 +72,12 @@
 	add_accessory_modifiers = {
 		gene = headgear
 		template = cowboy_imperial
+	}
+	
+	
+	add_accessory_modifiers = {
+		gene = headgear
+		template = canadian_royalty
 	}
 	
 	

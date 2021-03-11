@@ -378,3 +378,37 @@ male_headgear_secular_north_america_fur_ushanka = {
 	set_tags = "cap"
  	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_north_america_fur_ushanka_entity 	 }		
 }
+female_headgear_secular_racoon_cap = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_racoon_cap_entity 	 }		
+}
+female_headgear_secular_north_america_fur_ushanka = {	
+	set_tags = "cap"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_north_america_fur_ushanka_entity 	 }		
+}
+
+
+male_headgear_secular_canadian_royalty_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_canadian_royalty_01_entity 	 }		
+}
+female_headgear_secular_canadian_royalty_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_canadian_royalty_01_entity 	 }		
+}
+male_headgear_secular_canadian_royalty_02 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_canadian_royalty_02_entity 	 }		
+}
+female_headgear_secular_canadian_royalty_02 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_canadian_royalty_02_entity 	 }		
+}
+
+
+## Meme ###
+
+male_headgear_special_burgerking = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_special_burgerking_entity 	 }		
+}
