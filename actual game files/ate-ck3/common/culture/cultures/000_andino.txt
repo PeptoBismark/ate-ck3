@@ -163,7 +163,7 @@ graphical_cultures = {
 			Irene Isabel
 			Jazm_i_act_n Julia
 			Liliana
-			Mar_i_act_a Mar_i_act_a_Beatriz Mar_i_act_a_Cristina Mar_i_act_a_Elena Mar_i_act_a_Teresa Margarita Mariana
+			Mar_i_act_a Mar_i_act_a__Beatriz Mar_i_act_a__Cristina Mar_i_act_a__Elena Mar_i_act_a__Teresa Margarita Mariana
 			Natalia Nemesia
 			Olivia
 			Paola
@@ -358,7 +358,7 @@ graphical_cultures = {
 			In_e_act_s Isabel
 			Jessica Julia Julieta
 			Laura Lidia Liliana Luc_i_act_a Luciana Luisa
-			Mar_i_act_a Mar_i_act_a_Cecilia Mar_i_act_a_Elena Mar_i_act_a_Laura Mar_i_act_a_Teresa Marcela Margarita Mariana
+			Mar_i_act_a Mar_i_act_a__Cecilia Mar_i_act_a__Elena Mar_i_act_a__Laura Mar_i_act_a__Teresa Marcela Margarita Mariana
 			Nila
 			Paula
 			Rilda Rosa Rosario
@@ -755,7 +755,7 @@ graphical_cultures = {
 			Isabel Isidora
 			Juana Julia Juliana Julieta
 			Lorena Lourdes Loyola Luc_i_act_a Lucila Luisa
-			M_a_act_xima M_e_act_lida M_o_act_nica Mar_i_act_a Mar_i_act_a_Cristina Mar_i_act_a_Eugenia Mar_i_act_a_Teresa Mariana Marina Marta Matilde Mercedes Modesta
+			M_a_act_xima M_e_act_lida M_o_act_nica Mar_i_act_a Mar_i_act_a__Cristina Mar_i_act_a__Eugenia Mar_i_act_a__Teresa Mariana Marina Marta Matilde Mercedes Modesta
 			N_e_act_lida Nicasia Noem_i_act_
 			Patricia Paula Peregrina Pl_a_act_cida
 			Rosario
@@ -981,7 +981,7 @@ graphical_cultures = {
 			Gabriela Georgina Gladys Graciela
 			Julieta
 			Lucila
-			M_a_act_xima M_o_act_nica Manuela Mar_i_act_a Mar_i_act_a_Luisa Mar_i_act_a_Teresa Mariana Marina Martha
+			M_a_act_xima M_o_act_nica Manuela Mar_i_act_a Mar_i_act_a__Luisa Mar_i_act_a__Teresa Mariana Marina Martha
 			Olinda
 			Rudecinda Ruth
 			Severiana Sonia Susana
@@ -1229,7 +1229,7 @@ graphical_cultures = {
 			F_e_act_lix Fernando Francisco
 			Gabriel Gamaniel Germ_a_act_n Graciano Gregorio
 			H_e_act_ctor Hern_a_act_n Hildebrando Hugo
-			Ignaico Inocencio Isa_i_act_as Israel
+			Ignacio Inocencio Isa_i_act_as Israel
 			Jacinto Jaime Javier Jerem_i_act_as Jes_u_act_s Joel Jos_e_act_ Jos_e_act__Antonio Jos_e_act__Luis Jos_e_act__Mar_i_act_a Josu_e_act_ Juan Juan_de_Dios Juan_Carlos Juan_Jos_e_act_ Juan_Manuel Juan_Miguel
 			Lizardo Luis
 			M_a_act_ximo Manuel Marcelino Mart_i_act_n Mauro Mes_i_act_as Miguel Miguel_A_act_ngel Misael Mois_e_act_s
@@ -1254,7 +1254,7 @@ graphical_cultures = {
 			Isabel
 			Juana Julia Juliana
 			Leonor Lidia Liliana Lorenza Lourdes Luc_i_act_a Lucila Luisa Luz Luz_Mar_i_act_a
-			Mar_i_act_a Mar_i_act_a_Clara Mar_i_act_a_Elvira Mar_i_act_a_Luisa Mar_i_act_a_Sof_i_act_a Margarita Maribel Marisol Maritza Marleni Martha Matilde Mercedes Milagros Miriam
+			Mar_i_act_a Mar_i_act_a__Clara Mar_i_act_a__Elvira Mar_i_act_a__Luisa Mar_i_act_a__Sof_i_act_a Margarita Maribel Marisol Maritza Marleni Martha Matilde Mercedes Milagros Miriam
 			Nancy Nidia
 			Olga Olinda Otilia
 			Reyna Roc_i_act_o Rosa Rosa_Luz Rosalba Rosario Rudecinda Ruth

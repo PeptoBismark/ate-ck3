@@ -116,7 +116,7 @@ c_rioverde;174;30;111;Rioverde
 c_maiz;190;224;28;Maíz
 c_ciudad_valles;54;227;35;Ciudad Valles
 c_tamazunchale;40;139;29;Tamazunchale
-c_cardenas;97;136;161;Cárdenas
+c_cienga;97;136;161;Ciénega
 c_toliman;132;136;54;Tolimán
 c_iturbide;190;76;148;Iturbide
 c_dolores;137;35;162;Dolores
@@ -232,6 +232,129 @@ c_texcoco;44;64;84;Texcoco
 c_cholula;16;231;85;Cholula
 c_orizaba;161;246;55;Orizaba
 
+c_darien;138;87;26;Darién
+c_san_blas;214;178;129;San Blas
+c_chepo;134;225;54;Chepo
+c_las_perlas;181;71;64;Las Perlas
+c_panama;79;227;92;Panamá
+c_la_chorrera;196;198;134;La Chorrera
+c_colon;200;104;42;Colón
+c_penonome;176;170;93;Penonomé
+c_herrera;200;117;127;Herrera
+c_veraguas;41;89;83;Veraguas
+c_ngabe_bugle;187;73;140;Ngäbe-Buglé
+c_tabasara;146;157;122;Tabasará
+c_david;227;222;147;David
+c_bocas_del_toro;166;26;25;Bocas del Toro
+c_osa;71;143;154;Osa
+c_san_jose;202;134;172;San José
+c_cartago;210;229;189;Cartago
+c_limon;92;67;91;Limón
+c_heredia;218;180;18;Heredia
+c_alajuela;131;72;146;Alajuela
+c_puntarenas;192;230;62;Puntarenas
+c_liberia;104;191;20;Liberia
+c_rivas;24;120;29;Rivas
+c_managua;29;210;100;Managua
+c_monimbo;162;70;3;Monimbó
+c_chontales;206;155;77;Chontales
+c_rio_san_juan;101;98;166;Río San Juan
+c_bluefields;55;47;9;Bluefields
+c_nueva_guinea;150;129;92;Nueva Guinea
+c_wawashang;125;140;144;Wawashang
+c_bonanza;175;99;123;Bonanza
+c_puerto_cabezas;25;121;47;Puerto Cabezas
+c_jinotega;206;135;150;Jinotega
+c_siuna;140;42;13;Siuna
+c_matagalpa;58;66;194;Matagalpa
+c_nueva_segovia;189;20;188;Nueva Segovia
+c_xolotlan;50;46;71;Xolotlán
+c_choluteca;167;157;29;Choluteca
+c_el_paraiso;142;84;63;El Paraíso
+c_juticalpa;221;201;119;Juticalpa
+c_guaype;74;167;93;Guaype
+c_trujillo;170;83;48;Trujillo
+c_puerto_lempira;157;62;77;Puerto Lempira
+c_roatan;130;142;122;Roatán
+c_atlantida;185;79;141;Atlántida
+c_yoro;131;93;17;Yoro
+c_siguatepeque;39;163;83;Siguatepeque
+c_tegucigalpa;182;50;150;Tegucigalpa
+c_comayagua;147;161;144;Comayagua
+c_intibuca;92;170;73;Intibucá
+c_copan;35;130;117;Copán
+c_santa_barbara;100;39;83;Santa Bárbara
+c_san_pedro_sula;227;118;95;San Pedro Sula
+c_morazan;86;55;8;Morazán
+c_san_miguel;223;60;147;San Miguel
+c_usulutan;83;111;106;Usulután
+c_cuscatlan;81;147;78;Cuscatlán
+c_san_salvador;43;49;114;San Salvador
+c_el_imposible;22;157;174;El Imposible
+c_jutiapa;104;66;148;Jutiapa
+c_jalapa;79;59;176;Jalapa
+c_izabal;227;122;32;Izabal
+c_quiche;22;175;88;Quiché
+c_guatemala;135;120;95;Guatemala
+c_escuintla;35;161;157;Escuintla
+c_suchitepequez;163;80;149;Suchitepéquez
+c_quetzaltenango;164;85;31;Quetzaltenango
+c_chimaltenango;145;175;135;Chimaltenango
+c_huehuetenango;21;28;173;Huehuetenango
+c_verapaz;102;104;36;Verapaz
+c_coban;137;182;150;Cobán
+c_sayaxche;83;22;173;Sayaxché
+c_poptun;67;146;50;Poptún
+c_machaquila;136;206;162;Machaquilá
+c_peten_itza;82;33;191;Petén Itzá
+c_tikal;194;161;25;Tikal
+c_laguna_del_tigre;155;49;172;Laguna del Tigre
+c_toledo;170;104;160;Toledo
+c_belize;160;202;60;Belize
+c_cayo;126;187;66;Cayo
+c_orange_walk;153;115;5;Orange Walk
+c_xpujil;176;163;139;Xpujil
+c_chetumal;142;111;44;Chetumal
+c_chichancanab;117;164;0;Chichancanab
+c_felipe_carrillo_puerto;22;69;98;Felipe Carrillo Puerto
+c_tulum;243;196;143;Tulum
+c_solidaridad;79;183;38;Solidaridad
+c_cozumel;153;159;5;Cozumel
+c_cancun;182;39;46;Cancún
+c_tizimin;207;205;71;Tizimín
+c_valladolid;87;55;116;Valladolid
+c_espita;93;214;160;Espita
+c_tekax;187;158;129;Tekax
+c_kanasin;247;239;89;Kanasín
+c_motul;165;219;24;Motul
+c_merida;23;78;102;Mérida
+c_uman;156;34;63;Umán
+c_ticul;30;216;189;Ticul
+c_calkini;163;61;102;Calkiní
+c_hopelchen;160;49;55;Hopelchén
+c_campeche;39;24;189;Campeche
+c_champoton;101;170;83;Champotón
+c_escarcega;25;108;101;Escárcega
+c_;184;138;127;Calakmul
+c_candelaria;178;198;113;Candelaria
+c_carmen;207;96;98;Carmen
+c_usumacinta;211;131;56;Usumacinta
+c_grijalva;67;148;58;Grijalva
+c_villahermosa;219;124;155;Villahermosa
+c_cardenas;109;75;82;Cárdenas
+c_teapa;79;114;37;Teapa
+c_tapachula;29;148;185;Tapachula
+c_tonala;90;142;158;Tonalá
+c_cintalapa;54;193;192;Cintalapa
+c_villaflores;197;183;160;Villaflores
+c_jaltenango;49;56;197;Jaltenango
+c_comitan;216;204;25;Comitán
+c_tuxtla;165;117;50;Tuxtla
+c_san_cristobal;31;218;65;San Cristóbal
+c_ocosingo;202;28;69;Ocosingo
+c_marques_de_comillas;201;140;126;Marqués de Comillas
+c_palenque;54;98;71;Palenque
+
 #Duchies
 d_;;;;
 d_baja_sur;245;212;251;Baja Sur
@@ -314,7 +437,7 @@ d_matagalpa;150;91;146;Matagalpa
 d_mosquito_coast;199;50;66;Mosquito Coast
 d_gracias_a_dios;225;87;51;Gracias a Dios
 d_guanacaste;139;126;188;Guanacaste
-d_talamanca;35;206;186;Talamanca
+d_san_jose;35;206;186;San José
 d_chiriqui;103;196;196;Chiriquí
 d_cocle;23;104;164;Coclé
 d_panama;66;184;226;Panamá
