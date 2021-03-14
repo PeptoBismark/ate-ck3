@@ -199,7 +199,7 @@ concentric_religion = {
 
 	faiths = {
 		earthvault = {
-			color = { 42 23 9 } #official Vikings team color
+			color = { 42 23 9 } 
 
 			icon = earthvault
 			reformed_icon = vault_reformed
@@ -211,7 +211,7 @@ concentric_religion = {
 			doctrine = tenet_ritual_celebration
 		}
 		#earthvault_reformed = {
-		#	color = { 255 198 47 } #the other official vikings team color
+		#	color = { 255 198 47 } 
 		#	icon = earthvault
 		#}
 	}

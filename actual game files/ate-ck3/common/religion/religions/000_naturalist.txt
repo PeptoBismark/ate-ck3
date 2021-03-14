@@ -222,7 +222,7 @@
 			doctrine = tenet_communal_identity
 		}
 		
-			darwinian = {
+		darwinian = {
 			color = { 21 81 22 }
 			icon = darwinian
 			
