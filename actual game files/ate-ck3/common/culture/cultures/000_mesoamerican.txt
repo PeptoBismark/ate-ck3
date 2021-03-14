@@ -1554,4 +1554,129 @@ graphical_cultures = {
 		mother_name_chance = 0
 
 	}
+	lenca = {
+
+		ethnicities = {
+	75 = mesoamerican
+	25 = med_indigenous
+}
+			color = { 244 99 20 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	talamancan = {
+
+		ethnicities = {
+	75 = mesoamerican
+	25 = med_indigenous
+}
+			color = { 147 78 41 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	ngabe = {
+
+		ethnicities = {
+	75 = mesoamerican
+	25 = med_indigenous
+}
+			color = { 34 26 85 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	guna = {
+
+		ethnicities = {
+	75 = mesoamerican
+	25 = med_indigenous
+}
+			color = { 188 111 88 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	embera = {
+
+		ethnicities = {
+	75 = mesoamerican
+	25 = med_indigenous
+}
+			color = { 34 128 46 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
 }
