@@ -110,7 +110,7 @@ c_peel;35;104;126;Peel
 c_hamilton;216;56;30;Hamilton
 c_niagara;60;96;139;Niagara
 c_brant;81;94;112;Brant
-c_middlesex;208;89;101;Middlesex
+c_london;208;89;101;London
 c_essex;72;113;182;Essex
 c_lambton;32;143;45;Lambton
 c_huron;43;126;40;Huron

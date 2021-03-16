@@ -672,39 +672,27 @@ d_magdalena = {
 	}
 }
 
-k_panama_puente_grande = {
-	pattern = "pattern_checkers_diagonal_01.dds"
-	color1 = "blue"
-	color2 = "green_light"
-	colored_emblem = {
-		texture = "ce_sun.dds"
-		color1 = "yellow"
-		color2 = "yellow"
-		instance = { position = { 0.25 0.5 } scale = { 0.3 0.3 }  }
-	}
-	colored_emblem = {
-		texture = "ce_buddhist_moon.dds"
-		color1 = "white"
-		color2 = "white"
-		instance = { position = { 0.75 0.5 } scale = { 0.3 0.3 }  }
-	}
-}
-
 k_panama = {
-	pattern = "pattern_checkers_diagonal_01.dds"
-	color1 = "blue"
-	color2 = "green_light"
+	pattern = "pattern_checkers_01.dds"
+	color1 = "white"
+	color2 = "red"
 	colored_emblem = {
-		texture = "ce_sun.dds"
-		color1 = "yellow"
-		color2 = "yellow"
-		instance = { position = { 0.25 0.5 } scale = { 0.3 0.3 }  }
+		texture = "ce_block_02.dds"
+		color1 = "blue"
+		color2 = "blue"
+		instance = { position = { 0.75 0.25 } scale = { 0.5 0.5 }  }
 	}
 	colored_emblem = {
-		texture = "ce_buddhist_moon.dds"
-		color1 = "white"
-		color2 = "white"
-		instance = { position = { 0.75 0.5 } scale = { 0.3 0.3 }  }
+		texture = "ce_star_05.dds"
+		color1 = "blue"
+		color2 = "blue"
+		instance = { position = { 0.3 0.3 } scale = { 0.3 0.3 }  }
+	}
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "red"
+		color2 = "red"
+		instance = { position = { 0.7 0.7 } scale = { 0.3 0.3 }  }
 	}
 }
 
@@ -756,62 +744,39 @@ d_panama = {
 		texture = "ce_gun.dds"
 		color1 = "brown"
 		color2 = "grey"
-		instance = { position = { 0.3 0.2 } scale = { 0.3 0.3 } rotation = 45  }
+		instance = { position = { 0.3 0.2 } scale = { 0.35 0.35 } rotation = 45  }
 	}
 	colored_emblem = {
 		texture = "ce_sword_simple.dds"
 		color1 = "brown"
 		color2 = "grey"
-		instance = { position = { 0.3 0.2 } scale = { 0.3 0.3 } rotation = 45  }
-	}
-	
-	
-	colored_emblem = {
-		texture = "ce_keys_crossed.dds"
-		color1 = "white"
-		color2 = "white"
-		instance = { position = { 0.7 0.2 } scale = { 0.3 -0.3 } }
+		instance = { position = { 0.3 0.2 } scale = { 0.4 0.4 } rotation = 45  }
 	}
 	colored_emblem = {
 		texture = "ce_boathooks.dds"
-		color1 = "white"
-		color2 = "white"
-		instance = { position = { 0.7 0.2 } scale = { 0.3 -0.3 } }
+		color1 = "grey"
+		color2 = "grey"
+		instance = { position = { 0.7 0.2 } scale = { 0.4 0.4 } }
 	}
 	
 	colored_emblem = {
 		texture = "ce_cornucopia_vertical.dds"
 		color1 = "yellow"
 		color2 = "yellow"
-		instance = { position = { 0.3 0.75 } scale = { 0.2 0.2 } }
+		instance = { position = { 0.3 0.77 } scale = { 0.2 0.2 } }
 	}
 	
 	colored_emblem = {
 		texture = "ce_wings.dds"
 		color1 = "yellow"
 		color2 = "yellow"
-		instance = { position = { 0.7 0.75 } scale = { 0.25 0.25 } }
+		instance = { position = { 0.7 0.77 } scale = { 0.25 0.25 } }
 	}
 	colored_emblem = {
 		texture = "ce_wheel.dds"
 		color1 = "yellow"
 		color2 = "yellow"
-		instance = { position = { 0.7 0.8 } scale = { 0.2 0.2 } }
-	}
-}
-d_darien = {
-	pattern = "pattern_diagonal_split_01.dds"
-	color1 = "blue_light"
-	color2 = "green"
-	
-	colored_emblem = {
-		texture = "ce_star_05.dds"
-		color1 = "yellow"
-		color2 = "blue_light"
-		instance = { position = { 0.25 0.7 } scale = { 0.25 0.25 }  }
-		instance = { position = { 0.4 0.5 } scale = { 0.25 0.25 }  }
-		instance = { position = { 0.6 0.5 } scale = { 0.25 0.25 }  }
-		instance = { position = { 0.75 0.7 } scale = { 0.25 0.25 }  }
+		instance = { position = { 0.7 0.82 } scale = { 0.2 0.2 } }
 	}
 }
 d_chiriqui = {
@@ -850,55 +815,40 @@ d_chiriqui = {
 		instance = { position = { 0.7 0.7 } scale = { 0.4 0.4 }  }
 	}
 }
-d_coiba = {
-	pattern = "pattern_solid.dds"
-	color1 = "blue"
-	color2 = "blue"
+d_cocle = {
+	pattern = "pattern_vertical_stripes_02.dds"
+	color1 = "red"
+	color2 = "black"
 	
 	colored_emblem = {
-		texture = "ce_chains.dds"
+		texture = "ce_block_02.dds"
 		color1 = "white"
 		color2 = "white"
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+		mask = { 1 }
+		instance = { position = { 0.75 0.5 } scale = { 0.5 1.0 }  }
 	}
 	colored_emblem = {
-		texture = "ce_parrot_01.dds"
-		color1 = "red"
-		color2 = "yellow"
-		instance = { position = { 0.5 0.5 } scale = { 0.66 0.66 }  }
-	}
-}
-
-k_panama_flag = {
-	pattern = "pattern_solid.dds"
-	color1 = "white"
-	color2 = "white"
-	colored_emblem = {
-		texture = "ce_block_02.dds"
-		color1 = "red"
-		color2 = "red"
-		instance = { position = { 0.75 0.25 } scale = { 0.5 0.5 }  }
+		texture = "ce_diamond_01.dds"
+		color1 = "black"
+		color2 = "black"
+		instance = { position = { 0.25 0.3 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.15 0.5 } scale = { 0.3 0.3 }  }
 	}
 	colored_emblem = {
-		texture = "ce_block_02.dds"
-		color1 = "blue"
-		color2 = "blue"
-		instance = { position = { 0.25 0.75 } scale = { 0.5 0.5 }  }
+		texture = "ce_diamond_01.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.5 0.2 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.5 0.6 } scale = { 0.3 0.3 }  }
 	}
 	colored_emblem = {
-		texture = "ce_star_05.dds"
-		color1 = "blue"
-		color2 = "blue"
-		instance = { position = { 0.25 0.25 } scale = { 0.5 0.5 }  }
-	}
-	colored_emblem = {
-		texture = "ce_star_05.dds"
+		texture = "ce_diamond_01.dds"
 		color1 = "red"
 		color2 = "red"
-		instance = { position = { 0.75 0.75 } scale = { 0.5 0.5 }  }
+		instance = { position = { 0.75 0.3 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.85 0.5 } scale = { 0.3 0.3 }  }
 	}
 }
-
 
 
 ####Venezuela
