@@ -759,7 +759,7 @@
 			Guilherme Gaspariano Gabriel
 			Hon_o_act_rio Hort_e_hat_ncio
 			In_a_act_cio Irineu
-			J_u_act_lio  Jorge Jacinto Janu_a_act_rio Jesu_i_act_no Jo_a_tld_o Jo_a_tld_o_Ces_a_act_rio Jo_a_tld_o_Cirino Jo_a_tld_o_Davi Jo_a_tld_o_Marculino Jo_a_tld_o_Mariano Jo_a_tld_o_Severiano Joaquim Joaquim_Jos_e_act_ Jos_e_act_ Jos_e_act__Ant_o_hat_nio Jos_e_act__Bernardo Jos_e_act__Davi Jos_e_act__Ded_e_act_ Jos_e_act__Felipe Jos_e_act__Francisco Jos_e_act__Lino Jos_e_act__Pedro Jos_e_act__Val_e_act_rio Jovino_Cirino
+			J_u_act_lio Jorge Jacinto Janu_a_act_rio Jesu_i_act_no Jo_a_tld_o Jo_a_tld_o_Ces_a_act_rio Jo_a_tld_o_Cirino Jo_a_tld_o_Davi Jo_a_tld_o_Marculino Jo_a_tld_o_Mariano Jo_a_tld_o_Severiano Joaquim Joaquim_Jos_e_act_ Jos_e_act_ Jos_e_act__Ant_o_hat_nio Jos_e_act__Bernardo Jos_e_act__Davi Jos_e_act__Ded_e_act_ Jos_e_act__Felipe Jos_e_act__Francisco Jos_e_act__Lino Jos_e_act__Pedro Jos_e_act__Val_e_act_rio Jovino_Cirino
 			Laurindo Livino Lu_i_act_s Lu_i_act_s_Pedro Lu_i_act_s_Sabino Lucas
 			Manuel Manuel_A_hat_ngelo Manuel_Benedito Manuel_Lucas Manuel_V_i_act_tor Marcolino Marculino Mariano Massilon Mateus Miguel Miguel_In_a_act_cio Morma_c_ced_o
 			Neco Nicolau Nereu
@@ -1031,6 +1031,11 @@
 			"dynn_Planaltino"
 			"dynn_Takahashi"
 			"dynn_Kobayashi"
+			"dynn_Buarque"
+			"dynn_de_Hollanda"
+			"dynn_Cordial"
+			"dynn_Sanz"
+			"dynn_Coimbra"
 		}
 		dynasty_names = {
 			"dynn_de_Noronha"
@@ -1254,13 +1259,18 @@
 			"dynn_Planaltino"
 			"dynn_Takahashi"
 			"dynn_Kobayashi"
+			"dynn_Buarque"
+			"dynn_de_Hollanda"
+			"dynn_Cordial"
+			"dynn_Sanz"
+			"dynn_Coimbra"
 		}
 		male_names = {
 			Adalberto Andr_e_act_ Armando Augusto Arslan Adrian Alex Alfredo Amida Arakan Atsushi
 			Baldu_i_act_no Ben_i_act_cio Baltazar Ba-Tu Baek Bartolomeu Benedito Bernardo Boleslau
 			Charles C_i_act_cero Clementino Cl_a_act_udio C_e_act_zar Cipriano Cirilo Constantino
 			D_a_act_cio Danilo Daeshim Damien Dar_i_act_o
-			Edgar Eduardo Eg_i_act_dio Edmundo Ena
+			Est_a_act_cio Eduardo Eg_i_act_dio Edmundo Ena
 			F_a_act_bio Felipe Fernando Francisco Fabiano F_e_act_lix Ferdinando Fl_o_act_rian Frederico
 			Gabriel Geraldo Gilson Gonzaga Gustavo
 			Harlan Humberto Hyun Henrique Hailton Hip_o_act_lito Honrado Humberto Hiroshi
@@ -1285,12 +1295,12 @@
 		female_names = {
 			Adalgiza Adriana Alice Aline Alva Alzira Amanda Amara Am_e_act_lia Ana Ant_o_hat_nia Adelaida Adela Agniezka Anast_a_act_cia Alberta Antonina Aika Aiko Akihiko
 			Beatriz Branca Bruna Boleslava Br_i_act_gida
-			Carlota C_i_act_cera Cl_a_act_udia Cristiana Cristiane Celestina Constan_c_ced_a Cho
-			Dandara Dagmar Daniella Diana Dominique Dorothea Den
+			Carlota C_i_act_cera Cl_a_act_udia Cristina Celestina Constan_c_ced_a Cho
+			Dagmar Daniella Diana Dominique Dorothea Den
 			Edite Eliane Elizabete Elizabetana Eleonor Elvira
 			Francisca Fel_i_act_cia Filipina Floriana Frederica Fumiko
 			Gabriella Gaia Gertruda Greta Gustava
-			Helena Hip_o_act_lita Honorata Hanako
+			Helena Hip_o_act_lita Honorata Hanako Helo_i_act_sa
 			Isabela Ida Iga In_a_act_cia Ilona Irena Izolda Irineide Iadviga Ianka
 			Je_act_ssica Joanna Josefa Judita Ju_act_lia Juliana Juliane Iaroslava
 			Katarina Kaia Karina Karolina Karola Katarina Kunigunda Kimiko
@@ -3152,27 +3162,24 @@
 			"dynn_Estrela"
 		}
 		male_names = {
-			A_hat_ngelo Alexandre Am_a_hat_ncio Andr_e_act_ Andrelino Ant_a_tld_o Ant_o_hat_nio Ant_o_hat_nio_Andr_e_act_ Ant_o_hat_nio_Augusto Ant_o_hat_nio_Bernardo Ant_o_hat_nio_Francisco Ant_o_hat_nio_Jos_e_act_ Ant_o_hat_nio_Mariano Ant_o_hat_nio_Thomaz Ant_o_hat_nio_Val_e_act_rio Artur_Jos_e_act_
-			Ben_i_act_cio Benedito Barnab_e_act_ Baldu_i_act_no Baltazar Bernardo Bosco
-			C_i_act_cero Carrasco Cassimiro Chico Cirilo Cirilo_Ant_a_tld_o Clementino Clementino_Jos_e_act_ Constantino Corn_e_act_lio Cust_o_act_dio
-			Dam_a_act_sio Dami_a_tld_o Dativo Deco Deodato Domingos Domiciano Dion_i_act_sio Deco Dalvo
-			Elp_i_act_dio Ezequel Edival Edilson Esremo Edmundo Edgar Efraim
-			Feliciano Firmino Firmo_Jos_e_act_ Flaviano Floro Francelino_Jos_e_act_ Francisco Fogo
-			Guilhermino Gustavo Gilberto Gaspar Genevivo Genecias Gildenemir
-			Hon_o_act_rio Hort_e_hat_ncio Hugo Haroldo Harlan Hip_o_act_lito
-			In_a_act_cio Inaldo Irenildo I_act_lon Ido Ismael Isidoro Iber_e_hat_
-			J_u_act_lio Jacinto Janu_a_act_rio Jesu_i_act_no Jo_a_tld_o Jo_a_tld_o_Ces_a_act_rio Jo_a_tld_o_Cirino Jo_a_tld_o_Davi Jo_a_tld_o_Marculino Jo_a_tld_o_Mariano Jo_a_tld_o_Severiano Joaquim Joaquim_Jos_e_act_ Jos_e_act_ Jos_e_act__Ant_o_hat_nio Jos_e_act__Bernardo Jos_e_act__Davi Jos_e_act__Ded_e_act_ Jos_e_act__Felipe Jos_e_act__Francisco Jos_e_act__Lino Jos_e_act__Pedro Jos_e_act__Val_e_act_rio Jovino_Cirino
+			Ant_o_hat_nio_Andr_e_act_ Ant_o_hat_nio_Augusto Ant_o_hat_nio_Bernardo Ant_o_hat_nio_Jos_e_act_ Ant_o_hat_nio_Mariano Ant_o_hat_nio_Val_e_act_rio
+			Baldu_i_act_no Bosco
+			Clementino Constantino Corn_e_act_lio
+			Deco Domingos
+			Efraim
+			Genevivo
+			Hort_e_hat_ncio Harlan Hip_o_act_lito
+			Ido Iber_e_hat_
+			J_u_act_lio Jacinto Janu_a_act_rio Jesu_i_act_no Jo_a_tld_o Jos_e_act_
 			Laurindo Livino Lu_i_act_s Lu_i_act_s_Pedro Lu_i_act_s_Sabino Lucas
-			Manuel Manuel_A_hat_ngelo Manuel_Benedito Manuel_Lucas Manuel_V_i_act_tor Marcolino Marculino Mariano Massilon Mateus Miguel Miguel_In_a_act_cio Morma_c_ced_o
-			Neco Nicolau Nabucodonosor Nabal Nagibe N_i_act_talo Nemo No_e_hat_mio
-			Orestes Oceano Onofre Odilon Odorico Otaviano Ot_o_hat_nio
-			Paulino Pedro Pedro_Francisco Pedro_Jos_e_act_ Pedro_Paulo Pl_i_act_nio
+			Marcolino Massilon Miguel
+			Nabucodonosor Nemo
+			Orestes Oceano Onofre Ot_o_hat_nio
+			Pedro Paulo Pedro_Francisco Pedro_Jos_e_act_ Pedro_Paulo Pl_i_act_nio
 			Quintino Quatro-de-Janeiro Quba
-			Raimundo Raimundo_Agostinho Raimundo_Constantino Raimundo_Patr_i_act_cio Ricardo
-			Sabino Sebasti_a_tld_o Sabino Salatiel Sal Saem Saulo Severo Severino
-			Teot_o_hat_nio Terto Tib_u_act_rcio Toinho Torquato
-			Ulisses Ursulino Ursulino Undino Ubirajara Ubiratan
-			Valderedo Ven_a_hat_ncio Vicente Virg_i_act_nio Virgulino Vaidon Valdomir Valderedo
+			Francisco_Afonso Francisco_Daniel Francisco_Gabriel Francisco_Jos_e_act_ Francisco_Lu_i_act_s Francisco_Manuel Francisco_Maria Francisco_Sancler Francisco_Xavier Francisco_Andr_e_act_ Francisco_Jo_a_tld_o Francisco_Jos_e_act_ Francisco_Miguel Francisco_Alexandre Francisco_Rafael Francisco_Ant_o_hat_nio Francisco_Felipe Francisco_Jorge Francisco_Daniel Francisco_Dinis Francisco_Martim Francisco_Tom_a_act_s Francisco_Pedro Francisco_Eduardo Francisco_Henrique Francisco_Salvador Francisco_Augusto Francisco_Guilherme Francisco_Alberto Francisco_Fernando Francisco_Leandro Francisco_Samuel Francisco_Vicente Francisco_Benjamim Francisco_Caetano Francisco_Jesus Francisco_Assis Francisco_Galeano Francisco_Geraldo Francisco_Israel Francisco_Luz Francisco_Mariano Francisco_Romualdo Francisco_Santiago Francisco_Valentim Francisco_Sim_a_tld_o Francisco_Vitorioso Francisco_Feliciano Francisco_Flaviano Francisco_Floriano Francisco_Fogo Francisco_Feliciano Francisco_Firmino Francisco_Alexandre Francisco_Andrelino Francisco_A_hat_ngelo Francisco_Am_a_hat_ncio Francisco_Ant_a_tld_o Francisco_Benedito Francisco_Bernardo Francisco_Baltazar Francisco_Barnab_e_act_ Francisco_Cassimiro Francisco_Cirilo Francisco_Clementino Francisco_Cust_o_act_dio Francisco_Dami_a_tld_o Francisco_Dam_a_act_sio Francisco_Dativo Francisco_Deodato Francisco_Dion_i_act_sio Francisco_Dalvo Francisco_Elp_i_act_dio Francisco_Ezequiel Francisco_Edival Francisco_Esmero Francisco_Edgar Francisco_Guilhermino Francisco_Gustavo Francisco_Gilberto Francisco_Gaspar Francisco_Genecias Francisco_Hon_o_act_rio Francisco_Haroldo Francisco_In_a_act_cio Francisco_Inaldo Francisco_Irenildo Francisco_I_act_lon Francisco_Ismael Francisco_Isidoro Francisco_Marcolino Francisco_No_e_hat_mio Francisco_N_i_act_talo Francisco_Nagibe Francisco_Nicolau Francisco_Odilon Francisco_Otaviano Francisco_Odorico Francisco_Paulo Francisco_Paulino Francisco_Raimundo Francisco_Sabino Francisco_Salatiel Francisco_Saul Francisco_Saulo Francisco_Severo Francisco_Severino Francisco_Teot_o_hat_nio Francisco_Terto Francisco_Torquato Francisco_Ulisses Francisco_Ursulino Francisco_Undino Francisco_Ubirajara Francisco_Ubiratan Francisco_Valderedo Francisco_Ven_a_hat_ncio Francisco_Virg_i_act_nio Francisco_Vaidon Francisco_Valdomir Francisco_Mateus
+			Francisco_Manuel_Benedito Francisco_Raimundo_Agostinho Francisco_Pedro_Paulo Francisco_Constantino_Mateus
+			Francisco_Francisco
 		}
 		female_names = {
 			Adriana Alice Aline Alva Alzira Amanda Amara Amelia Ana Ant_o_hat_nia Aretuza Arlinda
@@ -3615,7 +3622,7 @@
 			"dynn_Argos"
 		}
 		male_names = {
-			Artur Afonso Apolo Anteros A_act_ureo Alpheu Ascl_e_act_pio Ares Abra_a_tld_o Afonso Alb_e_act_rico Almir Aloysio Antonio Ant_o_hat_nio Armando Arnon Arthur Ary Augusto Aur_e_act_lio 
+			Artur Afonso Apolo Anteros A_act_ureo Alpheu Ascl_e_act_pio Ares Abra_a_tld_o Afonso Alb_e_act_rico Almir Aloysio Ant_o_hat_nio Armando Arnon Arthur Ary Augusto Aur_e_act_lio 
 			Benedito B_a_act_rbaro Boreas Baldu_i_act_no Bello Bernardo Bom
 			Carlos Cratos Celso Cleto Cristiano C_e_act_sar C_i_act_cero Caetano
 			Delphim Danilo Divaldo D_e_act_lio Deodoro Dion_i_act_sio Dalvo Delphim
@@ -3636,7 +3643,7 @@
 			Talvane Tancredo Tem_o_act_teo Teobaldo Teot_o_hat_nio T_a_hat_nato
 			Venceslau Vin_i_act_cio Vit_o_act_rio Vaidon Vasco Vasileu Vincente
 			Washington Walder Wicentino
-			Zeus Z_e_act_firo Z_e_act_lo Zacarias Zazu Zero
+			Zeus Z_e_act_firo Z_e_act_lio Zacarias Zazu Zero
 		}
 		female_names = {
 			Afrodite Aglaia A_act_urea A_act_rtemis Atena Adriana Alice Aline Alva Alzira Amanda Amara Amelia Ana Ant_o_hat_nia Aretuza Arlinda
