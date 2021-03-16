@@ -325,8 +325,36 @@ accessory_genes = {
 				1 = female_cloaks_secular_western_royalty_01
 			}
 		}
-		tilmahtli_common = {
+		fp1_cloak = {
 			index = 2
+			male = {
+				1 = male_cloaks_secular_fp1_nobility_01
+				1 = male_cloaks_secular_fp1_nobility_02
+				1 = male_cloaks_secular_fp1_nobility_03
+				1 = male_furs_secular_fp1_nobility_01
+				1 = male_furs_secular_fp1_nobility_02
+				1 = male_furs_secular_fp1_nobility_03
+			}
+			female = {
+				1 = female_cloaks_secular_fp1_nobility_01
+				1 = female_cloaks_secular_fp1_nobility_02
+				1 = female_cloaks_secular_fp1_nobility_03
+				1 = female_furs_secular_fp1_nobility_01
+				1 = female_furs_secular_fp1_nobility_02
+				1 = female_furs_secular_fp1_nobility_03
+			}
+		}
+		fp1_cloak_berserker = {
+			index = 3
+			male = {
+				1 = male_furs_secular_fp1_nobility_03
+			}
+			female = {
+				1 = empty
+			}
+		}
+		tilmahtli_common = {
+			index = 4
 			male = {
 				1 = male_tilmahtli_common
 			}
@@ -335,7 +363,7 @@ accessory_genes = {
 			}
 		}
 		tilmahtli_low = {
-			index = 3
+			index = 5
 			male = {
 				1 = male_tilmahtli_low
 			}
@@ -344,7 +372,7 @@ accessory_genes = {
 			}
 		}
 		tilmahtli_high = {
-			index = 4
+			index = 6
 			male = {
 				1 = male_tilmahtli_high
 			}
@@ -353,7 +381,7 @@ accessory_genes = {
 			}
 		}
 		andean_cloak_high = {
-			index = 5
+			index = 7
 			male = {
 				1 = male_andean_cloak
 			}

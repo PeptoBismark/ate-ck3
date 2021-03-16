@@ -1002,6 +1002,101 @@ accessory_genes = {
             girl = female
 		}		
 
+	## FP1 - Fury of the Northmen ##
+
+		fp1_common = {
+			index = 70
+			male = {
+				1 = male_headgear_secular_fp1_common_01
+				1 = male_headgear_secular_fp1_common_02
+				
+			}
+			female = {
+				1 = female_headgear_secular_fp1_common_01
+				1 = female_headgear_secular_fp1_common_02
+				
+			}
+		}
+
+		fp1_low_nobility = {
+			index = 76
+			male = {
+				2 = male_headgear_secular_fp1_nobility_01
+				1 = male_headgear_secular_fp1_common_01
+				1 = male_headgear_secular_fp1_common_02
+				
+			}
+			female = {
+				1 = female_headgear_secular_fp1_common_01
+				1 = female_headgear_secular_fp1_common_02
+				
+			}
+		}
+
+		fp1_nobility = {
+			index = 71
+			male = {
+				1 = male_headgear_religious_northern_high_01
+
+			}
+			female = {
+				1 = female_headgear_secular_fp1_nobility_01
+				1 = female_headgear_secular_fp1_nobility_02
+				1 = female_headgear_secular_fp1_nobility_03		
+
+			}
+		}
+
+		fp1_war = {
+			index = 72
+			male = {
+				1 = male_headgear_secular_fp1_war_nobility_01
+				1 = male_headgear_secular_fp1_war_nobility_02
+
+			}
+			female = {
+				1 = female_headgear_secular_fp1_war_nobility_01	
+				1 = female_headgear_secular_fp1_war_nobility_02		
+						
+			}
+		}
+
+		fp1_war_common = { # For commoners to use, non-gilded version only
+			index = 75
+			male = {
+				1 = male_headgear_secular_fp1_war_nobility_02
+
+			}
+			female = {
+				1 = female_headgear_secular_fp1_war_nobility_02	
+						
+			}
+		}
+
+		fp1_royalty = {
+			index = 73
+			male = {
+				1 = male_headgear_secular_fp1_royalty_01
+
+			}
+			female = {
+				1 = female_headgear_secular_fp1_royalty_01		
+						
+			}
+		}
+
+		fp1_imperial = {
+			index = 74
+			male = {
+				1 = male_headgear_secular_fp1_imperial_01
+
+			}
+			female = {
+				1 = female_headgear_secular_fp1_imperial_01		
+						
+			}
+		}
+
 
 
 
@@ -1049,7 +1144,7 @@ accessory_genes = {
 
 
 		hat_cedar = {
-			index = 70
+			index = 75
 			male = {
 				1 = male_headgear_secular_haida_common_01
 				
@@ -1059,7 +1154,7 @@ accessory_genes = {
             girl = female
 		}
 		nwc_low_nobility_01 = {
-			index = 71
+			index = 76
 			male = {
 				1 = male_headgear_secular_haida_low_nobility_01
 				
@@ -1069,7 +1164,7 @@ accessory_genes = {
             girl = female
 		}
 		nwc_high_nobility_01 = {
-			index = 72
+			index = 77
 			male = {
 				1 = male_headgear_secular_haida_high_nobility_01
 				
@@ -1079,7 +1174,7 @@ accessory_genes = {
             girl = female
 		}
 		nwc_royalty = {
-			index = 73
+			index = 78
 			male = {
 				1 = male_headgear_secular_haida_royalty_01
 				
@@ -1092,7 +1187,7 @@ accessory_genes = {
 		
 		
 		hat_chullo = {
-			index = 74
+			index = 79
 			male = {
 				1 = male_headgear_secular_andean_common_01
 				
@@ -1105,7 +1200,7 @@ accessory_genes = {
             girl = female
 		}
 		andean_count_circlet = {
-			index = 75
+			index = 80
 			male = {
 				10 = male_headgear_secular_inca_count_01
 				
@@ -1118,7 +1213,7 @@ accessory_genes = {
             girl = female
 		}
 		andean_ducal_crown = {
-			index = 76
+			index = 81
 			male = {
 				10 = male_headgear_secular_inca_duke_01
 				
@@ -1131,7 +1226,7 @@ accessory_genes = {
             girl = female
 		}
 		andean_royalty = {
-			index = 77
+			index = 82
 			male = {
 				30 = male_headgear_secular_inca_royal_01
 				20 = male_headgear_secular_inca_royal_02
@@ -1146,7 +1241,7 @@ accessory_genes = {
             girl = female
 		}
 		inca_emperor = {
-			index = 78
+			index = 83
 			male = {
 				10 = male_headgear_secular_inca_imperial_01
 				
@@ -1162,7 +1257,7 @@ accessory_genes = {
 		
 		
 		hcc_crown = {
-			index = 79
+			index = 84
 			male = {
 				10 = hcc_crown
 				
@@ -1174,7 +1269,7 @@ accessory_genes = {
 		
 		
 		nwc_helmet = {
-			index = 80
+			index = 85
 			male = {
 				10 = male_headgear_secular_haida_war
 				
@@ -1186,7 +1281,7 @@ accessory_genes = {
 		
 		
 		americanist_common = {
-			index = 81
+			index = 86
 			male = {
 				10 = male_headgear_secular_ate_americanist_common_01
 				
@@ -1196,7 +1291,7 @@ accessory_genes = {
             girl = female
 		}
 		americanist_low_nobility = {
-			index = 82
+			index = 87
 			male = {
 				10 = male_headgear_secular_ate_americanist_low_nobility_01
 				
@@ -1206,7 +1301,7 @@ accessory_genes = {
             girl = female
 		}
 		americanist_high_nobility = {
-			index = 83
+			index = 88
 			male = {
 				10 = male_headgear_secular_ate_americanist_high_nobility_01
 				
@@ -1216,7 +1311,7 @@ accessory_genes = {
             girl = female
 		}
 		americanist_royalty = {
-			index = 84
+			index = 89
 			male = {
 				10 = male_headgear_secular_ate_americanist_royalty_01
 				
@@ -1229,7 +1324,7 @@ accessory_genes = {
 		
 		
 		cowboy_common = {
-			index = 85
+			index = 90
 			male = {
 				1 = male_headgear_secular_ate_cowboy_common_01
 				1 = male_headgear_secular_ate_cowboy_common_02
@@ -1244,7 +1339,7 @@ accessory_genes = {
             girl = female
 		}
 		cowboy_low_nobility = {
-			index = 86
+			index = 91
 			male = {
 				1 = male_headgear_secular_ate_cowboy_low_nobility_01
 				1 = male_headgear_secular_ate_cowboy_low_nobility_02
@@ -1259,7 +1354,7 @@ accessory_genes = {
             girl = female
 		}
 		cowboy_high_nobility = {
-			index = 87
+			index = 92
 			male = {
 				1 = male_headgear_secular_ate_cowboy_high_nobility_01
 				1 = male_headgear_secular_ate_cowboy_high_nobility_02
@@ -1274,7 +1369,7 @@ accessory_genes = {
             girl = female
 		}
 		cowboy_royalty = {
-			index = 88
+			index = 93
 			male = {
 				1 = male_headgear_secular_ate_cowboy_royalty_01
 				1 = male_headgear_secular_ate_cowboy_royalty_02
@@ -1289,7 +1384,7 @@ accessory_genes = {
             girl = female
 		}
 		cowboy_imperial = {
-			index = 89
+			index = 94
 			male = {
 				10 = male_headgear_secular_ate_cowboy_imperial_01
 				
@@ -1305,7 +1400,7 @@ accessory_genes = {
 		
 		
 		woodland_native_nobility = {
-			index = 90
+			index = 95
 			male = {
 				10 = male_headgear_secular_ate_woodland_native_nobility_01
 				
@@ -1318,7 +1413,7 @@ accessory_genes = {
             girl = female
 		}
 		woodland_native_high_nobility = {
-			index = 91
+			index = 96
 			male = {
 				10 = male_headgear_secular_ate_woodland_native_high_nobility_01
 				
@@ -1331,7 +1426,7 @@ accessory_genes = {
             girl = female
 		}
 		woodland_native_royalty = {
-			index = 92
+			index = 97
 			male = {
 				10 = male_headgear_secular_ate_woodland_native_royalty_01
 				
@@ -1344,7 +1439,7 @@ accessory_genes = {
             girl = female
 		}
 		woodland_native_imperial = {
-			index = 93
+			index = 98
 			male = {
 				10 = male_headgear_secular_ate_woodland_native_imperial_01
 				
@@ -1360,7 +1455,7 @@ accessory_genes = {
 		
 		
 		plains_native_nobility = {
-			index = 94
+			index = 99
 			male = {
 				10 = male_headgear_secular_ate_plains_native_nobility_01
 				
@@ -1373,7 +1468,7 @@ accessory_genes = {
             girl = female
 		}
 		plains_native_high_nobility = {
-			index = 95
+			index = 100
 			male = {
 				10 = male_headgear_secular_ate_plains_native_high_nobility_01
 				
@@ -1386,7 +1481,7 @@ accessory_genes = {
             girl = female
 		}
 		plains_native_royalty = {
-			index = 96
+			index = 101
 			male = {
 				10 = male_headgear_secular_ate_plains_native_royalty_01
 				
@@ -1399,7 +1494,7 @@ accessory_genes = {
             girl = female
 		}
 		plains_native_imperial = {
-			index = 97
+			index = 102
 			male = {
 				10 = male_headgear_secular_ate_plains_native_imperial_01
 				
@@ -1415,7 +1510,7 @@ accessory_genes = {
 		
 		
 		cangaco_common = {
-			index = 98
+			index = 103
 			male = {
 				10 = male_headgear_secular_cangaco_commoner_01
 			}
@@ -1426,7 +1521,7 @@ accessory_genes = {
             girl = female
 		}
 		cangaco_low_nobility = {
-			index = 99
+			index = 104
 			male = {
 				10 = male_headgear_secular_cangaco_low_nobility_01
 			}
@@ -1437,7 +1532,7 @@ accessory_genes = {
             girl = female
 		}
 		cangaco_high_nobility = {
-			index = 100
+			index = 105
 			male = {
 				10 = male_headgear_secular_cangaco_high_nobility_01
 			}
@@ -1448,7 +1543,7 @@ accessory_genes = {
             girl = female
 		}
 		cangaco_royalty = {
-			index = 101
+			index = 106
 			male = {
 				10 = male_headgear_secular_cangaco_royalty_01
 			}
@@ -1461,7 +1556,7 @@ accessory_genes = {
 		
 		
 		amazonian_common = {
-			index = 102
+			index = 107
 			male = {
 				10 = male_headgear_secular_amazonian_common_01
 			}
@@ -1472,7 +1567,7 @@ accessory_genes = {
             girl = female
 		}
 		amazonian_low_nobility = {
-			index = 103
+			index = 108
 			male = {
 				10 = male_headgear_secular_amazonian_low_nobility_01
 			}
@@ -1483,7 +1578,7 @@ accessory_genes = {
             girl = female
 		}
 		amazonian_high_nobility = {
-			index = 104
+			index = 109
 			male = {
 				10 = male_headgear_secular_amazonian_high_nobility_01
 			}
@@ -1494,7 +1589,7 @@ accessory_genes = {
             girl = female
 		}
 		amazonian_royalty = {
-			index = 105
+			index = 110
 			male = {
 				10 = male_headgear_secular_amazonian_royalty_01
 			}
@@ -1505,7 +1600,7 @@ accessory_genes = {
             girl = female
 		}
 		amazonian_imperial = {
-			index = 106
+			index = 111
 			male = {
 				10 = male_headgear_secular_amazonian_imperial_01
 			}
@@ -1520,7 +1615,7 @@ accessory_genes = {
 		#### Canadian ####
 		
 		canadian_common = {
-			index = 107
+			index = 112
 			male = {
 				2 = male_headgear_secular_racoon_cap
 				2 = male_headgear_secular_north_america_fur_ushanka
@@ -1531,7 +1626,7 @@ accessory_genes = {
             girl = female
 		}
 		canadian_royalty = {
-			index = 108
+			index = 113
 			male = {
 				1 = male_headgear_secular_canadian_royalty_01
 				1 = male_headgear_secular_canadian_royalty_02
@@ -1546,7 +1641,7 @@ accessory_genes = {
 		
 		
 		burger_king_crown = {
-			index = 109
+			index = 114
 			male = {
 				1 = male_headgear_special_burgerking
 			}
@@ -1555,5 +1650,5 @@ accessory_genes = {
             girl = female
 		}
 	}
-}
+} 
 }
