@@ -1,0 +1,100 @@
+#Counties
+c_;;;;
+c_kingston;54;141;181;Kingston
+c_middlesex;175;203;31;Middlesex
+c_cornwall;109;93;181;Cornwall
+c_cayman_islands;101;57;10;Cayman Islands
+c_guanahacabibes;189;172;90;Guanahacabibes
+c_pinar_del_rio;158;201;113;Pinar del Río
+c_artemisa;142;163;116;Artemisa
+c_havana;71;167;81;Havana
+c_mayabeque;194;135;139;Mayabeque
+c_isla_de_la_juventud;207;129;19;Isla de la Juventud
+c_jaguey;118;94;99;Jagüey
+c_matanzas;179;28;33;Matanzas
+c_villa_clara;211;98;83;Villa Clara
+c_cienfuegos;174;153;5;Cienfuegos
+c_sancti_spiritus;38;209;113;Sancti Spíritus
+c_ciego_de_avila;32;71;49;Ciego de Ávila
+c_moron;151;57;179;Morón
+c_camaguey;46;82;168;Camagüey
+c_guaimaro;142;61;85;Guáimaro
+c_las_tunas;154;120;182;Las Tunas
+c_holguin;137;180;188;Holguín
+c_nipe;203;166;26;Nipe
+c_guantanamo;91;229;126;Guantánamo
+c_santiago_de_cuba;80;116;90;Santiago de Cuba
+c_granma;138;75;167;Granma
+c_guacanayabo;196;222;118;Guacanayabo
+c_freeport;177;163;0;Freeport
+c_andros;213;95;176;Andros
+c_nassau;82;113;191;Nassau
+c_east_cays;147;84;3;East Cays
+c_turks_and_caicos;189;100;188;Turks and Caicos
+c_tortuga;86;23;97;Tortuga
+c_port_de_paix;91;226;48;Port-de-Paix
+c_le_cap;27;142;23;Le Cap
+c_artibonite;120;33;37;Artibonite
+c_hinche;119;59;23;Hinche
+c_port_au_prince;152;34;147;Port-au-Prince
+c_la_gonave;34;82;27;La Gonâve
+c_grand_anse;213;80;181;Grand'Anse
+c_les_cayes;136;89;89;Les Cayes
+c_jacmel;114;88;51;Jacmel
+c_baoruco;156;129;198;Baoruco
+c_yaque;131;38;185;Yaque
+c_valdesia;207;147;73;Valdesia
+c_santo_domingo;180;42;71;Santo Domingo
+c_higuamo;114;180;16;Higuamo
+c_yuma;184;27;180;Yuma
+c_duarte;219;125;169;Duarte
+c_la_vega;176;191;59;La Vega
+c_cibao;37;221;167;Cibao
+c_valverde;157;173;67;Valverde
+c_mayaguez;120;79;171;Mayagüez
+c_san_juan;40;163;113;San Juan
+c_ponce;104;126;117;Ponce
+c_caguas;110;59;14;Caguas
+c_virgin_islands;119;136;143;Virgin Islands
+c_anguilla;31;135;117;Anguilla
+c_saint_kitts_and_nevis;67;173;67;Saint Kitts and Nevis
+c_antigua_and_barbuda;79;56;40;Antigua and Barbuda
+c_guadeloupe;123;198;13;Guadeloupe
+c_dominica;230;156;40;Dominica
+c_martinique;33;47;112;Martinique
+c_saint_lucia;172;128;12;Saint Lucia
+c_saint_vincent;123;227;148;Saint Vincent
+c_grenada;142;151;15;Grenada
+c_barbados;113;163;100;Barbados
+c_tobago;59;62;136;Tobago
+c_port_of_spain;191;100;27;Port of Spain
+c_san_fernando;45;58;196;San Fernando
+c_bonaire;58;26;129;Bonaire
+c_curacao;59;225;176;Curaçao
+c_aruba;36;23;156;Aruba
+
+#Duchies
+d_;;;;
+d_jamaica;0;155;58;Jamaica
+d_cayman_islands;193;219;13;Cayman Islands
+d_havana;206;166;155;Havana
+d_las_villas;221;222;230;Las Villas
+d_camaguey;109;154;173;Camagüey
+d_oriente;159;149;128;Oriente
+d_the_bahamas;220;161;50;the Bahamas
+d_gonave;120;116;232;Gonâve
+d_port_au_prince;58;85;151;Port-au-Prince
+d_enriquillo;77;64;148;Enriquillo
+d_ozama;171;64;227;Ozama
+d_cibao;130;71;181;Cibao
+d_puerto_rico;237;112;200;Puerto Rico
+d_leeward_islands;255;153;0;Leeward Islands
+d_french_antilles;46;89;220;French Antilles
+d_windward_islands;246;56;46;Windward Islands
+d_trinidad_and_tobago;122;114;75;Trinidad and Tobago
+d_netherlands_antilles;42;183;204;Netherlands Antilles
+
+#Kingdoms
+k_;;;;
+
+#Empires
