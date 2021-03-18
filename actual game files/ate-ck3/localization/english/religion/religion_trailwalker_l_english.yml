@@ -67,10 +67,10 @@
  trailwalker_pagan_adherent_plural:1 "trailwalker"
  
  midnight_sun:0 "Midnight Sun"
- eversky_adj:0 "Midnight Sun"
- eversky_desc:0 "The Midnight Sun faith looks to the wilds of the North for their communion with the powers of the Frontier."
- eversky_religion_adherent:1 "Sunseer"
- eversky_adherent_plural:1 "Sunseers"
+ midnight_sun_adj:0 "Midnight Sun"
+ midnight_sun_desc:0 "The followers of the faith known as the Midnight Sun look to the wilds of the North for their communion with the powers of the Frontier."
+ midnight_sun_religion_adherent:1 "Sunseer"
+ midnight_sun_adherent_plural:1 "Sunseers"
  
  dustrider:0 "Dustrider"
  dustrider_adj:0 "Dustrider"
