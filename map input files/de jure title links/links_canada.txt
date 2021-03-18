@@ -167,7 +167,7 @@ c_flin_flon;123;199;122;Flin Flon
 c_cedar_lake;164;58;34;Cedar Lake
 c_winnipegosis;173;180;185;Winnipegosis
 c_poplar_river;179;174;151;Poplar River
-c_little_iceland;114;227;199;Little Iceland
+c_new_iceland;114;227;199;New Iceland
 c_winnipeg;199;185;120;Winnipeg
 c_beausejour;161;222;111;Beausejour
 c_lake_of_the_woods;94;229;105;Lake of the Woods

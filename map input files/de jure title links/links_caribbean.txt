@@ -56,7 +56,7 @@ c_san_juan;40;163;113;San Juan
 c_ponce;104;126;117;Ponce
 c_caguas;110;59;14;Caguas
 c_virgin_islands;119;136;143;Virgin Islands
-c_anguilla;31;135;117;Anguilla
+c_saint_martin;31;135;117;Saint Martin
 c_saint_kitts_and_nevis;67;173;67;Saint Kitts and Nevis
 c_antigua_and_barbuda;79;56;40;Antigua and Barbuda
 c_guadeloupe;123;198;13;Guadeloupe
@@ -77,16 +77,19 @@ c_aruba;36;23;156;Aruba
 d_;;;;
 d_jamaica;0;155;58;Jamaica
 d_cayman_islands;193;219;13;Cayman Islands
+d_nuevas_filipinas;254;163;100;Nuevas Filipinas
 d_havana;206;166;155;Havana
+d_matanzas;175;235;184;Matanzas
 d_las_villas;221;222;230;Las Villas
 d_camaguey;109;154;173;Camagüey
 d_oriente;159;149;128;Oriente
 d_the_bahamas;220;161;50;the Bahamas
+d_tortuga;170;68;53;Tortuga
 d_gonave;120;116;232;Gonâve
 d_port_au_prince;58;85;151;Port-au-Prince
 d_enriquillo;77;64;148;Enriquillo
 d_ozama;171;64;227;Ozama
-d_cibao;130;71;181;Cibao
+d_el_cibao;130;71;181;El Cibao
 d_puerto_rico;237;112;200;Puerto Rico
 d_leeward_islands;255;153;0;Leeward Islands
 d_french_antilles;46;89;220;French Antilles

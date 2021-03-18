@@ -544,16 +544,37 @@ d_okanagan = {
 		instance = { position = { 0.5 0.5 } scale = { 0.48 0.48 }  }
 	}
 }
-d_okanagan_tribe = {
-	pattern = "pattern_solid.dds"
-	color1 = "white"
+d_monashee = {
+	pattern = "pattern_chevron_01.dds"
+	color1 = "red"
 	color2 = "white"
-	
 	colored_emblem = {
-		texture = "ce_okanagan_tribes.dds"
+		texture = "ce_mena_pale.dds"
+		color1 = "white"
+		color2 = "white"
+		mask = { 1 }
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.4 }  }
+	}
+	colored_emblem = {
+		texture = "ce_mena_pale.dds"
 		color1 = "red"
-		color2 = "blue_light"
-		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 }  }
+		color2 = "red"
+		mask = { 2 }
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.2 }  }
+	}
+	colored_emblem = {
+		texture = "ce_eagle_double.dds"
+		color1 = "black"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.55 } scale = { 0.35 0.35 }  }
+	}
+	colored_emblem = {
+		texture = "ce_star_08.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.25 0.6 } scale = { 0.2 0.2 }  }
+		instance = { position = { 0.75 0.6 } scale = { 0.2 0.2 }  }
+		instance = { position = { 0.5 0.1 } scale = { 0.2 0.2 }  }
 	}
 }
 d_omineca = {
